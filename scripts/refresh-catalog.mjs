@@ -16,14 +16,29 @@ const CATALOGS = [
   {
     portal: "Santander Open Academy",
     source: "https://www.santanderopenacademy.com/pt_br/index.html",
-    urls: ["https://www.santanderopenacademy.com/pt_br/index.html"],
+    urls: [
+      "https://app.santanderopenacademy.com/pt-BR/program/search",
+      "https://www.santanderopenacademy.com/pt_br/index.html"
+    ],
     hosts: ["www.santanderopenacademy.com", "app.santanderopenacademy.com"],
-    match: /app\.santanderopenacademy\.com\/pt-BR\/program\/(?!search(?:[/?#]|$))[^/?#]+/i,
+    match: /app\.santanderopenacademy\.com\/pt-BR\/(?:program|course)\/(?!search(?:[/?#]|$))[^/?#]+/i,
     exclude: /app\.santanderopenacademy\.com\/pt-BR\/program\/search(?:[/?#]|$)/i,
     excludeTitle: /bolsa|intercâmbio|intercambio/i,
+    cardHostSelector: "soa-search",
+    cardSelector: "soa-card",
+    cardAttribute: "soa-item",
+    cardTypeField: "resourceType",
+    cardTypes: ["SOA_COURSE", "LMS_COURSE"],
+    cardUrlField: "detailUrl",
+    cardTitleField: "name",
+    tabSelector: "#soa-courses-tab",
+    loadMoreSelector: "#load-more",
+    loadMoreLimit: 20,
+    loadMoreWaitMs: 2200,
+    waitMs: 5000,
     category: "Cursos gratuitos",
     cert: "check",
-    description: "Curso localizado no catálogo da Santander Open Academy.",
+    description: "Curso localizado no catálogo de cursos da Santander Open Academy.",
     maxPages: 8
   },
   {
@@ -169,7 +184,7 @@ const CATALOGS = [
     category: "Cursos gratuitos",
     cert: "free",
     description: "Curso gratuito do Senac EAD.",
-    maxPages: 12
+    maxPages: 24
   },
   {
     portal: "Coursera",
@@ -184,8 +199,8 @@ const CATALOGS = [
   },
   {
     portal: "Udemy",
-    source: "https://www.udemy.com/courses/free/",
-    urls: ["https://www.udemy.com/courses/free/"],
+    source: "https://www.udemy.com/courses/free/?lang=pt&sort=most-reviewed",
+    urls: ["https://www.udemy.com/courses/free/?lang=pt&sort=most-reviewed"],
     hosts: ["www.udemy.com"],
     match: /www\.udemy\.com\/course\/[^/?#]+/i,
     category: "Cursos gratuitos",
@@ -218,6 +233,33 @@ const CATALOGS = [
     cert: "maybe",
     description: "Curso listado no catálogo gratuito da Harvard.",
     maxPages: 24
+  },
+  {
+    portal: "Fundação Itaú Autoformativos",
+    source: "https://fundacaoitau.org.br/escola/autoformativos",
+    urls: ["https://fundacaoitau.org.br/escola/autoformativos"],
+    hosts: ["fundacaoitau.org.br"],
+    match: /fundacaoitau\.org\.br\/escola\/autoformativos\/[^/?#]+/i,
+    titleLineFromEnd: 3,
+    nextPageSelector: 'button[aria-label="Go to next page"]',
+    clientPages: 24,
+    pageWaitMs: 1200,
+    category: "Arte, cultura e educação",
+    cert: "check",
+    description: "Curso gratuito da Escola Fundação Itaú.",
+    maxPages: 24
+  },
+  {
+    portal: "Fundação Itaú Mediados",
+    source: "https://fundacaoitau.org.br/escola/mediados",
+    urls: ["https://fundacaoitau.org.br/escola/mediados"],
+    hosts: ["fundacaoitau.org.br"],
+    match: /fundacaoitau\.org\.br\/escola\/mediados\/[^/?#]+/i,
+    titleLineFromEnd: 3,
+    category: "Arte, cultura e educação",
+    cert: "check",
+    description: "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+    maxPages: 4
   }
 ];
 
@@ -337,6 +379,95 @@ async function readPageAnchors(page) {
   );
 }
 
+async function readShadowCards(page, config) {
+  if (!config.cardHostSelector || !config.cardSelector) {
+    return [];
+  }
+
+  return page
+    .evaluate(
+      ({ hostSelector, cardSelector, itemAttribute }) => {
+        const host = document.querySelector(hostSelector);
+        const root = host?.shadowRoot;
+        if (!root) {
+          return [];
+        }
+
+        return [...root.querySelectorAll(cardSelector)]
+          .map((node) => {
+            const raw = node.getAttribute(itemAttribute);
+            if (!raw) {
+              return null;
+            }
+            try {
+              return JSON.parse(raw);
+            } catch {
+              return null;
+            }
+          })
+          .filter(Boolean);
+      },
+      {
+        hostSelector: config.cardHostSelector,
+        cardSelector: config.cardSelector,
+        itemAttribute: config.cardAttribute || "data-item"
+      }
+    )
+    .catch(() => []);
+}
+
+function registerCardItems(items, config, records) {
+  for (const item of items) {
+    const typeField = config.cardTypeField || "resourceType";
+    if (config.cardTypes && !config.cardTypes.includes(item[typeField])) {
+      continue;
+    }
+
+    const url = canonicalUrl(item[config.cardUrlField || "url"]);
+    if (!url) {
+      continue;
+    }
+
+    const parsed = new URL(url);
+    if (!allowedHost(parsed.hostname, config)) {
+      continue;
+    }
+
+    const title = usefulTitle(item[config.cardTitleField || "title"]) || titleFromSlug(url);
+    const excludedByUrl = config.exclude && config.exclude.test(url);
+    const excludedByTitle = config.excludeTitle && config.excludeTitle.test(title);
+    if (config.match && config.match.test(url) && !excludedByUrl && !excludedByTitle && title) {
+      records.set(url, { url, title });
+    }
+  }
+}
+
+function anchorTitle(anchor, config) {
+  if (config.titleLineFromEnd) {
+    const lines = String(anchor.text || "")
+      .split(/\r?\n/)
+      .map(cleanText)
+      .filter(Boolean);
+    const candidate = lines.at(-config.titleLineFromEnd);
+    if (candidate) {
+      const title = usefulTitle(candidate);
+      if (title) {
+        return title;
+      }
+    }
+  }
+
+  return config.preferAnchorTitle
+    ? usefulTitle(anchor.title) ||
+        usefulTitle(anchor.text) ||
+        usefulTitle(anchor.aria) ||
+        titleFromSlug(anchor.href)
+    : usefulTitle(anchor.text) ||
+        usefulTitle(anchor.title) ||
+        usefulTitle(anchor.aria) ||
+        titleFromSlug(anchor.href);
+}
+
 async function scrollCatalog(page) {
   await page
     .evaluate(async () => {
@@ -360,15 +491,7 @@ function registerAnchors(anchors, config, records, pending, queued, visited) {
       continue;
     }
 
-    const title = config.preferAnchorTitle
-      ? usefulTitle(anchor.title) ||
-        usefulTitle(anchor.text) ||
-        usefulTitle(anchor.aria) ||
-        titleFromSlug(url)
-      : usefulTitle(anchor.text) ||
-        usefulTitle(anchor.title) ||
-        usefulTitle(anchor.aria) ||
-        titleFromSlug(url);
+    const title = anchorTitle(anchor, config);
     const excludedByUrl = config.exclude && config.exclude.test(url);
     const excludedByTitle = config.excludeTitle && config.excludeTitle.test(title);
     if (config.match && config.match.test(url) && !excludedByUrl && !excludedByTitle) {
@@ -431,12 +554,31 @@ async function collectPortal(browser, config) {
         }
       }
 
+      if (config.tabSelector) {
+        const tab = config.cardHostSelector
+          ? page.locator(config.cardHostSelector).locator(config.tabSelector)
+          : page.locator(config.tabSelector);
+        if (await tab.count()) {
+          try {
+            await tab.click({ timeout: 10000 });
+            await page.waitForTimeout(config.tabWaitMs || config.waitMs || 1800);
+          } catch (error) {
+            const message = error instanceof Error ? error.message : String(error);
+            errors.push(catalogUrl + " -> tab: " + message);
+          }
+        }
+      }
+
       const captureCurrentPage = async (shouldScroll = true) => {
         if (shouldScroll) {
           await scrollCatalog(page);
         }
         const anchors = await readPageAnchors(page);
         registerAnchors(anchors, config, records, pending, queued, visited);
+        if (config.cardHostSelector) {
+          const items = await readShadowCards(page, config);
+          registerCardItems(items, config, records);
+        }
         if (config.sourceCountPattern) {
           const bodyText = await page.locator("body").innerText().catch(() => "");
           const countMatch = bodyText.match(config.sourceCountPattern);
@@ -446,7 +588,49 @@ async function collectPortal(browser, config) {
         }
       };
 
-      if (config.clientPageSelector) {
+      if (config.nextPageSelector) {
+        let stagnant = 0;
+        for (let pageNumber = 0; pageNumber < (config.clientPages || 24); pageNumber += 1) {
+          const before = records.size;
+          await captureCurrentPage();
+          if (pageNumber + 1 >= (config.clientPages || 24)) {
+            break;
+          }
+
+          const next = config.cardHostSelector
+            ? page.locator(config.cardHostSelector).locator(config.nextPageSelector)
+            : page.locator(config.nextPageSelector);
+          if (!(await next.count())) {
+            break;
+          }
+          if (!(await next.isVisible().catch(() => false))) {
+            break;
+          }
+          if (!(await next.isEnabled().catch(() => false))) {
+            break;
+          }
+          if ((await next.getAttribute("aria-disabled").catch(() => null)) === "true") {
+            break;
+          }
+
+          try {
+            await next.click({ timeout: 10000 });
+          } catch (error) {
+            const message = error instanceof Error ? error.message : String(error);
+            errors.push(catalogUrl + " -> next-page: " + message);
+            break;
+          }
+          await page.waitForTimeout(config.pageWaitMs || config.waitMs || 1800);
+          if (records.size === before) {
+            stagnant += 1;
+          } else {
+            stagnant = 0;
+          }
+          if (stagnant >= 2) {
+            break;
+          }
+        }
+      } else if (config.clientPageSelector) {
         for (let pageNumber = 0; pageNumber < (config.clientPages || 1); pageNumber += 1) {
           await captureCurrentPage();
           const controls = page.locator(config.clientPageSelector);
@@ -464,7 +648,9 @@ async function collectPortal(browser, config) {
       if (config.loadMoreSelector) {
         let stagnant = 0;
         for (let clickNumber = 0; clickNumber < (config.loadMoreLimit || 24); clickNumber += 1) {
-          const loadMore = page.locator(config.loadMoreSelector);
+          const loadMore = config.cardHostSelector
+            ? page.locator(config.cardHostSelector).locator(config.loadMoreSelector)
+            : page.locator(config.loadMoreSelector);
           if (!(await loadMore.count())) {
             break;
           }
@@ -686,6 +872,7 @@ const updatedCatalog = {
   ...catalog,
   generatedAt: today,
   coverage,
+  sources: CATALOGS.map(({ portal, source }) => ({ portal, url: source })),
   courses: deduplicated
 };
 
