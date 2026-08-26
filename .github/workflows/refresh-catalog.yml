@@ -3,6 +3,11 @@ name: Buscar e publicar cursos diariamente
 on:
   schedule:
     - cron: "17 11 * * *" # Todos os dias às 08h17 no horário de Brasília (UTC-3)
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/refresh-catalog.yml"
   workflow_dispatch:
 
 permissions:
@@ -20,7 +25,7 @@ jobs:
     timeout-minutes: 60
     environment:
       name: github-pages
-      url: \${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Baixar o repositório
