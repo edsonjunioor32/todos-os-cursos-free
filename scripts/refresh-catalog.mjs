@@ -282,11 +282,43 @@ const TITLE_OVERRIDES = new Map([
 ]);
 
 const GENERIC_TITLE_PATTERN =
-  /^(?:mais informa(?:ç|c)(?:ões|oes)|saiba mais|ver curso|acessar curso|learn more|search|comece a explorar|inscreva-se)$/i;
+  /^(?:mais informações|mais informacoes|saiba mais|ver curso|acessar curso|learn more|search|comece a explorar|inscreva-se)$/i;
 
 function usefulTitle(value) {
   let title = cleanText(value);
-  if (!title || GENERIC_TITLE_PATTERasync function readPageAnchors(page) {
+  if (!title || GENERIC_TITLE_PATTERN.test(title)) {
+    return "";
+  }
+  title = title
+    .replace(/^(ver|acessar|conheça|saiba mais|learn more)\s*(curso)?\s*$/i, "")
+    .replace(/\s*(ver curso|saiba mais|learn more|acessar curso)\s*$/i, "")
+    .trim();
+  if (!title || GENERIC_TITLE_PATTERN.test(title)) {
+    return "";
+  }
+  return title.length > 180 ? title.slice(0, 177).trimEnd() + "..." : title;
+}
+
+function allowedHost(hostname, config) {
+  return config.hosts.some(
+    (host) => hostname === host || hostname.endsWith("." + host)
+  );
+}
+
+function shouldFollowPagination(anchor, url, config) {
+  if (!PAGINATION_PATTERN.test(url)) {
+    return false;
+  }
+  const label = cleanText(anchor.text || anchor.aria || anchor.title);
+  const rel = cleanText(anchor.rel);
+  return (
+    /\b(next|previous|próximo|anterior|seguinte|último|last)\b/i.test(label) ||
+    /\bnext\b/i.test(rel) ||
+    /^\d{1,3}$/.test(label)
+  );
+}
+
+async function readPageAnchors(page) {
   return page.locator("a[href]").evaluateAll((nodes) =>
     nodes.map((node) => ({
       href: node.href,
@@ -405,42 +437,6 @@ async function collectPortal(browser, config) {
         }
       } else {
         await captureCurrentPage();
-      }
-    } catch (error) {
-      const message = error instanceof Error ? error.message : String(error);
-      errors.push(catalogUrl + " -> " + message);
-    } finally {
-      await page.close();
-    }
-  }
-
-  await context.close();
-  return {
-    records: [...records.values()],
-    visited: visited.size,
-    errors
-  };
-}
-
-       usefulTitle(anchor.aria) ||
-            titleFromSlug(url);
-          if (title) {
-            const previous = records.get(url);
-            if (!previous || previous.title === titleFromSlug(url)) {
-              records.set(url, { url, title });
-            }
-          }
-        }
-
-        if (
-          pending.length + visited.size < (config.maxPages || 12) &&
-          !visited.has(url) &&
-          !queued.has(url) &&
-          shouldFollowPagination(anchor, url, config)
-        ) {
-          queued.add(url);
-          pending.push(url);
-        }
       }
     } catch (error) {
       const message = error instanceof Error ? error.message : String(error);
