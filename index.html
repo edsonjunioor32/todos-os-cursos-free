@@ -49,14 +49,14 @@
   <section class="catalog shell" id="catalogo" aria-labelledby="catalogTitle">
     <div class="section-heading">
       <div><p class="section-kicker">CATÁLOGO DE FORMAÇÃO</p><h2 id="catalogTitle">Cursos e caminhos gratuitos</h2><p class="section-description">Use os filtros para encontrar uma oportunidade e acesse diretamente a página original.</p></div>
-      <div class="catalog-total" aria-live="polite"><strong id="visibleCount">15</strong><span>opções encontradas</span></div>
+      <div class="catalog-total" aria-live="polite"><strong id="visibleCount">66</strong><span>opções encontradas</span></div>
     </div>
     <div class="catalog-layout">
       <aside class="filters-panel" aria-label="Filtros do catálogo">
         <div class="panel-heading"><div><p class="panel-kicker">ENCONTRE SEU CAMINHO</p><h2>Filtrar cursos</h2></div><span class="filter-count" id="filterCount">0</span></div>
         <label class="field-label" for="courseSearch">Pesquisar</label>
         <div class="search-field"><span aria-hidden="true">⌕</span><input id="courseSearch" type="search" placeholder="Curso ou plataforma" autocomplete="off"></div>
-        <label class="field-label" for="categoryFilter">Categoria</label>
+        <label class="field-label" for="portalFilter">Portal</label><select id="portalFilter"><option value="">Todos os portais</option></select><label class="field-label" for="categoryFilter">Categoria</label>
         <select id="categoryFilter"><option value="">Todas as categorias</option></select>
         <label class="field-label" for="certificateFilter">Certificação</label>
         <select id="certificateFilter"><option value="">Todas as opções</option><option value="free">Certificado gratuito</option><option value="check">Certificado conforme o curso</option><option value="maybe">Certificado pode ser pago</option><option value="material">Material sem certificação</option></select>
@@ -64,7 +64,7 @@
         <div class="filter-note"><strong>Como funciona</strong><p>O catálogo reúne links externos. As condições de gratuidade e certificação pertencem a cada plataforma.</p></div>
       </aside>
       <section class="results-panel" aria-label="Resultados dos cursos">
-        <div class="results-toolbar"><div><span class="results-label">RESULTADOS</span><strong id="resultsSummary">15 cursos disponíveis</strong></div><label class="sort-control" for="sortCourses"><span>Ordenar</span><select id="sortCourses"><option value="featured">Mais relevantes</option><option value="az">A–Z</option><option value="category">Categoria</option></select></label></div>
+        <div class="results-toolbar"><div><span class="results-label">RESULTADOS</span><strong id="resultsSummary">66 cursos disponíveis</strong></div><label class="sort-control" for="sortCourses"><span>Ordenar</span><select id="sortCourses"><option value="featured">Mais relevantes</option><option value="az">A–Z</option><option value="category">Categoria</option></select></label></div>
         <div class="course-grid" id="courseGrid"></div>
         <div class="empty-state" id="emptyState" hidden><span aria-hidden="true">⌕</span><h3>Nenhum curso encontrado</h3><p>Tente mudar os filtros ou pesquisar por outro termo.</p><button class="clear-filters" type="button" data-clear>Limpar filtros</button></div>
       </section>
