@@ -6,7 +6,7 @@
       "description": "Certificação financeira com acesso pela Santander Open Academy.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Santander Certificacoes Financeiras 2026 2 Semestre",
+      "title": "Santander Certificações Financeiras 2026",
       "url": "https://app.santanderopenacademy.com/pt-BR/program/santander-certificacoes-financeiras-2026-2-semestre"
     },
     {
@@ -15,7 +15,7 @@
       "description": "Conteúdo para aprimorar conhecimentos sobre finanças pessoais.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Como Investir Em Voce 2026",
+      "title": "Como Investir em você 2026",
       "url": "https://app.santanderopenacademy.com/pt-BR/program/como-investir-em-voce-2026"
     },
     {
@@ -24,7 +24,7 @@
       "description": "Formação introdutória em cibersegurança.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Ciberseguranca Do Zero A Pratica",
+      "title": "Cibersegurança do Zero à Prática",
       "url": "https://app.santanderopenacademy.com/pt-BR/program/ciberseguranca-do-zero-a-pratica"
     },
     {
@@ -33,7 +33,7 @@
       "description": "Programa de idiomas com opções de inglês, espanhol e francês.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Santander Fala Mundo 2026 3 Edicao",
+      "title": "Santander Fala Mundo 2026",
       "url": "https://app.santanderopenacademy.com/pt-BR/program/santander-fala-mundo-2026-3-edicao"
     },
     {
@@ -44,15 +44,6 @@
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
       "title": "Santander Marketing Digital",
       "url": "https://app.santanderopenacademy.com/pt-BR/program/santander-marketing-digital"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso localizado no catálogo da Santander Open Academy.",
-      "portal": "Santander Open Academy",
-      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Bolsa Banco Santander España Movilidad Internacional Incoming 2026 Intercâmbio",
-      "url": "https://app.santanderopenacademy.com/pt-BR/program/movilidad-internacional-incoming-2026"
     },
     {
       "category": "Tecnologia e Ciência de Dados",
@@ -13875,6 +13866,24 @@
       "url": "https://www.coursera.org/learn/packt-godot-4-for-beginners"
     },
     {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado na busca gratuita da Coursera; condições de certificado podem variar.",
+      "portal": "Coursera",
+      "source": "https://www.coursera.org/courses?query=free",
+      "title": "Film Documentaries: Write, Film & Edit A Short Documentary",
+      "url": "https://www.coursera.org/learn/film-documentaries-write-film--edit-short-a-documentary"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado na busca gratuita da Coursera; condições de certificado podem variar.",
+      "portal": "Coursera",
+      "source": "https://www.coursera.org/courses?query=free",
+      "title": "Open Design",
+      "url": "https://www.coursera.org/learn/open-design-duke"
+    },
+    {
       "category": "Idiomas",
       "cert": "maybe",
       "description": "Curso gratuito de introdução ao português.",
@@ -15192,19 +15201,19 @@
   "coverage": {
     "Aprenda Mais MEC": "152 cursos encontrados; 400 mantidos no catálogo.",
     "Cruzeiro do Sul Virtual": "14 cursos mantidos no catálogo.",
-    "Escola Virtual": "61 cursos encontrados; 61 mantidos no catálogo.",
+    "Escola Virtual": "48 cursos encontrados; 61 mantidos no catálogo.",
     "FGV": "226 cursos encontrados; 226 mantidos no catálogo.",
     "Harvard": "127 cursos encontrados; 127 mantidos no catálogo.",
-    "Santander Open Academy": "6 cursos encontrados; 6 mantidos no catálogo.",
+    "Santander Open Academy": "5 cursos encontrados; 5 mantidos no catálogo.",
     "Nação Fluente": "1 cursos mantidos no catálogo.",
     "Senar EAD": "14 cursos mantidos no catálogo.",
     "Sebrae Paraíba": "51 cursos encontrados; 56 mantidos no catálogo.",
     "UEMP": "15 cursos encontrados; 19 mantidos no catálogo.",
     "MEC Idiomas": "1 cursos mantidos no catálogo.",
-    "HCX FMUSP": "12 cursos encontrados; 17 mantidos no catálogo.",
+    "HCX FMUSP": "17 cursos mantidos no catálogo.",
     "Prime Cursos": "524 cursos encontrados; 524 mantidos no catálogo.",
     "Senac EAD": "79 cursos encontrados; 80 mantidos no catálogo.",
-    "Coursera": "77 cursos encontrados; 83 mantidos no catálogo.",
+    "Coursera": "77 cursos encontrados; 85 mantidos no catálogo.",
     "Udemy": "5 cursos mantidos no catálogo."
   },
   "generatedAt": "2026-08-26",
