@@ -6,7 +6,7 @@
       "description": "Certificação financeira com acesso pela Santander Open Academy.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Mais informações",
+      "title": "Santander Certificacoes Financeiras 2026 2 Semestre",
       "url": "https://app.santanderopenacademy.com/pt-BR/program/santander-certificacoes-financeiras-2026-2-semestre"
     },
     {
@@ -15,7 +15,7 @@
       "description": "Conteúdo para aprimorar conhecimentos sobre finanças pessoais.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Mais informações",
+      "title": "Como Investir Em Voce 2026",
       "url": "https://app.santanderopenacademy.com/pt-BR/program/como-investir-em-voce-2026"
     },
     {
@@ -24,7 +24,7 @@
       "description": "Formação introdutória em cibersegurança.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Mais informações",
+      "title": "Ciberseguranca Do Zero A Pratica",
       "url": "https://app.santanderopenacademy.com/pt-BR/program/ciberseguranca-do-zero-a-pratica"
     },
     {
@@ -33,7 +33,7 @@
       "description": "Programa de idiomas com opções de inglês, espanhol e francês.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Mais informações",
+      "title": "Santander Fala Mundo 2026 3 Edicao",
       "url": "https://app.santanderopenacademy.com/pt-BR/program/santander-fala-mundo-2026-3-edicao"
     },
     {
@@ -42,35 +42,8 @@
       "description": "Conteúdos para desenvolver competências de marketing digital.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Mais informações",
+      "title": "Santander Marketing Digital",
       "url": "https://app.santanderopenacademy.com/pt-BR/program/santander-marketing-digital"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso localizado no catálogo da Santander Open Academy.",
-      "portal": "Santander Open Academy",
-      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Comece a explorar",
-      "url": "https://app.santanderopenacademy.com/pt-BR/program/search"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso localizado no catálogo da Santander Open Academy.",
-      "portal": "Santander Open Academy",
-      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Search",
-      "url": "https://app.santanderopenacademy.com/pt-BR/program/search?resourceType=SOA_COURSE&resourceType=LMS_COURSE&category=TOOLS"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso localizado no catálogo da Santander Open Academy.",
-      "portal": "Santander Open Academy",
-      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Search",
-      "url": "https://app.santanderopenacademy.com/pt-BR/program/search?resourceType=SOA_COURSE&resourceType=LMS_COURSE&category=FINANCIAL_EDUCATION"
     },
     {
       "category": "Cursos gratuitos",
@@ -1670,6 +1643,609 @@
       "source": "https://cursosgratuitos.fgv.br/",
       "title": "Redes Sociais: Conceitos e Organização",
       "url": "https://cursosgratuitos.fgv.br/curso/redes-sociais-conceitos-e-organizacao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Introdução à Logística Internacional",
+      "url": "https://cursosgratuitos.fgv.br/curso/introducao-a-logistica-internacional"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Introdução à Matemática Financeira: Regimes de Capitalização",
+      "url": "https://cursosgratuitos.fgv.br/curso/introducao-a-matematica-financeira-regimes-de-capitalizacao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Introdução à Metodologia da Pesquisa",
+      "url": "https://cursosgratuitos.fgv.br/curso/introducao-a-metodologia-da-pesquisa"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Introdução à Organização de Dados para Análise Multivariada",
+      "url": "https://cursosgratuitos.fgv.br/curso/introducao-a-organizacao-de-dados-para-analise-multivariada"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Introdução à Sociedade Limitada",
+      "url": "https://cursosgratuitos.fgv.br/curso/introducao-a-sociedade-limitada"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Introdução à Sociedade por Ações",
+      "url": "https://cursosgratuitos.fgv.br/curso/introducao-a-sociedade-por-acoes"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Introdução ao Git e GitHub",
+      "url": "https://cursosgratuitos.fgv.br/curso/introducao-ao-git-e-github"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Introdução ao Orçamento Empresarial",
+      "url": "https://cursosgratuitos.fgv.br/curso/introducao-ao-orcamento-empresarial"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Introdução ao Processo de Inovação",
+      "url": "https://cursosgratuitos.fgv.br/curso/introducao-ao-processo-de-inovacao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Introdução ao Scrum",
+      "url": "https://cursosgratuitos.fgv.br/curso/introducao-ao-scrum"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Introdução ao Uso da Ferramenta SAM",
+      "url": "https://cursosgratuitos.fgv.br/curso/introducao-ao-uso-da-ferramenta-sam"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Introdução aos Canais de Distribuição",
+      "url": "https://cursosgratuitos.fgv.br/curso/introducao-aos-canais-de-distribuicao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Introdução aos Conceitos de Gênero",
+      "url": "https://cursosgratuitos.fgv.br/curso/introducao-aos-conceitos-de-genero"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Introdução aos Direitos Humanos e às Relações de Trabalho",
+      "url": "https://cursosgratuitos.fgv.br/curso/introducao-aos-direitos-humanos-e-as-relacoes-de-trabalho"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Introdução aos Modelos Organizacionais",
+      "url": "https://cursosgratuitos.fgv.br/curso/introducao-aos-modelos-organizacionais"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Introdução aos Sistemas de Segmentação e Recomendação",
+      "url": "https://cursosgratuitos.fgv.br/curso/introducao-aos-sistemas-de-segmentacao-e-recomendacao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Introdução às Finanças Corporativas Sustentáveis",
+      "url": "https://cursosgratuitos.fgv.br/curso/introducao-as-financas-corporativas-sustentaveis"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Introdução às Questões Climáticas",
+      "url": "https://cursosgratuitos.fgv.br/curso/introducao-as-questoes-climaticas"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Introdução às relações de consumo e aos direitos básicos",
+      "url": "https://cursosgratuitos.fgv.br/curso/introducao-as-relacoes-de-consumo-e-aos-direitos-basicos"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Introdução às Técnicas de Análise Fatorial e Conjunta de Dados",
+      "url": "https://cursosgratuitos.fgv.br/curso/introducao-as-tecnicas-de-analise-fatorial-e-conjunta-de-dados"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Kanban e Ferramentas Ágeis de Gestão de Projetos",
+      "url": "https://cursosgratuitos.fgv.br/curso/kanban-e-ferramentas-ageis-de-gestao-de-projetos"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "LaTeX",
+      "url": "https://cursosgratuitos.fgv.br/curso/latex"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Liberdade de Expressão",
+      "url": "https://cursosgratuitos.fgv.br/curso/liberdade-de-expressao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Liderança em Cenários Turbulentos: Revigorando as Equipes de Saúde no Enfrentamento da COVID-19",
+      "url": "https://cursosgratuitos.fgv.br/curso/lideranca-em-cenarios-turbulentos-revigorando-as-equipes-de-saude-no-enfrentamento-da-covid-19"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Liderança na Era das Competências",
+      "url": "https://cursosgratuitos.fgv.br/curso/lideranca-na-era-das-competencias"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Linguagem R: Introdução à Programação e Automação",
+      "url": "https://cursosgratuitos.fgv.br/curso/linguagem-r-introducao-a-programacao-e-automacao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Locação Imobiliária: Introdução aos Contratos e Segmentos",
+      "url": "https://cursosgratuitos.fgv.br/curso/locacao-imobiliaria-introducao-aos-contratos-e-segmentos"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Marca Pessoal para Docentes: Potencialize a Sua Presença Digital com IA Generativa",
+      "url": "https://cursosgratuitos.fgv.br/curso/marca-pessoal-para-docentes-potencialize-a-sua-presenca-digital-com-ia-generativa"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Marketing Contemporâneo na Saúde: Como Estar Preparado para Essa Transformação?",
+      "url": "https://cursosgratuitos.fgv.br/curso/marketing-contemporaneo-na-saude-como-estar-preparado-para-essa-transformacao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Matemática: Conceitos Gerais sobre Funções",
+      "url": "https://cursosgratuitos.fgv.br/curso/matematica-conceitos-gerais-sobre-funcoes"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Mecanismos de Pesquisas em Ambientes Digitais",
+      "url": "https://cursosgratuitos.fgv.br/curso/mecanismos-de-pesquisas-em-ambientes-digitais"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Memória e Patrimônio: Conceitos e Reflexões",
+      "url": "https://cursosgratuitos.fgv.br/curso/memoria-e-patrimonio-conceitos-e-reflexoes"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Mercado de Capitais: Conceitos Básicos",
+      "url": "https://cursosgratuitos.fgv.br/curso/mercado-de-capitais-conceitos-basicos"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Mercados B2B e B2C: Características e Diferenças",
+      "url": "https://cursosgratuitos.fgv.br/curso/mercados-b2b-e-b2c-caracteristicas-e-diferencas"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Metodologias Ativas",
+      "url": "https://cursosgratuitos.fgv.br/curso/metodologias-ativas"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Métodos de Análise de Viabilidade de Projetos",
+      "url": "https://cursosgratuitos.fgv.br/curso/metodos-de-analise-de-viabilidade-de-projetos"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Modelos de Negócio em Comunicação Digital",
+      "url": "https://cursosgratuitos.fgv.br/curso/modelos-de-negocio-em-comunicacao-digital"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Mudanças Climáticas e Gestão Organizacional: Conceitos Básicos",
+      "url": "https://cursosgratuitos.fgv.br/curso/mudancas-climaticas-e-gestao-organizacional-conceitos-basicos"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Negociação e Formação do Contrato",
+      "url": "https://cursosgratuitos.fgv.br/curso/negociacao-e-formacao-do-contrato"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Negócios Baseados em Plataformas Digitais",
+      "url": "https://cursosgratuitos.fgv.br/curso/negocios-baseados-em-plataformas-digitais"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Referenciais Estratégicos das Organizações",
+      "url": "https://cursosgratuitos.fgv.br/curso/referenciais-estrategicos-das-organizacoes"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Regulação da Inteligência Artificial",
+      "url": "https://cursosgratuitos.fgv.br/curso/regulacao-da-inteligencia-artificial"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Regulação da Transformação Digital",
+      "url": "https://cursosgratuitos.fgv.br/curso/regulacao-da-transformacao-digital"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Relação entre Coaching e Mentoring",
+      "url": "https://cursosgratuitos.fgv.br/curso/relacao-entre-coaching-e-mentoring"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Relações Étnicos-Raciais no Brasil: Período Colonial",
+      "url": "https://cursosgratuitos.fgv.br/curso/relacoes-etnicos-raciais-no-brasil-periodo-colonial"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Relações Internacionais: Transição Hegemônica",
+      "url": "https://cursosgratuitos.fgv.br/curso/relacoes-internacionais-transicao-hegemonica"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Saúde e Economia: Impacto da COVID-19 e Perspectivas para o Brasil",
+      "url": "https://cursosgratuitos.fgv.br/curso/saude-e-economia-impacto-da-covid-19-e-perspectivas-para-o-brasil"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Saúde Física e Mental na Internet",
+      "url": "https://cursosgratuitos.fgv.br/curso/saude-fisica-e-mental-na-internet"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Saúde Mental no Ambiente de Trabalho",
+      "url": "https://cursosgratuitos.fgv.br/curso/saude-mental-no-ambiente-de-trabalho"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Saúde Populacional e Determinantes Sociais: Desafios Emergentes Pós-pandemia",
+      "url": "https://cursosgratuitos.fgv.br/curso/saude-populacional-e-determinantes-sociais-desafios-emergentes-pos-pandemia"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Segurança Digital",
+      "url": "https://cursosgratuitos.fgv.br/curso/seguranca-digital"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Sociologias Fora do Eixo",
+      "url": "https://cursosgratuitos.fgv.br/curso/sociologias-fora-do-eixo"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Solarimetria e Estudo de Localização Ótima de Usinas Solares Termoelétricas",
+      "url": "https://cursosgratuitos.fgv.br/curso/solarimetria-e-estudo-de-localizacao-otima-de-usinas-solares-termoeletricas"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "SQL - Structured Query Language",
+      "url": "https://cursosgratuitos.fgv.br/curso/sql-structured-query-language"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Storytelling e Técnicas de Apresentação: Conceitos Gerais de Comunicação",
+      "url": "https://cursosgratuitos.fgv.br/curso/storytelling-e-tecnicas-de-apresentacao-conceitos-gerais-de-comunicacao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Superexposição na Internet",
+      "url": "https://cursosgratuitos.fgv.br/curso/superexposicao-na-internet"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Temas da Sociologia Brasileira",
+      "url": "https://cursosgratuitos.fgv.br/curso/temas-da-sociologia-brasileira"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Teoria Crítica, Feminismo e Antirracismo",
+      "url": "https://cursosgratuitos.fgv.br/curso/teoria-critica-feminismo-e-antirracismo"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Termos de Uso e Políticas de Privacidade",
+      "url": "https://cursosgratuitos.fgv.br/curso/termos-de-uso-e-politicas-de-privacidade"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "TI como Elemento Estratégico nas Organizações",
+      "url": "https://cursosgratuitos.fgv.br/curso/ti-como-elemento-estrategico-nas-organizacoes"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Tópicos em Machine Learning",
+      "url": "https://cursosgratuitos.fgv.br/curso/topicos-em-machine-learning"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Trabalho e Desigualdade: Uma Proposta à Luz da BNCC",
+      "url": "https://cursosgratuitos.fgv.br/curso/trabalho-e-desigualdade-uma-proposta-a-luz-da-bncc"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Transformação Digital da Comunicação",
+      "url": "https://cursosgratuitos.fgv.br/curso/transformacao-digital-da-comunicacao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Turnaround de Entidades Esportivas",
+      "url": "https://cursosgratuitos.fgv.br/curso/turnaround-de-entidades-esportivas"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Um Panorama sobre Economia da Saúde: Desenvolvimento de Sistemas de Saúde e Perspectivas para o Futuro",
+      "url": "https://cursosgratuitos.fgv.br/curso/um-panorama-sobre-economia-da-saude-desenvolvimento-de-sistemas-de-saude-e-perspectivas-para-o-futuro"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Visão Geral da Gestão de Transporte e Distribuição na Logística Integrada",
+      "url": "https://cursosgratuitos.fgv.br/curso/visao-geral-da-gestao-de-transporte-e-distribuicao-na-logistica-integrada"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Visão Geral das Relações de Trabalho",
+      "url": "https://cursosgratuitos.fgv.br/curso/visao-geral-das-relacoes-de-trabalho"
     },
     {
       "category": "Idiomas",
@@ -6977,7 +7553,7 @@
       "description": "Curso gratuito sobre olhos e visão.",
       "portal": "HCX FMUSP",
       "source": "https://ensino.hcxfmusp.org.br/online/cursos/ead/gratuitos",
-      "title": "Mitos e Fatos sobre os Olhos e a Visão",
+      "title": "Mitos e Fatos sobre os Olhos e a Visão Ensino EAD",
       "url": "https://ensino.hcxfmusp.org.br/online/mitos-e-fatos-sobre-os-olhos-e-a-visao/p"
     },
     {
@@ -6986,7 +7562,7 @@
       "description": "Orientações de primeiros socorros para crianças e bebês.",
       "portal": "HCX FMUSP",
       "source": "https://ensino.hcxfmusp.org.br/online/cursos/ead/gratuitos",
-      "title": "Primeiros Socorros em Crianças",
+      "title": "Primeiros Socorros em Crianças Ensino EAD",
       "url": "https://ensino.hcxfmusp.org.br/online/primeiros-socorros-em-criancas/p"
     },
     {
@@ -7024,6 +7600,96 @@
       "source": "https://ensino.hcxfmusp.org.br/online/cursos/ead/gratuitos",
       "title": "Rede de Gases e Gasoterapia Hospitalar",
       "url": "https://ensino.hcxfmusp.org.br/online/rede-de-gases-e-gasoterapia-hospitalar/p"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso gratuito da plataforma HCX FMUSP.",
+      "portal": "HCX FMUSP",
+      "source": "https://ensino.hcxfmusp.org.br/online/cursos/ead/gratuitos",
+      "title": "O Que o Médico Precisa Saber Sobre Otorrinolaringologia Ensino EAD",
+      "url": "https://ensino.hcxfmusp.org.br/online/o-que-o-medico-precisa-saber-sobre-otorrinolaringologia-formatose-protocolos-de-dados/p"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso gratuito da plataforma HCX FMUSP.",
+      "portal": "HCX FMUSP",
+      "source": "https://ensino.hcxfmusp.org.br/online/cursos/ead/gratuitos",
+      "title": "Cuidados Básicos em Queimaduras Ensino EAD",
+      "url": "https://ensino.hcxfmusp.org.br/online/cuidados-basicos-em-queimaduras/p"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso gratuito da plataforma HCX FMUSP.",
+      "portal": "HCX FMUSP",
+      "source": "https://ensino.hcxfmusp.org.br/online/cursos/ead/gratuitos",
+      "title": "Saúde Reprodutiva e Sexual: do adolescente ao Homem adulto Ensino EAD",
+      "url": "https://ensino.hcxfmusp.org.br/online/saude-reprodutiva-e-sexual-do-homem/p"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso gratuito da plataforma HCX FMUSP.",
+      "portal": "HCX FMUSP",
+      "source": "https://ensino.hcxfmusp.org.br/online/cursos/ead/gratuitos",
+      "title": "Ética e Comportamento Profissional no HCFMUSP Ensino EAD",
+      "url": "https://ensino.hcxfmusp.org.br/online/etica-e-comportamento-profissional/p"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso gratuito da plataforma HCX FMUSP.",
+      "portal": "HCX FMUSP",
+      "source": "https://ensino.hcxfmusp.org.br/online/cursos/ead/gratuitos",
+      "title": "Prevenção e Combate a incêndio Ensino EAD",
+      "url": "https://ensino.hcxfmusp.org.br/online/prevencao-e-combate-a-incendio/p"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso gratuito da plataforma HCX FMUSP.",
+      "portal": "HCX FMUSP",
+      "source": "https://ensino.hcxfmusp.org.br/online/cursos/ead/gratuitos",
+      "title": "Saúde da Mulher Ensino EAD",
+      "url": "https://ensino.hcxfmusp.org.br/online/saude-da-mulher/p"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso gratuito da plataforma HCX FMUSP.",
+      "portal": "HCX FMUSP",
+      "source": "https://ensino.hcxfmusp.org.br/online/cursos/ead/gratuitos",
+      "title": "Violência Sexual contra Crianças Ensino EAD",
+      "url": "https://ensino.hcxfmusp.org.br/online/guia-sobre-violencia-sexual-contra-criancas-e-adolescentes/p"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso gratuito da plataforma HCX FMUSP.",
+      "portal": "HCX FMUSP",
+      "source": "https://ensino.hcxfmusp.org.br/online/cursos/ead/gratuitos",
+      "title": "Estilo de Vida na promoção de saúde Ensino EAD",
+      "url": "https://ensino.hcxfmusp.org.br/online/estilo-de-vida-na-promocao-de-saude/p"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso gratuito da plataforma HCX FMUSP.",
+      "portal": "HCX FMUSP",
+      "source": "https://ensino.hcxfmusp.org.br/online/cursos/ead/gratuitos",
+      "title": "Prevenção de doenças em crianças Ensino EAD",
+      "url": "https://ensino.hcxfmusp.org.br/online/papel-da-familia-na-prevencao-de-doencas-em-criancas/p"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso gratuito da plataforma HCX FMUSP.",
+      "portal": "HCX FMUSP",
+      "source": "https://ensino.hcxfmusp.org.br/online/cursos/ead/gratuitos",
+      "title": "Prevenção de Quedas em Idosos Ensino EAD",
+      "url": "https://ensino.hcxfmusp.org.br/online/prevencao-de-quedas-em-idosos/p"
     },
     {
       "category": "Tecnologia",
@@ -13200,6 +13866,15 @@
       "url": "https://www.coursera.org/learn/how-to-get-into-blockchain"
     },
     {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado na busca gratuita da Coursera; condições de certificado podem variar.",
+      "portal": "Coursera",
+      "source": "https://www.coursera.org/courses?query=free",
+      "title": "Godot 4 for Beginners",
+      "url": "https://www.coursera.org/learn/packt-godot-4-for-beginners"
+    },
+    {
       "category": "Idiomas",
       "cert": "maybe",
       "description": "Curso gratuito de introdução ao português.",
@@ -14518,18 +15193,18 @@
     "Aprenda Mais MEC": "152 cursos encontrados; 400 mantidos no catálogo.",
     "Cruzeiro do Sul Virtual": "14 cursos mantidos no catálogo.",
     "Escola Virtual": "61 cursos encontrados; 61 mantidos no catálogo.",
-    "FGV": "159 cursos mantidos no catálogo.",
+    "FGV": "226 cursos encontrados; 226 mantidos no catálogo.",
     "Harvard": "127 cursos encontrados; 127 mantidos no catálogo.",
-    "Santander Open Academy": "9 cursos encontrados; 9 mantidos no catálogo.",
+    "Santander Open Academy": "6 cursos encontrados; 6 mantidos no catálogo.",
     "Nação Fluente": "1 cursos mantidos no catálogo.",
     "Senar EAD": "14 cursos mantidos no catálogo.",
     "Sebrae Paraíba": "51 cursos encontrados; 56 mantidos no catálogo.",
     "UEMP": "15 cursos encontrados; 19 mantidos no catálogo.",
     "MEC Idiomas": "1 cursos mantidos no catálogo.",
-    "HCX FMUSP": "7 cursos mantidos no catálogo.",
+    "HCX FMUSP": "12 cursos encontrados; 17 mantidos no catálogo.",
     "Prime Cursos": "524 cursos encontrados; 524 mantidos no catálogo.",
     "Senac EAD": "79 cursos encontrados; 80 mantidos no catálogo.",
-    "Coursera": "77 cursos encontrados; 82 mantidos no catálogo.",
+    "Coursera": "77 cursos encontrados; 83 mantidos no catálogo.",
     "Udemy": "5 cursos mantidos no catálogo."
   },
   "generatedAt": "2026-08-26",
