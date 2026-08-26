@@ -396,6 +396,7 @@ async function collectPortal(browser, config) {
   const visited = new Set();
   const records = new Map();
   const errors = [];
+  let reportedCount = null;
 
   while (pending.length && visited.size < (config.maxPages || 12)) {
     const catalogUrl = pending.shift();
@@ -424,7 +425,6 @@ async function collectPortal(browser, config) {
         }
       }
 
-      let reportedCount = null;
       const captureCurrentPage = async (shouldScroll = true) => {
         if (shouldScroll) {
           await scrollCatalog(page);
