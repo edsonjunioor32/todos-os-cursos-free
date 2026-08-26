@@ -57,6 +57,7 @@ const CATALOGS = [
     urls: ["https://ead.senar.org.br/cursos"],
     hosts: ["ead.senar.org.br"],
     match: /ead\.senar\.org\.br\/(?:cursos|curso-whatsapp)\/[^/?#]+/i,
+    preferAnchorTitle: true,
     loadMoreSelector: 'button[data-action="load-more"]',
     loadMoreLimit: 48,
     loadMoreWaitMs: 1400,
@@ -295,6 +296,7 @@ function usefulTitle(value) {
     return "";
   }
   title = title
+    .replace(/^clique para acessar\s+/i, "")
     .replace(/^(ver|acessar|conheça|saiba mais|learn more)\s*(curso)?\s*$/i, "")
     .replace(/\s*(ver curso|saiba mais|learn more|acessar curso)\s*$/i, "")
     .trim();
@@ -358,11 +360,15 @@ function registerAnchors(anchors, config, records, pending, queued, visited) {
       continue;
     }
 
-    const title =
-      usefulTitle(anchor.text) ||
-      usefulTitle(anchor.title) ||
-      usefulTitle(anchor.aria) ||
-      titleFromSlug(url);
+    const title = config.preferAnchorTitle
+      ? usefulTitle(anchor.title) ||
+        usefulTitle(anchor.text) ||
+        usefulTitle(anchor.aria) ||
+        titleFromSlug(url)
+      : usefulTitle(anchor.text) ||
+        usefulTitle(anchor.title) ||
+        usefulTitle(anchor.aria) ||
+        titleFromSlug(url);
     const excludedByUrl = config.exclude && config.exclude.test(url);
     const excludedByTitle = config.excludeTitle && config.excludeTitle.test(title);
     if (config.match && config.match.test(url) && !excludedByUrl && !excludedByTitle) {
