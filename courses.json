@@ -2253,7 +2253,7 @@
       "description": "Curso gratuito do Senar Play com certificado.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Segurança Rural Gratuito · 5h · 7 dias · certificado",
+      "title": "Segurança Rural",
       "url": "https://ead.senar.org.br/curso-whatsapp/seguranca-rural"
     },
     {
@@ -2262,7 +2262,7 @@
       "description": "Curso gratuito do Senar Play com certificado.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Comercialização de Produtos Agrícolas com Valor Agregado Gratuito · 3h · 7 dias · certificado",
+      "title": "Comercialização de Produtos Agrícolas com Valor Agregado",
       "url": "https://ead.senar.org.br/curso-whatsapp/comercializacao-de-produtos-agricolas-com-valor-agregado"
     },
     {
@@ -2271,7 +2271,7 @@
       "description": "Curso gratuito do Senar Play com certificado.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Comunicação Eficaz para Negócios Rurais Gratuito · 3h · 7 dias · certificado",
+      "title": "Comunicação Eficaz para Negócios Rurais",
       "url": "https://ead.senar.org.br/curso-whatsapp/comunicacao-eficaz-para-negocios-rurais"
     },
     {
@@ -2280,7 +2280,7 @@
       "description": "Curso gratuito do Senar Play com certificado.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Atendimento ao Cliente para Produtores Rurais Gratuito · 3h · 7 dias · certificado",
+      "title": "Atendimento ao Cliente para Produtores Rurais",
       "url": "https://ead.senar.org.br/curso-whatsapp/atendimento-ao-cliente-para-produtores-rurais"
     },
     {
@@ -2289,7 +2289,7 @@
       "description": "Noções de marketing e divulgação para negócios rurais.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Marketing para Produtores Rurais Gratuito · 3h · 7 dias · certificado",
+      "title": "Marketing para Produtores Rurais",
       "url": "https://ead.senar.org.br/curso-whatsapp/marketing-para-negocios-rurais"
     },
     {
@@ -2298,7 +2298,7 @@
       "description": "Seleção de gramíneas para formação de pastagens produtivas.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Gramíneas Forrageiras para Pastagens Gratuito · 3h · 7 dias · certificado",
+      "title": "Gramíneas Forrageiras para Pastagens",
       "url": "https://ead.senar.org.br/curso-whatsapp/gramineas-forrageiras-para-pastagens"
     },
     {
@@ -2308,7 +2308,7 @@
       "duration": "4h",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Boas Práticas de Conservação da Vegetação Nativa I: Aspectos Legais Gratuito · 4h · 7 dias · certificado",
+      "title": "Boas Práticas de Conservação da Vegetação Nativa I: Aspectos Legais",
       "url": "https://ead.senar.org.br/cursos/aspectos-legais-da-conservacao-da-vegetacao"
     },
     {
@@ -2318,7 +2318,7 @@
       "duration": "12h",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Dados e sensores no campo: a base da IA Gratuito · 12h · 12 dias · certificado",
+      "title": "Dados e sensores no campo: a base da IA",
       "url": "https://ead.senar.org.br/cursos/dados-e-sensores-no-campo-a-base-da-ia"
     },
     {
@@ -2328,7 +2328,7 @@
       "duration": "12h",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Ferramentas digitais e plataformas de IA para o agro Gratuito · 12h · 12 dias · certificado",
+      "title": "Ferramentas digitais e plataformas de IA para o agro",
       "url": "https://ead.senar.org.br/cursos/ferramentas-digitais-e-plataformas-de-ia-para-o-agro"
     },
     {
@@ -2338,7 +2338,7 @@
       "duration": "13h",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Geolocalização e inventário de árvores nativas Gratuito · 13h · 15 dias · certificado",
+      "title": "Geolocalização e inventário de árvores nativas",
       "url": "https://ead.senar.org.br/cursos/geolocalizacao-inventario-arvores-nativas"
     },
     {
@@ -2348,7 +2348,7 @@
       "duration": "10h",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Implantação de Plantas de Cobertura do Solo Gratuito · 10h · 10 dias · certificado",
+      "title": "Implantação de Plantas de Cobertura do Solo",
       "url": "https://ead.senar.org.br/cursos/implantacao-de-plantas-de-cobertura-do-solo"
     },
     {
@@ -2358,7 +2358,7 @@
       "duration": "16h",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Integração entre Apicultura e Sojicultura Gratuito · 16h · 16 dias · certificado",
+      "title": "Integração entre Apicultura e Sojicultura",
       "url": "https://ead.senar.org.br/cursos/integracao-entre-apicultura-e-sojicultura"
     },
     {
@@ -2368,7 +2368,7 @@
       "duration": "16h",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Inteligência Artificial na gestão da produção Gratuito · 16h · 16 dias · certificado",
+      "title": "Inteligência Artificial na gestão da produção",
       "url": "https://ead.senar.org.br/cursos/inteligencia-artificial-na-gestao-da-producao"
     },
     {
@@ -2378,7 +2378,7 @@
       "duration": "8h",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Introdução à Inteligência Artificial no agro Gratuito · 8h · 7 dias · certificado",
+      "title": "Introdução à Inteligência Artificial no agro",
       "url": "https://ead.senar.org.br/cursos/introducao-a-inteligencia-artificial-no-agro"
     },
     {
@@ -2387,7 +2387,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Método PPP - Pessoas, Processos e Planejamento Gratuito · 20h · 14 dias · certificado",
+      "title": "Método PPP - Pessoas, Processos e Planejamento",
       "url": "https://ead.senar.org.br/cursos/metodo-ppp-gestao-agronegocio"
     },
     {
@@ -2396,7 +2396,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Monitoramento da Umidade do Solo na Irrigação Gratuito · 5h · 7 dias · certificado",
+      "title": "Monitoramento da Umidade do Solo na Irrigação",
       "url": "https://ead.senar.org.br/cursos/monitoramento-da-umidade-do-solo"
     },
     {
@@ -2405,7 +2405,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Plantas de Cobertura para Conservação do Solo Gratuito · 14h · 14 dias · certificado",
+      "title": "Plantas de Cobertura para Conservação do Solo",
       "url": "https://ead.senar.org.br/cursos/plantas-de-cobertura-para-conservacao-do-solo"
     },
     {
@@ -2414,7 +2414,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Projetos práticos de IA no agro Gratuito · 20h · 20 dias · certificado",
+      "title": "Projetos práticos de IA no agro",
       "url": "https://ead.senar.org.br/cursos/projetos-praticos-de-ia-no-agro"
     },
     {
@@ -2423,7 +2423,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Reforma Tributária: impactos e estratégias para o agro Gratuito · 28h · 30 dias · certificado",
+      "title": "Reforma Tributária: impactos e estratégias para o agro",
       "url": "https://ead.senar.org.br/cursos/reforma-tributaria-impactos-e-estrategias-para-o-agro"
     },
     {
@@ -2432,7 +2432,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Regulagem de Plantadeiras para Culturas Anuais Gratuito · 14h · 16 dias · certificado",
+      "title": "Regulagem de Plantadeiras para Culturas Anuais",
       "url": "https://ead.senar.org.br/cursos/regulagem-de-plantadeiras-para-culturas-anuais"
     },
     {
@@ -2441,7 +2441,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Tecnologia para Uso Eficiente da Água no Campo Gratuito · 19h · 20 dias · certificado",
+      "title": "Tecnologia para Uso Eficiente da Água no Campo",
       "url": "https://ead.senar.org.br/cursos/tecnologia-uso-eficiente-da-agua-no-campo"
     },
     {
@@ -2450,7 +2450,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Viveiro de mudas para uso próprio: legislação Gratuito · 10h · 16 dias · certificado",
+      "title": "Viveiro de mudas para uso próprio: legislação",
       "url": "https://ead.senar.org.br/cursos/viveiro-de-mudas-para-uso-proprio-legislacao"
     },
     {
@@ -2459,7 +2459,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Administração Financeira e Orçamentária, Materiais e Estoques Gratuito · 20h · 30 dias · certificado",
+      "title": "Administração Financeira e Orçamentária, Materiais e Estoques",
       "url": "https://ead.senar.org.br/cursos/administracao-financeira-e-orcamentaria-materiais-e-estoques"
     },
     {
@@ -2468,7 +2468,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Administração Rural e Busca por Resultados Gratuito · 20h · 30 dias · certificado",
+      "title": "Administração Rural e Busca por Resultados",
       "url": "https://ead.senar.org.br/cursos/administracao-rural-e-busca-por-resultados"
     },
     {
@@ -2477,7 +2477,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Adubação Foliar Gratuito · 3h · 7 dias · certificado",
+      "title": "Adubação Foliar",
       "url": "https://ead.senar.org.br/cursos/adubacao-foliar"
     },
     {
@@ -2486,7 +2486,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Agregação de Valor na Avicultura Caipira Gratuito · 5h · 7 dias · certificado",
+      "title": "Agregação de Valor na Avicultura Caipira",
       "url": "https://ead.senar.org.br/cursos/agregacao-de-valor-na-avicultura-caipira"
     },
     {
@@ -2495,7 +2495,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Agregação de Valor na Avicultura Caipira Gratuito · 5h · 7 dias · certificado",
+      "title": "Agregação de Valor na Avicultura Caipira",
       "url": "https://ead.senar.org.br/curso-whatsapp/agregacao-de-valor-na-avicultura-caipira"
     },
     {
@@ -2504,7 +2504,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Agregação de Valores aos Produtos Rurais Gratuito · 20h · 30 dias · certificado",
+      "title": "Agregação de Valores aos Produtos Rurais",
       "url": "https://ead.senar.org.br/cursos/agregacao-de-valores-aos-produtos-rurais"
     },
     {
@@ -2513,7 +2513,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Agricultura de Precisão em Diferentes Culturas Gratuito · 17h · 14 dias · certificado",
+      "title": "Agricultura de Precisão em Diferentes Culturas",
       "url": "https://ead.senar.org.br/cursos/agricultura-de-precisao-em-diferentes-culturas"
     },
     {
@@ -2522,7 +2522,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Agricultura de Precisão na Aplicação de Defensivos Agrícolas Gratuito · 17h · 14 dias · certificado",
+      "title": "Agricultura de Precisão na Aplicação de Defensivos Agrícolas",
       "url": "https://ead.senar.org.br/cursos/agricultura-de-precisao-na-aplicacao-de-defensivos-agricolas"
     },
     {
@@ -2531,7 +2531,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Agricultura de Precisão na Colheita de Grãos Gratuito · 17h · 14 dias · certificado",
+      "title": "Agricultura de Precisão na Colheita de Grãos",
       "url": "https://ead.senar.org.br/cursos/agricultura-de-precisao-na-colheita-de-graos"
     },
     {
@@ -2540,7 +2540,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Agricultura de Precisão na Distribuição de Corretivos e Fertilizantes Gratuito · 17h · 14 dias · certificado",
+      "title": "Agricultura de Precisão na Distribuição de Corretivos e Fertilizantes",
       "url": "https://ead.senar.org.br/cursos/agricultura-de-precisao-na-distribuicao-de-corretivos-e-fertilizantes"
     },
     {
@@ -2549,7 +2549,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Agricultura de Precisão na Semeadura Gratuito · 17h · 14 dias · certificado",
+      "title": "Agricultura de Precisão na Semeadura",
       "url": "https://ead.senar.org.br/cursos/agricultura-de-precisao-na-semeadura"
     },
     {
@@ -2558,7 +2558,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Agroenergia: transição energética sustentável Gratuito · 13h · 15 dias · certificado",
+      "title": "Agroenergia: transição energética sustentável",
       "url": "https://ead.senar.org.br/cursos/agroenergia-transicao-energetica-sustentavel"
     },
     {
@@ -2567,7 +2567,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Agropecuária Digital Gratuito · 24h · 21 dias · certificado",
+      "title": "Agropecuária Digital",
       "url": "https://ead.senar.org.br/cursos/agropecuaria-digital"
     },
     {
@@ -2576,7 +2576,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Agropecuária Sustentável Gratuito · 20h · 30 dias · certificado",
+      "title": "Agropecuária Sustentável",
       "url": "https://ead.senar.org.br/cursos/agropecuaria-sustentavel"
     },
     {
@@ -2585,7 +2585,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Alternativas Alimentares na Avicultura Caipira Gratuito · 6h · 7 dias · certificado",
+      "title": "Alternativas Alimentares na Avicultura Caipira",
       "url": "https://ead.senar.org.br/cursos/alternativas-alimentares-na-avicultura-caipira"
     },
     {
@@ -2594,7 +2594,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Aplicação de Defensivos Agrícolas Gratuito · 3h · 7 dias · certificado",
+      "title": "Aplicação de Defensivos Agrícolas",
       "url": "https://ead.senar.org.br/cursos/aplicacao-de-defensivos-agricolas"
     },
     {
@@ -2603,7 +2603,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Aplicação de medicamentos em peixes via alimentação e imersão Gratuito · 20h · 20 dias · certificado",
+      "title": "Aplicação de medicamentos em peixes via alimentação e imersão",
       "url": "https://ead.senar.org.br/cursos/aplicacao-de-medicamentos-em-peixes-via-alimentacao-e-imersao"
     },
     {
@@ -2612,7 +2612,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Aplicação de medicamentos em peixes via vacinação Gratuito · 20h · 20 dias · certificado",
+      "title": "Aplicação de medicamentos em peixes via vacinação",
       "url": "https://ead.senar.org.br/cursos/aplicacao-de-medicamentos-em-peixes-via-vacinacao"
     },
     {
@@ -2621,7 +2621,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Aprendendo e Empreendendo: na Vida e no Negócio Rural Gratuito · 20h · 30 dias · certificado",
+      "title": "Aprendendo e Empreendendo: na Vida e no Negócio Rural",
       "url": "https://ead.senar.org.br/cursos/aprendendo-e-empreendendo-na-vida-e-no-negocio-rural"
     },
     {
@@ -2630,7 +2630,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Apresentação de Produtos Rurais Gratuito · 3h · 7 dias · certificado",
+      "title": "Apresentação de Produtos Rurais",
       "url": "https://ead.senar.org.br/cursos/apresentacao-de-produtos-rurais"
     },
     {
@@ -2639,7 +2639,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Aquisição, Transporte e Armazenamento de Defensivos Agrícolas em Propriedades Rurais Gratuito · 4h · 7 dias · certificado",
+      "title": "Aquisição, Transporte e Armazenamento de Defensivos Agrícolas em Propriedades Rurais",
       "url": "https://ead.senar.org.br/cursos/aquisicao-transporte-e-armazenamento-de-defensivos-agricolas-em-propriedades-rurais"
     },
     {
@@ -2648,7 +2648,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Armazenamento de Grãos em Sacarias Gratuito · 8h · 7 dias · certificado",
+      "title": "Armazenamento de Grãos em Sacarias",
       "url": "https://ead.senar.org.br/cursos/armazenamento-de-graos-em-sacarias"
     },
     {
@@ -2657,7 +2657,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Armazenamento de Grãos em Silo Vertical Gratuito · 8h · 7 dias · certificado",
+      "title": "Armazenamento de Grãos em Silo Vertical",
       "url": "https://ead.senar.org.br/cursos/armazenamento-de-graos-em-silo-vertical"
     },
     {
@@ -2666,7 +2666,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Armazenamento de Grãos em Silo-bolsa Gratuito · 8h · 7 dias · certificado",
+      "title": "Armazenamento de Grãos em Silo-bolsa",
       "url": "https://ead.senar.org.br/cursos/armazenamento-de-graos-em-silo-bolsa"
     },
     {
@@ -2675,7 +2675,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Associativismo, Cooperativismo e Sindicalismo no Agronegócio Gratuito · 20h · 30 dias · certificado",
+      "title": "Associativismo, Cooperativismo e Sindicalismo no Agronegócio",
       "url": "https://ead.senar.org.br/cursos/associativismo-cooperativismo-e-sindicalismo-no-agronegocio"
     },
     {
@@ -2684,7 +2684,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Assuntos Gerais na Piscicultura Gratuito · 30h · 45 dias · certificado",
+      "title": "Assuntos Gerais na Piscicultura",
       "url": "https://ead.senar.org.br/cursos/assuntos-gerais-na-piscicultura"
     },
     {
@@ -2693,7 +2693,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Assuntos Gerais na Suinocultura Gratuito · 30h · 45 dias · certificado",
+      "title": "Assuntos Gerais na Suinocultura",
       "url": "https://ead.senar.org.br/cursos/assuntos-gerais-na-suinocultura"
     },
     {
@@ -2702,7 +2702,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Atendimento ao Cliente para Produtores Rurais Gratuito · 3h · 7 dias · certificado",
+      "title": "Atendimento ao Cliente para Produtores Rurais",
       "url": "https://ead.senar.org.br/cursos/atendimento-ao-cliente-para-produtores-rurais"
     },
     {
@@ -2711,7 +2711,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Auxiliar em Saúde Animal Gratuito · 20h · 30 dias · certificado",
+      "title": "Auxiliar em Saúde Animal",
       "url": "https://ead.senar.org.br/cursos/auxiliar-em-saude-animal"
     },
     {
@@ -2720,7 +2720,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Avaliação Visual da Qualidade do Solo Gratuito · 3h · 7 dias · certificado",
+      "title": "Avaliação Visual da Qualidade do Solo",
       "url": "https://ead.senar.org.br/cursos/avaliacao-visual-da-qualidade-do-solo"
     },
     {
@@ -2729,7 +2729,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Avaliação Visual da Qualidade do Solo Gratuito · 3h · 7 dias · certificado",
+      "title": "Avaliação Visual da Qualidade do Solo",
       "url": "https://ead.senar.org.br/curso-whatsapp/avaliacao-visual-da-qualidade-do-solo"
     },
     {
@@ -2738,7 +2738,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Boas Práticas Agrícolas Gratuito · 30h · 30 dias · certificado",
+      "title": "Boas Práticas Agrícolas",
       "url": "https://ead.senar.org.br/cursos/boas-praticas-agricolas"
     },
     {
@@ -2747,7 +2747,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Boas Práticas de Conservação da Vegetação Nativa II: Técnicas de Regeneração Gratuito · 14h · 15 dias · certificado",
+      "title": "Boas Práticas de Conservação da Vegetação Nativa II: Técnicas de Regeneração",
       "url": "https://ead.senar.org.br/cursos/boas-praticas-na-conservacao-da-vegetacao"
     },
     {
@@ -2756,7 +2756,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Boas práticas de conservação da vegetação nativa III: Planejamento Gratuito · 5h · 7 dias · certificado",
+      "title": "Boas práticas de conservação da vegetação nativa III: Planejamento",
       "url": "https://ead.senar.org.br/cursos/planejamento-para-conservacao-da-vegetacao"
     },
     {
@@ -2765,7 +2765,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Boas Práticas na Fabricação de Produtos de Carnes Embutidas Gratuito · 20h · 15 dias · certificado",
+      "title": "Boas Práticas na Fabricação de Produtos de Carnes Embutidas",
       "url": "https://ead.senar.org.br/cursos/boas-praticas-na-fabricacao-de-produtos-de-carnes-embutidas"
     },
     {
@@ -2774,7 +2774,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Boas Práticas na Produção Vegetal Gratuito · 20h · 30 dias · certificado",
+      "title": "Boas Práticas na Produção Vegetal",
       "url": "https://ead.senar.org.br/cursos/boas-praticas-na-producao-vegetal"
     },
     {
@@ -2783,7 +2783,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "CADEC Gratuito · 32h · 30 dias · certificado",
+      "title": "CADEC",
       "url": "https://ead.senar.org.br/cursos/cadec"
     },
     {
@@ -2792,7 +2792,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Captura de Abelhas Sem Ferrão Gratuito · 4h · 7 dias · certificado",
+      "title": "Captura de Abelhas Sem Ferrão",
       "url": "https://ead.senar.org.br/cursos/captura-de-abelhas-sem-ferrao"
     },
     {
@@ -2801,7 +2801,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Comercialização de Produtos Agrícolas com Valor Agregado Gratuito · 3h · 7 dias · certificado",
+      "title": "Comercialização de Produtos Agrícolas com Valor Agregado",
       "url": "https://ead.senar.org.br/cursos/comercializacao-de-produtos-agricolas-com-valor-agregado"
     },
     {
@@ -2810,7 +2810,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Como Preparar a sua Propriedade para Receber Turistas Gratuito · 3h · 7 dias · certificado",
+      "title": "Como Preparar a sua Propriedade para Receber Turistas",
       "url": "https://ead.senar.org.br/cursos/como-preparar-a-sua-propriedade-para-receber-turistas"
     },
     {
@@ -2819,7 +2819,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Componente Animal nos Sistemas de ILPF Gratuito · 30h · 45 dias · certificado",
+      "title": "Componente Animal nos Sistemas de ILPF",
       "url": "https://ead.senar.org.br/cursos/componente-animal-nos-sistemas-de-ilpf"
     },
     {
@@ -2828,7 +2828,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Componente Socioeconômico e Ambiental em Sistemas de ILPF Gratuito · 10h · 14 dias · certificado",
+      "title": "Componente Socioeconômico e Ambiental em Sistemas de ILPF",
       "url": "https://ead.senar.org.br/cursos/componente-socioeconomico-e-ambiental-em-sistemas-de-ilpf"
     },
     {
@@ -2837,7 +2837,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Componente Solo nos Sistemas de ILPF Gratuito · 10h · 14 dias · certificado",
+      "title": "Componente Solo nos Sistemas de ILPF",
       "url": "https://ead.senar.org.br/cursos/componente-solo-nos-sistemas-de-ilpf"
     },
     {
@@ -2846,7 +2846,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Componente Vegetal nos Sistemas de ILPF Gratuito · 20h · 30 dias · certificado",
+      "title": "Componente Vegetal nos Sistemas de ILPF",
       "url": "https://ead.senar.org.br/cursos/componente-vegetal-nos-sistemas-de-ilpf"
     },
     {
@@ -2855,7 +2855,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Comportamento do Fogo Gratuito · 3h · 7 dias · certificado",
+      "title": "Comportamento do Fogo",
       "url": "https://ead.senar.org.br/cursos/comportamento-do-fogo"
     },
     {
@@ -2864,7 +2864,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Compostagem para Fertilização Orgânica Gratuito · 3h · 7 dias · certificado",
+      "title": "Compostagem para Fertilização Orgânica",
       "url": "https://ead.senar.org.br/cursos/compostagem-para-fertilizacao-organica"
     },
     {
@@ -2873,7 +2873,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Compostagem para Fertilização Orgânica Gratuito · 3h · 7 dias · certificado",
+      "title": "Compostagem para Fertilização Orgânica",
       "url": "https://ead.senar.org.br/curso-whatsapp/compostagem-para-fertilizacao-organica"
     },
     {
@@ -2882,7 +2882,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Comunicação Eficaz para Negócios Rurais Gratuito · 3h · 7 dias · certificado",
+      "title": "Comunicação Eficaz para Negócios Rurais",
       "url": "https://ead.senar.org.br/cursos/comunicacao-eficaz-para-negocios-rurais"
     },
     {
@@ -2891,7 +2891,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Conceitos Básicos da Organização da Propriedade Rural Gratuito · 3h · 7 dias · certificado",
+      "title": "Conceitos Básicos da Organização da Propriedade Rural",
       "url": "https://ead.senar.org.br/curso-whatsapp/conceitos-basicos-da-organizacao-da-propriedade-rural"
     },
     {
@@ -2900,7 +2900,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Controle de cigarrinha do milho Gratuito · 3h · 7 dias · certificado",
+      "title": "Controle de cigarrinha do milho",
       "url": "https://ead.senar.org.br/cursos/controle-de-cigarrinha-do-milho"
     },
     {
@@ -2909,7 +2909,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Controle de Cigarrinha-das-pastagens Gratuito · 3h · 7 dias · certificado",
+      "title": "Controle de Cigarrinha-das-pastagens",
       "url": "https://ead.senar.org.br/curso-whatsapp/controle-de-cigarrinha-das-pastagens"
     },
     {
@@ -2918,7 +2918,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Controle de Cigarrinha-das-pastagens Gratuito · 3h · 7 dias · certificado",
+      "title": "Controle de Cigarrinha-das-pastagens",
       "url": "https://ead.senar.org.br/cursos/controle-de-cigarrinha-das-pastagens"
     },
     {
@@ -2927,7 +2927,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Controle de Lagarta das Pastagens Gratuito · 3h · 7 dias · certificado",
+      "title": "Controle de Lagarta das Pastagens",
       "url": "https://ead.senar.org.br/cursos/controle-de-lagarta-das-pastagens"
     },
     {
@@ -2936,7 +2936,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Controle de Lagarta das Pastagens Gratuito · 3h · 7 dias · certificado",
+      "title": "Controle de Lagarta das Pastagens",
       "url": "https://ead.senar.org.br/curso-whatsapp/controle-de-lagarta-das-pastagens"
     },
     {
@@ -2945,7 +2945,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Controle de Pragas na Cultura da Banana Gratuito · 3h · 7 dias · certificado",
+      "title": "Controle de Pragas na Cultura da Banana",
       "url": "https://ead.senar.org.br/curso-whatsapp/controle-de-pragas-na-cultura-da-banana"
     },
     {
@@ -2954,7 +2954,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Controle de Pragas na Cultura da Banana Gratuito · 3h · 7 dias · certificado",
+      "title": "Controle de Pragas na Cultura da Banana",
       "url": "https://ead.senar.org.br/cursos/controle-de-pragas-na-cultura-da-banana"
     },
     {
@@ -2963,7 +2963,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Controle de Verminoses em Ovinos e Caprinos Gratuito · 3h · 7 dias · certificado",
+      "title": "Controle de Verminoses em Ovinos e Caprinos",
       "url": "https://ead.senar.org.br/curso-whatsapp/controle-de-verminoses-em-ovinos-e-caprinos"
     },
     {
@@ -2972,7 +2972,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Controle de Verminoses em Ovinos e Caprinos Gratuito · 3h · 7 dias · certificado",
+      "title": "Controle de Verminoses em Ovinos e Caprinos",
       "url": "https://ead.senar.org.br/cursos/controle-de-verminoses-em-ovinos-e-caprinos"
     },
     {
@@ -2981,7 +2981,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Correção da Acidez do Solo Gratuito · 2h · 7 dias · certificado",
+      "title": "Correção da Acidez do Solo",
       "url": "https://ead.senar.org.br/cursos/correcao-da-acidez-do-solo"
     },
     {
@@ -2990,7 +2990,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Crédito Fundiário na prática Gratuito · 27h · 30 dias · certificado",
+      "title": "Crédito Fundiário na prática",
       "url": "https://ead.senar.org.br/cursos/credito-fundiario-na-pratica"
     },
     {
@@ -2999,7 +2999,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Crédito Rural Gratuito · 20h · 20 dias · certificado",
+      "title": "Crédito Rural",
       "url": "https://ead.senar.org.br/cursos/credito-rural"
     },
     {
@@ -3008,7 +3008,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Criação de Peixes e Camarões pela Tecnologia de Bioflocos (BFT) Gratuito · 20h · 30 dias · certificado",
+      "title": "Criação de Peixes e Camarões pela Tecnologia de Bioflocos (BFT)",
       "url": "https://ead.senar.org.br/cursos/criacao-de-peixes-e-camaroes-pela-tecnologia-de-bioflocos-bft"
     },
     {
@@ -3017,7 +3017,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Cuidados com Tuberculose, Brucelose e Tripanossomose em Bovinos Gratuito · 2h · 7 dias · certificado",
+      "title": "Cuidados com Tuberculose, Brucelose e Tripanossomose em Bovinos",
       "url": "https://ead.senar.org.br/cursos/cuidados-com-tuberculose-brucelose-e-tripanossomose-em-bovinos"
     },
     {
@@ -3026,7 +3026,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Cuidados e Manejos com as Camas do Sistema Compost Barn Gratuito · 2h · 7 dias · certificado",
+      "title": "Cuidados e Manejos com as Camas do Sistema Compost Barn",
       "url": "https://ead.senar.org.br/cursos/cuidados-e-manejos-com-as-camas-do-sistema-compost-barn"
     },
     {
@@ -3035,7 +3035,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Cuidados Técnicos para Uso de Drones Gratuito · 2h · 7 dias · certificado",
+      "title": "Cuidados Técnicos para Uso de Drones",
       "url": "https://ead.senar.org.br/cursos/cuidados-tecnicos-para-uso-de-drones"
     },
     {
@@ -3044,7 +3044,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Cultivo do Cacau em Sistemas Sustentáveis Gratuito · 30h · 45 dias · certificado",
+      "title": "Cultivo do Cacau em Sistemas Sustentáveis",
       "url": "https://ead.senar.org.br/cursos/cultivo-do-cacau-em-sistemas-sustentaveis"
     },
     {
@@ -3053,7 +3053,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Cultivo e produção de açaí Gratuito · 13h · 14 dias · certificado",
+      "title": "Cultivo e produção de açaí",
       "url": "https://ead.senar.org.br/cursos/cultivo-e-producao-de-acai"
     },
     {
@@ -3062,7 +3062,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Cultivo e Produção de Cana-de-Açúcar Gratuito · 20h · 15 dias · certificado",
+      "title": "Cultivo e Produção de Cana-de-Açúcar",
       "url": "https://ead.senar.org.br/cursos/cultivo-e-producao-de-cana-de-acucar"
     },
     {
@@ -3071,7 +3071,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Cultivo e Produção de Grãos Gratuito · 15h · 14 dias · certificado",
+      "title": "Cultivo e Produção de Grãos",
       "url": "https://ead.senar.org.br/cursos/cultivo-e-producao-de-graos"
     },
     {
@@ -3080,7 +3080,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Cultivo e Produção de Hortas Gratuito · 20h · 15 dias · certificado",
+      "title": "Cultivo e Produção de Hortas",
       "url": "https://ead.senar.org.br/cursos/cultivo-e-producao-de-hortas"
     },
     {
@@ -3089,7 +3089,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Devolução Legal de Embalagens de Defensivos Agrícolas Gratuito · 3h · 7 dias · certificado",
+      "title": "Devolução Legal de Embalagens de Defensivos Agrícolas",
       "url": "https://ead.senar.org.br/curso-whatsapp/devolucao-legal-de-embalagens-de-defensivos-agricolas"
     },
     {
@@ -3098,7 +3098,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Devolução Legal de Embalagens de Defensivos Agrícolas Gratuito · 3h · 7 dias · certificado",
+      "title": "Devolução Legal de Embalagens de Defensivos Agrícolas",
       "url": "https://ead.senar.org.br/cursos/devolucao-legal-de-embalagens-de-defensivos-agricolas"
     },
     {
@@ -3107,7 +3107,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Diferimento de Pastagem Gratuito · 5h · 7 dias · certificado",
+      "title": "Diferimento de Pastagem",
       "url": "https://ead.senar.org.br/cursos/diferimento-de-pastagem"
     },
     {
@@ -3116,7 +3116,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Digitação Gratuito · 10h · 14 dias · certificado",
+      "title": "Digitação",
       "url": "https://ead.senar.org.br/cursos/digitacao"
     },
     {
@@ -3125,7 +3125,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Direção, Liderança e Motivação na Empresa Rural Gratuito · 20h · 30 dias · certificado",
+      "title": "Direção, Liderança e Motivação na Empresa Rural",
       "url": "https://ead.senar.org.br/cursos/direcao-lideranca-e-motivacao-na-empresa-rural"
     },
     {
@@ -3134,7 +3134,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Doenças Reprodutivas em Bovinos Gratuito · 3h · 7 dias · certificado",
+      "title": "Doenças Reprodutivas em Bovinos",
       "url": "https://ead.senar.org.br/cursos/doencas-reprodutivas-em-bovinos"
     },
     {
@@ -3143,7 +3143,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Doenças Reprodutivas em Bovinos Gratuito · 3h · 7 dias · certificado",
+      "title": "Doenças Reprodutivas em Bovinos",
       "url": "https://ead.senar.org.br/curso-whatsapp/doencas-reprodutivas-em-bovinos"
     },
     {
@@ -3152,7 +3152,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Doenças Transmissíveis: Contágio, Principais Sintomas e Prevenção Gratuito · 15h · 21 dias · certificado",
+      "title": "Doenças Transmissíveis: Contágio, Principais Sintomas e Prevenção",
       "url": "https://ead.senar.org.br/cursos/doencas-transmissiveis-contagio-principais-sintomas-e-prevencao"
     },
     {
@@ -3161,7 +3161,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Drones: conceitos, legislação e operação Gratuito · 20h · 21 dias · certificado",
+      "title": "Drones: conceitos, legislação e operação",
       "url": "https://ead.senar.org.br/cursos/drones-conceitos-legislacao-e-operacao"
     },
     {
@@ -3170,7 +3170,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Educação Ambiental Gratuito · 15h · 15 dias · certificado",
+      "title": "Educação Ambiental",
       "url": "https://ead.senar.org.br/cursos/educacao-ambiental"
     },
     {
@@ -3179,7 +3179,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Educação Financeira para o Produtor Rural Gratuito · 3h · 7 dias · certificado",
+      "title": "Educação Financeira para o Produtor Rural",
       "url": "https://ead.senar.org.br/curso-whatsapp/educacao-financeira-para-o-produtor-rural"
     },
     {
@@ -3188,7 +3188,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Educação Financeira para o Produtor Rural Gratuito · 3h · 7 dias · certificado",
+      "title": "Educação Financeira para o Produtor Rural",
       "url": "https://ead.senar.org.br/cursos/educacao-financeira-para-o-produtor-rural"
     },
     {
@@ -3197,7 +3197,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Educação Postural no Campo Gratuito · 20h · 30 dias · certificado",
+      "title": "Educação Postural no Campo",
       "url": "https://ead.senar.org.br/cursos/educacao-postural-no-campo"
     },
     {
@@ -3206,7 +3206,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Elementos de Paisagem e Processos Ecológicos do Bioma Cerrado Gratuito · 30h · 20 dias · certificado",
+      "title": "Elementos de Paisagem e Processos Ecológicos do Bioma Cerrado",
       "url": "https://ead.senar.org.br/cursos/elementos-de-paisagem-e-processos-ecologicos-do-bioma-cerrado"
     },
     {
@@ -3215,7 +3215,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Elementos de Paisagem e Processos Ecológicos do Bioma Mata Atlântica Gratuito · 30h · 20 dias · certificado",
+      "title": "Elementos de Paisagem e Processos Ecológicos do Bioma Mata Atlântica",
       "url": "https://ead.senar.org.br/cursos/elementos-de-paisagem-e-processos-ecologicos-do-bioma-mata-atlantica"
     },
     {
@@ -3224,7 +3224,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Energia Fotovoltaica Gratuito · 20h · 21 dias · certificado",
+      "title": "Energia Fotovoltaica",
       "url": "https://ead.senar.org.br/cursos/energia-fotovoltaica"
     },
     {
@@ -3233,7 +3233,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Entendendo a Degradação das Pastagens Gratuito · 2h · 7 dias · certificado",
+      "title": "Entendendo a Degradação das Pastagens",
       "url": "https://ead.senar.org.br/cursos/entendendo-a-degradacao-das-pastagens"
     },
     {
@@ -3242,7 +3242,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Equipamento de Proteção Individual (EPI) na Aplicação de Defensivos Agrícolas Gratuito · 2h · 7 dias · certificado",
+      "title": "Equipamento de Proteção Individual (EPI) na Aplicação de Defensivos Agrícolas",
       "url": "https://ead.senar.org.br/cursos/epi-na-aplicacao-de-defensivos-agricolas"
     },
     {
@@ -3251,7 +3251,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Excel Básico Gratuito · 15h · 21 dias · certificado",
+      "title": "Excel Básico",
       "url": "https://ead.senar.org.br/cursos/excel-basico"
     },
     {
@@ -3260,7 +3260,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Excel Intermediário Gratuito · 15h · 21 dias · certificado",
+      "title": "Excel Intermediário",
       "url": "https://ead.senar.org.br/cursos/excel-intermediario"
     },
     {
@@ -3269,7 +3269,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Facebook para Produtores Rurais Gratuito · 3h · 7 dias · certificado",
+      "title": "Facebook para Produtores Rurais",
       "url": "https://ead.senar.org.br/cursos/facebook-para-produtores-rurais"
     },
     {
@@ -3278,7 +3278,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Facebook para Produtores Rurais Gratuito · 3h · 7 dias · certificado",
+      "title": "Facebook para Produtores Rurais",
       "url": "https://ead.senar.org.br/curso-whatsapp/facebook-para-produtores-rurais"
     },
     {
@@ -3287,7 +3287,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Farmácia veterinária na propriedade rural Gratuito · 3h · 7 dias · certificado",
+      "title": "Farmácia veterinária na propriedade rural",
       "url": "https://ead.senar.org.br/cursos/farmacia-veterinaria-na-propriedade-rural"
     },
     {
@@ -3296,7 +3296,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Fixação Biológica de Nitrogênio Gratuito · 20h · 30 dias · certificado",
+      "title": "Fixação Biológica de Nitrogênio",
       "url": "https://ead.senar.org.br/cursos/fixacao-biologica-de-nitrogenio"
     },
     {
@@ -3305,7 +3305,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Florestas Plantadas Gratuito · 30h · 45 dias · certificado",
+      "title": "Florestas Plantadas",
       "url": "https://ead.senar.org.br/cursos/florestas-plantadas"
     },
     {
@@ -3314,7 +3314,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Formas de Intervenção nas Pastagens Gratuito · 2h · 7 dias · certificado",
+      "title": "Formas de Intervenção nas Pastagens",
       "url": "https://ead.senar.org.br/cursos/formas-de-intervencao-nas-pastagens"
     },
     {
@@ -3323,7 +3323,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Frutas nativas da região Norte: Valor e sustentabilidade Gratuito · 16h · 16 dias · certificado",
+      "title": "Frutas nativas da região Norte: Valor e sustentabilidade",
       "url": "https://ead.senar.org.br/cursos/frutas-nativas-da-regiao-norte-valor-e-sustentabilidade"
     },
     {
@@ -3332,7 +3332,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Gestão da Atividade Agropecuária: Custos de Produção Gratuito · 3h · 7 dias · certificado",
+      "title": "Gestão da Atividade Agropecuária: Custos de Produção",
       "url": "https://ead.senar.org.br/curso-whatsapp/gestao-da-atividade-agropecuaria-custos-de-producao"
     },
     {
@@ -3341,7 +3341,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Gestão de Segurança, Saúde e Meio Ambiente de Trabalho Rural Gratuito · 20h · 30 dias · certificado",
+      "title": "Gestão de Segurança, Saúde e Meio Ambiente de Trabalho Rural",
       "url": "https://ead.senar.org.br/cursos/gestao-de-seguranca-saude-e-meio-ambiente-de-trabalho-rural"
     },
     {
@@ -3350,7 +3350,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Gestão do Negócio Rural Gratuito · 20h · 30 dias · certificado",
+      "title": "Gestão do Negócio Rural",
       "url": "https://ead.senar.org.br/cursos/gestao-da-empresa-rural"
     },
     {
@@ -3359,7 +3359,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Gestão Produtiva da Bovinocultura de Leite Gratuito · 40h · 30 dias · certificado",
+      "title": "Gestão Produtiva da Bovinocultura de Leite",
       "url": "https://ead.senar.org.br/cursos/gestao-produtiva-da-bovinocultura-de-leite"
     },
     {
@@ -3368,7 +3368,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Gramíneas Forrageiras para Pastagens Gratuito · 3h · 7 dias · certificado",
+      "title": "Gramíneas Forrageiras para Pastagens",
       "url": "https://ead.senar.org.br/cursos/gramineas-forrageiras-para-pastagens"
     },
     {
@@ -3377,7 +3377,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Habilitação de Aplicadores de Defensivos Agrícolas Gratuito · 30h · 30 dias · certificado",
+      "title": "Habilitação de Aplicadores de Defensivos Agrícolas",
       "url": "https://ead.senar.org.br/cursos/habilitacao-de-aplicadores-de-defensivos-agricolas"
     },
     {
@@ -3386,7 +3386,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Horsemanship Gratuito · 20h · 21 dias · certificado",
+      "title": "Horsemanship",
       "url": "https://ead.senar.org.br/cursos/horsemanship"
     },
     {
@@ -3395,7 +3395,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Identificação e Controle da Monilíase no Cacau Gratuito · 3h · 7 dias · certificado",
+      "title": "Identificação e Controle da Monilíase no Cacau",
       "url": "https://ead.senar.org.br/cursos/identificacao-controle-moniliase-cacau"
     },
     {
@@ -3404,7 +3404,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Identificação e Controle da Monilíase no Cacau Gratuito · 3h · 7 dias · certificado",
+      "title": "Identificação e Controle da Monilíase no Cacau",
       "url": "https://ead.senar.org.br/curso-whatsapp/identificacao-controle-moniliase-cacau"
     },
     {
@@ -3413,7 +3413,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Implantação do Creep-Feeding em Propriedades de Bovino de Corte Gratuito · 2h · 7 dias · certificado",
+      "title": "Implantação do Creep-Feeding em Propriedades de Bovino de Corte",
       "url": "https://ead.senar.org.br/cursos/creep-feeding-em-propriedades-de-bovino-de-corte"
     },
     {
@@ -3422,7 +3422,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Implantação e Utilização da Palma Forrageira Gratuito · 20h · 30 dias · certificado",
+      "title": "Implantação e Utilização da Palma Forrageira",
       "url": "https://ead.senar.org.br/cursos/implantacao-e-utilizacao-da-palma-forrageira"
     },
     {
@@ -3431,7 +3431,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Indicação Geográfica Gratuito · 3h · 7 dias · certificado",
+      "title": "Indicação Geográfica",
       "url": "https://ead.senar.org.br/cursos/indicacao-geografica"
     },
     {
@@ -3440,7 +3440,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Indicação Geográfica Gratuito · 3h · 7 dias · certificado",
+      "title": "Indicação Geográfica",
       "url": "https://ead.senar.org.br/curso-whatsapp/indicacao-geografica"
     },
     {
@@ -3449,7 +3449,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Influência das Políticas Governamentais no Agronegócio Gratuito · 20h · 30 dias · certificado",
+      "title": "Influência das Políticas Governamentais no Agronegócio",
       "url": "https://ead.senar.org.br/cursos/influencia-das-politicas-governamentais-no-agronegocio"
     },
     {
@@ -3458,7 +3458,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Informática e Internet Básico Gratuito · 15h · 21 dias · certificado",
+      "title": "Informática e Internet Básico",
       "url": "https://ead.senar.org.br/cursos/informatica-e-internet-basico"
     },
     {
@@ -3467,7 +3467,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Informática e Internet Intermediário Gratuito · 20h · 30 dias · certificado",
+      "title": "Informática e Internet Intermediário",
       "url": "https://ead.senar.org.br/cursos/informatica-e-internet-intermediario"
     },
     {
@@ -3476,7 +3476,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Inseminação Artificial em Tempo Fixo Gratuito · 2h · 7 dias · certificado",
+      "title": "Inseminação Artificial em Tempo Fixo",
       "url": "https://ead.senar.org.br/cursos/inseminacao-artificial-em-tempo-fixo"
     },
     {
@@ -3485,7 +3485,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Inserção da Árvore na Propriedade Rural do Bioma Cerrado Gratuito · 30h · 25 dias · certificado",
+      "title": "Inserção da Árvore na Propriedade Rural do Bioma Cerrado",
       "url": "https://ead.senar.org.br/cursos/insercao-da-arvore-na-propriedade-rural-do-bioma-cerrado"
     },
     {
@@ -3494,7 +3494,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Inserção da Árvore na Propriedade Rural do Bioma Mata Atlântica Gratuito · 40h · 30 dias · certificado",
+      "title": "Inserção da Árvore na Propriedade Rural do Bioma Mata Atlântica",
       "url": "https://ead.senar.org.br/cursos/insercao-da-arvore-na-propriedade-rural-do-bioma-mata-atlantica"
     },
     {
@@ -3503,7 +3503,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Instagram para Produtores Rurais Gratuito · 3h · 7 dias · certificado",
+      "title": "Instagram para Produtores Rurais",
       "url": "https://ead.senar.org.br/curso-whatsapp/instagram-para-produtores-rurais"
     },
     {
@@ -3512,7 +3512,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Instagram para Produtores Rurais Gratuito · 3h · 7 dias · certificado",
+      "title": "Instagram para Produtores Rurais",
       "url": "https://ead.senar.org.br/cursos/instagram-para-produtores-rurais"
     },
     {
@@ -3521,7 +3521,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Inteligência Artificial no Campo Gratuito · 20h · 21 dias · certificado",
+      "title": "Inteligência Artificial no Campo",
       "url": "https://ead.senar.org.br/cursos/inteligencia-artificial-no-campo"
     },
     {
@@ -3530,7 +3530,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Introdução à Agricultura de Precisão Gratuito · 18h · 25 dias · certificado",
+      "title": "Introdução à Agricultura de Precisão",
       "url": "https://ead.senar.org.br/cursos/introducao-a-agricultura-de-precisao"
     },
     {
@@ -3539,7 +3539,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Introdução à Agroecologia e à Produção Orgânica Gratuito · 25h · 15 dias · certificado",
+      "title": "Introdução à Agroecologia e à Produção Orgânica",
       "url": "https://ead.senar.org.br/cursos/introducao-a-agroecologia-e-a-producao-organica"
     },
     {
@@ -3548,7 +3548,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Introdução aos Sistemas de ILPF Gratuito · 10h · 14 dias · certificado",
+      "title": "Introdução aos Sistemas de ILPF",
       "url": "https://ead.senar.org.br/cursos/introducao-aos-sistemas-de-ilpf"
     },
     {
@@ -3557,7 +3557,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Liderança Rural Gratuito · 16h · 24 dias · certificado",
+      "title": "Liderança Rural",
       "url": "https://ead.senar.org.br/cursos/lideranca-rural"
     },
     {
@@ -3566,7 +3566,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Manejo de Cavalos Gratuito · 6h · 7 dias · certificado",
+      "title": "Manejo de Cavalos",
       "url": "https://ead.senar.org.br/cursos/manejo-de-cavalos"
     },
     {
@@ -3575,7 +3575,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Manejo de Cavalos Gratuito · 3h · 7 dias · certificado",
+      "title": "Manejo de Cavalos",
       "url": "https://ead.senar.org.br/curso-whatsapp/manejo-de-cavalos"
     },
     {
@@ -3584,7 +3584,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Manejo de Pastagens Gratuito · 24h · 30 dias · certificado",
+      "title": "Manejo de Pastagens",
       "url": "https://ead.senar.org.br/cursos/manejo-de-pastagens"
     },
     {
@@ -3593,7 +3593,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Manejo e Conservação do Solo Gratuito · 24h · 15 dias · certificado",
+      "title": "Manejo e Conservação do Solo",
       "url": "https://ead.senar.org.br/cursos/manejo-e-conservacao-do-solo"
     },
     {
@@ -3602,7 +3602,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Manejo Produtivo na Apicultura Gratuito · 5h · 7 dias · certificado",
+      "title": "Manejo Produtivo na Apicultura",
       "url": "https://ead.senar.org.br/cursos/manejo-produtivo-na-apicultura"
     },
     {
@@ -3611,7 +3611,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Manejo Produtivo na Piscicultura Gratuito · 40h · 30 dias · certificado",
+      "title": "Manejo Produtivo na Piscicultura",
       "url": "https://ead.senar.org.br/cursos/manejo-produtivo-na-piscicultura"
     },
     {
@@ -3620,7 +3620,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Manejo Racional e Bem-estar de Bovinos Gratuito · 26h · 30 dias · certificado",
+      "title": "Manejo Racional e Bem-estar de Bovinos",
       "url": "https://ead.senar.org.br/cursos/manejo-racional-e-bem-estar-de-bovinos"
     },
     {
@@ -3629,7 +3629,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Manejo Sanitário e Qualidade do Leite Gratuito · 30h · 45 dias · certificado",
+      "title": "Manejo Sanitário e Qualidade do Leite",
       "url": "https://ead.senar.org.br/cursos/manejo-sanitario-e-qualidade-do-leite"
     },
     {
@@ -3638,7 +3638,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Manutenção de Tratores Agrícolas Gratuito · 30h · 30 dias · certificado",
+      "title": "Manutenção de Tratores Agrícolas",
       "url": "https://ead.senar.org.br/cursos/manutencao-de-tratores-agricolas"
     },
     {
@@ -3647,7 +3647,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Mapeamento da Propriedade Rural Gratuito · 16h · 15 dias · certificado",
+      "title": "Mapeamento da Propriedade Rural",
       "url": "https://ead.senar.org.br/cursos/mapeamento-da-propriedade-rural"
     },
     {
@@ -3656,7 +3656,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Marca e Posicionamento no Agronegócio Gratuito · 3h · 7 dias · certificado",
+      "title": "Marca e Posicionamento no Agronegócio",
       "url": "https://ead.senar.org.br/cursos/marca-e-posicionamento-no-agronegocio"
     },
     {
@@ -3665,7 +3665,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Marca e Posicionamento no Agronegócio Gratuito · 3h · 7 dias · certificado",
+      "title": "Marca e Posicionamento no Agronegócio",
       "url": "https://ead.senar.org.br/curso-whatsapp/marca-e-posicionamento-no-agronegocio"
     },
     {
@@ -3674,7 +3674,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Marketing para Produtores Rurais Gratuito · 3h · 7 dias · certificado",
+      "title": "Marketing para Produtores Rurais",
       "url": "https://ead.senar.org.br/cursos/marketing-para-negocios-rurais"
     },
     {
@@ -3683,7 +3683,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Marketplace para Produtores Rurais Gratuito · 3h · 7 dias · certificado",
+      "title": "Marketplace para Produtores Rurais",
       "url": "https://ead.senar.org.br/cursos/marketplace-para-produtores-rurais"
     },
     {
@@ -3692,7 +3692,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Melhoramento Genético Animal Gratuito · 30h · 25 dias · certificado",
+      "title": "Melhoramento Genético Animal",
       "url": "https://ead.senar.org.br/cursos/melhoramento-genetico-animal"
     },
     {
@@ -3701,7 +3701,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Meliponicultura: Criação e Manejo de Abelhas sem Ferrão Gratuito · 20h · 20 dias · certificado",
+      "title": "Meliponicultura: Criação e Manejo de Abelhas sem Ferrão",
       "url": "https://ead.senar.org.br/cursos/meliponicultura-criacao-e-manejo-de-abelhas-sem-ferrao"
     },
     {
@@ -3710,7 +3710,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Mercado e Comercialização de Produtos Agrícolas Gratuito · 20h · 30 dias · certificado",
+      "title": "Mercado e Comercialização de Produtos Agrícolas",
       "url": "https://ead.senar.org.br/cursos/mercado-e-comercializacao-de-produtos-agricolas"
     },
     {
@@ -3719,7 +3719,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Mudanças Climáticas e Agricultura Gratuito · 20h · 30 dias · certificado",
+      "title": "Mudanças Climáticas e Agricultura",
       "url": "https://ead.senar.org.br/cursos/mudancas-climaticas-e-agricultura"
     },
     {
@@ -3728,7 +3728,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Negócio Certo Rural: Planejando seu Empreendimento Gratuito · 30h · 45 dias · certificado",
+      "title": "Negócio Certo Rural: Planejando seu Empreendimento",
       "url": "https://ead.senar.org.br/cursos/negocio-certo-rural-planejando-seu-empreendimento"
     },
     {
@@ -3737,7 +3737,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Nutrição Animal Gratuito · 40h · 30 dias · certificado",
+      "title": "Nutrição Animal",
       "url": "https://ead.senar.org.br/cursos/nutricao-animal"
     },
     {
@@ -3746,7 +3746,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Nutrição e Bem-estar no Meio Rural Gratuito · 3h · 7 dias · certificado",
+      "title": "Nutrição e Bem-estar no Meio Rural",
       "url": "https://ead.senar.org.br/cursos/nutricao-e-bem-estar-no-meio-rural"
     },
     {
@@ -3755,7 +3755,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Nutrição e Bem-estar no Meio Rural Gratuito · 3h · 7 dias · certificado",
+      "title": "Nutrição e Bem-estar no Meio Rural",
       "url": "https://ead.senar.org.br/curso-whatsapp/nutricao-e-bem-estar-no-meio-rural"
     },
     {
@@ -3764,7 +3764,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Nutrição e Manejo Alimentar em Bovinocultura de Leite Gratuito · 30h · 45 dias · certificado",
+      "title": "Nutrição e Manejo Alimentar em Bovinocultura de Leite",
       "url": "https://ead.senar.org.br/cursos/nutricao-e-manejo-alimentar-em-bovinocultura-de-leite"
     },
     {
@@ -3773,7 +3773,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "O Agronegócio e o Crescimento Brasileiro Gratuito · 20h · 30 dias · certificado",
+      "title": "O Agronegócio e o Crescimento Brasileiro",
       "url": "https://ead.senar.org.br/cursos/o-agronegocio-e-o-crescimento-brasileiro"
     },
     {
@@ -3782,7 +3782,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App O que são Defensivos Agrícolas e Cuidados na Utilização Gratuito · 2h · 7 dias · certificado",
+      "title": "O que são Defensivos Agrícolas e Cuidados na Utilização",
       "url": "https://ead.senar.org.br/cursos/o-que-sao-defensivos-agricolas-e-cuidados-na-utilizacao"
     },
     {
@@ -3791,7 +3791,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Organização e Exposição de Produtos em Eventos Gratuito · 3h · 7 dias · certificado",
+      "title": "Organização e Exposição de Produtos em Eventos",
       "url": "https://ead.senar.org.br/cursos/organizacao-e-exposicao-de-produtos-em-eventos"
     },
     {
@@ -3800,7 +3800,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Particularidades dos Sistemas ILPF nos Biomas Brasileiros Gratuito · 40h · 60 dias · certificado",
+      "title": "Particularidades dos Sistemas ILPF nos Biomas Brasileiros",
       "url": "https://ead.senar.org.br/cursos/particularidades-dos-sistemas-ilpf-nos-biomas-brasileiros"
     },
     {
@@ -3809,7 +3809,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Pastagem Para Ovinocultura Gratuito · 20h · 30 dias · certificado",
+      "title": "Pastagem Para Ovinocultura",
       "url": "https://ead.senar.org.br/cursos/pastagem-para-ovinocultura"
     },
     {
@@ -3818,7 +3818,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Pastagens Gratuito · 40h · 30 dias · certificado",
+      "title": "Pastagens",
       "url": "https://ead.senar.org.br/cursos/pastagens"
     },
     {
@@ -3827,7 +3827,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Planejamento Estratégico da Empresa Rural Gratuito · 20h · 15 dias · certificado",
+      "title": "Planejamento Estratégico da Empresa Rural",
       "url": "https://ead.senar.org.br/cursos/planejamento-estrategico-da-empresa-rural"
     },
     {
@@ -3836,7 +3836,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Plano de Prevenção de Incêndios Florestais em Propriedades Rurais Gratuito · 20h · 30 dias · certificado",
+      "title": "Plano de Prevenção de Incêndios Florestais em Propriedades Rurais",
       "url": "https://ead.senar.org.br/cursos/plano-de-prevencao-de-incendios-florestais-em-propriedades-rurais"
     },
     {
@@ -3845,7 +3845,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Pós-Colheita de Grãos Gratuito · 20h · 14 dias · certificado",
+      "title": "Pós-Colheita de Grãos",
       "url": "https://ead.senar.org.br/cursos/pos-colheita-de-graos"
     },
     {
@@ -3854,7 +3854,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Práticas ESG no meio rural Gratuito · 40h · 30 dias · certificado",
+      "title": "Práticas ESG no meio rural",
       "url": "https://ead.senar.org.br/cursos/praticas-esg-no-meio-rural"
     },
     {
@@ -3863,7 +3863,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Prevenção a Incêndios Florestais Gratuito · 3h · 7 dias · certificado",
+      "title": "Prevenção a Incêndios Florestais",
       "url": "https://ead.senar.org.br/cursos/prevencao-a-incendios-florestais"
     },
     {
@@ -3872,7 +3872,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Prevenção de Acidentes com Defensivos Agrícolas – NR-31.7 Gratuito · 20h · 30 dias · certificado",
+      "title": "Prevenção de Acidentes com Defensivos Agrícolas – NR-31.7",
       "url": "https://ead.senar.org.br/cursos/prevencao-de-acidentes-com-defensivos-agricolas-nr-31-7"
     },
     {
@@ -3881,7 +3881,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Prevenção de Acidentes com Máquinas Agrícolas - NR 31.12 Gratuito · 20h · 30 dias · certificado",
+      "title": "Prevenção de Acidentes com Máquinas Agrícolas - NR 31.12",
       "url": "https://ead.senar.org.br/cursos/prevencao-de-acidentes-com-maquinas-agricolas-nr-31-12"
     },
     {
@@ -3890,7 +3890,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Prevenção de Acidentes e Melhoria da Qualidade de Vida Gratuito · 16h · 24 dias · certificado",
+      "title": "Prevenção de Acidentes e Melhoria da Qualidade de Vida",
       "url": "https://ead.senar.org.br/cursos/prevencao-de-acidentes-e-melhoria-da-qualidade-de-vida"
     },
     {
@@ -3899,7 +3899,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Prevenção de Diabetes e Hipertensão Gratuito · 3h · 7 dias · certificado",
+      "title": "Prevenção de Diabetes e Hipertensão",
       "url": "https://ead.senar.org.br/cursos/prevencao-de-diabetes-e-hipertensao"
     },
     {
@@ -3908,7 +3908,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Prevenção de Diabetes e Hipertensão Gratuito · 3h · 7 dias · certificado",
+      "title": "Prevenção de Diabetes e Hipertensão",
       "url": "https://ead.senar.org.br/curso-whatsapp/prevencao-de-diabetes-e-hipertensao"
     },
     {
@@ -3917,7 +3917,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Prevenção e Controle do Fogo na Agricultura Gratuito · 20h · 15 dias · certificado",
+      "title": "Prevenção e Controle do Fogo na Agricultura",
       "url": "https://ead.senar.org.br/cursos/prevencao-e-controle-do-fogo-na-agricultura"
     },
     {
@@ -3926,7 +3926,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Prevenção e Primeiros Socorros no Uso de Defensivos Agrícolas Gratuito · 3h · 7 dias · certificado",
+      "title": "Prevenção e Primeiros Socorros no Uso de Defensivos Agrícolas",
       "url": "https://ead.senar.org.br/cursos/prevencao-e-primeiros-socorros-no-uso-de-defensivos-agricolas"
     },
     {
@@ -3935,7 +3935,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Produção de Alimentos em Sistemas Orgânicos Gratuito · 35h · 30 dias · certificado",
+      "title": "Produção de Alimentos em Sistemas Orgânicos",
       "url": "https://ead.senar.org.br/cursos/producao-de-alimentos-em-sistemas-organicos"
     },
     {
@@ -3944,7 +3944,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Produção de Flores de Corte, Flores de Vaso e Plantas Ornamentais Gratuito · 20h · 30 dias · certificado",
+      "title": "Produção de Flores de Corte, Flores de Vaso e Plantas Ornamentais",
       "url": "https://ead.senar.org.br/cursos/producao-de-flores-de-corte-flores-de-vaso-e-plantas-ornamentais"
     },
     {
@@ -3953,7 +3953,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Produção de Forragem Verde Hidropônica para Alimentação Animal Gratuito · 3h · 7 dias · certificado",
+      "title": "Produção de Forragem Verde Hidropônica para Alimentação Animal",
       "url": "https://ead.senar.org.br/cursos/producao-de-forragem-verde-hidroponica-para-alimentacao-animal"
     },
     {
@@ -3962,7 +3962,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Produção de Forragem Verde Hidropônica para Alimentação Animal Gratuito · 3h · 7 dias · certificado",
+      "title": "Produção de Forragem Verde Hidropônica para Alimentação Animal",
       "url": "https://ead.senar.org.br/curso-whatsapp/producao-de-forragem-verde-hidroponica-para-alimentacao-animal"
     },
     {
@@ -3971,7 +3971,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Produção de Mudas de Hortaliças Gratuito · 3h · 7 dias · certificado",
+      "title": "Produção de Mudas de Hortaliças",
       "url": "https://ead.senar.org.br/cursos/producao-de-mudas-de-hortalicas"
     },
     {
@@ -3980,7 +3980,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Produção de Mudas de Hortaliças Gratuito · 3h · 7 dias · certificado",
+      "title": "Produção de Mudas de Hortaliças",
       "url": "https://ead.senar.org.br/curso-whatsapp/producao-de-mudas-de-hortalicas"
     },
     {
@@ -3989,7 +3989,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Produção de Mudas de Seringueira Gratuito · 10h · 10 dias · certificado",
+      "title": "Produção de Mudas de Seringueira",
       "url": "https://ead.senar.org.br/cursos/producao-de-mudas-de-seringueira"
     },
     {
@@ -3998,7 +3998,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Produção de Mudas e Manejo Produtivo na Silvicultura Gratuito · 30h · 25 dias · certificado",
+      "title": "Produção de Mudas e Manejo Produtivo na Silvicultura",
       "url": "https://ead.senar.org.br/cursos/producao-de-mudas-e-manejo-produtivo-na-silvicultura"
     },
     {
@@ -4007,7 +4007,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Produção de Sementes e Mudas de Espécies Florestais Nativas do Bioma Cerrado Gratuito · 20h · 15 dias · certificado",
+      "title": "Produção de Sementes e Mudas de Espécies Florestais Nativas do Bioma Cerrado",
       "url": "https://ead.senar.org.br/cursos/producao-de-sementes-e-mudas-de-especies-florestais-nativas-do-bioma-cerrado"
     },
     {
@@ -4016,7 +4016,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Produção de Sementes e Mudas de Espécies Florestais Nativas do Bioma Mata Atlântica Gratuito · 20h · 15 dias · certificado",
+      "title": "Produção de Sementes e Mudas de Espécies Florestais Nativas do Bioma Mata Atlântica",
       "url": "https://ead.senar.org.br/cursos/producao-de-sementes-e-mudas-de-especies-florestais-nativas-do-bioma-mata-atlantica"
     },
     {
@@ -4025,7 +4025,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Produção de Silagem de Grão de Milho Reidratado Gratuito · 4h · 7 dias · certificado",
+      "title": "Produção de Silagem de Grão de Milho Reidratado",
       "url": "https://ead.senar.org.br/cursos/producao-de-silagem-de-grao-de-milho-reidratado"
     },
     {
@@ -4034,7 +4034,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Produção de Silagem de Grão Úmido de Milho Gratuito · 4h · 7 dias · certificado",
+      "title": "Produção de Silagem de Grão Úmido de Milho",
       "url": "https://ead.senar.org.br/cursos/producao-de-silagem-de-grao-umido-de-milho"
     },
     {
@@ -4043,7 +4043,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Produção e Comercialização da Carne Ovina Gratuito · 50h · 30 dias · certificado",
+      "title": "Produção e Comercialização da Carne Ovina",
       "url": "https://ead.senar.org.br/cursos/producao-e-comercializacao-da-carne-ovina"
     },
     {
@@ -4052,7 +4052,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Produção e Comercialização de Feijão: feijão-comum e feijão-caupi Gratuito · 27h · 45 dias · certificado",
+      "title": "Produção e Comercialização de Feijão: feijão-comum e feijão-caupi",
       "url": "https://ead.senar.org.br/cursos/producao-e-comercializacao-de-feijao-feijao-comum-e-feijao-caupi"
     },
     {
@@ -4061,7 +4061,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Produção na Suinocultura Gratuito · 40h · 60 dias · certificado",
+      "title": "Produção na Suinocultura",
       "url": "https://ead.senar.org.br/cursos/producao-na-suinocultura"
     },
     {
@@ -4070,7 +4070,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Proteção de Nascentes Gratuito · 10h · 14 dias · certificado",
+      "title": "Proteção de Nascentes",
       "url": "https://ead.senar.org.br/cursos/protecao-de-nascentes"
     },
     {
@@ -4079,7 +4079,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Pulverizador Tratorizado com Barras Gratuito · 16h · 16 dias · certificado",
+      "title": "Pulverizador Tratorizado com Barras",
       "url": "https://ead.senar.org.br/cursos/pulverizador-tratorizado-com-barras"
     },
     {
@@ -4088,7 +4088,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Pulverizadores Gratuito · 3h · 7 dias · certificado",
+      "title": "Pulverizadores",
       "url": "https://ead.senar.org.br/cursos/pulverizadores"
     },
     {
@@ -4097,7 +4097,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Pulverizadores Costais Gratuito · 16h · 16 dias · certificado",
+      "title": "Pulverizadores Costais",
       "url": "https://ead.senar.org.br/cursos/pulverizadores-costais"
     },
     {
@@ -4106,7 +4106,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Qualidade da Água na Criação de tilápia Gratuito · 3h · 7 dias · certificado",
+      "title": "Qualidade da Água na Criação de tilápia",
       "url": "https://ead.senar.org.br/curso-whatsapp/qualidade-da-agua-na-criacao-de-tilapia"
     },
     {
@@ -4115,7 +4115,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Qualidade da Água na Criação de Tilápia Gratuito · 3h · 7 dias · certificado",
+      "title": "Qualidade da Água na Criação de Tilápia",
       "url": "https://ead.senar.org.br/cursos/qualidade-da-agua-na-criacao-de-tilapia"
     },
     {
@@ -4124,7 +4124,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Qualidade da Água para Irrigação Gratuito · 4h · 7 dias · certificado",
+      "title": "Qualidade da Água para Irrigação",
       "url": "https://ead.senar.org.br/cursos/qualidade-da-agua-na-irrigacao"
     },
     {
@@ -4133,7 +4133,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Queijos Artesanais do Brasil Gratuito · 5h · 7 dias · certificado",
+      "title": "Queijos Artesanais do Brasil",
       "url": "https://ead.senar.org.br/cursos/queijos-artesanais-do-brasil"
     },
     {
@@ -4142,7 +4142,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Rastreabilidade Vegetal Gratuito · 20h · 30 dias · certificado",
+      "title": "Rastreabilidade Vegetal",
       "url": "https://ead.senar.org.br/cursos/rastreabilidade-vegetal"
     },
     {
@@ -4151,7 +4151,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Recria Intensiva a Pasto Gratuito · 8h · 7 dias · certificado",
+      "title": "Recria Intensiva a Pasto",
       "url": "https://ead.senar.org.br/cursos/recria-intensiva-a-pasto"
     },
     {
@@ -4160,7 +4160,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Recuperação de Pastagens Degradadas Gratuito · 20h · 14 dias · certificado",
+      "title": "Recuperação de Pastagens Degradadas",
       "url": "https://ead.senar.org.br/cursos/recuperacao-de-pastagens-degradadas"
     },
     {
@@ -4169,7 +4169,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Reprodução Animal Gratuito · 30h · 25 dias · certificado",
+      "title": "Reprodução Animal",
       "url": "https://ead.senar.org.br/cursos/reproducao-animal"
     },
     {
@@ -4178,7 +4178,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Reprodução e Genética em Bovinocultura de Leite Gratuito · 30h · 30 dias · certificado",
+      "title": "Reprodução e Genética em Bovinocultura de Leite",
       "url": "https://ead.senar.org.br/cursos/reproducao-e-genetica-em-bovinocultura-de-leite"
     },
     {
@@ -4187,7 +4187,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Saneamento Básico para o Meio Rural Gratuito · 10h · 14 dias · certificado",
+      "title": "Saneamento Básico para o Meio Rural",
       "url": "https://ead.senar.org.br/cursos/saneamento-basico-para-o-meio-rural"
     },
     {
@@ -4196,7 +4196,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Sanidade Animal e Tecnologias Gerenciais Gratuito · 40h · 30 dias · certificado",
+      "title": "Sanidade Animal e Tecnologias Gerenciais",
       "url": "https://ead.senar.org.br/cursos/sanidade-animal-e-tecnologias-gerenciais"
     },
     {
@@ -4205,7 +4205,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Segurança no uso de EPIs para aplicação de defensivos agrícolas Gratuito · 3h · 7 dias · certificado",
+      "title": "Segurança no uso de EPIs para aplicação de defensivos agrícolas",
       "url": "https://ead.senar.org.br/cursos/seguranca-no-uso-de-epis-para-aplicacao-de-defensivos-agricolas"
     },
     {
@@ -4214,7 +4214,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Segurança Rural Gratuito · 5h · 7 dias · certificado",
+      "title": "Segurança Rural",
       "url": "https://ead.senar.org.br/cursos/seguranca-rural"
     },
     {
@@ -4223,7 +4223,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Seguro Rural Gratuito · 20h · 20 dias · certificado",
+      "title": "Seguro Rural",
       "url": "https://ead.senar.org.br/cursos/seguro-rural"
     },
     {
@@ -4232,7 +4232,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Sensoriamento remoto básico e mapeamento com drones Gratuito · 12h · 14 dias · certificado",
+      "title": "Sensoriamento remoto básico e mapeamento com drones",
       "url": "https://ead.senar.org.br/cursos/sensoriamento-remoto-basico-e-mapeamento-com-drones"
     },
     {
@@ -4241,7 +4241,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Sistema de Enriquecimento de Dejetos Bovinos para Uso Agropecuário Gratuito · 3h · 7 dias · certificado",
+      "title": "Sistema de Enriquecimento de Dejetos Bovinos para Uso Agropecuário",
       "url": "https://ead.senar.org.br/curso-whatsapp/sistema-de-enriquecimento-de-dejetos-bovinos-para-uso-agropecuario"
     },
     {
@@ -4250,7 +4250,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Sistema de Enriquecimento de Dejetos Bovinos para Uso Agropecuário Gratuito · 3h · 7 dias · certificado",
+      "title": "Sistema de Enriquecimento de Dejetos Bovinos para Uso Agropecuário",
       "url": "https://ead.senar.org.br/cursos/sistema-de-enriquecimento-de-dejetos-bovinos-para-uso-agropecuario"
     },
     {
@@ -4259,7 +4259,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Sistema de Informações e Análise Econômico-Financeira Rural Gratuito · 20h · 30 dias · certificado",
+      "title": "Sistema de Informações e Análise Econômico-Financeira Rural",
       "url": "https://ead.senar.org.br/cursos/sistema-de-informacoes-e-analise-economico-financeira-rural"
     },
     {
@@ -4268,7 +4268,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Sistema de Integração Lavoura-Pecuária-Floresta (ILPF) Gratuito · 30h · 45 dias · certificado",
+      "title": "Sistema de Integração Lavoura-Pecuária-Floresta (ILPF)",
       "url": "https://ead.senar.org.br/cursos/sistema-de-integracao-lavoura-pecuaria-floresta"
     },
     {
@@ -4277,7 +4277,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Sistema de Plantio Direto Gratuito · 30h · 25 dias · certificado",
+      "title": "Sistema de Plantio Direto",
       "url": "https://ead.senar.org.br/cursos/sistema-de-plantio-direto"
     },
     {
@@ -4286,7 +4286,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Sistema de Produção de Leite em Compost Barn Gratuito · 20h · 30 dias · certificado",
+      "title": "Sistema de Produção de Leite em Compost Barn",
       "url": "https://ead.senar.org.br/cursos/sistema-de-producao-de-leite-em-compost-barn"
     },
     {
@@ -4295,7 +4295,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Sistemas de Cultivo da Seringueira e Produção de Látex Gratuito · 20h · 14 dias · certificado",
+      "title": "Sistemas de Cultivo da Seringueira e Produção de Látex",
       "url": "https://ead.senar.org.br/cursos/sistemas-de-cultivo-da-seringueira-e-producao-de-latex"
     },
     {
@@ -4304,7 +4304,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Sistemas de Cultivo na Silvicultura e Projetos Florestais Gratuito · 20h · 30 dias · certificado",
+      "title": "Sistemas de Cultivo na Silvicultura e Projetos Florestais",
       "url": "https://ead.senar.org.br/cursos/sistemas-de-cultivo-na-silvicultura-e-projetos-florestais"
     },
     {
@@ -4313,7 +4313,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Sistemas de Orientação por Satélite Gratuito · 17h · 14 dias · certificado",
+      "title": "Sistemas de Orientação por Satélite",
       "url": "https://ead.senar.org.br/cursos/sistemas-de-orientacao-por-satelite"
     },
     {
@@ -4322,7 +4322,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Sistemas de Produção e Pastagem para Bovinocultura de Leite Gratuito · 30h · 25 dias · certificado",
+      "title": "Sistemas de Produção e Pastagem para Bovinocultura de Leite",
       "url": "https://ead.senar.org.br/cursos/sistemas-de-producao-e-pastagem-para-bovinocultura-de-leite"
     },
     {
@@ -4331,7 +4331,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Sistemas Produtivos e Manejos Culturais na Floricultura Gratuito · 20h · 30 dias · certificado",
+      "title": "Sistemas Produtivos e Manejos Culturais na Floricultura",
       "url": "https://ead.senar.org.br/cursos/sistemas-produtivos-e-manejos-culturais-na-floricultura"
     },
     {
@@ -4340,7 +4340,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Sustentabilidade na Produção do Café Gratuito · 20h · 30 dias · certificado",
+      "title": "Sustentabilidade na Produção do Café",
       "url": "https://ead.senar.org.br/cursos/sustentabilidade-na-producao-do-cafe"
     },
     {
@@ -4349,7 +4349,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Técnicas de Otimização das Pastagens e do Pastejo Gratuito · 2h · 7 dias · certificado",
+      "title": "Técnicas de Otimização das Pastagens e do Pastejo",
       "url": "https://ead.senar.org.br/cursos/tecnicas-de-otimizacao-das-pastagens-e-do-pastejo"
     },
     {
@@ -4358,7 +4358,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Técnicas de Produção da Silagem de Capim Gratuito · 5h · 7 dias · certificado",
+      "title": "Técnicas de Produção da Silagem de Capim",
       "url": "https://ead.senar.org.br/cursos/tecnicas-de-producao-da-silagem-de-capim"
     },
     {
@@ -4367,7 +4367,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Técnicas de Propagação da Palma Forrageira Gratuito · 3h · 7 dias · certificado",
+      "title": "Técnicas de Propagação da Palma Forrageira",
       "url": "https://ead.senar.org.br/cursos/tecnicas-de-propagacao-da-palma-forrageira"
     },
     {
@@ -4376,7 +4376,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Técnicas de Propagação da Palma Forrageira Gratuito · 3h · 7 dias · certificado",
+      "title": "Técnicas de Propagação da Palma Forrageira",
       "url": "https://ead.senar.org.br/curso-whatsapp/tecnicas-de-propagacao-da-palma-forrageira"
     },
     {
@@ -4385,7 +4385,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Técnicas de Realização de Queima Controlada em Propriedades Rurais Gratuito · 4h · 7 dias · certificado",
+      "title": "Técnicas de Realização de Queima Controlada em Propriedades Rurais",
       "url": "https://ead.senar.org.br/cursos/tecnicas-realizacao-queima-controlada"
     },
     {
@@ -4394,7 +4394,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Terminação Intensiva a Pasto - TIP Gratuito · 2h · 7 dias · certificado",
+      "title": "Terminação Intensiva a Pasto - TIP",
       "url": "https://ead.senar.org.br/cursos/terminacao-intensiva-a-pasto-tip"
     },
     {
@@ -4403,7 +4403,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Trabalhador no Extrativismo da Carnaúba Gratuito · 20h · 30 dias · certificado",
+      "title": "Trabalhador no Extrativismo da Carnaúba",
       "url": "https://ead.senar.org.br/cursos/trabalhador-no-extrativismo-da-carnauba"
     },
     {
@@ -4412,7 +4412,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Tratamento de Dejetos Animais Gratuito · 20h · 30 dias · certificado",
+      "title": "Tratamento de Dejetos Animais",
       "url": "https://ead.senar.org.br/cursos/tratamento-de-dejetos-animais"
     },
     {
@@ -4421,7 +4421,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App Turismo Rural – O que é e por onde começar Gratuito · 3h · 7 dias · certificado",
+      "title": "Turismo Rural – O que é e por onde começar",
       "url": "https://ead.senar.org.br/cursos/turismo-rural-o-que-e-e-por-onde-comecar"
     },
     {
@@ -4430,7 +4430,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Uso de Bioestimulantes em Hortaliças Gratuito · 3h · 7 dias · certificado",
+      "title": "Uso de Bioestimulantes em Hortaliças",
       "url": "https://ead.senar.org.br/cursos/uso-de-bioestimulantes-em-hortalicas"
     },
     {
@@ -4439,7 +4439,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Uso de Bioestimulantes em Hortaliças Gratuito · 3h · 7 dias · certificado",
+      "title": "Uso de Bioestimulantes em Hortaliças",
       "url": "https://ead.senar.org.br/curso-whatsapp/uso-de-bioestimulantes-em-hortalicas"
     },
     {
@@ -4448,7 +4448,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Disponível pelo App WhatsApp Business para Produtores Rurais Gratuito · 3h · 7 dias · certificado",
+      "title": "WhatsApp Business para Produtores Rurais",
       "url": "https://ead.senar.org.br/cursos/whatsapp-business-para-produtores-rurais"
     },
     {
@@ -4457,7 +4457,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp WhatsApp Business para Produtores Rurais Gratuito · 3h · 7 dias · certificado",
+      "title": "WhatsApp Business para Produtores Rurais",
       "url": "https://ead.senar.org.br/curso-whatsapp/whatsapp-business-para-produtores-rurais"
     },
     {
@@ -4466,7 +4466,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Word Básico Gratuito · 15h · 21 dias · certificado",
+      "title": "Word Básico",
       "url": "https://ead.senar.org.br/cursos/word-basico"
     },
     {
@@ -4475,7 +4475,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Word Intermediário Gratuito · 15h · 21 dias · certificado",
+      "title": "Word Intermediário",
       "url": "https://ead.senar.org.br/cursos/word-intermediario"
     },
     {
@@ -4484,7 +4484,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Apresentação de Produtos Rurais Gratuito · 3h · 7 dias · certificado",
+      "title": "Apresentação de Produtos Rurais",
       "url": "https://ead.senar.org.br/curso-whatsapp/apresentacao-de-produtos-rurais"
     },
     {
@@ -4493,7 +4493,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Como preparar a sua propriedade para receber turistas Gratuito · 3h · 7 dias · certificado",
+      "title": "Como preparar a sua propriedade para receber turistas",
       "url": "https://ead.senar.org.br/curso-whatsapp/como-preparar-a-sua-propriedade-para-receber-turistas"
     },
     {
@@ -4502,7 +4502,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Farmácia veterinária na propriedade rural Gratuito · 3h · 7 dias · certificado",
+      "title": "Farmácia veterinária na propriedade rural",
       "url": "https://ead.senar.org.br/curso-whatsapp/farmacia-veterinaria-na-propriedade-rural"
     },
     {
@@ -4511,7 +4511,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Marketplace para Produtores Rurais Gratuito · 3h · 7 dias · certificado",
+      "title": "Marketplace para Produtores Rurais",
       "url": "https://ead.senar.org.br/curso-whatsapp/marketplace-para-produtores-rurais"
     },
     {
@@ -4520,7 +4520,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Organização e Exposição de Produtos em Eventos Gratuito · 3h · 7 dias · certificado",
+      "title": "Organização e Exposição de Produtos em Eventos",
       "url": "https://ead.senar.org.br/curso-whatsapp/organizacao-e-exposicao-de-produtos-em-eventos"
     },
     {
@@ -4529,7 +4529,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Segurança no uso de EPIs para aplicação de defensivos agrícolas Gratuito · 3h · 7 dias · certificado",
+      "title": "Segurança no uso de EPIs para aplicação de defensivos agrícolas",
       "url": "https://ead.senar.org.br/curso-whatsapp/seguranca-no-uso-de-epis-para-aplicacao-de-defensivos-agricolas"
     },
     {
@@ -4538,7 +4538,7 @@
       "description": "Curso gratuito do Senar EAD.",
       "portal": "Senar EAD",
       "source": "https://ead.senar.org.br/cursos",
-      "title": "Curso pelo WhatsApp Turismo Rural – o que é e por onde começar? Gratuito · 3h · 7 dias · certificado",
+      "title": "Turismo Rural – o que é e por onde começar?",
       "url": "https://ead.senar.org.br/curso-whatsapp/turismo-rural-o-que-e-e-por-onde-comecar"
     },
     {
@@ -17388,7 +17388,7 @@
     "Sebrae Paraíba": "51 cursos encontrados; 56 mantidos no catálogo.",
     "UEMP": "15 cursos encontrados; 19 mantidos no catálogo.",
     "MEC Idiomas": "1 cursos mantidos no catálogo.",
-    "HCX FMUSP": "17 cursos mantidos no catálogo.",
+    "HCX FMUSP": "12 cursos encontrados; 17 mantidos no catálogo.",
     "Prime Cursos": "524 cursos encontrados; 524 mantidos no catálogo.",
     "Senac EAD": "79 cursos encontrados; 80 mantidos no catálogo.",
     "Coursera": "78 cursos encontrados; 87 mantidos no catálogo.",
