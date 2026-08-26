@@ -7,7 +7,7 @@
   <meta name="theme-color" content="#061317">
   <meta name="description" content="Catálogo de cursos, capacitações e materiais gratuitos para estudar e avançar profissionalmente.">
   <title>Todos os Cursos Free — Catálogo gratuito</title>
-  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="./assets/cursos-icon.jpg" type="image/jpeg">
   <script src="./theme.js"></script>
   <link rel="stylesheet" href="./styles.css">
   <script src="./app.js" defer></script>
@@ -17,8 +17,7 @@
 <header class="site-header">
   <div class="shell header-inner">
     <a class="brand" href="./" aria-label="Todos os Cursos Free — início">
-      <span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 48 48" fill="none"><rect x="1" y="1" width="46" height="46" rx="13" fill="currentColor" opacity=".14"/><path d="M10 14.5c5.8-2.2 10.2-.7 14 2v18c-3.8-2.7-8.2-4.2-14-2v-18Z" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round"/><path d="M38 14.5c-5.8-2.2-10.2-.7-14 2v18c-3.8-2.7-8.2-4.2-14-2v-18Z" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round"/><path d="M15 19.5c2.8-.4 5.5.2 9 2.3m-9 3.4c2.8-.4 5.5.2 9 2.3m9-8c-2.8-.4-5.5.2-9 2.3m9 3.4c-2.8-.4-5.5.2-9 2.3" stroke="currentColor" stroke-width="1.45" stroke-linecap="round"/></svg></span>
-      <span class="brand-copy"><span class="brand-title">Todos os Cursos <span>Free</span></span><span class="brand-credit">by <strong>Edson Paiva</strong></span></span>
+      <span class="brand-mark"><img src="./assets/cursos-icon.jpg" alt=""></span><span class="brand-copy"><span class="brand-title">Todos os Cursos <span>Free</span></span><span class="brand-credit">by <strong>Edson Paiva</strong></span></span>
     </a>
     <nav class="site-nav" aria-label="Navegação principal">
       <a class="nav-link nav-link-current" href="./" aria-current="page"><span aria-hidden="true">▣</span><span>Cursos</span></a>
@@ -39,7 +38,7 @@
         <div class="hero-actions"><a class="primary-button" href="#catalogo">Explorar cursos <span aria-hidden="true">↓</span></a><span class="hero-note">Links para as plataformas originais</span></div>
       </div>
       <div class="stats-grid" aria-label="Resumo do catálogo">
-        <article class="stat-card"><span class="stat-icon stat-green" aria-hidden="true">↗</span><div><strong>15</strong><span>fontes reunidas</span></div></article>
+        <article class="stat-card"><span class="stat-icon stat-green" aria-hidden="true">↗</span><div><strong>16</strong><span>fontes reunidas</span></div></article>
         <article class="stat-card"><span class="stat-icon stat-blue" aria-hidden="true">◫</span><div><strong>100%</strong><span>acesso externo</span></div></article>
         <article class="stat-card"><span class="stat-icon stat-gold" aria-hidden="true">✓</span><div><strong>Grátis*</strong><span>ofertas selecionadas</span></div></article>
       </div>
@@ -49,7 +48,7 @@
   <section class="catalog shell" id="catalogo" aria-labelledby="catalogTitle">
     <div class="section-heading">
       <div><p class="section-kicker">CATÁLOGO DE FORMAÇÃO</p><h2 id="catalogTitle">Cursos e caminhos gratuitos</h2><p class="section-description">Use os filtros para encontrar uma oportunidade e acesse diretamente a página original.</p></div>
-      <div class="catalog-total" aria-live="polite"><strong id="visibleCount">66</strong><span>opções encontradas</span></div>
+      <div class="catalog-total" aria-live="polite"><strong id="visibleCount">0</strong><span>opções encontradas</span></div>
     </div>
     <div class="catalog-layout">
       <aside class="filters-panel" aria-label="Filtros do catálogo">
@@ -59,12 +58,12 @@
         <label class="field-label" for="portalFilter">Portal</label><select id="portalFilter"><option value="">Todos os portais</option></select><label class="field-label" for="categoryFilter">Categoria</label>
         <select id="categoryFilter"><option value="">Todas as categorias</option></select>
         <label class="field-label" for="certificateFilter">Certificação</label>
-        <select id="certificateFilter"><option value="">Todas as opções</option><option value="free">Certificado gratuito</option><option value="check">Certificado conforme o curso</option><option value="maybe">Certificado pode ser pago</option><option value="material">Material sem certificação</option></select>
+        <select id="certificateFilter"><option value="">Todas as opções</option><option value="free">Certificado gratuito</option><option value="declaration">Declaração após avaliação</option><option value="check">Certificado conforme o curso</option><option value="maybe">Certificado pode ser pago</option><option value="material">Material sem certificação</option></select>
         <button class="clear-filters" id="clearFilters" type="button">Limpar filtros</button>
         <div class="filter-note"><strong>Como funciona</strong><p>O catálogo reúne links externos. As condições de gratuidade e certificação pertencem a cada plataforma.</p></div>
       </aside>
       <section class="results-panel" aria-label="Resultados dos cursos">
-        <div class="results-toolbar"><div><span class="results-label">RESULTADOS</span><strong id="resultsSummary">66 cursos disponíveis</strong></div><label class="sort-control" for="sortCourses"><span>Ordenar</span><select id="sortCourses"><option value="featured">Mais relevantes</option><option value="az">A–Z</option><option value="category">Categoria</option></select></label></div>
+        <div class="results-toolbar"><div><span class="results-label">RESULTADOS</span><strong id="resultsSummary">Carregando catálogo…</strong></div><label class="sort-control" for="sortCourses"><span>Ordenar</span><select id="sortCourses"><option value="featured">Mais relevantes</option><option value="az">A–Z</option><option value="category">Categoria</option></select></label></div>
         <div class="course-grid" id="courseGrid"></div>
         <div class="empty-state" id="emptyState" hidden><span aria-hidden="true">⌕</span><h3>Nenhum curso encontrado</h3><p>Tente mudar os filtros ou pesquisar por outro termo.</p><button class="clear-filters" type="button" data-clear>Limpar filtros</button></div>
       </section>
