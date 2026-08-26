@@ -1,0 +1,313 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="dark light">
+    <meta name="theme-color" content="#061317">
+    <meta name="referrer" content="no-referrer">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; object-src 'none'; base-uri 'none'; form-action 'none'">
+    <meta name="description" content="Seleção de plataformas e materiais gratuitos para estudar, se qualificar e avançar profissionalmente.">
+    <meta property="og:title" content="Todos os Cursos Free — Aprenda e avance">
+    <meta property="og:description" content="Cursos, capacitações e materiais gratuitos reunidos em um só lugar.">
+    <meta property="og:type" content="website">
+    <title>Todos os Cursos Free — Aprenda e avance</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+    <script src="./theme.js"></script>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#catalogo">Pular para o catálogo</a>
+
+    <header class="site-header">
+      <div class="shell header-inner">
+        <a class="brand" href="./" aria-label="Todos os Cursos Free — início">
+          <span class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 48 48" fill="none">
+              <rect x="1" y="1" width="46" height="46" rx="13" fill="currentColor" opacity=".14"/>
+              <path d="M10 14.5c5.8-2.2 10.2-.7 14 2v18c-3.8-2.7-8.2-4.2-14-2v-18Z" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round"/>
+              <path d="M38 14.5c-5.8-2.2-10.2-.7-14 2v18c3.8-2.7 8.2-4.2 14-2v-18Z" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round"/>
+              <path d="M15 19.5c2.8-.4 5.5.2 9 2.3m-9 3.4c2.8-.4 5.5.2 9 2.3m9-8c-2.8-.4-5.5.2-9 2.3m9 3.4c-2.8-.4-5.5.2-9 2.3" stroke="currentColor" stroke-width="1.45" stroke-linecap="round"/>
+            </svg>
+          </span>
+          <span class="brand-copy">
+            <span class="brand-title">Todos os Cursos <span>Free</span></span>
+            <span class="brand-credit">by <strong>Edson Paiva</strong></span>
+          </span>
+        </a>
+
+        <nav class="site-nav" aria-label="Navegação principal">
+          <a class="nav-link nav-link-current" href="./" aria-current="page">
+            <svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7">
+              <path d="M5 4.5h10.5A3.5 3.5 0 0 1 19 8v11.5H8.5A3.5 3.5 0 0 1 5 16V4.5Z"/>
+              <path d="M5 16.5A3.5 3.5 0 0 1 8.5 13H19M9 7.5h6M9 10h4"/>
+            </svg>
+            <span>Cursos</span>
+          </a>
+          <a class="nav-link" href="https://edsonjunioor32.github.io/todas-as-vagas/" target="_blank" rel="noopener noreferrer">
+            <svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7">
+              <path d="M4 8.5h16M6.5 8.5V6.8A1.8 1.8 0 0 1 8.3 5h7.4a1.8 1.8 0 0 1 1.8 1.8v1.7M5 8.5h14l1 10.5H4L5 8.5Z"/>
+              <path d="M9 12h6m-5 3h4"/>
+            </svg>
+            <span>Vagas</span>
+          </a>
+          <button class="theme-toggle" id="themeToggle" type="button" aria-pressed="false" aria-label="Ativar tema escuro">
+            <span class="theme-toggle-icon" id="themeIcon" aria-hidden="true">☾</span>
+            <span id="themeLabel">Tema escuro</span>
+          </button>
+          <a class="nav-link" href="https://github.com/edsonjunioor32/todas-os-cursos-free" target="_blank" rel="noopener noreferrer">
+            <svg aria-hidden="true" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M12 .8A11.2 11.2 0 0 0 .8 12c0 4.95 3.2 9.15 7.65 10.63.56.1.76-.24.76-.54v-2.1c-3.11.68-3.77-1.31-3.77-1.31-.5-1.3-1.25-1.64-1.25-1.64-1.02-.7.08-.69.08-.69 1.13.08 1.73 1.16 1.73 1.16 1 1.72 2.62 1.22 3.26.93.1-.73.39-1.22.7-1.5-2.48-.29-5.08-1.24-5.08-5.51 0-1.22.43-2.22 1.15-3-.12-.29-.5-1.42.1-2.96 0 0 .94-.3 3.08 1.14a10.68 10.68 0 0 1 5.6 0c2.14-1.44 3.08-1.14 3.08-1.14.6 1.54.22 2.67.1 2.95.72.79 1.15 1.79 1.15 3.01 0 4.28-2.61 5.22-5.1 5.5.4.35.76 1.03.76 2.07v3.09c0 .3.2.64.77.53A11.2 11.2 0 0 0 12 .8Z"/>
+            </svg>
+            <span>Projeto</span>
+          </a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="courses-hero" aria-labelledby="pageTitle">
+        <span class="hero-orbit hero-orbit-left" aria-hidden="true"></span>
+        <span class="hero-orbit hero-orbit-right" aria-hidden="true"></span>
+        <div class="shell hero-grid">
+          <div class="hero-copy-block">
+            <p class="eyebrow"><span class="eyebrow-dot" aria-hidden="true"></span>FORMAÇÃO E EMPREGABILIDADE</p>
+            <h1 id="pageTitle">Aprenda algo novo.<br><span>Avance na carreira.</span></h1>
+            <p class="hero-copy">
+              Uma seleção de plataformas, cursos e materiais gratuitos para você desenvolver novas habilidades, fortalecer o currículo e encontrar o próximo passo.
+            </p>
+            <div class="hero-actions">
+              <a class="primary-button" href="#catalogo">Explorar o catálogo <span aria-hidden="true">↓</span></a>
+              <span class="hero-note">Acesso externo e gratuito*</span>
+            </div>
+          </div>
+
+          <aside class="hero-panel" aria-label="Resumo do catálogo">
+            <div class="hero-panel-heading">
+              <span class="panel-kicker">FONTES REUNIDAS</span>
+              <strong>15</strong>
+            </div>
+            <div class="panel-rule" aria-hidden="true"></div>
+            <p>Portais públicos e materiais selecionados para apoiar sua formação.</p>
+            <div class="panel-list">
+              <span><b>01</b> Qualificação profissional</span>
+              <span><b>02</b> Tecnologia e negócios</span>
+              <span><b>03</b> Idiomas e atualização</span>
+            </div>
+          </aside>
+        </div>
+      </section>
+
+      <section class="catalog shell" id="catalogo" aria-labelledby="catalogTitle">
+        <header class="section-header">
+          <div>
+            <p class="section-kicker">ESCOLHA ONDE COMEÇAR</p>
+            <h2 id="catalogTitle">Cursos e caminhos gratuitos</h2>
+          </div>
+          <p class="section-description">Acesse a plataforma original e confira as ofertas disponíveis.</p>
+        </header>
+
+        <div class="course-grid">
+          <article class="course-card">
+            <div class="card-topline">
+              <span class="course-icon icon-green" aria-hidden="true">SO</span>
+              <span class="course-category">Tecnologia · Idiomas · Negócios</span>
+            </div>
+            <h3>Santander Open Academy</h3>
+            <p>Cursos, conteúdos e bolsas para desenvolver competências profissionais no seu ritmo.</p>
+            <div class="course-tags"><span class="course-tag tag-positive">Acesso gratuito</span><span class="course-tag">Certificado conforme a oferta</span></div>
+            <a class="course-link" href="https://www.santanderopenacademy.com/pt_br/index.html" target="_blank" rel="noopener noreferrer">Acessar plataforma <span aria-hidden="true">↗</span></a>
+          </article>
+
+          <article class="course-card">
+            <div class="card-topline">
+              <span class="course-icon icon-blue" aria-hidden="true">FGV</span>
+              <span class="course-category">Formação geral</span>
+            </div>
+            <h3>FGV Cursos Gratuitos</h3>
+            <p>Conteúdos de formação em diferentes áreas para estudar com a credibilidade da Fundação Getulio Vargas.</p>
+            <div class="course-tags"><span class="course-tag tag-positive">Cursos gratuitos</span><span class="course-tag">Confira o certificado</span></div>
+            <a class="course-link" href="https://cursosgratuitos.fgv.br/" target="_blank" rel="noopener noreferrer">Acessar plataforma <span aria-hidden="true">↗</span></a>
+          </article>
+
+          <article class="course-card">
+            <div class="card-topline">
+              <span class="course-icon icon-violet" aria-hidden="true">NF</span>
+              <span class="course-category">Idiomas</span>
+            </div>
+            <h3>Nação Fluente</h3>
+            <p>Artigo com cronograma e organização de vídeos para estudar inglês no YouTube.</p>
+            <div class="course-tags"><span class="course-tag tag-positive">Material gratuito</span><span class="course-tag tag-neutral">Não é curso</span></div>
+            <a class="course-link" href="https://www.nacaofluente.com/blog/como-aprender-ingles-no-youtube/" target="_blank" rel="noopener noreferrer">Ver material <span aria-hidden="true">↗</span></a>
+          </article>
+
+          <article class="course-card">
+            <div class="card-topline">
+              <span class="course-icon icon-gold" aria-hidden="true">SN</span>
+              <span class="course-category">Qualificação profissional</span>
+            </div>
+            <h3>Senar EAD</h3>
+            <p>Catálogo de capacitações a distância para formação, gestão, produção e desenvolvimento profissional.</p>
+            <div class="course-tags"><span class="course-tag tag-positive">Cursos EAD</span><span class="course-tag">Certificado conforme o curso</span></div>
+            <a class="course-link" href="https://ead.senar.org.br/cursos" target="_blank" rel="noopener noreferrer">Ver cursos <span aria-hidden="true">↗</span></a>
+          </article>
+
+          <article class="course-card">
+            <div class="card-topline">
+              <span class="course-icon icon-orange" aria-hidden="true">SE</span>
+              <span class="course-category">Empreendedorismo</span>
+            </div>
+            <h3>Sebrae Paraíba</h3>
+            <p>Cursos online para empreendedorismo, gestão, negócios e desenvolvimento de ideias.</p>
+            <div class="course-tags"><span class="course-tag tag-positive">Cursos online</span><span class="course-tag">Confira as condições</span></div>
+            <a class="course-link" href="https://pb.loja.sebrae.com.br/cursos/cursos-online" target="_blank" rel="noopener noreferrer">Ver cursos <span aria-hidden="true">↗</span></a>
+          </article>
+
+          <article class="course-card">
+            <div class="card-topline">
+              <span class="course-icon icon-red" aria-hidden="true">EV</span>
+              <span class="course-category">Tecnologia · Produtividade</span>
+            </div>
+            <h3>Escola Virtual Fundação Bradesco</h3>
+            <p>Formação gratuita em tecnologia, produtividade, negócios e desenvolvimento pessoal.</p>
+            <div class="course-tags"><span class="course-tag tag-positive">Acesso gratuito</span><span class="course-tag">Certificado de conclusão</span></div>
+            <a class="course-link" href="https://www.ev.org.br/cursos" target="_blank" rel="noopener noreferrer">Ver cursos <span aria-hidden="true">↗</span></a>
+          </article>
+
+          <article class="course-card">
+            <div class="card-topline">
+              <span class="course-icon icon-teal" aria-hidden="true">UE</span>
+              <span class="course-category">Cursos livres</span>
+            </div>
+            <h3>UEMP</h3>
+            <p>Cursos online gratuitos em diversas áreas, com regras próprias para emissão da certificação.</p>
+            <div class="course-tags"><span class="course-tag tag-positive">Cursos gratuitos</span><span class="course-tag">Certificado conforme regras</span></div>
+            <a class="course-link" href="https://cursosgratis.uemp.com.br/" target="_blank" rel="noopener noreferrer">Ver cursos <span aria-hidden="true">↗</span></a>
+          </article>
+
+          <article class="course-card">
+            <div class="card-topline">
+              <span class="course-icon icon-blue" aria-hidden="true">MEC</span>
+              <span class="course-category">Idiomas</span>
+            </div>
+            <h3>MEC Idiomas</h3>
+            <p>Acesso à plataforma de idiomas do MEC para apoiar o aprendizado e a prática de línguas.</p>
+            <div class="course-tags"><span class="course-tag tag-positive">Idiomas</span><span class="course-tag">Acesse e confira</span></div>
+            <a class="course-link" href="https://mecidiomas.mec.gov.br/login" target="_blank" rel="noopener noreferrer">Acessar plataforma <span aria-hidden="true">↗</span></a>
+          </article>
+
+          <article class="course-card">
+            <div class="card-topline">
+              <span class="course-icon icon-green" aria-hidden="true">AM</span>
+              <span class="course-category">Formação · Educação</span>
+            </div>
+            <h3>Aprenda Mais MEC</h3>
+            <p>Cursos abertos e gratuitos para ampliar conhecimentos e apoiar a formação ao longo da vida.</p>
+            <div class="course-tags"><span class="course-tag tag-positive">Acesso gratuito</span><span class="course-tag">Certificado conforme a oferta</span></div>
+            <a class="course-link" href="https://aprendamais.mec.gov.br/" target="_blank" rel="noopener noreferrer">Ver cursos <span aria-hidden="true">↗</span></a>
+          </article>
+
+          <article class="course-card">
+            <div class="card-topline">
+              <span class="course-icon icon-red" aria-hidden="true">HCX</span>
+              <span class="course-category">Saúde · Educação</span>
+            </div>
+            <h3>HCX FMUSP</h3>
+            <p>Cursos EAD gratuitos ligados à saúde, à educação e à atualização profissional.</p>
+            <div class="course-tags"><span class="course-tag tag-positive">Cursos gratuitos</span><span class="course-tag">Certificado conforme o curso</span></div>
+            <a class="course-link" href="https://ensino.hcxfmusp.org.br/online/cursos/ead/gratuitos" target="_blank" rel="noopener noreferrer">Ver cursos <span aria-hidden="true">↗</span></a>
+          </article>
+
+          <article class="course-card">
+            <div class="card-topline">
+              <span class="course-icon icon-violet" aria-hidden="true">CS</span>
+              <span class="course-category">Cursos livres</span>
+            </div>
+            <h3>Cruzeiro do Sul Virtual</h3>
+            <p>Cursos livres para complementar a formação e atualizar conhecimentos em diferentes temas.</p>
+            <div class="course-tags"><span class="course-tag tag-positive">Cursos livres</span><span class="course-tag">Confira a oferta</span></div>
+            <a class="course-link" href="https://cursos.cruzeirodosulvirtual.com.br/cursos-livres" target="_blank" rel="noopener noreferrer">Ver cursos <span aria-hidden="true">↗</span></a>
+          </article>
+
+          <article class="course-card">
+            <div class="card-topline">
+              <span class="course-icon icon-gold" aria-hidden="true">PC</span>
+              <span class="course-category">Cursos livres</span>
+            </div>
+            <h3>Prime Cursos</h3>
+            <p>Cursos online em várias áreas, com regras próprias para acesso e emissão do certificado.</p>
+            <div class="course-tags"><span class="course-tag tag-positive">Cursos gratuitos</span><span class="course-tag">Confira as regras</span></div>
+            <a class="course-link" href="https://www.primecursos.com.br/" target="_blank" rel="noopener noreferrer">Ver cursos <span aria-hidden="true">↗</span></a>
+          </article>
+
+          <article class="course-card">
+            <div class="card-topline">
+              <span class="course-icon icon-orange" aria-hidden="true">SC</span>
+              <span class="course-category">Qualificação profissional</span>
+            </div>
+            <h3>Senac — Programa de Gratuidade</h3>
+            <p>Oportunidades de qualificação profissional gratuita oferecidas pelo Senac na modalidade EAD.</p>
+            <div class="course-tags"><span class="course-tag tag-positive">Programa gratuito</span><span class="course-tag">Certificado conforme o programa</span></div>
+            <a class="course-link" href="https://www.ead.senac.br/gratuito/" target="_blank" rel="noopener noreferrer">Conhecer programa <span aria-hidden="true">↗</span></a>
+          </article>
+
+          <article class="course-card">
+            <div class="card-topline">
+              <span class="course-icon icon-blue" aria-hidden="true">CO</span>
+              <span class="course-category">Cursos internacionais</span>
+            </div>
+            <h3>Coursera — cursos gratuitos</h3>
+            <p>Busca por cursos de universidades e empresas. Use o filtro gratuito e leia as condições da oferta.</p>
+            <div class="course-tags"><span class="course-tag tag-positive">Cursos gratuitos</span><span class="course-tag tag-caution">Certificado pode ser pago</span></div>
+            <a class="course-link" href="https://www.coursera.org/courses?query=free" target="_blank" rel="noopener noreferrer">Pesquisar cursos <span aria-hidden="true">↗</span></a>
+          </article>
+
+          <article class="course-card">
+            <div class="card-topline">
+              <span class="course-icon icon-teal" aria-hidden="true">UD</span>
+              <span class="course-category">Tecnologia · Negócios</span>
+            </div>
+            <h3>Udemy — cursos gratuitos</h3>
+            <p>Catálogo de cursos gratuitos em vários temas para aprender no seu ritmo.</p>
+            <div class="course-tags"><span class="course-tag tag-positive">Cursos gratuitos</span><span class="course-tag tag-caution">Certificado pode não estar incluído</span></div>
+            <a class="course-link" href="https://www.udemy.com/courses/free/" target="_blank" rel="noopener noreferrer">Pesquisar cursos <span aria-hidden="true">↗</span></a>
+          </article>
+        </div>
+
+        <aside class="certificate-note" aria-labelledby="certificateTitle">
+          <span class="certificate-icon" aria-hidden="true">✓</span>
+          <div>
+            <h2 id="certificateTitle">Antes de começar, confira o certificado</h2>
+            <p>As condições variam conforme a plataforma, o curso e a turma. Alguns oferecem certificado gratuito; outros podem cobrar pela emissão ou não incluir certificação. Consulte sempre as regras na página original antes de iniciar.</p>
+          </div>
+        </aside>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="shell footer-grid">
+        <div>
+          <strong>Todos os Cursos Free</strong>
+          <p>Uma curadoria independente de caminhos gratuitos para aprender e se qualificar.</p>
+          <div class="creator-credit">
+            <span>Criado por <strong>Edson Paiva</strong></span>
+            <a class="linkedin-link" href="https://www.linkedin.com/in/edson-paiva-jr/" target="_blank" rel="noopener noreferrer">
+              <span aria-hidden="true">in</span>
+              Ver LinkedIn
+            </a>
+          </div>
+          <section class="support-card" aria-labelledby="supportTitle">
+            <h2 id="supportTitle">☕ Apoie o projeto</h2>
+            <p>O acesso é gratuito. Se esta curadoria ajudar na sua formação e estiver ao seu alcance, uma contribuição voluntária ajuda a manter e evoluir o projeto.</p>
+            <p>Compartilhar o catálogo com quem está estudando também é uma grande ajuda. 🤝</p>
+            <p class="support-pix"><strong>Pix:</strong> edsonjunior32@hotmail.com</p>
+          </section>
+        </div>
+        <div class="footer-side">
+          <p>Os links direcionam para páginas externas. O projeto não possui vínculo com as plataformas listadas e não emite certificados.</p>
+          <a class="footer-vagas-link" href="https://edsonjunioor32.github.io/todas-as-vagas/" target="_blank" rel="noopener noreferrer">Também está procurando emprego? Acesse o Portal Todas as Vagas ↗</a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
