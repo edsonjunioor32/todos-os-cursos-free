@@ -56,7 +56,11 @@ const CATALOGS = [
     source: "https://ead.senar.org.br/cursos",
     urls: ["https://ead.senar.org.br/cursos"],
     hosts: ["ead.senar.org.br"],
-    match: /ead\.senar\.org\.br\/curso(?:-whatsapp)?\/[^/?#]+/i,
+    match: /ead\.senar\.org\.br\/(?:cursos|curso-whatsapp)\/[^/?#]+/i,
+    loadMoreSelector: 'button[data-action="load-more"]',
+    loadMoreLimit: 48,
+    loadMoreWaitMs: 1400,
+    sourceCountPattern: /(\d+)\s+cursos encontrados/i,
     category: "Cursos gratuitos",
     cert: "free",
     description: "Curso gratuito do Senar EAD.",
@@ -420,10 +424,20 @@ async function collectPortal(browser, config) {
         }
       }
 
-      const captureCurrentPage = async () => {
-        await scrollCatalog(page);
+      let reportedCount = null;
+      const captureCurrentPage = async (shouldScroll = true) => {
+        if (shouldScroll) {
+          await scrollCatalog(page);
+        }
         const anchors = await readPageAnchors(page);
         registerAnchors(anchors, config, records, pending, queued, visited);
+        if (config.sourceCountPattern) {
+          const bodyText = await page.locator("body").innerText().catch(() => "");
+          const countMatch = bodyText.match(config.sourceCountPattern);
+          if (countMatch) {
+            reportedCount = Number(countMatch[1]);
+          }
+        }
       };
 
       if (config.clientPageSelector) {
@@ -440,6 +454,41 @@ async function collectPortal(browser, config) {
       } else {
         await captureCurrentPage();
       }
+
+      if (config.loadMoreSelector) {
+        let stagnant = 0;
+        for (let clickNumber = 0; clickNumber < (config.loadMoreLimit || 24); clickNumber += 1) {
+          const loadMore = page.locator(config.loadMoreSelector);
+          if (!(await loadMore.count())) {
+            break;
+          }
+          if (!(await loadMore.isVisible().catch(() => false))) {
+            break;
+          }
+          if (!(await loadMore.isEnabled().catch(() => false))) {
+            break;
+          }
+
+          const before = records.size;
+          try {
+            await loadMore.click({ timeout: 10000 });
+          } catch (error) {
+            const message = error instanceof Error ? error.message : String(error);
+            errors.push(catalogUrl + " -> load-more: " + message);
+          }
+          await page.waitForTimeout(config.loadMoreWaitMs || config.waitMs || 1800);
+          await captureCurrentPage(false);
+
+          if (records.size === before) {
+            stagnant += 1;
+          } else {
+            stagnant = 0;
+          }
+          if (stagnant >= 2) {
+            break;
+          }
+        }
+      }
     } catch (error) {
       const message = error instanceof Error ? error.message : String(error);
       errors.push(catalogUrl + " -> " + message);
@@ -452,6 +501,7 @@ async function collectPortal(browser, config) {
   return {
     records: [...records.values()],
     visited: visited.size,
+    reportedCount,
     errors
   };
 }
@@ -566,6 +616,7 @@ try {
       discovered: merged.discovered,
       total: merged.courses.length,
       visited: result.visited,
+      reported: result.reportedCount,
       errors: result.errors
     });
 
@@ -652,6 +703,7 @@ for (const stat of stats) {
       ", total=" +
       stat.total +
       (stat.visited ? ", páginas=" + stat.visited : "") +
+      (stat.reported ? ", reportado=" + stat.reported : "") +
       errors
   );
 }
