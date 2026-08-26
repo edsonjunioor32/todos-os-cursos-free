@@ -18,7 +18,8 @@ const CATALOGS = [
     source: "https://www.santanderopenacademy.com/pt_br/index.html",
     urls: ["https://www.santanderopenacademy.com/pt_br/index.html"],
     hosts: ["www.santanderopenacademy.com", "app.santanderopenacademy.com"],
-    match: /app\.santanderopenacademy\.com\/pt-BR\/program\//i,
+    match: /app\.santanderopenacademy\.com\/pt-BR\/program\/(?!search(?:[/?#]|$))[^/?#]+/i,
+    exclude: /app\.santanderopenacademy\.com\/pt-BR\/program\/search(?:[/?#]|$)/i,
     category: "Cursos gratuitos",
     cert: "check",
     description: "Curso localizado no catálogo da Santander Open Academy.",
@@ -30,6 +31,11 @@ const CATALOGS = [
     urls: ["https://cursosgratuitos.fgv.br/"],
     hosts: ["cursosgratuitos.fgv.br"],
     match: /cursosgratuitos\.fgv\.br\/curso\/[^/?#]+/i,
+    waitMs: 6000,
+    pageSizeSelector: "#fgv-page-size-select",
+    pageSizeLabel: "40",
+    clientPageSelector: "nav.fgv-pagination a",
+    clientPages: 20,
     category: "Cursos gratuitos",
     cert: "declaration",
     description: "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
@@ -252,38 +258,94 @@ function titleFromSlug(value) {
   }
 }
 
+const TITLE_OVERRIDES = new Map([
+  [
+    "https://app.santanderopenacademy.com/pt-BR/program/santander-certificacoes-financeiras-2026-2-semestre",
+    "Santander Certificações Financeiras 2026"
+  ],
+  [
+    "https://app.santanderopenacademy.com/pt-BR/program/como-investir-em-voce-2026",
+    "Como Investir em você 2026"
+  ],
+  [
+    "https://app.santanderopenacademy.com/pt-BR/program/ciberseguranca-do-zero-a-pratica",
+    "Cibersegurança do Zero à Prática"
+  ],
+  [
+    "https://app.santanderopenacademy.com/pt-BR/program/santander-fala-mundo-2026-3-edicao",
+    "Santander Fala Mundo 2026"
+  ],
+  [
+    "https://app.santanderopenacademy.com/pt-BR/program/santander-marketing-digital",
+    "Santander Marketing Digital"
+  ]
+]);
+
+const GENERIC_TITLE_PATTERN =
+  /^(?:mais informa(?:ç|c)(?:ões|oes)|saiba mais|ver curso|acessar curso|learn more|search|comece a explorar|inscreva-se)$/i;
+
 function usefulTitle(value) {
   let title = cleanText(value);
-  if (!title) {
-    return "";
-  }
-  title = title
-    .replace(/^(ver|acessar|conheça|saiba mais|learn more)\s*(curso)?\s*$/i, "")
-    .replace(/\s*(ver curso|saiba mais|learn more|acessar curso)\s*$/i, "")
-    .trim();
-  if (!title || /^(ver|acessar|saiba mais|learn more|inscreva-se)$/i.test(title)) {
-    return "";
-  }
-  return title.length > 180 ? title.slice(0, 177).trimEnd() + "..." : title;
-}
-
-function allowedHost(hostname, config) {
-  return config.hosts.some(
-    (host) => hostname === host || hostname.endsWith("." + host)
+  if (!title || GENERIC_TITLE_PATTERasync function readPageAnchors(page) {
+  return page.locator("a[href]").evaluateAll((nodes) =>
+    nodes.map((node) => ({
+      href: node.href,
+      text: node.innerText || node.textContent || "",
+      title: node.getAttribute("title") || "",
+      aria: node.getAttribute("aria-label") || "",
+      rel: node.getAttribute("rel") || ""
+    }))
   );
 }
 
-function shouldFollowPagination(anchor, url, config) {
-  if (!PAGINATION_PATTERN.test(url)) {
-    return false;
+async function scrollCatalog(page) {
+  await page
+    .evaluate(async () => {
+      for (let index = 0; index < 7; index += 1) {
+        window.scrollTo(0, document.body.scrollHeight);
+        await new Promise((resolve) => setTimeout(resolve, 350));
+      }
+      window.scrollTo(0, 0);
+    })
+    .catch(() => {});
+}
+
+function registerAnchors(anchors, config, records, pending, queued, visited) {
+  for (const anchor of anchors) {
+    const url = canonicalUrl(anchor.href);
+    if (!url) {
+      continue;
+    }
+    const parsed = new URL(url);
+    if (!allowedHost(parsed.hostname, config)) {
+      continue;
+    }
+
+    const excluded = config.exclude && config.exclude.test(url);
+    if (config.match && config.match.test(url) && !excluded) {
+      const title =
+        usefulTitle(anchor.text) ||
+        usefulTitle(anchor.title) ||
+        usefulTitle(anchor.aria) ||
+        titleFromSlug(url);
+      if (title) {
+        const previous = records.get(url);
+        if (!previous || previous.title === titleFromSlug(url)) {
+          records.set(url, { url, title });
+        }
+      }
+    }
+
+    if (
+      pending.length + visited.size < (config.maxPages || 12) &&
+      !visited.has(url) &&
+      !queued.has(url) &&
+      shouldFollowPagination(anchor, url, config)
+    ) {
+      queued.add(url);
+      pending.push(url);
+    }
   }
-  const label = cleanText(anchor.text || anchor.aria || anchor.title);
-  const rel = cleanText(anchor.rel);
-  return (
-    /\b(next|previous|próximo|anterior|seguinte|último|last)\b/i.test(label) ||
-    /\bnext\b/i.test(rel) ||
-    /^\d{1,3}$/.test(label)
-  );
 }
 
 async function collectPortal(browser, config) {
@@ -314,42 +376,53 @@ async function collectPortal(browser, config) {
       if (response && response.status() >= 400) {
         throw new Error("HTTP " + response.status());
       }
-      await page.waitForTimeout(1400);
-      await page
-        .evaluate(async () => {
-          for (let index = 0; index < 7; index += 1) {
-            window.scrollTo(0, document.body.scrollHeight);
-            await new Promise((resolve) => setTimeout(resolve, 350));
+
+      await page.waitForTimeout(config.waitMs || 1400);
+      if (config.pageSizeSelector) {
+        const pageSize = page.locator(config.pageSizeSelector);
+        if (await pageSize.count()) {
+          await pageSize.selectOption({ label: config.pageSizeLabel });
+          await page.waitForTimeout(config.waitMs || 3000);
+        }
+      }
+
+      const captureCurrentPage = async () => {
+        await scrollCatalog(page);
+        const anchors = await readPageAnchors(page);
+        registerAnchors(anchors, config, records, pending, queued, visited);
+      };
+
+      if (config.clientPageSelector) {
+        for (let pageNumber = 0; pageNumber < (config.clientPages || 1); pageNumber += 1) {
+          await captureCurrentPage();
+          const controls = page.locator(config.clientPageSelector);
+          const count = await controls.count();
+          if (pageNumber + 1 >= count || pageNumber + 1 >= (config.clientPages || 1)) {
+            break;
           }
-          window.scrollTo(0, 0);
-        })
-        .catch(() => {});
-
-      const anchors = await page.locator("a[href]").evaluateAll((nodes) =>
-        nodes.map((node) => ({
-          href: node.href,
-          text: node.innerText || node.textContent || "",
-          title: node.getAttribute("title") || "",
-          aria: node.getAttribute("aria-label") || "",
-          rel: node.getAttribute("rel") || ""
-        }))
-      );
-
-      for (const anchor of anchors) {
-        const url = canonicalUrl(anchor.href);
-        if (!url) {
-          continue;
+          await controls.nth(pageNumber + 1).click();
+          await page.waitForTimeout(config.waitMs || 2000);
         }
-        const parsed = new URL(url);
-        if (!allowedHost(parsed.hostname, config)) {
-          continue;
-        }
+      } else {
+        await captureCurrentPage();
+      }
+    } catch (error) {
+      const message = error instanceof Error ? error.message : String(error);
+      errors.push(catalogUrl + " -> " + message);
+    } finally {
+      await page.close();
+    }
+  }
 
-        if (config.match && config.match.test(url)) {
-          const title =
-            usefulTitle(anchor.text) ||
-            usefulTitle(anchor.title) ||
-            usefulTitle(anchor.aria) ||
+  await context.close();
+  return {
+    records: [...records.values()],
+    visited: visited.size,
+    errors
+  };
+}
+
+       usefulTitle(anchor.aria) ||
             titleFromSlug(url);
           if (title) {
             const previous = records.get(url);
@@ -386,6 +459,14 @@ async function collectPortal(browser, config) {
 }
 
 function buildRecord(config, item, previous) {
+  const itemTitle = usefulTitle(item.title);
+  const previousTitle = usefulTitle(previous?.title);
+  const title =
+    itemTitle ||
+    previousTitle ||
+    TITLE_OVERRIDES.get(canonicalUrl(item.url)) ||
+    titleFromSlug(item.url);
+
   return {
     ...(previous || {}),
     category: previous?.category || config.category,
@@ -393,27 +474,31 @@ function buildRecord(config, item, previous) {
     description: previous?.description || config.description,
     portal: config.portal,
     source: config.source,
-    title: item.title || previous?.title || titleFromSlug(item.url),
+    title,
     url: previous?.url || item.url
   };
 }
 
 function mergePortalCourses(previous, discovered, config) {
+  const validPrevious = previous.filter(
+    (course) => !(config.exclude && config.exclude.test(course.url))
+  );
+
   if (!config.match) {
     return {
-      courses: previous,
+      courses: validPrevious,
       status: "static",
       discovered: 0
     };
   }
 
-  const minimum = previous.length
-    ? Math.max(1, Math.floor(previous.length * 0.25))
+  const minimum = validPrevious.length
+    ? Math.max(1, Math.floor(validPrevious.length * 0.25))
     : 1;
 
   if (discovered.length < minimum) {
     return {
-      courses: previous,
+      courses: validPrevious,
       status: "preserved",
       discovered: discovered.length,
       minimum
@@ -421,7 +506,7 @@ function mergePortalCourses(previous, discovered, config) {
   }
 
   const byUrl = new Map(
-    previous.map((course) => [canonicalUrl(course.url), course])
+    validPrevious.map((course) => [canonicalUrl(course.url), course])
   );
   for (const item of discovered) {
     const key = canonicalUrl(item.url);
