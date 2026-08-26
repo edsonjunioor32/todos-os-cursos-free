@@ -20,6 +20,7 @@ const CATALOGS = [
     hosts: ["www.santanderopenacademy.com", "app.santanderopenacademy.com"],
     match: /app\.santanderopenacademy\.com\/pt-BR\/program\/(?!search(?:[/?#]|$))[^/?#]+/i,
     exclude: /app\.santanderopenacademy\.com\/pt-BR\/program\/search(?:[/?#]|$)/i,
+    excludeTitle: /bolsa|intercâmbio|intercambio/i,
     category: "Cursos gratuitos",
     cert: "check",
     description: "Curso localizado no catálogo da Santander Open Academy.",
@@ -353,13 +354,14 @@ function registerAnchors(anchors, config, records, pending, queued, visited) {
       continue;
     }
 
-    const excluded = config.exclude && config.exclude.test(url);
-    if (config.match && config.match.test(url) && !excluded) {
-      const title =
-        usefulTitle(anchor.text) ||
-        usefulTitle(anchor.title) ||
-        usefulTitle(anchor.aria) ||
-        titleFromSlug(url);
+    const title =
+      usefulTitle(anchor.text) ||
+      usefulTitle(anchor.title) ||
+      usefulTitle(anchor.aria) ||
+      titleFromSlug(url);
+    const excludedByUrl = config.exclude && config.exclude.test(url);
+    const excludedByTitle = config.excludeTitle && config.excludeTitle.test(title);
+    if (config.match && config.match.test(url) && !excludedByUrl && !excludedByTitle) {
       if (title) {
         const previous = records.get(url);
         if (!previous || previous.title === titleFromSlug(url)) {
@@ -458,9 +460,9 @@ function buildRecord(config, item, previous) {
   const itemTitle = usefulTitle(item.title);
   const previousTitle = usefulTitle(previous?.title);
   const title =
+    TITLE_OVERRIDES.get(canonicalUrl(item.url)) ||
     itemTitle ||
     previousTitle ||
-    TITLE_OVERRIDES.get(canonicalUrl(item.url)) ||
     titleFromSlug(item.url);
 
   return {
@@ -476,9 +478,15 @@ function buildRecord(config, item, previous) {
 }
 
 function mergePortalCourses(previous, discovered, config) {
-  const validPrevious = previous.filter(
-    (course) => !(config.exclude && config.exclude.test(course.url))
-  );
+  const validPrevious = previous.filter((course) => {
+    if (config.exclude && config.exclude.test(course.url)) {
+      return false;
+    }
+    if (config.excludeTitle && config.excludeTitle.test(course.title || "")) {
+      return false;
+    }
+    return true;
+  });
 
   if (!config.match) {
     return {
