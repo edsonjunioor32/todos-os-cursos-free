@@ -1,80 +1,33 @@
 (() => {
 "use strict";
-const entries=[
-["Santander Open Academy","Finanças","Santander Certificações Financeiras 2026","https://app.santanderopenacademy.com/pt-BR/program/santander-certificacoes-financeiras-2026-2-semestre","check","Certificação financeira com acesso pela Santander Open Academy."],
-["Santander Open Academy","Finanças","Como Investir em você 2026","https://app.santanderopenacademy.com/pt-BR/program/como-investir-em-voce-2026","check","Conteúdo para aprimorar conhecimentos sobre finanças pessoais."],
-["Santander Open Academy","Tecnologia","Cibersegurança do Zero à Prática","https://app.santanderopenacademy.com/pt-BR/program/ciberseguranca-do-zero-a-pratica","check","Formação introdutória em cibersegurança."],
-["Santander Open Academy","Idiomas","Santander Fala Mundo 2026","https://app.santanderopenacademy.com/pt-BR/program/santander-fala-mundo-2026-3-edicao","check","Programa de idiomas com opções de inglês, espanhol e francês."],
-["Santander Open Academy","Marketing","Santander Marketing Digital","https://app.santanderopenacademy.com/pt-BR/program/santander-marketing-digital","check","Conteúdos para desenvolver competências de marketing digital."],
-["FGV","Tecnologia e dados","Excel para Ciência de Dados - Avançado","https://cursosgratuitos.fgv.br/curso/excel-para-ciencia-de-dados-avancado","check","Curso gratuito da FGV voltado ao uso avançado do Excel em ciência de dados."],
-["FGV","Tecnologia e dados","Excel para Ciência de Dados - Básico","https://cursosgratuitos.fgv.br/curso/excel-para-ciencia-de-dados-basico","check","Curso introdutório de Excel aplicado à ciência de dados."],
-["FGV","Tecnologia e dados","Introdução à Ciência de Dados","https://cursosgratuitos.fgv.br/curso/introducao-a-ciencia-de-dados","check","Introdução aos conceitos de ciência de dados."],
-["FGV","Gestão e negócios","Conceitos e Características dos Projetos","https://cursosgratuitos.fgv.br/curso/conceitos-e-caracteristicas-dos-projetos","check","Fundamentos de gerenciamento de projetos."],
-["FGV","Humanidades","Fundamentos das Relações Internacionais","https://cursosgratuitos.fgv.br/curso/fundamentos-das-relacoes-internacionais","check","Panorama introdutório das relações internacionais."],
-["FGV","Finanças","Como Fazer Investimentos 1","https://cursosgratuitos.fgv.br/curso/como-fazer-investimentos-1","check","Conceitos básicos para compreender investimentos."],
-["FGV","Gestão e negócios","ESG: Conceitos Básicos","https://cursosgratuitos.fgv.br/curso/esg-conceitos-basicos","check","Introdução aos conceitos de ESG."],
-["Nação Fluente","Idiomas","Como aprender inglês no YouTube","https://www.nacaofluente.com/blog/como-aprender-ingles-no-youtube/","material","Material gratuito com cronograma e aulas organizadas para estudar inglês."],
-["Senar EAD","Qualificação profissional","Segurança Rural","https://ead.senar.org.br/curso-whatsapp/seguranca-rural","free","Curso online sobre segurança da propriedade rural, com certificado."],
-["Senar EAD","Agronegócio","Comercialização de Produtos Agrícolas com Valor Agregado","https://ead.senar.org.br/curso-whatsapp/comercializacao-de-produtos-agricolas-com-valor-agregado","free","Estratégias para comercializar produtos agrícolas de maior valor."],
-["Senar EAD","Comunicação","Comunicação Eficaz para Negócios Rurais","https://ead.senar.org.br/curso-whatsapp/comunicacao-eficaz-para-negocios-rurais","free","Desenvolvimento de habilidades de comunicação para negócios rurais."],
-["Senar EAD","Atendimento","Atendimento ao Cliente para Produtores Rurais","https://ead.senar.org.br/curso-whatsapp/atendimento-ao-cliente-para-produtores-rurais","free","Técnicas de atendimento ao cliente para produtores rurais."],
-["Senar EAD","Marketing","Marketing para Produtores Rurais","https://ead.senar.org.br/curso-whatsapp/marketing-para-negocios-rurais","free","Noções de marketing e divulgação para negócios rurais."],
-["Senar EAD","Agronegócio","Gramíneas Forrageiras para Pastagens","https://ead.senar.org.br/curso-whatsapp/gramineas-forrageiras-para-pastagens","free","Seleção de gramíneas para formação de pastagens produtivas."],
-["Sebrae Paraíba","Finanças","Gestão financeira","https://pb.loja.sebrae.com.br/gest-o-financeira-1-372000026927","check","Fundamentos de gestão financeira para empreendedores."],
-["Sebrae Paraíba","Marketing","Marketing digital e redes sociais","https://pb.loja.sebrae.com.br/marketing-digital-e-redes-sociais-1-372000114127","check","Estratégias de marketing digital e redes sociais para negócios."],
-["Sebrae Paraíba","Gestão de pessoas","Gestão de pessoas","https://pb.loja.sebrae.com.br/gest-o-de-pessoas-1-371440100237","check","Fundamentos de gestão de pessoas para pequenas empresas."],
-["Sebrae Paraíba","Marketing","Marketing digital para sua empresa: primeiros passos","https://pb.loja.sebrae.com.br/marketing-digital-para-sua-empresa-primeiros-passos-1-372000031607","check","Primeiros passos para estruturar a presença digital da empresa."],
-["Sebrae Paraíba","Atendimento","Atendimento ao cliente","https://pb.loja.sebrae.com.br/atendimento-ao-cliente-1-372000017766","check","Práticas para melhorar o atendimento ao cliente."],
-["Sebrae Paraíba","Finanças","Como definir o preço de venda","https://pb.loja.sebrae.com.br/como-definir-o-preco-de-venda-1-371440103446","check","Formação de preços e decisões de venda para pequenos negócios."],
-["Escola Virtual","Tecnologia","Administrando Banco de Dados","https://www.ev.org.br/cursos/administrando-banco-de-dados","free","Introdução à administração de bancos de dados."],
-["Escola Virtual","Tecnologia e dados","AI-900 - Fundamentos de IA no Azure","https://www.ev.org.br/cursos/AI900Azure","free","Fundamentos de inteligência artificial no Microsoft Azure."],
-["Escola Virtual","Tecnologia e dados","Análise de Dados no Power BI","https://www.ev.org.br/cursos/analise-de-dados-no-power-bi","free","Análise de dados e criação de relatórios no Power BI."],
-["Escola Virtual","Atendimento","Atendimento ao Público","https://www.ev.org.br/cursos/atendimento-ao-publico","free","Noções e técnicas para um atendimento de qualidade."],
-["Escola Virtual","Carreira","Como Conseguir um Novo Emprego","https://www.ev.org.br/cursos/Como-Conseguir-um-Novo-Emprego","free","Preparação para currículo, entrevista e busca de emprego."],
-["Escola Virtual","Tecnologia","Comunicação e Mobilização com IA","https://www.ev.org.br/cursos/comunicacao_IA","free","Uso da inteligência artificial na comunicação e mobilização."],
-["Escola Virtual","Comunicação","Comunicação Empresarial","https://www.ev.org.br/cursos/comunicacao-empresarial","free","Comunicação escrita e oral aplicada ao ambiente profissional."],
-["UEMP","Segurança do trabalho","NR 29 Básico","https://cursosgratis.uemp.com.br/curso/curso-gratuito-online-basico-de-nr29","maybe","Curso gratuito; a emissão do certificado digital é opcional e paga."],
-["UEMP","Gestão e negócios","Gestão de Compras","https://cursosgratis.uemp.com.br/curso/gestao-de-compras","maybe","Curso gratuito de gestão de compras; certificado opcional conforme regras da plataforma."],
-["UEMP","Idiomas","Inglês Técnico Básico","https://cursosgratis.uemp.com.br/curso/curso-gratuito-online-ingles-tecnico-basico","maybe","Curso gratuito de inglês técnico; certificado digital opcional e pago."],
-["UEMP","Logística","Logística Internacional","https://cursosgratis.uemp.com.br/curso/curso-gratuito-online-logistica-internacional","maybe","Introdução à logística internacional; certificado opcional conforme regras."],
-["UEMP","Atendimento","Atendimento ao Cliente","https://cursosgratis.uemp.com.br/curso/cursos-gratuito-atendimento-ao-cliente","maybe","Curso gratuito de atendimento ao cliente; certificado opcional e pago."],
-["MEC Idiomas","Idiomas","MEC Idiomas - Plataforma de idiomas","https://mecidiomas.mec.gov.br/","free","Plataforma gratuita do MEC com lições interativas, progresso e certificados; exige cadastro ou acesso à plataforma."],
-["Aprenda Mais MEC","Tecnologia","Localização de Dispositivos Móveis em Redes Sem Fio - Turma 2026B","https://aprendamais.mec.gov.br/course/info.php?id=3153","free","Curso autoinstrucional do MEC com certificação para concluintes."],
-["Aprenda Mais MEC","Tecnologia","Análise e Projeto de Software - Turma 2026B","https://aprendamais.mec.gov.br/course/info.php?id=1655","free","Curso do MEC sobre análise e projeto de software."],
-["Aprenda Mais MEC","Tecnologia","SCRUM: Gerenciando Projetos de Software com Agilidade - Turma 2026B","https://aprendamais.mec.gov.br/course/info.php?id=3014","free","Curso sobre Scrum e gerenciamento ágil de projetos de software."],
-["Aprenda Mais MEC","Idiomas","Espanhol para Eventos - Turma 2026B","https://aprendamais.mec.gov.br/course/info.php?id=3283","free","Curso de espanhol com carga horária e certificação informadas na plataforma."],
-["Aprenda Mais MEC","Vendas","Técnicas de Vendas e Relações de Consumo - Turma 2026B","https://aprendamais.mec.gov.br/course/info.php?id=3513&lang=pt_br","free","Curso sobre vendas, ferramentas comerciais e direito do consumidor."],
-["HCX FMUSP","Saúde","Transferência de Pacientes","https://ensino.hcxfmusp.org.br/online/transferencia-pacientes/p","check","Formação sobre práticas corretas de transporte de pacientes."],
-["HCX FMUSP","Saúde","Mitos e Fatos sobre os Olhos e a Visão","https://ensino.hcxfmusp.org.br/online/mitos-e-fatos-sobre-os-olhos-e-a-visao/p","check","Curso gratuito sobre olhos e visão."],
-["HCX FMUSP","Saúde","Primeiros Socorros em Crianças","https://ensino.hcxfmusp.org.br/online/primeiros-socorros-em-criancas/p","check","Orientações de primeiros socorros para crianças e bebês."],
-["HCX FMUSP","Saúde","Cuidador de Idosos","https://ensino.hcxfmusp.org.br/online/cuidadores-da-pessoa-idosa/p","check","Conhecimentos para cuidado e bem-estar da pessoa idosa."],
-["Cruzeiro do Sul Virtual","Marketing","Gestão Avançada de Marketing","https://cursos.cruzeirodosulvirtual.com.br/cursos-livres-gestao-avancada-de-marketing-cruzeiro-do-sul-virtual/p","check","Curso livre de marketing em formato EAD."],
-["Cruzeiro do Sul Virtual","Gestão de pessoas","Gestão de Pessoas e Negociação","https://cursos.cruzeirodosulvirtual.com.br/cursos-livres-gestao-de-pessoas-e-negociacao-cruzeiro-do-sul-virtual/p","check","Conteúdos de gestão de pessoas, liderança e negociação."],
-["Cruzeiro do Sul Virtual","Saúde","Bioquímica Básica e Metabolismo","https://cursos.cruzeirodosulvirtual.com.br/cursos-livres-bioquimica-basica-e-metabolismo-cruzeiro-do-sul-virtual/p","check","Curso livre de bioquímica básica e metabolismo."],
-["Cruzeiro do Sul Virtual","Saúde e segurança","Lei Lucas - Primeiros Socorros e Prevenção de Acidentes na Infância","https://cursos.cruzeirodosulvirtual.com.br/cursos-livres-lei-lucas-curso-de-primeiros-socorros-e-prevencao-de-acidentes-na-infancia-cruzeiro-do-sul-virtual/p","check","Capacitação em primeiros socorros e prevenção de acidentes na infância."],
-["Prime Cursos","Tecnologia","Marketing Digital","https://www.primecursos.com.br/marketing-digital/","maybe","Curso gratuito com opção de certificado mediante regras da plataforma."],
-["Prime Cursos","Idiomas","Libras Básico","https://www.primecursos.com.br/libras-basico/","maybe","Curso gratuito de Libras com opção de certificado."],
-["Prime Cursos","Beleza","Design de Sobrancelhas","https://www.primecursos.com.br/design-de-sobrancelhas/","maybe","Curso gratuito com certificado opcional conforme regras da plataforma."],
-["Prime Cursos","Educação","Educação de Jovens e Adultos","https://www.primecursos.com.br/educacao-de-jovens-e-adultos/","maybe","Curso gratuito sobre EJA com opção de certificado."],
-["Senac EAD","Administração","Técnico em Administração EAD PSG","https://www.ead.senac.br/gratuito/tecnico-em-administracao-ead-psg/","free","Curso técnico do Programa Senac de Gratuidade."],
-["Senac EAD","Administração","Assistente Administrativo - PSG","https://www.ead.senac.br/gratuito/assistente-administrativo-psg/","free","Curso livre do Programa Senac de Gratuidade."],
-["Senac EAD","Recursos humanos","Assistente de Recursos Humanos - PSG","https://www.ead.senac.br/gratuito/assistente-de-recursos-humanos-psg/","free","Curso livre de recursos humanos do PSG."],
-["Senac EAD","Segurança do trabalho","Técnico em Segurança do Trabalho EAD PSG","https://www.ead.senac.br/gratuito/tecnico-em-seguranca-do-trabalho-ead-psg/","free","Curso técnico de segurança do trabalho do PSG."],
-["Senac EAD","Tecnologia","Informática Básica com Internet e Mídias Sociais - PSG","https://www.ead.senac.br/gratuito/informatica-basica-com-internet-e-midias-sociais-psg/","free","Formação introdutória em informática, internet e mídias sociais."],
-["Coursera","Carreira","English for Career Development","https://www.coursera.org/learn/careerdevelopment","maybe","Curso aberto para estudo; certificado pode exigir compra ou auxílio financeiro."],
-["Coursera","Tecnologia","AI For Everyone","https://www.coursera.org/learn/ai-for-everyone","maybe","Curso introdutório de inteligência artificial; condições de certificado variam."],
-["Coursera","Aprendizagem","Learning How to Learn","https://www.coursera.org/learn/learning-how-to-learn","maybe","Técnicas de aprendizagem e estudo; consulte a modalidade de acesso e certificado."],
-["Udemy","Idiomas","3 Minute Portuguese - Free taster course","https://www.udemy.com/course/3-minute-portuguese-course-1/","maybe","Curso gratuito de introdução ao português."],
-["Udemy","Idiomas","4 in 1 Portuguese vocabulary course","https://www.udemy.com/course/4-in-1-portuguese-vocabulary-course/","maybe","Curso gratuito de vocabulário em português."],
-["Udemy","Idiomas","3 Minute Portuguese - Course 1","https://www.udemy.com/course/3-minute-portuguese-full-course-1/","maybe","Curso de português para iniciantes; verifique as condições da oferta."]
-];
-const labels={free:"Certificado gratuito",check:"Confira o certificado",maybe:"Certificado opcional ou pode ser pago",material:"Material gratuito"};
-const courses=entries.map(([portal,category,title,url,cert,description])=>({portal,category,title,url,cert,description}));
-const $=id=>document.getElementById(id), grid=$("courseGrid"), search=$("courseSearch"), portal=$("portalFilter"), category=$("categoryFilter"), cert=$("certificateFilter"), sort=$("sortCourses"), count=$("visibleCount"), summary=$("resultsSummary"), filterCount=$("filterCount"), empty=$("emptyState");
-function options(select,values){values.sort((a,b)=>a.localeCompare(b,"pt-BR")).forEach(value=>{const o=document.createElement("option");o.value=value;o.textContent=value;select.append(o)})}
-options(portal,[...new Set(courses.map(c=>c.portal))]);options(category,[...new Set(courses.map(c=>c.category))]);
-function card(c){const el=document.createElement("article");el.className="course-card";const icon=c.portal.replace(/[^A-Za-zÀ-ÿ]/g,"").slice(0,3).toUpperCase();el.innerHTML='<div class="card-topline"><span class="course-icon" aria-hidden="true">'+icon+'</span><span class="course-category">Portal: '+c.portal+'<br>'+c.category+'</span></div><h3>'+c.title+'</h3><p>'+c.description+'</p><div class="course-tags"><span class="course-tag course-tag-positive">'+(c.cert==="material"?"Material gratuito":"Curso gratuito")+'</span><span class="course-tag">'+labels[c.cert]+'</span></div><a class="course-link" href="'+c.url+'" target="_blank" rel="noopener noreferrer">'+(c.cert==="material"?"Acessar material":"Acessar curso")+' <span aria-hidden="true">↗</span></a>';return el}
-function render(){const term=search.value.trim().toLocaleLowerCase("pt-BR"),p=portal.value,cat=category.value,ce=cert.value;let list=courses.filter(c=>(!term||[c.title,c.portal,c.category,c.description].join(" ").toLocaleLowerCase("pt-BR").includes(term))&&(!p||c.portal===p)&&(!cat||c.category===cat)&&(!ce||c.cert===ce));if(sort.value==="az")list.sort((a,b)=>a.title.localeCompare(b.title,"pt-BR"));if(sort.value==="category")list.sort((a,b)=>a.category.localeCompare(b.category,"pt-BR")||a.title.localeCompare(b.title,"pt-BR"));grid.replaceChildren(...list.map(card));empty.hidden=list.length>0;count.textContent=list.length;summary.textContent=list.length+" "+(list.length===1?"opção encontrada":"opções encontradas");filterCount.textContent=[term,p,cat,ce].filter(Boolean).length}
-function clear(){search.value="";portal.value="";category.value="";cert.value="";sort.value="featured";render();search.focus()}
-search.addEventListener("input",render);portal.addEventListener("change",render);category.addEventListener("change",render);cert.addEventListener("change",render);sort.addEventListener("change",render);$("clearFilters").addEventListener("click",clear);document.querySelector("[data-clear]").addEventListener("click",clear);render();
+const labels={free:"Certificado gratuito",declaration:"Declaração após avaliação",check:"Confira o certificado",maybe:"Certificado opcional ou pode ser pago",material:"Material gratuito"};
+const $=id=>document.getElementById(id);
+const grid=$("courseGrid"),search=$("courseSearch"),portal=$("portalFilter"),category=$("categoryFilter"),cert=$("certificateFilter"),sort=$("sortCourses"),count=$("visibleCount"),summary=$("resultsSummary"),filterCount=$("filterCount"),empty=$("emptyState");
+const escapeHTML=value=>String(value??"").replace(/[&<>"']/g,char=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[char]));
+function options(select,values){values.sort((a,b)=>a.localeCompare(b,"pt-BR")).forEach(value=>{const option=document.createElement("option");option.value=value;option.textContent=value;select.append(option)})}
+function normalizeCourse(c){return {portal:String(c.portal||"Portal"),category:String(c.category||"Curso"),title:String(c.title||"Curso sem título"),url:String(c.url||"#"),cert:String(c.cert||"check"),description:String(c.description||"Consulte a página original para detalhes."),duration:String(c.duration||"")}}
+function start(courses){
+  courses=courses.map(normalizeCourse).filter(c=>c.url!=="#");
+  options(portal,[...new Set(courses.map(c=>c.portal))]);options(category,[...new Set(courses.map(c=>c.category))]);
+  function card(c){
+    const el=document.createElement("article");el.className="course-card";
+    const icon=c.portal.replace(/[^A-Za-zÀ-ÿ]/g,"").slice(0,3).toUpperCase(),certLabel=labels[c.cert]||"Confira as condições",primary=c.cert==="material"?"Material gratuito":"Curso gratuito",action=c.cert==="material"?"Acessar material":"Acessar curso",duration=c.duration?'<span class="course-tag">'+escapeHTML(c.duration)+"</span>":"";
+    el.innerHTML='<div class="card-topline"><span class="course-icon" aria-hidden="true">'+escapeHTML(icon)+'</span><span class="course-category">Portal: '+escapeHTML(c.portal)+'<br>'+escapeHTML(c.category)+'</span></div><h3>'+escapeHTML(c.title)+'</h3><p>'+escapeHTML(c.description)+'</p><div class="course-tags"><span class="course-tag course-tag-positive">'+primary+'</span>'+duration+'<span class="course-tag">'+escapeHTML(certLabel)+'</span></div><a class="course-link" href="'+escapeHTML(c.url)+'" target="_blank" rel="noopener noreferrer">'+action+' <span aria-hidden="true">↗</span></a>';
+    return el;
+  }
+  function render(){
+    const term=search.value.trim().toLocaleLowerCase("pt-BR"),p=portal.value,cat=category.value,ce=cert.value;
+    let list=courses.filter(c=>(!term||[c.title,c.portal,c.category,c.description].join(" ").toLocaleLowerCase("pt-BR").includes(term))&&(!p||c.portal===p)&&(!cat||c.category===cat)&&(!ce||c.cert===ce));
+    if(sort.value==="az")list.sort((a,b)=>a.title.localeCompare(b.title,"pt-BR"));
+    if(sort.value==="category")list.sort((a,b)=>a.category.localeCompare(b.category,"pt-BR")||a.title.localeCompare(b.title,"pt-BR"));
+    grid.replaceChildren(...list.map(card));empty.hidden=list.length>0;count.textContent=list.length;summary.textContent=list.length+" "+(list.length===1?"opção encontrada":"opções encontradas");filterCount.textContent=[term,p,cat,ce].filter(Boolean).length;
+  }
+  function clear(){search.value="";portal.value="";category.value="";cert.value="";sort.value="featured";render();search.focus()}
+  search.addEventListener("input",render);portal.addEventListener("change",render);category.addEventListener("change",render);cert.addEventListener("change",render);sort.addEventListener("change",render);$("clearFilters").addEventListener("click",clear);document.querySelector("[data-clear]").addEventListener("click",clear);render();
+}
+async function load(){
+  try{const response=await fetch("./courses.json",{cache:"no-store"});if(!response.ok)throw new Error("Falha ao carregar cursos.json");const payload=await response.json();start(Array.isArray(payload)?payload:payload.courses||[]);}
+  catch(error){console.error(error);$("resultsSummary").textContent="Não foi possível carregar o catálogo";$("emptyState").hidden=false;$("emptyState").querySelector("h3").textContent="Catálogo temporariamente indisponível";$("emptyState").querySelector("p").textContent="Atualize a página ou tente novamente em instantes.";}
+}
+load();
 })();
