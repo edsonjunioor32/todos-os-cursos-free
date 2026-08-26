@@ -1,6 +1,8 @@
 name: Publicar Todos os Cursos Free
 
 on:
+  schedule:
+    - cron: "17 11 * * *" # Todos os dias às 08h17 no horário de Brasília (UTC-3)
   push:
     branches: [main]
   workflow_dispatch:
