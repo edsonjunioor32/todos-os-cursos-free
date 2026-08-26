@@ -243,7 +243,7 @@ const CATALOGS = [
     titleLineFromEnd: 3,
     nextPageSelector: 'button[aria-label="Go to next page"]',
     clientPages: 24,
-    pageWaitMs: 1200,
+    pageWaitMs: 4500,
     category: "Arte, cultura e educação",
     cert: "check",
     description: "Curso gratuito da Escola Fundação Itaú.",
