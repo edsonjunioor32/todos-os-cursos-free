@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Todos os Cursos Free</title>
+  <desc id="desc">Ícone de um livro aberto.</desc>
+  <rect width="64" height="64" rx="17" fill="#061317"/>
+  <rect x="2" y="2" width="60" height="60" rx="15" fill="none" stroke="#2ee2ad" stroke-opacity=".6" stroke-width="2"/>
+  <path d="M13 19c8-3 14-1 19 3v25c-5-4-11-6-19-3V19Z" fill="#0c2d33" stroke="#2ee2ad" stroke-width="2.4" stroke-linejoin="round"/>
+  <path d="M51 19c-8-3-14-1-19 3v25c5-4 11-6 19-3V19Z" fill="#0c2d33" stroke="#2ee2ad" stroke-width="2.4" stroke-linejoin="round"/>
+  <path d="M19 27c3.7-.5 7.5.4 12 3m-12 4c3.7-.5 7.5.4 12 3m14-10c-3.7-.5-7.5.4-12 3m12 4c-3.7-.5-7.5.4-12 3" fill="none" stroke="#a9f5dc" stroke-width="1.7" stroke-linecap="round"/>
+</svg>
