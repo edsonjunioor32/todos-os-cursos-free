@@ -285,6 +285,9 @@ const CATALOGS = [
     category: "Cursos gratuitos",
     cert: "maybe",
     description: "Curso gratuito ou de acesso livre localizado no catálogo Stanford Online.",
+    waitForSelector: 'a[href*="/courses/"]',
+    waitForSelectorTimeout: 30000,
+    waitMs: 6500,
     minimumRecords: 1,
     strictCoverage: true,
     requireReportedCount: true,
@@ -836,10 +839,7 @@ function registerAnchors(anchors, config, records, pending, queued, visited) {
 }
 
 async function collectPortal(browser, config) {
-  const context = await browser.newContext({
-    userAgent:
-      "Mozilla/5.0 (compatible; TodosCursosFreeBot/1.0; +https://github.com/edsonjunioor32/todos-os-cursos-free)"
-  });
+  const context = await browser.newContext();
   const pending = [...config.urls];
   const queued = new Set(pending);
   const visited = new Set();
