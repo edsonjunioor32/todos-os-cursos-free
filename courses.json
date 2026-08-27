@@ -231,7 +231,7 @@
       "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Curso Santander Santander Open Academy Excel – do básico ao intermediário Ferramentas",
+      "title": "Excel – do básico ao intermediário",
       "url": "https://app.santanderopenacademy.com/pt-BR/course/excel"
     },
     {
@@ -240,7 +240,7 @@
       "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Curso Santander Santander Open Academy Introdução à programação com Python Tecnologia",
+      "title": "Introdução à programação com Python",
       "url": "https://app.santanderopenacademy.com/pt-BR/course/introduction_to_python_programming"
     },
     {
@@ -249,7 +249,7 @@
       "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Curso Santander University of Pennsylvania Fundamentos de inglês: faça networking com confiança e se destaque nas entrevistas Idiomas",
+      "title": "Fundamentos de inglês: faça networking com confiança e se destaque nas entrevistas",
       "url": "https://app.santanderopenacademy.com/pt-BR/course/english-fundamentals-successful-networking-interviews"
     },
     {
@@ -258,7 +258,7 @@
       "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Curso Santander The University of Chicago Marketing Digital Competências",
+      "title": "Marketing Digital",
       "url": "https://app.santanderopenacademy.com/pt-BR/course/digital-marketing"
     },
     {
@@ -267,7 +267,7 @@
       "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Curso Santander Instituto Cervantes Aprenda espanhol para contar experiências Idiomas",
+      "title": "Aprenda espanhol para contar experiências",
       "url": "https://app.santanderopenacademy.com/pt-BR/course/learn-spanish-for-real-life"
     },
     {
@@ -276,7 +276,7 @@
       "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Curso Santander Google Google: IA prática para marketing Tecnologia",
+      "title": "Google: IA prática para marketing",
       "url": "https://app.santanderopenacademy.com/pt-BR/course/google-practical-ai-for-marketing"
     },
     {
@@ -285,7 +285,7 @@
       "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Curso Santander Santander Open Academy Copilot: Fundamentos de IA da Microsoft Ferramentas",
+      "title": "Copilot: Fundamentos de IA da Microsoft",
       "url": "https://app.santanderopenacademy.com/pt-BR/course/copilot-ai-fundamentals"
     },
     {
@@ -294,7 +294,7 @@
       "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Curso Santander Santander Open Academy Criar valor com IA, automação e bots Tecnologia",
+      "title": "Criar valor com IA, automação e bots",
       "url": "https://app.santanderopenacademy.com/pt-BR/course/creating-value-with-ai-automation-and-bots"
     },
     {
@@ -303,7 +303,7 @@
       "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Curso Santander Santander Open Academy Segurança digital para o seu dia a dia Tecnologia",
+      "title": "Segurança digital para o seu dia a dia",
       "url": "https://app.santanderopenacademy.com/pt-BR/course/digital-safety-for-daily-life"
     },
     {
@@ -312,8 +312,989 @@
       "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Curso Santander Santander Open Academy Fundamentos do Power BI Ferramentas",
+      "title": "Fundamentos do Power BI",
       "url": "https://app.santanderopenacademy.com/pt-BR/course/power-bi-fundamentals"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Pensamento crítico e resolução de problemas",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/critical-thinking-problem-solving"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "E-commerce com Gestão comercial",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/ecommerce-with-commercial-management"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Escrita eficaz e persuasiva",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/effective-business-writing"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Melhore o seu inglês: aprenda a criar apresentações impactantes",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/elevating-your-english-crafting-engaging-presentations"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Aprenda a estudar com mais eficiência: técnicas que funcionam",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/study-smarter-techniques-that-work"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "O caminho do trader: análise e gestão de riscos",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/course-trading-analysis-risk-management"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Gestão de Projetos e Fundamentos de métodos Agile",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/project-management-agile-fundamentals"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Publicidade nas Redes Sociais",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/social-media-advertising"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Entendendo o comportamento do consumidor",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/consumer-behavior-essentials"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Comunicação efetiva",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/effective-communication"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Pensamento e mente estratégica",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/strategic-thinking-strategic-mindset"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Copilot: Domine a IA no Microsoft 365",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/copilot-master-ai-microsoft-365"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Domine a IA com prompting responsável",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/master-ai-with-responsible-prompting"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Mindfulness e equilíbrio entre vida pessoal e profissional",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/mindfulness"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Conceitos Básicos da Nutrição",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/nutrition-fundamentals"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Business English: Listening and Communication skills - Part 2",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/business-english-listening-communication-skills-2"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Transformando inspiração em ação: Impacte na sustentabilidade",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/from-aspiration-action-sustainability-impact"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Aprenda espanhol para viajar",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/learn-spanish-for-travelling"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Regras da inteligência artificial: como usá-la sem correr riscos legais",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/safe-fair-legal-how-to-use-ai-right"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Bem-estar nas organizações",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/wellbeing-strategies-for-organizations"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Product Management: design e lançamento de produtos digitais",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/product-management-designing-launching-digital-products"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "A Transformação Digital no Negócio do Esporte",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/digital-transformation-in-the-sports-business"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Elevating Your English: Communicating as a Leader",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/elevating-your-english-communicating-as-a-leader"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Falar em público com técnicas teatrais",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/public-speaking-with-acting-techniques"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Customer centricity e experiência do cliente: estratégia e transformação digital para líderes",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/customer-experience-customer-centricity-course"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Burnout no trabalho: como prevenir o esgotamento e recuperar seu equilíbrio",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/workplace-burnout-how-to-prevent-exhaustion-and-restore-your-balance"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Mentalidade de alta performance: foco, confiança e sucesso profissional",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/high-performance-mindset-focus-confidence-and-career-success"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Tomar decisões na incerteza: gestão de risco e resiliência",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/making-decisions-under-uncertainty-risk-management-and-resilience"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Aprenda a gerir o seu tempo",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/time-management"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Liderança de alta performance: Lições da Fórmula 1®",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/high-performance-leadership"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Introdução à ciência de dados",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/introduction-to-data-science"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Gestão do stress",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/stress-management"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Comunicar com impacto e influência",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/communicating-with-power-and-impact"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "English Fundamentals: Collaborating for Team Success",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/english-fundamentals-team-collaboration-success"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Publicidade digital: dados, IA e legalidade",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/digital-advertising-data-ai-legal-compliance"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Inovação e Criatividade: desenvolva seu pensamento criativo passo a passo",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/innovation-and-creativity-develop-your-creative-thinking"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Power BI Intermediário: Análise e Modelagem de Dados",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/power-bi-intermediate-data-analysis-and-modeling"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Aprenda a gerenciar suas emoções e melhorar seu bem-estar",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/learn-to-manage-your-emotions-and-improve-your-wellbeing"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Liderança",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/leadership"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Fundamentos de Automação de Marketing",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/marketing-automation"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "SEO e Marketing de Conteúdo",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/seo-and-content-marketing"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Business English: Listening and Communication skills - Part 3",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/business-english-listening-communication-skills-3"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Cursor com Python: desenvolvimento inteligente com IA",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/python-cursor-smarter-development-with-ai"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Liderança em um mundo digital",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/leading-in-a-digital-world"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Desenvolvimento e Crescimento Profissional",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/professional-development-and-growth"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "British Council English online 2026 - 2nd Call",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/english-online-2026-2nd-call"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Skills for Work Full Access - Coursera",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/skills-for-work-full-access-coursera"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "British Council English online 2026",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/british-council-english-online-2026"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "USA Summer Experience - Penn 2026",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/usa-summer-experience-penn-2026"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Babson Academy AI for Entrepreneurship Educators",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/babson-academy-ai-for-entrepreneurship-educators"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Babson Build: Entrepreneurship Program for University Students",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/babson-build-entrepreneurship-program-for-university-students"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Skills for Work 2026",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/skills-for-work-2026"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Teaching with Purpose 2026",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/teaching-with-purpose-2026"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Business for All 2026 - Harvard Business Impact",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/business-for-all-2026-harvard-business-impact"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "FORMULA 1® PIRELLI BRITISH GRAND PRIX Prize Draw 2026: Leadership in Action",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/formula-1-r-pirelli-british-grand-prix-prize-draw-2026-leadership-in-action"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Español Online 2026",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/espanol-online-2026"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Skills for Work 2nd Call",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/skills-for-work-2nd-call"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Innovation & AI experience in Madrid",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/innovation-and-ai-experience-in-madrid"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "British Council English online 2025 - 3rd Call",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/british-council-english-online-2025-3rd-call"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Español Online 2025",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/espanol-online-2025"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "English Online 2025 - British Council - 2nd call",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/english-online-2025-british-council-2nd-call"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Teaching with Purpose",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/teaching-with-purpose"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Skills for Work",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/skills-for-work-coursera"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "MBA Essentials 2025 - LSE",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/mba-essentials-2025-lse-"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Business for All 2025 - Harvard Business Publishing",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/business-for-all-2025-harvard-business-publishing"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "English Online 2025 - British Council",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/english-online-2025-british-council"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Professional Soft Skills - Coursera",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/coursera-professional-soft-skills"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Marketing Foundations - Coursera",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/coursera-marketing-foundations"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "ESG for the future - Coursera",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/coursera-esg-for-the-future"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Professional Certifications - Coursera",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/coursera-professional-certifications"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Data and Cybersecurity - Coursera",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/coursera-data-and-cybersecurity"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "USA Summer Experience 2025 - PENN",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/usa-summer-experience-2025-penn"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "ENHANCE Summer School - Treasure Hunting 2026",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/enhance-summer-school-treasure-hunting-2026"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "A Sustentabilidade nas Empresas - Do Diagnóstico ao Reporting",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/a-sustentabilidade-nas-empresas-do-diagnostico-ao-reporting"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Da Poupança ao Investimento: Aprende a Cuidar do Teu Futuro Financeiro by Santander",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/da-poupanca-ao-investimento-aprende-a-cuidar-do-teu-futuro-financeiro-by-santander-2026"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Summer School: International German Language School 2026",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/summer-school-international-german-language-school-2026"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "INCLUSÃO E INOVAÇÃO NA EDUCAÇÃO 3.ª CHAMADA",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/inclusao-e-inovacao-na-educacao-3-a-chamada"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "MASTERCLASS: ENHANCING HUMAN-AI DECISION-MAKING WITH VISUALISATION",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/masterclassAdamPerer"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "MASTERCLASS: DESIGNING MAGICAL EXPERIENCES WITH GEN AI",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/masterclassdiogorendeiro"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "INCLUSÃO E INOVAÇÃO NA EDUCAÇÃO 2.ª CHAMADA",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/inclusao-e-inovacao-na-educacao-2-a-chamada"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Introdução à Sustentabilidade nas Empresas – Perspetiva Financeira (5ª Edição)",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/introducao-a-sustentabilidade-nas-empresas-perspetiva-financeira-5a-edicao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "INCLUSÃO E INOVAÇÃO NA EDUCAÇÃO",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/inclusao-e-inovacao-na-educacao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Introdução à Sustentabilidade nas Empresas – Perspetiva Financeira (4ª Edição)",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/introducao-a-sustentabilidade-nas-empresas-perspetiva-financeira-4a-edicao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Webinar Autónoma Academy: Entrepreneurship and Innovation in the Digital Economy",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/webinar-autonoma-entrepreneurship-and-innovation"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Da Poupança ao Investimento: Aprende a Cuidar do Teu Futuro Financeiro by Santander",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/da-poupanca-ao-investimento-aprende-a-cuidar-do-teu-futuro-financeiro-by-santander"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "World of Work Round Robin Event",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/world-of-work-round-robin-event"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Parentalidade Consciente e Eficaz",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/parentalidade-consciente-e-eficaz"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Usar IA para entrar no mercado de trabalho",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/usar-ia-para-entrar-no-mercado-de-trabalho"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Climate and Energy: Act Now!",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/climate-and-energy-act-now"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Escrever melhores teses e trabalhos académicos com IA",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/escrever-melhores-teses-e-trabalhos-academicos-com-ia"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Inteligência Artificial para Gestores de Projeto",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/inteligencia-artificial-para-gestores-de-projeto"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Capacitação para Embaixadores da 10.ª Edição da Académica Start UC",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/capacitacao-para-embaixadores-da-10-a-edicao-da-academica-start-uc"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Educação Financeira",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/educacao-financeira"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Descomplicar a IA: O que é, Como Funciona e Porque Está a Mudar Tudo",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/masterclass-inteligencia-artificial"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Introdução à Sustentabilidade nas Empresas – Perspetiva Financeira (3ª Edição)",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/introducao-a-sustentabilidade-nas-empresas-perspetiva-financeira-3a-edicao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "HUWISU @HU Berlin - Summer University 2025 - SECOND CALL",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/huberlin.summer.huwisu.secondcall"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Concurso de Ideias - Autónoma Inovação Social",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/autonoma-inovacao-social"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Cologne Summer School: Attention Regimes: Art (History) in the Digital Age",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/cologne-summer-school-attention-regimes-art-history-in-the-digital-age"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Inclusão e Inovação na educação - 3ª chamada",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/inclusao-e-inovacao-na-educacao-3a-chamada"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "IPCA BOOST MY CAREER",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/ipca-boost-my-career"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "MASTERCLASS: BUILDING TO SEE, BUILDING TO ACT",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/masterclass-building-to-see-building-to-act"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "HUWISU @HU Berlin - Summer University 2025",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/huwisu-hu-berlin-summer-university-2025"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "MASTERCLASS: DESIGNING MAGICAL EXPERIENCES WITH GEN AI",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/masterclass-designing-magical-experiences-with-gen-ai"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "MASTERCLASS: ENHANCING HUMAN-AI DECISION-MAKING WITH VISUALISATION",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/masterclass-enhancing-human-ai-decision-making-with-visualisation"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "JGU Mainz Summer School 2025",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/jgu-mainz-summer-school-2025"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Inclusão e Inovação na educação - 2ª chamada",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/inclusao-e-inovacao-na-educacao-2a-chamada"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "German Language Course for Researchers at HU Berlin",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/german-language-course-for-researchers-deutschkurs-a2-fuer-forschende"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Second Treasure Hunting Winter School 2025",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/second-treasure-hunting-winter-school-2025"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Masterclass de Júlio Resende: Todos Podemos Improvisar",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/masterclass-de-julio-resende-todos-podemos-improvisar"
     },
     {
       "category": "Tecnologia e Ciência de Dados",
@@ -19335,18 +20316,18 @@
     "Escola Virtual": "61 cursos encontrados; 61 mantidos no catálogo.",
     "FGV": "226 cursos encontrados; 226 mantidos no catálogo.",
     "Harvard": "127 cursos encontrados; 127 mantidos no catálogo.",
-    "Santander Open Academy": "35 cursos encontrados; 35 mantidos no catálogo.",
+    "Santander Open Academy": "144 cursos encontrados; 144 mantidos no catálogo.",
     "Nação Fluente": "1 cursos mantidos no catálogo.",
     "Senar EAD": "254 cursos mantidos no catálogo.",
     "Sebrae Paraíba": "51 cursos encontrados; 56 mantidos no catálogo.",
     "UEMP": "15 cursos encontrados; 19 mantidos no catálogo.",
     "MEC Idiomas": "1 cursos mantidos no catálogo.",
-    "HCX FMUSP": "12 cursos encontrados; 17 mantidos no catálogo.",
+    "HCX FMUSP": "17 cursos mantidos no catálogo.",
     "Prime Cursos": "524 cursos encontrados; 524 mantidos no catálogo.",
     "Senac EAD": "79 cursos encontrados; 80 mantidos no catálogo.",
     "Coursera": "82 cursos encontrados; 89 mantidos no catálogo.",
     "Udemy": "5 cursos mantidos no catálogo.",
-    "Fundação Itaú Autoformativos": "165 cursos encontrados; 165 mantidos no catálogo.",
+    "Fundação Itaú Autoformativos": "165 cursos mantidos no catálogo.",
     "Fundação Itaú Mediados": "20 cursos encontrados; 20 mantidos no catálogo."
   },
   "generatedAt": "2026-08-26",
