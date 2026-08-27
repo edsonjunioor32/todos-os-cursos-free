@@ -79,6 +79,8 @@ const CATALOGS = [
     loadMoreLimit: 48,
     loadMoreWaitMs: 1400,
     sourceCountPattern: /(\d+)\s+cursos encontrados/i,
+    waitForSelector: 'a[href*="/cursos/"]',
+    waitForSelectorTimeout: 20000,
     category: "Cursos gratuitos",
     cert: "free",
     description: "Curso gratuito do Senar EAD.",
@@ -243,6 +245,9 @@ const CATALOGS = [
     hosts: ["fundacaoitau.org.br"],
     match: /fundacaoitau\.org\.br\/escola\/autoformativos\/[^/?#]+/i,
     titleLineFromEnd: 3,
+    waitMs: 4500,
+    waitForSelector: 'a[href*="/escola/autoformativos/"]',
+    waitForSelectorTimeout: 20000,
     nextPageSelector: 'button[aria-label="Go to next page"]',
     clientPages: 24,
     pageWaitMs: 4500,
@@ -257,6 +262,9 @@ const CATALOGS = [
     urls: ["https://fundacaoitau.org.br/escola/mediados"],
     hosts: ["fundacaoitau.org.br"],
     match: /fundacaoitau\.org\.br\/escola\/mediados\/[^/?#]+/i,
+    waitMs: 4500,
+    waitForSelector: 'a[href*="/escola/mediados/"]',
+    waitForSelectorTimeout: 20000,
     titleLineFromEnd: 3,
     category: "Arte, cultura e educação",
     cert: "check",
@@ -566,6 +574,18 @@ async function collectPortal(browser, config) {
             const message = error instanceof Error ? error.message : String(error);
             errors.push(catalogUrl + " -> consent: " + message);
           }
+        }
+      }
+
+      if (config.waitForSelector) {
+        try {
+          await page.waitForSelector(config.waitForSelector, {
+            state: "attached",
+            timeout: config.waitForSelectorTimeout || 15000
+          });
+        } catch (error) {
+          const message = error instanceof Error ? error.message : String(error);
+          errors.push(catalogUrl + " -> wait-for-content: " + message);
         }
       }
 
