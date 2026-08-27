@@ -223,7 +223,7 @@ const CATALOGS = [
     match: /cursos\.cruzeirodosulvirtual\.com\.br\/cursos-livres-[^/?#]+\/p(?:[/?#]|$)/i,
     httpOnly: true,
     httpVtex: true,
-    httpVtexUrl: "https://cursos.cruzeirodosulvirtual.com.br/api/catalog_system/pub/products/search/?fq=C%3A%2F4%2F",
+    httpVtexUrl: "https://cruzeirodosul.myvtex.com/api/catalog_system/pub/products/search/?fq=C%3A%2F4%2F",
     httpVtexPageSize: 50,
     httpVtexProperty: "especialidade",
     httpVtexValue: "Gratuito",
