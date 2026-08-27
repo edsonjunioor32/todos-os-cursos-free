@@ -222,12 +222,16 @@ const CATALOGS = [
     hosts: ["cursos.cruzeirodosulvirtual.com.br"],
     match: /cursos\.cruzeirodosulvirtual\.com\.br\/cursos-livres-[^/?#]+\/p(?:[/?#]|$)/i,
     httpOnly: true,
-    httpState: true,
-    httpStatePageParameter: "page",
-    httpStatePageSize: 12,
+    httpVtex: true,
+    httpVtexUrl: "https://cursos.cruzeirodosulvirtual.com.br/api/catalog_system/pub/products/search/?fq=C%3A%2F4%2F",
+    httpVtexPageSize: 50,
+    httpVtexProperty: "especialidade",
+    httpVtexValue: "Gratuito",
+    httpVtexMaxPages: 24,
     requireReportedCount: true,
     strictCoverage: true,
     coverageRatio: 1,
+    failOnErrors: true,
     failOnIncomplete: false,
     category: "Cursos gratuitos",
     cert: "check",
@@ -907,6 +911,133 @@ async function collectHttpPortal(config) {
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140 Safari/537.36"
   };
 
+
+
+  if (config.httpVtex) {
+    const pageSize = Math.max(1, Number(config.httpVtexPageSize || 50));
+    const maxApiPages = Number(config.httpVtexMaxPages || 24);
+    const apiBaseUrl = config.httpVtexUrl || config.source;
+    let from = 0;
+    let total = null;
+    let reachedEnd = false;
+
+    for (let pageNumber = 0; pageNumber < maxApiPages; pageNumber += 1) {
+      const apiUrl = new URL(apiBaseUrl);
+      apiUrl.searchParams.set("_from", String(from));
+      apiUrl.searchParams.set("_to", String(from + pageSize - 1));
+      const requestUrl = canonicalUrl(apiUrl.toString());
+      if (!requestUrl) {
+        errors.push(apiBaseUrl + " -> URL da API inválida");
+        break;
+      }
+      visited.add(requestUrl);
+
+      let response;
+      let products;
+      try {
+        response = await fetch(requestUrl, {
+          headers: {
+            ...requestHeaders,
+            accept: "application/json,text/plain,*/*",
+            referer: config.source
+          },
+          redirect: "follow"
+        });
+        const payload = await response.text();
+        if (!response.ok) {
+          throw new Error("HTTP " + response.status);
+        }
+        try {
+          products = JSON.parse(payload);
+        } catch (error) {
+          throw new Error(
+            "JSON inválido: " +
+              (error instanceof Error ? error.message : String(error))
+          );
+        }
+      } catch (error) {
+        const message = error instanceof Error ? error.message : String(error);
+        errors.push(requestUrl + " -> " + message);
+        break;
+      }
+
+      if (!Array.isArray(products)) {
+        errors.push(requestUrl + " -> resposta não é uma lista de produtos");
+        break;
+      }
+
+      const resourceRange = response.headers.get("resources") || "";
+      const rangeMatch = resourceRange.match(/^(\d+)-(\d+)\/(\d+)$/);
+      if (rangeMatch) {
+        total = Number(rangeMatch[3]);
+      }
+
+      const propertyName = config.httpVtexProperty || "especialidade";
+      const expectedValue = cleanText(config.httpVtexValue || "").toLowerCase();
+      for (const product of products) {
+        if (!product || typeof product !== "object") {
+          continue;
+        }
+
+        const values = Array.isArray(product[propertyName])
+          ? product[propertyName]
+          : [product[propertyName]];
+        if (
+          expectedValue &&
+          !values.some(
+            (value) => cleanText(value).toLowerCase() === expectedValue
+          )
+        ) {
+          continue;
+        }
+
+        const title = usefulTitle(product.productName);
+        if (!title || !product.link) {
+          continue;
+        }
+
+        const courseUrl = canonicalUrl(product.link);
+        if (
+          courseUrl &&
+          allowedHost(new URL(courseUrl).hostname, config) &&
+          config.match.test(courseUrl)
+        ) {
+          records.set(courseUrl, { url: courseUrl, title });
+        }
+      }
+
+      if (
+        products.length === 0 ||
+        (Number.isFinite(total) && from + products.length >= total) ||
+        products.length < pageSize
+      ) {
+        reachedEnd = true;
+        break;
+      }
+      from += products.length;
+    }
+
+    if (Number.isFinite(total) && !reachedEnd) {
+      errors.push(
+        apiBaseUrl +
+          " -> paginação incompleta (" +
+          from +
+          " de " +
+          total +
+          " produtos)"
+      );
+    }
+    if (reachedEnd) {
+      reportedCount = records.size;
+    }
+
+    return {
+      records: [...records.values()],
+      visited: visited.size,
+      reportedCount,
+      errors
+    };
+  }
 
   if (config.httpState) {
     while (pending.length && visited.size < maxPages) {
