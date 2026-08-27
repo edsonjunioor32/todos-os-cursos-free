@@ -885,6 +885,15 @@ async function collectHttpPortal(config) {
   const maxPages = config.maxPages || 12;
   const anchorPattern =
     /<a\b[^>]*\bhref\s*=\s*(?:"([^"]+)"|'([^']+)')[^>]*>([\s\S]*?)<\/a\s*>/gi;
+  const requestHeaders = {
+    accept: "text/html,application/xhtml+xml",
+    "accept-language": "pt-BR,pt;q=0.9,en;q=0.8",
+    "cache-control": "no-cache",
+    pragma: "no-cache",
+    referer: "https://www.escolavirtual.gov.br/catalogo",
+    "user-agent":
+      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140 Safari/537.36"
+  };
 
   while (pending.length && visited.size < maxPages) {
     const catalogUrl = pending.shift();
@@ -895,18 +904,56 @@ async function collectHttpPortal(config) {
     visited.add(catalogUrl);
 
     try {
-      const response = await fetch(catalogUrl, {
-        headers: {
-          accept: "text/html,application/xhtml+xml",
-          "accept-language": "pt-BR,pt;q=0.9,en;q=0.8"
-        },
-        redirect: "follow"
-      });
-      if (!response.ok) {
-        throw new Error("HTTP " + response.status);
+      const requestUrls = [catalogUrl];
+      try {
+        const pageOneUrl = new URL(catalogUrl);
+        if (!pageOneUrl.searchParams.has("page")) {
+          pageOneUrl.searchParams.set("page", "1");
+          requestUrls.push(pageOneUrl.toString());
+        }
+      } catch {}
+
+      let html = "";
+      let lastFailure = "";
+      for (let attempt = 0; attempt < 3 && !html; attempt += 1) {
+        const requestUrl = requestUrls[attempt % requestUrls.length];
+        try {
+          const response = await fetch(requestUrl, {
+            headers: requestHeaders,
+            redirect: "follow"
+          });
+          const candidate = await response.text();
+          const bodyText = stripMarkup(candidate);
+          const hasCourseLinks =
+            config.match && config.match.test(candidate);
+          const hasExpectedCount =
+            config.sourceCountPattern &&
+            config.sourceCountPattern.test(bodyText);
+
+          if (!response.ok) {
+            throw new Error("HTTP " + response.status);
+          }
+          if (!hasCourseLinks && !hasExpectedCount) {
+            throw new Error(
+              "resposta sem cursos/contador (" + candidate.length + " bytes)"
+            );
+          }
+
+          html = candidate;
+          break;
+        } catch (error) {
+          lastFailure = error instanceof Error ? error.message : String(error);
+          if (attempt < 2) {
+            await new Promise((resolve) => setTimeout(resolve, 1000 * (attempt + 1)));
+          }
+        }
       }
 
-      const html = await response.text();
+      if (!html) {
+        errors.push(catalogUrl + " -> " + lastFailure);
+        continue;
+      }
+
       const bodyText = stripMarkup(html);
       if (config.sourceCountPattern) {
         const countMatch = bodyText.match(config.sourceCountPattern);
