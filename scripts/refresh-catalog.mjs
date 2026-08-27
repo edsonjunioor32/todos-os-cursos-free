@@ -220,6 +220,14 @@ const CATALOGS = [
     ],
     hosts: ["cursos.cruzeirodosulvirtual.com.br"],
     match: /cursos\.cruzeirodosulvirtual\.com\.br\/cursos-livres-[^/?#]+\/p(?:[/?#]|$)/i,
+    httpOnly: true,
+    httpState: true,
+    httpStatePageParameter: "page",
+    httpStatePageSize: 12,
+    requireReportedCount: true,
+    strictCoverage: true,
+    coverageRatio: 1,
+    failOnIncomplete: false,
     category: "Cursos gratuitos",
     cert: "check",
     description: "Curso gratuito localizado no catálogo da Cruzeiro do Sul Virtual.",
@@ -897,6 +905,135 @@ async function collectHttpPortal(config) {
     "user-agent":
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140 Safari/537.36"
   };
+
+
+  if (config.httpState) {
+    while (pending.length && visited.size < maxPages) {
+      const catalogUrl = pending.shift();
+      queued.delete(catalogUrl);
+      if (visited.has(catalogUrl)) {
+        continue;
+      }
+      visited.add(catalogUrl);
+
+      try {
+        const response = await fetch(catalogUrl, {
+          headers: requestHeaders,
+          redirect: "follow"
+        });
+        const html = await response.text();
+        if (!response.ok) {
+          throw new Error("HTTP " + response.status);
+        }
+
+        const stateMatch = html.match(
+          /data-varname="__STATE__"[^>]*>\s*<script>([\s\S]*?)<\/script>/i
+        );
+        if (!stateMatch) {
+          throw new Error(
+            "estado estruturado __STATE__ não encontrado (" + html.length + " bytes)"
+          );
+        }
+
+        let state;
+        try {
+          state = JSON.parse(stateMatch[1].trim());
+        } catch (error) {
+          throw new Error(
+            "estado estruturado inválido: " +
+              (error instanceof Error ? error.message : String(error))
+          );
+        }
+
+        const searchKey = Object.keys(state).find((key) =>
+          key.startsWith("$ROOT_QUERY.productSearch(")
+        );
+        const searchResult = searchKey ? state[searchKey] : null;
+        const reported = Number(searchResult?.recordsFiltered);
+        if (Number.isFinite(reported) && reported >= 0) {
+          reportedCount = reported;
+        }
+
+        const productsFromSearch = Array.isArray(searchResult?.products)
+          ? searchResult.products
+              .map((reference) => state[reference?.id])
+              .filter(Boolean)
+          : [];
+        const products =
+          productsFromSearch.length > 0
+            ? productsFromSearch
+            : Object.entries(state)
+                .filter(
+                  ([key, value]) =>
+                    /^Product:[^.]+$/.test(key) &&
+                    value &&
+                    typeof value === "object"
+                )
+                .map(([, value]) => value);
+
+        for (const product of products) {
+          const title = usefulTitle(product.productName);
+          if (!title || !product.link) {
+            continue;
+          }
+
+          let courseUrl = "";
+          try {
+            courseUrl = canonicalUrl(
+              new URL(product.link, catalogUrl).toString()
+            );
+          } catch {
+            continue;
+          }
+
+          if (
+            courseUrl &&
+            allowedHost(new URL(courseUrl).hostname, config) &&
+            config.match.test(courseUrl)
+          ) {
+            records.set(courseUrl, { url: courseUrl, title });
+          }
+        }
+
+        const pageUrl = new URL(catalogUrl);
+        const currentPage = Math.max(
+          1,
+          Number(pageUrl.searchParams.get(config.httpStatePageParameter || "page")) || 1
+        );
+        const pageSize = Number(config.httpStatePageSize || 12);
+        const totalPages =
+          Number.isFinite(reportedCount) && pageSize > 0
+            ? Math.ceil(reportedCount / pageSize)
+            : currentPage;
+
+        if (currentPage < totalPages && visited.size < maxPages) {
+          pageUrl.searchParams.set(
+            config.httpStatePageParameter || "page",
+            String(currentPage + 1)
+          );
+          const nextUrl = canonicalUrl(pageUrl.toString());
+          if (
+            nextUrl &&
+            !visited.has(nextUrl) &&
+            !queued.has(nextUrl)
+          ) {
+            queued.add(nextUrl);
+            pending.push(nextUrl);
+          }
+        }
+      } catch (error) {
+        const message = error instanceof Error ? error.message : String(error);
+        errors.push(catalogUrl + " -> " + message);
+      }
+    }
+
+    return {
+      records: [...records.values()],
+      visited: visited.size,
+      reportedCount,
+      errors
+    };
+  }
 
   if (config.httpExportUrl) {
     try {
