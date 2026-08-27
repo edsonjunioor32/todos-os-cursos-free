@@ -431,6 +431,9 @@ const CATALOGS = [
   },
   {
     httpOnly: true,
+    httpExportUrl: "https://www.escolavirtual.gov.br/catalogo/exportar/csv",
+    httpExportFormat: "pipe",
+    httpCoursePath: "/curso/{id}",
     portal: "Escola Virtual Gov",
     source: "https://www.escolavirtual.gov.br/catalogo",
     urls: [
@@ -894,6 +897,57 @@ async function collectHttpPortal(config) {
     "user-agent":
       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/140 Safari/537.36"
   };
+
+  if (config.httpExportUrl) {
+    try {
+      const response = await fetch(config.httpExportUrl, {
+        headers: {
+          ...requestHeaders,
+          accept: "text/csv,text/plain,*/*"
+        },
+        redirect: "follow"
+      });
+      const exported = await response.text();
+      if (!response.ok) {
+        throw new Error("HTTP " + response.status);
+      }
+
+      if (config.httpExportFormat === "pipe") {
+        const rowPattern = /^(\d+)\|([^\r\n|]*)/gm;
+        for (const row of exported.matchAll(rowPattern)) {
+          const title = usefulTitle(decodeHtmlEntities(row[2]));
+          if (!title) {
+            continue;
+          }
+          const courseUrl = canonicalUrl(
+            new URL(
+              config.httpCoursePath.replace("{id}", row[1]),
+              config.httpExportUrl
+            ).toString()
+          );
+          if (courseUrl && config.match && config.match.test(courseUrl)) {
+            records.set(courseUrl, { url: courseUrl, title });
+          }
+        }
+      }
+
+      if (records.size > 0) {
+        reportedCount = records.size;
+        return {
+          records: [...records.values()],
+          visited: 1,
+          reportedCount,
+          errors
+        };
+      }
+      throw new Error(
+        "exportação sem registros reconhecíveis (" + exported.length + " bytes)"
+      );
+    } catch (error) {
+      const message = error instanceof Error ? error.message : String(error);
+      errors.push(config.httpExportUrl + " -> " + message);
+    }
+  }
 
   while (pending.length && visited.size < maxPages) {
     const catalogUrl = pending.shift();
