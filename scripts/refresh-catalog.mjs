@@ -32,6 +32,8 @@ const CATALOGS = [
     cardUrlField: "detailUrl",
     cardTitleField: "name",
     tabSelector: "#soa-courses-tab",
+    consentSelector: "#onetrust-reject-all-handler",
+    consentWaitMs: 1000,
     loadMoreSelector: "#load-more",
     loadMoreLimit: 20,
     loadMoreWaitMs: 2200,
@@ -551,6 +553,19 @@ async function collectPortal(browser, config) {
         if (await pageSize.count()) {
           await pageSize.selectOption({ label: config.pageSizeLabel });
           await page.waitForTimeout(config.waitMs || 3000);
+        }
+      }
+
+      if (config.consentSelector) {
+        const consent = page.locator(config.consentSelector);
+        if (await consent.count() && await consent.isVisible().catch(() => false)) {
+          try {
+            await consent.click({ timeout: 10000 });
+            await page.waitForTimeout(config.consentWaitMs || 1000);
+          } catch (error) {
+            const message = error instanceof Error ? error.message : String(error);
+            errors.push(catalogUrl + " -> consent: " + message);
+          }
         }
       }
 
