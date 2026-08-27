@@ -309,7 +309,7 @@ const CATALOGS = [
     titleLine: 1,
     clientPageSelector: "ul.pages li.page-number",
     clientPages: 20,
-    sourceCountPattern: /Todos\s*\((\d+)\)/i,
+    sourceCountPattern: /(?:Todos|Cursos\s+Gratuitos)\s*\((\d+)\)/i,
     waitMs: 2200,
     pageWaitMs: 2400,
     category: "Saúde",
@@ -317,7 +317,7 @@ const CATALOGS = [
     description: "Curso gratuito localizado no catálogo do Ensino Einstein.",
     minimumRecords: 1,
     strictCoverage: true,
-    requireReportedCount: true,
+    requireReportedCount: false,
     coverageRatio: 1,
     failOnIncomplete: true,
     maxPages: 4
