@@ -270,7 +270,262 @@ const CATALOGS = [
     cert: "check",
     description: "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
     maxPages: 4
+  },
+
+  {
+    portal: "Stanford Online",
+    source: "https://online.stanford.edu/explore?filter%5B0%5D=free_or_paid%3Afree&keywords=&items_per_page=12",
+    urls: [
+      "https://online.stanford.edu/explore?filter%5B0%5D=free_or_paid%3Afree&keywords=&items_per_page=12"
+    ],
+    hosts: ["online.stanford.edu"],
+    match: /online\.stanford\.edu\/courses\/[^/?#]+/i,
+    sourceCountPattern: /Course\s*\((\d+)\)/i,
+    waitMs: 2200,
+    category: "Cursos gratuitos",
+    cert: "maybe",
+    description: "Curso gratuito ou de acesso livre localizado no catálogo Stanford Online.",
+    minimumRecords: 1,
+    strictCoverage: true,
+    requireReportedCount: true,
+    coverageRatio: 1,
+    failOnIncomplete: true,
+    maxPages: 20
+  },
+  {
+    portal: "Ensino Einstein",
+    source: "https://ensino.einstein.br/curta-duracao/cursos-gratuitos?O=OrderByScoreDESC",
+    urls: [
+      "https://ensino.einstein.br/curta-duracao/cursos-gratuitos?O=OrderByScoreDESC"
+    ],
+    hosts: ["ensino.einstein.br"],
+    match: /ensino\.einstein\.br\/[^/?#]+_p\d+\/p(?:[/?#]|$)/i,
+    anchorSelector: "a.prateleira__view-product[href]",
+    titleFromClosestSelector: ".prateleira__content",
+    titleLine: 1,
+    clientPageSelector: "ul.pages li.page-number",
+    clientPages: 20,
+    sourceCountPattern: /Todos\s*\((\d+)\)/i,
+    waitMs: 2200,
+    pageWaitMs: 2400,
+    category: "Saúde",
+    cert: "maybe",
+    description: "Curso gratuito localizado no catálogo do Ensino Einstein.",
+    minimumRecords: 1,
+    strictCoverage: true,
+    requireReportedCount: true,
+    coverageRatio: 1,
+    failOnIncomplete: true,
+    maxPages: 4
+  },
+  {
+    portal: "LÚMINA UFRGS",
+    source: "https://lumina.ufrgs.br/course/index.php",
+    urls: [
+      "https://lumina.ufrgs.br/course/index.php?categoryid=7",
+      "https://lumina.ufrgs.br/course/index.php?categoryid=1",
+      "https://lumina.ufrgs.br/course/index.php?categoryid=5",
+      "https://lumina.ufrgs.br/course/index.php?categoryid=4",
+      "https://lumina.ufrgs.br/course/index.php?categoryid=6"
+    ],
+    hosts: ["lumina.ufrgs.br"],
+    match: /lumina\.ufrgs\.br\/course\/view\.php\?[^#]*\bid=\d+/i,
+    anchorSelector: 'a[href*="/course/view.php?id="]',
+    paginationSelector: "div.paginacao a",
+    titleFromClosestSelector: ".coursebox, .vid-tit",
+    titleLine: 1,
+    waitForSelector: 'a[href*="/course/view.php?id="]',
+    waitForSelectorTimeout: 20000,
+    waitMs: 1600,
+    category: "Cursos gratuitos",
+    cert: "check",
+    description: "Curso gratuito da plataforma LÚMINA da UFRGS.",
+    minimumRecords: 1,
+    failOnIncomplete: true,
+    maxPages: 120
+  },
+  {
+    portal: "OpenLearn",
+    source: "https://www.open.edu/openlearn/free-courses/full-catalogue",
+    urls: [
+      "https://www.open.edu/openlearn/free-courses/full-catalogue"
+    ],
+    hosts: ["www.open.edu"],
+    match: /www\.open\.edu\/openlearn\/(?:[^/?#]+\/){2,4}content-section-0(?:[/?#]|$)/i,
+    sourceCountPattern: /Results:\s*(\d+)\s+items/i,
+    waitMs: 2200,
+    category: "Cursos gratuitos",
+    cert: "check",
+    description: "Curso gratuito do catálogo OpenLearn da The Open University.",
+    minimumRecords: 1,
+    strictCoverage: true,
+    requireReportedCount: true,
+    coverageRatio: 1,
+    failOnIncomplete: true,
+    maxPages: 60
+  },
+  {
+    portal: "e-Aulas USP",
+    source: "https://eaulas.usp.br/portal/profession.action?profession=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+e+Inform%C3%A1tica",
+    urls: [
+      "https://eaulas.usp.br/portal/profession.action?profession=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+e+Inform%C3%A1tica"
+    ],
+    hosts: ["eaulas.usp.br"],
+    match: /eaulas\.usp\.br\/portal\/course\.action\?[^#]*\bcourse=\d+/i,
+    anchorSelector: 'a.limit3lines[href*="/portal/course.action?course="]',
+    paginationSelector: "div.paginacao a",
+    titleFromClosestSelector: ".vid-tit",
+    titleLine: 1,
+    sourceCountPattern: /Há\s+\d+\s+vídeos\s+disponíveis\s+em\s+(\d+)\s+disciplinas/i,
+    waitMs: 1800,
+    category: "Tecnologia e educação",
+    cert: "material",
+    description: "Disciplina com videoaulas gratuitas disponível no e-Aulas USP.",
+    minimumRecords: 1,
+    strictCoverage: true,
+    requireReportedCount: true,
+    coverageRatio: 1,
+    failOnIncomplete: true,
+    maxPages: 4
+  },
+  {
+    portal: "Life Global",
+    source: "https://www.life-global.org/pt/allcourses?page=1",
+    urls: [
+      "https://www.life-global.org/pt/allcourses?page=1"
+    ],
+    hosts: ["www.life-global.org"],
+    match: /www\.life-global\.org\/pt\/course\/\d+-[^/?#]+/i,
+    anchorSelector: 'a[href*="/pt/course/"]',
+    waitMs: 2200,
+    category: "Cursos gratuitos",
+    cert: "check",
+    description: "Curso gratuito da HP LIFE, com certificado de conclusão.",
+    minimumRecords: 1,
+    failOnIncomplete: true,
+    maxPages: 20
+  },
+  {
+    portal: "Khan Academy",
+    source: "https://pt.khanacademy.org/computing",
+    urls: [
+      "https://pt.khanacademy.org/computing",
+      "https://pt.khanacademy.org/college-careers-more/"
+    ],
+    hosts: ["pt.khanacademy.org"],
+    match: /pt\.khanacademy\.org\/(?:computing\/(?:computer-programming|computer-science|hour-of-code|intro-to-python-fundamentals)(?:\/[^/?#]+)*|college-careers-more\/(?:internet-safety|uma-introducao-a-inteligencia-artificial)(?:\/[^/?#]+)*)/i,
+    exclude: /(?:hour-of-code-resources|teacher-resources)/i,
+    waitMs: 1800,
+    category: "Tecnologia e educação",
+    cert: "free",
+    description: "Curso e conteúdo formativo gratuito da Khan Academy em português.",
+    minimumRecords: 1,
+    failOnIncomplete: true,
+    maxPages: 4
+  },
+  {
+    portal: "Escola Virtual Gov",
+    source: "https://www.escolavirtual.gov.br/catalogo",
+    urls: [
+      "https://www.escolavirtual.gov.br/catalogo"
+    ],
+    hosts: ["www.escolavirtual.gov.br"],
+    match: /www\.escolavirtual\.gov\.br\/curso\/\d+(?:[/?#]|$)/i,
+    anchorSelector: 'a[href*="/curso/"]',
+    titleFromClosestSelector: ".card",
+    sourceCountPattern: /(\d+)\s+de\s+(\d+)\s+resultados encontrados/i,
+    sourceCountGroup: 2,
+    waitMs: 1800,
+    category: "Cursos gratuitos",
+    cert: "check",
+    description: "Curso gratuito da Escola Virtual de Governo.",
+    minimumRecords: 1,
+    strictCoverage: true,
+    requireReportedCount: true,
+    coverageRatio: 1,
+    failOnIncomplete: true,
+    maxPages: 90
+  },
+  {
+    portal: "IBM SkillsBuild",
+    source: "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
+    urls: [
+      "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
+      "https://skillsbuild.org/pt-br/learning-catalog/university-catalog?languages=pt-br",
+      "https://skillsbuild.org/pt-br/learning-catalog/high-school-catalog?languages=pt-br"
+    ],
+    hosts: ["skillsbuild.org", "skills.yourlearning.ibm.com"],
+    match: /skills\.yourlearning\.ibm\.com\/activity\/ALM-COURSE_\d+/i,
+    anchorSelector: 'a[href*="skills.yourlearning.ibm.com/activity/ALM-COURSE_"]',
+    waitMs: 3000,
+    category: "Tecnologia",
+    cert: "maybe",
+    description: "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
+    minimumRecords: 200,
+    failOnIncomplete: true,
+    maxPages: 8
+  },
+  {
+    portal: "Microsoft Learn",
+    source: "https://learn.microsoft.com/pt-br/training/browse/",
+    urls: [
+      "https://learn.microsoft.com/pt-br/training/browse/",
+      "https://learn.microsoft.com/pt-br/training/student-hub/",
+      "https://learn.microsoft.com/pt-br/training/career-paths/"
+    ],
+    hosts: ["learn.microsoft.com"],
+    match: /learn\.microsoft\.com\/pt-br\/training\/(?:modules|paths)\/[^/?#]+/i,
+    followMatch: /learn\.microsoft\.com\/pt-br\/training\/career-paths\/[^/?#]+\/?$/i,
+    waitMs: 1800,
+    category: "Tecnologia",
+    cert: "maybe",
+    description: "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+    minimumRecords: 1,
+    failOnIncomplete: true,
+    maxPages: 120
+  },
+  {
+    portal: "Escola de Pessoas",
+    source: "https://escoladepessoas.com.br/trilha/consultoria/",
+    urls: [
+      "https://escoladepessoas.com.br/trilha/consultoria/#cursos",
+      "https://escoladepessoas.com.br/trilha/atracao-de-talentos/",
+      "https://escoladepessoas.com.br/trilha/departamento-pessoal/",
+      "https://escoladepessoas.com.br/trilha/desenvolvimento-e-performance/",
+      "https://escoladepessoas.com.br/trilha/gestao-comportamental/",
+      "https://escoladepessoas.com.br/trilha/gestao-de-pessoas/",
+      "https://escoladepessoas.com.br/trilha/lideranca/",
+      "https://escoladepessoas.com.br/trilha/negocios/",
+      "https://escoladepessoas.com.br/trilha/retencao-e-engajamento/"
+    ],
+    hosts: ["escoladepessoas.com.br"],
+    match: /escoladepessoas\.com\.br\/curso\/[^/?#]+/i,
+    anchorSelector: 'a.elementor-button[href*="/curso/"]',
+    titleFromClosestSelector: ".card-curso",
+    waitMs: 1400,
+    category: "Gestão de pessoas",
+    cert: "maybe",
+    description: "Curso gratuito da Escola de Pessoas.",
+    minimumRecords: 1,
+    failOnIncomplete: true,
+    maxPages: 12
+  },
+  {
+    portal: "Cisco CiberEducação",
+    source: "https://www.cisco.com/c/m/pt_br/brasil-digital-e-inclusivo/cibereducacao/aluno.html",
+    urls: [],
+    hosts: ["www.cisco.com", "community.cisco.com", "netacad.com"],
+    staticCourses: [
+      {
+        title: "Sensibilização para a Segurança Digital",
+        url: "https://community.cisco.com/t5/programa-cibereduca%C3%A7%C3%A3o-cisco-do-brasil/maratona-cibereduca%C3%A7%C3%A3o-cisco-brasil-2026-inscri%C3%A7%C3%B5es-abertas/ba-p/5564710"
+      }
+    ],
+    category: "Tecnologia",
+    cert: "check",
+    description: "Curso gratuito da Maratona CiberEducação Cisco Brasil."
   }
+
 ];
 
 function canonicalUrl(value) {
@@ -365,27 +620,58 @@ function allowedHost(hostname, config) {
 }
 
 function shouldFollowPagination(anchor, url, config) {
-  if (!PAGINATION_PATTERN.test(url)) {
-    return false;
-  }
   const label = cleanText(anchor.text || anchor.aria || anchor.title);
   const rel = cleanText(anchor.rel);
-  return (
-    /\b(next|previous|próximo|anterior|seguinte|último|last)\b/i.test(label) ||
-    /\bnext\b/i.test(rel) ||
-    /^\d{1,3}$/.test(label)
-  );
+  const semantic = /\b(next|previous|próximo|anterior|seguinte|último|last)\b/i.test(label);
+  if (!PAGINATION_PATTERN.test(url) && !semantic) {
+    return false;
+  }
+  return semantic || /\bnext\b/i.test(rel) || /^\d{1,3}$/.test(label);
 }
 
-async function readPageAnchors(page) {
-  return page.locator("a[href]").evaluateAll((nodes) =>
-    nodes.map((node) => ({
-      href: node.href,
-      text: node.innerText || node.textContent || "",
-      title: node.getAttribute("title") || "",
-      aria: node.getAttribute("aria-label") || "",
-      rel: node.getAttribute("rel") || ""
-    }))
+async function readPageAnchors(page, config = {}) {
+  const selectors = [
+    config.anchorSelector || "a[href]",
+    config.paginationSelector
+  ].filter(Boolean);
+  const selector = [...new Set(selectors)].join(", ");
+  return page.locator(selector).evaluateAll(
+    (nodes, options) =>
+      nodes.map((node) => {
+        const onclick = node.getAttribute("onclick") || "";
+        const callbackMatch = onclick.match(
+          /(?:load|location(?:\.href)?|window\.open)\s*\(\s*['"]([^'"]+)/i
+        );
+        let href = node.href;
+        if (callbackMatch?.[1]) {
+          try {
+            href = new URL(
+              callbackMatch[1].replace(/&amp;/g, "&"),
+              window.location.href
+            ).href;
+          } catch {
+            href = node.href;
+          }
+        }
+
+        const closest = options.closestSelector
+          ? node.closest(options.closestSelector)
+          : null;
+        const nearbyTitle =
+          closest?.querySelector("h1,h2,h3,h4,h5,h6")?.innerText || "";
+        const closestText = closest?.innerText || "";
+
+        return {
+          href,
+          text: node.innerText || node.textContent || "",
+          title: node.getAttribute("title") || "",
+          aria: node.getAttribute("aria-label") || "",
+          rel: node.getAttribute("rel") || "",
+          nearbyTitle,
+          closestText
+        };
+      }),
+    { closestSelector: config.titleFromClosestSelector || "" }
   );
 }
 
@@ -453,6 +739,26 @@ function registerCardItems(items, config, records) {
 }
 
 function anchorTitle(anchor, config) {
+  if (config.titleFromClosestSelector) {
+    const nearbyTitle = usefulTitle(anchor.nearbyTitle);
+    if (nearbyTitle) {
+      return nearbyTitle;
+    }
+
+    const lines = String(anchor.closestText || "")
+      .split(/\r?\n/)
+      .map(cleanText)
+      .filter(Boolean);
+    const lineNumber = Number(config.titleLine || 1);
+    const candidate = lines.at(Math.max(0, lineNumber - 1));
+    if (candidate) {
+      const title = usefulTitle(candidate);
+      if (title) {
+        return title;
+      }
+    }
+  }
+
   if (config.titleLineFromEnd) {
     const lines = String(anchor.text || "")
       .split(/\r?\n/)
@@ -513,11 +819,13 @@ function registerAnchors(anchors, config, records, pending, queued, visited) {
       }
     }
 
+    const followsConfiguredPage =
+      config.followMatch && config.followMatch.test(url);
     if (
       pending.length + visited.size < (config.maxPages || 12) &&
       !visited.has(url) &&
       !queued.has(url) &&
-      shouldFollowPagination(anchor, url, config)
+      (followsConfiguredPage || shouldFollowPagination(anchor, url, config))
     ) {
       queued.add(url);
       pending.push(url);
@@ -608,7 +916,7 @@ async function collectPortal(browser, config) {
         if (shouldScroll) {
           await scrollCatalog(page);
         }
-        const anchors = await readPageAnchors(page);
+        const anchors = await readPageAnchors(page, config);
         registerAnchors(anchors, config, records, pending, queued, visited);
         if (config.cardHostSelector) {
           const items = await readShadowCards(page, config);
@@ -618,7 +926,7 @@ async function collectPortal(browser, config) {
           const bodyText = await page.locator("body").innerText().catch(() => "");
           const countMatch = bodyText.match(config.sourceCountPattern);
           if (countMatch) {
-            reportedCount = Number(countMatch[1]);
+            reportedCount = Number(countMatch[config.sourceCountGroup || 1]);
           }
         }
       };
@@ -754,7 +1062,53 @@ function buildRecord(config, item, previous) {
   };
 }
 
-function mergePortalCourses(previous, discovered, config) {
+function validateCollectedResult(result, config) {
+  const reasons = [];
+  const discovered = result.records.length;
+  const minimumRecords = Number(config.minimumRecords || (config.match ? 1 : 0));
+
+  if (discovered < minimumRecords) {
+    reasons.push(
+      "encontrados " + discovered + ", mínimo esperado " + minimumRecords
+    );
+  }
+
+  if (config.requireReportedCount && !Number.isFinite(result.reportedCount)) {
+    reasons.push("a fonte não informou a quantidade esperada");
+  }
+
+  if (
+    config.strictCoverage &&
+    Number.isFinite(result.reportedCount) &&
+    Number.isFinite(Number(config.coverageRatio))
+  ) {
+    const required = Math.ceil(
+      result.reportedCount * Number(config.coverageRatio)
+    );
+    if (discovered < required) {
+      reasons.push(
+        "encontrados " +
+          discovered +
+          " de " +
+          result.reportedCount +
+          " informados pela fonte"
+      );
+    }
+  }
+
+  if (config.failOnErrors && result.errors.length) {
+    reasons.push("erros de coleta: " + result.errors.join("; "));
+  }
+
+  return { valid: reasons.length === 0, reasons };
+}
+
+function mergePortalCourses(
+  previous,
+  discovered,
+  config,
+  validation = { valid: true, reasons: [] }
+) {
   const validPrevious = previous.filter((course) => {
     if (config.exclude && config.exclude.test(course.url)) {
       return false;
@@ -765,30 +1119,44 @@ function mergePortalCourses(previous, discovered, config) {
     return true;
   });
 
-  if (!config.match) {
-    return {
-      courses: validPrevious,
-      status: "static",
-      discovered: 0
-    };
-  }
-
-  const minimum = validPrevious.length
-    ? Math.max(1, Math.floor(validPrevious.length * 0.25))
-    : 1;
-
-  if (discovered.length < minimum) {
-    return {
-      courses: validPrevious,
-      status: "preserved",
-      discovered: discovered.length,
-      minimum
-    };
-  }
-
   const byUrl = new Map(
     validPrevious.map((course) => [canonicalUrl(course.url), course])
   );
+
+  for (const item of config.staticCourses || []) {
+    const key = canonicalUrl(item.url);
+    if (!key) {
+      continue;
+    }
+    const old = byUrl.get(key);
+    byUrl.set(key, buildRecord(config, item, old));
+  }
+
+  if (!config.match) {
+    return {
+      courses: [...byUrl.values()],
+      status: config.staticCourses?.length ? "seeded" : "static",
+      discovered: config.staticCourses?.length || 0
+    };
+  }
+
+  const minimum = Math.max(
+    validPrevious.length
+      ? Math.max(1, Math.floor(validPrevious.length * 0.25))
+      : 1,
+    Number(config.minimumRecords || 0)
+  );
+
+  if (!validation.valid || discovered.length < minimum) {
+    return {
+      courses: validPrevious,
+      status: validation.valid ? "preserved" : "incomplete",
+      discovered: discovered.length,
+      minimum,
+      reasons: validation.reasons
+    };
+  }
+
   for (const item of discovered) {
     const key = canonicalUrl(item.url);
     const old = byUrl.get(key);
@@ -824,18 +1192,36 @@ try {
   for (const config of CATALOGS) {
     const previous = previousByPortal.get(config.portal) || [];
     if (!config.match) {
-      mergedByPortal.set(config.portal, previous);
+      const merged = mergePortalCourses(previous, [], config);
+      mergedByPortal.set(config.portal, merged.courses);
       stats.push({
         portal: config.portal,
-        status: "preserved",
-        discovered: 0,
-        total: previous.length
+        status: merged.status,
+        discovered: merged.discovered,
+        total: merged.courses.length
       });
+      if (merged.courses.length > 0) {
+        successfulCatalogs += 1;
+      }
       continue;
     }
 
     const result = await collectPortal(browser, config);
-    const merged = mergePortalCourses(previous, result.records, config);
+    const validation = validateCollectedResult(result, config);
+    const merged = mergePortalCourses(
+      previous,
+      result.records,
+      config,
+      validation
+    );
+
+    if (!validation.valid && config.failOnIncomplete) {
+      throw new Error(
+        config.portal + " não passou na validação de cobertura: " +
+          validation.reasons.join("; ")
+      );
+    }
+
     mergedByPortal.set(config.portal, merged.courses);
     stats.push({
       portal: config.portal,
@@ -844,13 +1230,15 @@ try {
       total: merged.courses.length,
       visited: result.visited,
       reported: result.reportedCount,
+      validation: validation.reasons,
       errors: result.errors
     });
 
-    if (result.records.length > 0) {
+    if (result.records.length > 0 && validation.valid) {
       successfulCatalogs += 1;
     }
   }
+}
 } finally {
   await browser.close();
 }
@@ -895,11 +1283,26 @@ for (const course of outputCourses) {
 
 const coverage = { ...(catalog.coverage || {}) };
 for (const stat of stats) {
-  if (stat.status === "updated" || stat.status === "preserved") {
+  if (
+    stat.status === "updated" ||
+    stat.status === "preserved" ||
+    stat.status === "seeded"
+  ) {
+    const reported =
+      Number.isFinite(stat.reported) && stat.reported > 0
+        ? " Fonte reportou " + stat.reported + "."
+        : "";
     coverage[stat.portal] =
       stat.discovered > 0
-        ? stat.discovered + " cursos encontrados; " + stat.total + " mantidos no catálogo."
-        : stat.total + " cursos mantidos no catálogo.";
+        ? stat.discovered +
+          " cursos encontrados; " +
+          stat.total +
+          " mantidos no catálogo." +
+          reported
+        : stat.total + " cursos mantidos no catálogo." + reported;
+  } else if (stat.status === "incomplete") {
+    coverage[stat.portal] =
+      "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.";
   }
 }
 
