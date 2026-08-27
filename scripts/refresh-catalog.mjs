@@ -430,6 +430,7 @@ const CATALOGS = [
     maxPages: 4
   },
   {
+    httpOnly: true,
     portal: "Escola Virtual Gov",
     source: "https://www.escolavirtual.gov.br/catalogo",
     urls: [
@@ -842,7 +843,125 @@ function registerAnchors(anchors, config, records, pending, queued, visited) {
   }
 }
 
+
+function decodeHtmlEntities(value) {
+  return String(value || "")
+    .replace(/&nbsp;/gi, " ")
+    .replace(/&amp;/gi, "&")
+    .replace(/&quot;/gi, '"')
+    .replace(/&#39;|&apos;/gi, "'")
+    .replace(/&lt;/gi, "<")
+    .replace(/&gt;/gi, ">")
+    .replace(/&#x([0-9a-f]+);/gi, (_, code) => {
+      const number = parseInt(code, 16);
+      return Number.isFinite(number) && number <= 0x10ffff
+        ? String.fromCodePoint(number)
+        : " ";
+    })
+    .replace(/&#(\d+);/g, (_, code) => {
+      const number = Number(code);
+      return Number.isFinite(number) && number <= 0x10ffff
+        ? String.fromCodePoint(number)
+        : " ";
+    });
+}
+
+function stripMarkup(value) {
+  return decodeHtmlEntities(
+    String(value || "")
+      .replace(/<script[\s\S]*?<\/script>/gi, " ")
+      .replace(/<style[\s\S]*?<\/style>/gi, " ")
+      .replace(/<[^>]+>/g, " ")
+  );
+}
+
+async function collectHttpPortal(config) {
+  const pending = [...config.urls].map(canonicalUrl).filter(Boolean);
+  const queued = new Set(pending);
+  const visited = new Set();
+  const records = new Map();
+  const errors = [];
+  let reportedCount = null;
+  const maxPages = config.maxPages || 12;
+  const anchorPattern =
+    /<a\b[^>]*\bhref\s*=\s*(?:"([^"]+)"|'([^']+)')[^>]*>([\s\S]*?)<\/a\s*>/gi;
+
+  while (pending.length && visited.size < maxPages) {
+    const catalogUrl = pending.shift();
+    queued.delete(catalogUrl);
+    if (visited.has(catalogUrl)) {
+      continue;
+    }
+    visited.add(catalogUrl);
+
+    try {
+      const response = await fetch(catalogUrl, {
+        headers: {
+          accept: "text/html,application/xhtml+xml",
+          "accept-language": "pt-BR,pt;q=0.9,en;q=0.8"
+        },
+        redirect: "follow"
+      });
+      if (!response.ok) {
+        throw new Error("HTTP " + response.status);
+      }
+
+      const html = await response.text();
+      const bodyText = stripMarkup(html);
+      if (config.sourceCountPattern) {
+        const countMatch = bodyText.match(config.sourceCountPattern);
+        if (countMatch) {
+          reportedCount = Number(countMatch[config.sourceCountGroup || 1]);
+        }
+      }
+
+      for (const match of html.matchAll(anchorPattern)) {
+        const rawHref = decodeHtmlEntities(match[1] || match[2] || "").trim();
+        let url = "";
+        try {
+          url = canonicalUrl(new URL(rawHref, catalogUrl).toString());
+        } catch {
+          continue;
+        }
+        if (!url || !allowedHost(new URL(url).hostname, config)) {
+          continue;
+        }
+
+        const title = usefulTitle(stripMarkup(match[3]));
+        if (config.match && config.match.test(url) && title) {
+          records.set(url, { url, title });
+        }
+
+        const isCatalogPage =
+          /\/catalogo\?[^#]*\bpage=\d+/i.test(url);
+        if (
+          isCatalogPage &&
+          pending.length + visited.size < maxPages &&
+          !visited.has(url) &&
+          !queued.has(url)
+        ) {
+          queued.add(url);
+          pending.push(url);
+        }
+      }
+    } catch (error) {
+      const message = error instanceof Error ? error.message : String(error);
+      errors.push(catalogUrl + " -> " + message);
+    }
+  }
+
+  return {
+    records: [...records.values()],
+    visited: visited.size,
+    reportedCount,
+    errors
+  };
+}
+
 async function collectPortal(browser, config) {
+  if (config.httpOnly) {
+    return collectHttpPortal(config);
+  }
   const context = await browser.newContext();
   const pending = [...config.urls];
   const queued = new Set(pending);
