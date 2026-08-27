@@ -224,6 +224,7 @@ const CATALOGS = [
     httpOnly: true,
     httpVtex: true,
     httpVtexUrl: "https://cruzeirodosul.myvtex.com/api/catalog_system/pub/products/search/?fq=C%3A%2F4%2F",
+    httpVtexLinkOrigin: "https://cursos.cruzeirodosulvirtual.com.br",
     httpVtexPageSize: 50,
     httpVtexProperty: "especialidade",
     httpVtexValue: "Gratuito",
@@ -996,7 +997,18 @@ async function collectHttpPortal(config) {
           continue;
         }
 
-        const courseUrl = canonicalUrl(product.link);
+        let courseUrl = canonicalUrl(product.link);
+        if (courseUrl && config.httpVtexLinkOrigin) {
+          try {
+            const publicOrigin = new URL(config.httpVtexLinkOrigin);
+            const parsedCourseUrl = new URL(courseUrl);
+            parsedCourseUrl.protocol = publicOrigin.protocol;
+            parsedCourseUrl.host = publicOrigin.host;
+            courseUrl = canonicalUrl(parsedCourseUrl.toString());
+          } catch {
+            courseUrl = "";
+          }
+        }
         if (
           courseUrl &&
           allowedHost(new URL(courseUrl).hostname, config) &&
