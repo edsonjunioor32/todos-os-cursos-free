@@ -1240,7 +1240,6 @@ try {
       successfulCatalogs += 1;
     }
   }
-}
 } finally {
   await browser.close();
 }
