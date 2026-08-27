@@ -349,6 +349,7 @@ const CATALOGS = [
     maxPages: 120
   },
   {
+    enabled: false,
     portal: "OpenLearn",
     source: "https://www.open.edu/openlearn/free-courses/full-catalogue",
     urls: [
