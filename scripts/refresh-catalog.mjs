@@ -528,7 +528,7 @@ function registerAnchors(anchors, config, records, pending, queued, visited) {
 async function collectPortal(browser, config) {
   const context = await browser.newContext({
     userAgent:
-      "Mozilla/5.0 (compatible; TodosCursosFreeBot/1.0; +https://github.com/edsonjunioor32/todas-os-cursos-free)"
+      "Mozilla/5.0 (compatible; TodosCursosFreeBot/1.0; +https://github.com/edsonjunioor32/todos-os-cursos-free)"
   });
   const pending = [...config.urls];
   const queued = new Set(pending);
