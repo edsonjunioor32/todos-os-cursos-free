@@ -12,6 +12,7 @@ const today = new Intl.DateTimeFormat("en-CA", {
 const PAGINATION_PATTERN =
   /(?:[?&](?:page|pagina|p|offset|start)=\d+|\/(?:page|pagina)\/\d+)/i;
 
+// Catálogos com acesso HTTP estruturado usam a fonte oficial antes do fallback visual.
 const CATALOGS = [
   {
     portal: "Santander Open Academy",
