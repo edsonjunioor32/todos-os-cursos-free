@@ -224,6 +224,7 @@ const CATALOGS = [
     httpOnly: true,
     httpVtex: true,
     httpVtexUrl: "https://cruzeirodosul.myvtex.com/api/catalog_system/pub/products/search/?fq=C%3A%2F4%2F",
+    httpVtexLinkOrigin: "https://cursos.cruzeirodosulvirtual.com.br",
     httpVtexPageSize: 50,
     httpVtexProperty: "especialidade",
     httpVtexValue: "Gratuito",
@@ -996,7 +997,18 @@ async function collectHttpPortal(config) {
           continue;
         }
 
-        const courseUrl = canonicalUrl(product.link);
+        let courseUrl = canonicalUrl(product.link);
+        if (courseUrl && config.httpVtexLinkOrigin) {
+          try {
+            const publicOrigin = new URL(config.httpVtexLinkOrigin);
+            const parsedCourseUrl = new URL(courseUrl);
+            parsedCourseUrl.protocol = publicOrigin.protocol;
+            parsedCourseUrl.host = publicOrigin.host;
+            courseUrl = canonicalUrl(parsedCourseUrl.toString());
+          } catch {
+            courseUrl = "";
+          }
+        }
         if (
           courseUrl &&
           allowedHost(new URL(courseUrl).hostname, config) &&
@@ -1798,47 +1810,3 @@ for (const stat of stats) {
         : "";
     coverage[stat.portal] =
       stat.discovered > 0
-        ? stat.discovered +
-          " cursos encontrados; " +
-          stat.total +
-          " mantidos no catálogo." +
-          reported
-        : stat.total + " cursos mantidos no catálogo." + reported;
-  } else if (stat.status === "incomplete") {
-    coverage[stat.portal] =
-      "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.";
-  }
-}
-
-const updatedCatalog = {
-  ...catalog,
-  generatedAt: today,
-  coverage,
-  sources: CATALOGS.filter(({ enabled }) => enabled !== false).map(({ portal, source }) => ({ portal, url: source })),
-  courses: deduplicated
-};
-
-const outputText = JSON.stringify(updatedCatalog, null, 2) + "\n";
-if (outputText !== catalogText) {
-  await fs.writeFile(catalogPath, outputText, "utf8");
-  console.log("courses.json atualizado.");
-} else {
-  console.log("Nenhuma alteração encontrada no catálogo.");
-}
-
-for (const stat of stats) {
-  const errors =
-    stat.errors && stat.errors.length ? " | erros: " + stat.errors.join("; ") : "";
-  console.log(
-    stat.portal +
-      ": " +
-      stat.status +
-      ", encontrados=" +
-      stat.discovered +
-      ", total=" +
-      stat.total +
-      (stat.visited ? ", páginas=" + stat.visited : "") +
-      (stat.reported ? ", reportado=" + stat.reported : "") +
-      errors
-  );
-}
