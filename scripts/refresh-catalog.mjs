@@ -273,6 +273,7 @@ const CATALOGS = [
   },
 
   {
+    enabled: false,
     portal: "Stanford Online",
     source: "https://online.stanford.edu/explore?filter%5B0%5D=free_or_paid%3Afree&keywords=&items_per_page=12",
     urls: [
@@ -1192,6 +1193,16 @@ let successfulCatalogs = 0;
 
 try {
   for (const config of CATALOGS) {
+    if (config.enabled === false) {
+      stats.push({
+        portal: config.portal,
+        status: "disabled",
+        discovered: 0,
+        total: (previousByPortal.get(config.portal) || []).length
+      });
+      continue;
+    }
+
     const previous = previousByPortal.get(config.portal) || [];
     if (!config.match) {
       const merged = mergePortalCourses(previous, [], config);
@@ -1311,7 +1322,7 @@ const updatedCatalog = {
   ...catalog,
   generatedAt: today,
   coverage,
-  sources: CATALOGS.map(({ portal, source }) => ({ portal, url: source })),
+  sources: CATALOGS.filter(({ enabled }) => enabled !== false).map(({ portal, source }) => ({ portal, url: source })),
   courses: deduplicated
 };
 
