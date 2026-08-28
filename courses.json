@@ -6333,6 +6333,15 @@
     {
       "category": "Cursos gratuitos",
       "cert": "free",
+      "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
+      "portal": "Sebrae Paraíba",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "title": "Fluxo de caixa como ferramenta de gestão para o seu negócio",
+      "url": "https://pb.loja.sebrae.com.br/fluxo-de-caixa-como-ferramenta-de-gest-o-para-o-seu-negocio-1-302000001660"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "free",
       "description": "Neste curso, você verá uma introdução de como administrar um banco de dados e, desta forma, conseguir realizar um bom gerenciamento das atividades inerentes a essa função. Além disso, você conhecerá os conceitos que fazem parte do dia a dia de um administrador de banco de dados, os modelos de dados, SQL, esquemas, instâncias, ta… Curso 100% online e gratuito, com certificado após aprovação.",
       "duration": "15h",
       "portal": "Escola Virtual",
@@ -17392,6 +17401,33 @@
       "source": "https://www.coursera.org/courses?query=free",
       "title": "Warrior-Scholar: The Veteran’s College Success Kit",
       "url": "https://www.coursera.org/learn/warrior-scholar-the-veterans-college-success-kit"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado na busca gratuita da Coursera; condições de certificado podem variar.",
+      "portal": "Coursera",
+      "source": "https://www.coursera.org/courses?query=free",
+      "title": "RFQs: Solicit and Track Pricing",
+      "url": "https://www.coursera.org/learn/rfqs-solicit-and-track-pricing"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado na busca gratuita da Coursera; condições de certificado podem variar.",
+      "portal": "Coursera",
+      "source": "https://www.coursera.org/courses?query=free",
+      "title": "Design a User Experience for Social Good & Prepare for Jobs",
+      "url": "https://www.coursera.org/learn/ux-design-jobs"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado na busca gratuita da Coursera; condições de certificado podem variar.",
+      "portal": "Coursera",
+      "source": "https://www.coursera.org/courses?query=free",
+      "title": "Get Started with Procreate Dreams: Animation for Everyone",
+      "url": "https://www.coursera.org/learn/get-started-with-procreate-dreams-animation-for-everyone"
     },
     {
       "category": "Idiomas",
@@ -32889,7 +32925,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Seu Futuro no Desenvolvimento Web: O Panorama de Emprego Sobre esta atividade de aprendizado Career Decision Making Teamwork 1 a 3 horas Intermediário",
+      "title": "Seu Futuro no Desenvolvimento Web: O Panorama de Emprego Sobre esta atividade de aprendizado Teamwork Leadership 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058943?lang=pt-br"
     },
     {
@@ -33024,7 +33060,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Fundamentos do Desenvolvimento Web Sobre esta atividade de aprendizado Front End Software Engineering Programming Language 1 a 3 horas Intermediário",
+      "title": "Fundamentos do Desenvolvimento Web Sobre esta atividade de aprendizado Web Development Front End Software Engineering 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058937?lang=pt-br"
     },
     {
@@ -33087,7 +33123,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Introdução ao HTML e CSS Sobre esta atividade de aprendizado Workflow Management HyperText Markup Language HTML 1 a 3 horas Intermediário",
+      "title": "Introdução ao HTML e CSS Sobre esta atividade de aprendizado Cascading Style Sheets CSS HTML 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058939?lang=pt-br"
     },
     {
@@ -33114,7 +33150,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Explorando os aspectos básicos do gerenciamento de projeto Bem-vindo ao mundo do gerenciamento de projeto: o que é, como funciona e por que é importante! Project Management Stak...",
+      "title": "Explorando os aspectos básicos do gerenciamento de projeto Bem-vindo ao mundo do gerenciamento de projeto: o que é, como funciona e por que é importante! Application Frameworks...",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3826383?lang=pt-br"
     },
     {
@@ -33204,7 +33240,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Text Annotation Search Engine Algorithms 3 a 10 horas Avançado",
+      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings VectorCAST Text Annotation 3 a 10 horas Avançado",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3947353?lang=pt-br"
     },
     {
@@ -33303,7 +33339,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Teste e Implementação de Website Sobre esta atividade de aprendizado DevOps Cloud Computing 1 a 3 horas Intermediário",
+      "title": "Teste e Implementação de Website Sobre esta atividade de aprendizado Deployment Software Workflow Management 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058941?lang=pt-br"
     },
     {
@@ -33312,7 +33348,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Dando Sentido aos Dados Selecione Ir para atividade para abrir o conteúdo! Work Ethic Data Interpretation 1 a 3 horas Fundamental",
+      "title": "Dando Sentido aos Dados Selecione Ir para atividade para abrir o conteúdo! Data Analysis Data Visualization 1 a 3 horas Fundamental",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4065068?lang=pt-br"
     },
     {
@@ -33582,7 +33618,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Dando Vida a Websites com JavaScript Sobre esta atividade de aprendizado Data Manipulation Event Planning 1 a 3 horas Intermediário",
+      "title": "Dando Vida a Websites com JavaScript Sobre esta atividade de aprendizado Cascading Style Sheets CSS HTML 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058940?lang=pt-br"
     },
     {
@@ -33996,7 +34032,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma Página da Web de Lista de Tarefas Interativa Sobre esta atividade de aprendizado JavaScript CSS Design 1 a 3 horas Intermediário",
+      "title": "Desenvolva uma Página da Web de Lista de Tarefas Interativa Sobre esta atividade de aprendizado Cascading Style Sheets CSS HTML 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058942?lang=pt-br"
     },
     {
@@ -34086,7 +34122,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolvendo Sites para a Web Sobre esta atividade de aprendizado HTML5 JavaScript 1 a 3 horas Intermediário",
+      "title": "Desenvolvendo Sites para a Web Sobre esta atividade de aprendizado Cascading Style Sheets CSS CSS 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058938?lang=pt-br"
     },
     {
@@ -34401,7 +34437,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Text Annotation Search Engine Algorithms 3 a 10 horas Avançado",
+      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings VectorCAST Text Annotation 3 a 10 horas Avançado",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3947353?ngo-id=0302&lang=pt-br"
     },
     {
@@ -37121,30 +37157,588 @@
       "source": "https://mais.ifmg.edu.br/maisifmg/course/index.php",
       "title": "Visualizar curso",
       "url": "https://mais.ifmg.edu.br/maisifmg/course/view.php?id=35"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Técnicas de Montagem e Ajustagem de Motores",
+      "url": "https://www.futuro.digital/dn_tecnicas_de_montagem_e_ajustagem_de_motores-9079/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Características Técnicas de Motores à Combustão Interna",
+      "url": "https://www.futuro.digital/dn_caracteristicas_tecnicas_de_motores_a_combustao_interna-9073/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Técnicas de Retífica de Biela de Motores à Combustão Interna",
+      "url": "https://www.futuro.digital/dn_tecnicas_de_retifica_de_biela_de_motores_a_combustao_interna-9080/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Projeto de Hidráulica com as Bibliotecas BIM Amanco Wavin",
+      "url": "https://www.futuro.digital/dn-projeto-de-hidraulica-com-as-bibliotecas-bim-amanco-wavin-ape077-118-15h-20/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Desvendando o BIM Building Information Modeling",
+      "url": "https://www.futuro.digital/dn-desvendando-o-bim-building-information-modeling-ape078-118-40h-21/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Técnicas de Retífica de Volante de Motores à Combustão Interna",
+      "url": "https://www.futuro.digital/dn_tecnicas_de_retifica_de_volante_de_motores_a_combustao_interna-9078/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Metrologia Aplicada a Motores de Combustão Interna",
+      "url": "https://www.futuro.digital/dn_metrologia_aplicada_a_motores_de_combustao_interna-9077/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Técnicas de Retífica de Virabrequim de Motores à Combustão Interna",
+      "url": "https://www.futuro.digital/dn_tecnicas-de-retifica_de_virabrequim_de_motores_a_combustao_interna-9076/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Introdução à Indústria 4.0",
+      "url": "https://www.futuro.digital/dn-introducao-a-industria-m-12023/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Introdução a Inteligência Artificial na Tomada de Decisão",
+      "url": "https://www.futuro.digital/dn-introducao-a-inteligencia-artificial-na-tomada-de-decisao-ini-138-5h-20803/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Análise de Ciclo de Vida de Veículos",
+      "url": "https://www.futuro.digital/dn-analise-de-ciclo-de-vida-de-veiculos-ini118-283-4h-15869/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Etapas e Principais Desafios do Descomissionamento",
+      "url": "https://www.futuro.digital/dn-etapas-e-principais-desafios-do-descomissionamento-ini120-285-4h-15870/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Arte e Ciência da Panificação Domine a arte e a ciência da panificação, da fermentação natural às técnicas sem glúten. Aprenda química dos alimento e garanta seu certificado. EA...",
+      "url": "https://www.futuro.digital/dn-arte-e-ciencia-da-panificacao-mic1540-120-10h-20083/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Hidrogênio Verde - Aplicações Domine os fundamentos do hidrogênio verde, energias renováveis e transição energética. Aprenda sobre legislação, conversão industrial e empregabili...",
+      "url": "https://www.futuro.digital/dn-hidrogenio-verde---aplicacoes-mic1542-120-20h-20080/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Logística - Otimização de Processos para Eficiência Operacional Curso de Logística: otimize processos de recebimento, armazenamento e expedição, melhore controle de estoque e au...",
+      "url": "https://www.futuro.digital/dn-logistica---otimizacao-de-processos-para-eficiencia-operacional-mic1350-120-29h-17074/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Vírus e a Gestão da Cibersegurança Proteja seus dispositivos contra vírus, malware e hackers com o curso de Gestão da Cibersegurança. Aprenda ferramentas de proteção e resposta...",
+      "url": "https://www.futuro.digital/dn-virus-e-a-gestao-da-ciberseguranca-mic1284-120-30h-15373/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Trilha - HTML e CSS Aprenda HTML, CSS, JavaScript e Bootstrap do zero. Crie projetos responsivos, incluindo o Mundo Pet, e ganhe certificado SENAI Play nesta trilha de 50 horas....",
+      "url": "https://www.futuro.digital/dn-trilha---html-e-css-mic1241-120-50h-18322/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Como extrair a sua ideia do papel e montar sua startup Aprenda a transformar suas ideias em uma startup viável. Domine estratégias de agilidade e adaptação para inovar e conquis...",
+      "url": "https://www.futuro.digital/dn-como-extrair-a-sua-ideia-do-papel-e-montar-a-sua-startup-mic1150-120-30h-15261/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Trilha UI – Motion Design Aprenda motion design para UI com After Effects, Figma e Rive. Domine animação, storyboard e interações e ganhe certificado SENAI Play nesta trilha de...",
+      "url": "https://www.futuro.digital/dn-trilha-ui--motion-design-mic1309-120-60h-15706/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Programação Avançada em Python Domine Python avançado com OOP, módulos, arquivos, Data Science e Engenharia de Software. Aprenda na prática e conquiste certificado SENAI Play em...",
+      "url": "https://www.futuro.digital/dn-programacao-avancada-em-python-mic1317-120-60h-16277/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Programação em C++ Aprenda C++ do básico às estruturas de dados. Domine funções, vetores e matrizes e avance na programação em 60h com certificado SENAI Play. EAD 1x R$ 34,90 R$...",
+      "url": "https://www.futuro.digital/dn-programacao-em-c-mic1306-120-60h-15704/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Programação WEB Aprenda HTML, CSS, JavaScript, Bootstrap e GitHub. Domine os fundamentos da programação web em 60h e conquiste seu certificado SENAI Play. EAD 1x R$ 34,90 R$ 34,90",
+      "url": "https://www.futuro.digital/dn-programacao-web-mic1318-120-60h-16278/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Trilha - UX Research Aprenda UX Research em 60h: métodos, análise de dados, benchmarking, mapa de empatia e testes de usabilidade. Curso com certificado SENAI Play. EAD 1x R$ 34...",
+      "url": "https://www.futuro.digital/dn-trilha---ux-research-mic1096-120-60h-12159/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Trilha UI - Ferramentas e construção de imagens Domine Photoshop, Illustrator e InDesign em 60h. Aprenda tratamento de imagens, vetorização e diagramação para projetos profissio...",
+      "url": "https://www.futuro.digital/dn-trilha-ui---ferramentas-e-construcao-de-imagens-mic1242-120-60h-15126/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Trilha UI - Design Aprenda UI em 60h: domine Figma, prototipação, componentes, Design System e acessibilidade. Crie interfaces modernas. Curso com certificado SENAI Play. EAD 1x...",
+      "url": "https://www.futuro.digital/dn-trilha-ui---design-mic1308-120-60h-15705/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Trilha UX - Design Domine UX em 60h: avaliação heurística, mapas de tarefa, UX Writing, psicologia e frameworks de pesquisa. Aprenda métodos avançados. Certificado SENAI Play. E...",
+      "url": "https://www.futuro.digital/dn-trilha-ux---design-mic1310-120-60h-15707/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Desenvolvimento de Jogos no Construct 3 Aprenda Construct 3 em 60h e crie jogos 2D para PC, mobile e web sem precisar programar. Formação online com lógica por blocos e certific...",
+      "url": "https://www.futuro.digital/dn-desenvolvimento-de-jogos-no-construct-3-mic655-120-61h-6509/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Modelagem 3D de personagem Low Poly Aprenda modelagem 3D Low Poly no Blender em 60h: Hard Surface, Model Sheet, UV e texturização. Formação completa com certificado SENAI Play....",
+      "url": "https://www.futuro.digital/dn-modelagem-3d-de-personagem-low-poly-mic923-120-61h-9153/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Vamos falar de Fluência Digital Domine ferramentas digitais em 60h: Google, YouTube, Teams, Zoom e mais. Aprenda fluência digital para o trabalho e o dia a dia. Certificado SENA...",
+      "url": "https://www.futuro.digital/dn-vamos-falar-de-fluencia-digital-mic635-120-64h-3403/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Atraia clientes através do Inbound Marketing Aprenda os principais conceitos de Inbound Marketing e atraia clientes de forma estratégica, aplicando as técnicas em seus próprios...",
+      "url": "https://www.futuro.digital/dn-atraia-clientes-atraves-do-inbound-marketing-mic1265-120-60h-15262/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Animação 2D para jogos digitais Aprenda animação 2D para games em 40h: Cut Out no Spriter, quadro a quadro no Krita e preparação de artes no Photoshop. Formação completa SENAI P...",
+      "url": "https://www.futuro.digital/dn-animacao-2d-para-jogos-digitais-mic136-120-41h-2523/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Designer de personagem para jogos Aprenda design de personagens para games em 60h: pintura digital, model sheet, luz, sombra e perspectiva no Photoshop. Curso com certificado SE...",
+      "url": "https://www.futuro.digital/dn-designer-de-personagem-para-jogos-mic619-120-60h-3238/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Entendendo o 5G Entendendo o 5G EAD 1x R$ 54,90 R$ 54,90",
+      "url": "https://www.futuro.digital/dn-entendendo-o-5g-mic361-120-60h-1014/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Logística para a Indústria 4.0 Domine a Logística 4.0: conectividade, estoque, dados, Digital Twin e Metaverso. Entenda como a tecnologia transforma a cadeia de suprimentos. SEN...",
+      "url": "https://www.futuro.digital/dn-logistica-para-a-industria-40-mic587-120-60h-3151/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "O que são Impactos Ambientais Entenda os impactos ambientais: poluição da água, ar e solo, biodiversidade, economia circular e soluções sustentáveis. Curso completo com certific...",
+      "url": "https://www.futuro.digital/dn-o-que-sao-impactos-ambientais-mic1221-120-60h-15077/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Oratória de sucesso Domine a oratória: fale com confiança, clareza e carisma. Aprenda técnicas para apresentações eficazes e alcance seus objetivos. Curso com certificado SENAI...",
+      "url": "https://www.futuro.digital/dn-oratoria-de-sucesso-mic1222-120-60h-15078/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Desvendando o Mundo do Marketing Aprenda marketing: fundamentos, estratégia, digital, endomarketing, neuromarketing e dados. Domine o universo do marketing em 60h. Curso com cer...",
+      "url": "https://www.futuro.digital/dn-desvendando-o-mundo-do-marketing-mic1126-120-60h-15293/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Entendendo a Química Geral Aprenda os fundamentos da Química Geral e conheça concepções e abordagens essenciais aplicadas no ensino da química em diferentes contextos educativos...",
+      "url": "https://www.futuro.digital/dn-entendendo-a-quimica-geral-mic1194-120-50h-15152/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Excel e suas Inúmeras Possibilidades Aprenda a criar planilhas, usar funções, gráficos, tabelas dinâmicas e macros no Excel para ampliar suas habilidades e superar desafios prát...",
+      "url": "https://www.futuro.digital/dn-excel-e-suas-inumeras-possibilidades-mic1299-120-60h-15670/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Fibras Ópticas Domine fibras ópticas: fundamentos da luz, tipos, fabricação, instalação, emendas, testes e projetos de redes. Curso técnico de 60h com certificado SENAI Play EAD...",
+      "url": "https://www.futuro.digital/dn-fibras-opticas-mic367-120-60h-18497/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Gestão do Solo Curso de Gestão do Solo: importância do solo para a vida, ecossistemas, biodiversidade e práticas de conservação para um futuro sustentável. EAD 1x R$ 34,90 R$ 34,90",
+      "url": "https://www.futuro.digital/dn-gestao-do-solo-mic1125-120-60h-15292/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Excelência em Ação Curso Excelência em Ação (10h). Domine o Ciclo PDCA, SWOT, 5W2H e as principais ferramentas de gestão da qualidade. Adquira seu Certificado oficial! EAD 1x R$...",
+      "url": "https://www.futuro.digital/dn-excelencia-em-acao-mic1468-120-10h-19459/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Inteligência Artificial e Machine Learning",
+      "url": "https://www.futuro.digital/dn-inteligencia-artificial-e-machine-learning-ini114-279-4h-15866/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Inovação em Materiais Sustentáveis",
+      "url": "https://www.futuro.digital/dn-inovacao-em-materiais-sustentaveis-ini116-281-4h-15867/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Inteligência Competitiva na Indústria Automotiva",
+      "url": "https://www.futuro.digital/dn-inteligencia-competitiva-na-industria-automotiva-ini117-282-4h-15868/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Técnicas de Retífica de Bloco de Motores à Combustão Interna",
+      "url": "https://www.futuro.digital/dn_tecnicas_de_retifica_de_bloco_de_motores_a_combustao_interna-9074/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Técnicas de Retífica de Cabeçote de Motores à Combustão",
+      "url": "https://www.futuro.digital/dn_tecnicas_de_retifica_de_cabecote_de_motores_a_combustao-9075/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Instalações Hidráulicas Industriais AMANCO WAVIN",
+      "url": "https://www.futuro.digital/dn-instalacoes-hidraulicas-industriais-amanco-wavin-ape305-118-15h-8228/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Alimentos Funcionais",
+      "url": "https://www.futuro.digital/sp-curso-alimentos-funcionais-21669/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Consumo Consciente de Energia",
+      "url": "https://www.futuro.digital/dn-consumo-consciente-de-energia-ini016-118-14h-84/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Noções Básicas de Mecânica Automobilística",
+      "url": "https://www.futuro.digital/dn-nocoes-basicas-de-mecanica-automobilistica-ini044-118-14h-103/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Desenho Arquitetônico",
+      "url": "https://www.futuro.digital/dn-desenho-arquitetonico-ini029-118-14h-96/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Educação Ambiental",
+      "url": "https://www.futuro.digital/dn-educacao-ambiental-ini024-118-14h-92/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Empreendedorismo",
+      "url": "https://www.futuro.digital/dn-empreendedorismo-ini023-118-14h-91/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Finanças Pessoais",
+      "url": "https://www.futuro.digital/dn-financas-pessoais-ini042-118-14h-101/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Propriedade Intelectual",
+      "url": "https://www.futuro.digital/dn-propriedade-intelectual-ini018-118-14h-86/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Segurança do Trabalho",
+      "url": "https://www.futuro.digital/dn-seguranca-do-trabalho-ini033-118-14h-100/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Metrologia",
+      "url": "https://www.futuro.digital/dn-metrologia-ini025-118-14h-9092/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Habilidades sociais: entendendo a diversidade",
+      "url": "https://www.futuro.digital/dn-habilidades-sociais-entendendo-a-diversidade-mic850-120-10h-8909/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Consumo Consciente de Energia",
+      "url": "https://www.futuro.digital/ac-consumo-consciente-de-energia-21947/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Consumo Consciente de Energia",
+      "url": "https://www.futuro.digital/ac-consumo-consciente-de-energia-ini00126-180-14h-21928/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Aperfeiçoamento Profissional em Controladores Lógico Programáveis",
+      "url": "https://www.futuro.digital/ac-aperfeicoamento-profissional-em-controladores-logico-programaveis-aper206-160-60h-11679/p"
     }
   ],
   "coverage": {
     "Aprenda Mais MEC": "152 cursos encontrados; 400 mantidos no catálogo.",
     "Cruzeiro do Sul Virtual": "14 cursos encontrados; 14 mantidos no catálogo. Fonte reportou 14.",
-    "Escola Virtual": "61 cursos encontrados; 61 mantidos no catálogo.",
+    "Escola Virtual": "48 cursos encontrados; 61 mantidos no catálogo.",
     "FGV": "227 cursos encontrados; 227 mantidos no catálogo.",
     "Harvard": "128 cursos encontrados; 130 mantidos no catálogo.",
-    "Santander Open Academy": "145 cursos encontrados; 146 mantidos no catálogo.",
+    "Santander Open Academy": "146 cursos encontrados; 146 mantidos no catálogo.",
     "Nação Fluente": "1 cursos mantidos no catálogo.",
-    "Senar EAD": "104 cursos encontrados; 254 mantidos no catálogo. Fonte reportou 254.",
-    "Sebrae Paraíba": "51 cursos encontrados; 56 mantidos no catálogo.",
+    "Senar EAD": "254 cursos encontrados; 254 mantidos no catálogo. Fonte reportou 254.",
+    "Sebrae Paraíba": "52 cursos encontrados; 57 mantidos no catálogo.",
     "UEMP": "15 cursos encontrados; 19 mantidos no catálogo.",
     "MEC Idiomas": "1 cursos mantidos no catálogo.",
     "HCX FMUSP": "12 cursos encontrados; 17 mantidos no catálogo.",
     "Prime Cursos": "524 cursos encontrados; 524 mantidos no catálogo.",
     "Senac EAD": "79 cursos encontrados; 80 mantidos no catálogo.",
-    "Coursera": "81 cursos encontrados; 93 mantidos no catálogo.",
+    "Coursera": "74 cursos encontrados; 96 mantidos no catálogo.",
     "Udemy": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
     "Fundação Itaú Autoformativos": "165 cursos encontrados; 165 mantidos no catálogo.",
     "Fundação Itaú Mediados": "20 cursos encontrados; 20 mantidos no catálogo.",
     "Ensino Einstein": "60 cursos encontrados; 60 mantidos no catálogo.",
     "LÚMINA UFRGS": "120 cursos encontrados; 120 mantidos no catálogo.",
-    "e-Aulas USP": "17 cursos encontrados; 17 mantidos no catálogo. Fonte reportou 17.",
+    "e-Aulas USP": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
     "Life Global": "12 cursos encontrados; 12 mantidos no catálogo.",
     "Khan Academy": "26 cursos encontrados; 26 mantidos no catálogo.",
     "Escola Virtual Gov": "1041 cursos encontrados; 1041 mantidos no catálogo. Fonte reportou 1041.",
@@ -37153,9 +37747,10 @@
     "Escola de Pessoas": "108 cursos encontrados; 108 mantidos no catálogo.",
     "Cisco CiberEducação": "1 cursos encontrados; 1 mantidos no catálogo.",
     "PUCRS Online": "44 cursos encontrados; 44 mantidos no catálogo.",
-    "+IFMG": "95 cursos encontrados; 95 mantidos no catálogo."
+    "+IFMG": "95 cursos encontrados; 95 mantidos no catálogo.",
+    "Futuro Digital": "62 cursos encontrados; 62 mantidos no catálogo."
   },
-  "generatedAt": "2026-08-27",
+  "generatedAt": "2026-08-28",
   "note": "Snapshot inicial construído a partir dos catálogos oficiais; cada cartão aponta para a página original do curso.",
   "sources": [
     {
@@ -37221,6 +37816,10 @@
     {
       "portal": "+IFMG",
       "url": "https://mais.ifmg.edu.br/maisifmg/course/index.php"
+    },
+    {
+      "portal": "Futuro Digital",
+      "url": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0"
     },
     {
       "portal": "Cruzeiro do Sul Virtual",
