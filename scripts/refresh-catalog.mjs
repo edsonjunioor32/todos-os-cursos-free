@@ -276,6 +276,29 @@ const CATALOGS = [
     maxPages: 80
   },
   {
+    portal: "Futuro Digital",
+    source: "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+    urls: [
+      "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0"
+    ],
+    hosts: ["www.futuro.digital"],
+    match: /www\\.futuro\\.digital\\/[^/?#]+\\/p(?:[/?#]|$)/i,
+    followMatch: /www\\.futuro\\.digital\\/cursos-gratuitos\\?[^#]*\\bpage=\\d+/i,
+    anchorSelector: 'a[href$="/p"]',
+    paginationSelector: 'a[href*="page="]',
+    titleFromClosestSelector: "li",
+    titleLine: 1,
+    waitForSelector: 'a[href$="/p"]',
+    waitForSelectorTimeout: 30000,
+    waitMs: 2500,
+    category: "Cursos gratuitos",
+    cert: "check",
+    description: "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+    minimumRecords: 1,
+    failOnIncomplete: false,
+    maxPages: 6
+  },
+  {
     portal: "Cruzeiro do Sul Virtual",
     source: "https://cursos.cruzeirodosulvirtual.com.br/cursos-livres/gratuito?initialMap=c&initialQuery=cursos-livres&map=category-1,especialidade",
     urls: [
