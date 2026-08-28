@@ -297,6 +297,7 @@ const CATALOGS = [
     description: "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
     minimumRecords: 1,
     failOnIncomplete: false,
+    replaceOnValid: true,
     maxPages: 6
   },
   {
@@ -1757,6 +1758,20 @@ function mergePortalCourses(
       discovered: discovered.length,
       minimum,
       reasons: validation.reasons
+    };
+  }
+
+  if (config.replaceOnValid) {
+    const freshByUrl = new Map();
+    for (const item of discovered) {
+      const key = canonicalUrl(item.url);
+      const old = byUrl.get(key);
+      freshByUrl.set(key, buildRecord(config, item, old));
+    }
+    return {
+      courses: [...freshByUrl.values()],
+      status: "updated",
+      discovered: discovered.length
     };
   }
 
