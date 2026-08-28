@@ -282,8 +282,8 @@ const CATALOGS = [
       "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0"
     ],
     hosts: ["www.futuro.digital"],
-    match: /www\\.futuro\\.digital\\/[^/?#]+\\/p(?:[/?#]|$)/i,
-    followMatch: /www\\.futuro\\.digital\\/cursos-gratuitos\\?[^#]*\\bpage=\\d+/i,
+    match: /www\.futuro\.digital\/[^/?#]+\/p(?:[/?#]|$)/i,
+    followMatch: /www\.futuro\.digital\/cursos-gratuitos\?[^#]*\bpage=\d+/i,
     anchorSelector: 'a[href$="/p"]',
     paginationSelector: 'a[href*="page="]',
     titleFromClosestSelector: "li",
