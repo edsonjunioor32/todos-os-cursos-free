@@ -203,6 +203,8 @@ const CATALOGS = [
     maxPages: 12
   },
   {
+    enabled: false,
+    pendingReview: true,
     portal: "Udemy",
     source: "https://www.udemy.com/courses/free/?lang=pt&sort=most-reviewed",
     urls: ["https://www.udemy.com/courses/free/?lang=pt&sort=most-reviewed"],
@@ -301,6 +303,8 @@ const CATALOGS = [
     maxPages: 6
   },
   {
+    enabled: false,
+    pendingReview: true,
     portal: "Cruzeiro do Sul Virtual",
     source: "https://cursos.cruzeirodosulvirtual.com.br/cursos-livres/gratuito?initialMap=c&initialQuery=cursos-livres&map=category-1,especialidade",
     urls: [
@@ -471,6 +475,8 @@ const CATALOGS = [
     maxPages: 60
   },
   {
+    enabled: false,
+    pendingReview: true,
     portal: "e-Aulas USP",
     source: "https://eaulas.usp.br/portal/profession.action?profession=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+e+Inform%C3%A1tica",
     urls: [
@@ -1933,10 +1939,15 @@ for (const stat of stats) {
   }
 }
 
+const pendingSources = CATALOGS
+  .filter(({ enabled, pendingReview }) => enabled === false && pendingReview)
+  .map(({ portal, source }) => ({ portal, url: source }));
+
 const updatedCatalog = {
   ...catalog,
   generatedAt: today,
   coverage,
+  pendingSources,
   sources: CATALOGS.filter(({ enabled }) => enabled !== false).map(({ portal, source }) => ({ portal, url: source })),
   courses: deduplicated
 };
