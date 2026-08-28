@@ -286,6 +286,7 @@ const CATALOGS = [
     followMatch: /www\.futuro\.digital\/cursos-gratuitos\?[^#]*\bpage=\d+/i,
     anchorSelector: 'a[href$="/p"]',
     paginationSelector: 'a[href*="page="]',
+    requiredAnchorText: /grátis/i,
     titleFromClosestSelector: "li",
     titleLine: 1,
     waitForSelector: 'a[href$="/p"]',
@@ -920,9 +921,19 @@ function registerAnchors(anchors, config, records, pending, queued, visited) {
     }
 
     const title = anchorTitle(anchor, config);
+    const requiredAnchorText = config.requiredAnchorText;
+    const failsRequiredText =
+      requiredAnchorText &&
+      !requiredAnchorText.test(cleanText(anchor.closestText || anchor.text));
     const excludedByUrl = config.exclude && config.exclude.test(url);
     const excludedByTitle = config.excludeTitle && config.excludeTitle.test(title);
-    if (config.match && config.match.test(url) && !excludedByUrl && !excludedByTitle) {
+    if (
+      config.match &&
+      config.match.test(url) &&
+      !excludedByUrl &&
+      !excludedByTitle &&
+      !failsRequiredText
+    ) {
       if (title) {
         const previous = records.get(url);
         if (!previous || previous.title === titleFromSlug(url)) {
