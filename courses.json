@@ -240,7 +240,7 @@
       "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Introdução à programação com Python",
+      "title": "Curso Santander Santander Open Academy Introdução à programação com Python Tecnologia",
       "url": "https://app.santanderopenacademy.com/pt-BR/course/introduction_to_python_programming"
     },
     {
@@ -37416,8 +37416,8 @@
       "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
       "portal": "Futuro Digital",
       "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Habilidades sociais: entendendo a diversidade",
-      "url": "https://www.futuro.digital/dn-habilidades-sociais-entendendo-a-diversidade-mic850-120-10h-8909/p"
+      "title": "Consumo Consciente de Energia",
+      "url": "https://www.futuro.digital/ac-consumo-consciente-de-energia-21947/p"
     }
   ],
   "coverage": {
@@ -37426,7 +37426,7 @@
     "Escola Virtual": "61 cursos encontrados; 61 mantidos no catálogo.",
     "FGV": "227 cursos encontrados; 227 mantidos no catálogo.",
     "Harvard": "128 cursos encontrados; 130 mantidos no catálogo.",
-    "Santander Open Academy": "146 cursos encontrados; 146 mantidos no catálogo.",
+    "Santander Open Academy": "141 cursos encontrados; 146 mantidos no catálogo.",
     "Nação Fluente": "1 cursos mantidos no catálogo.",
     "Senar EAD": "254 cursos encontrados; 254 mantidos no catálogo. Fonte reportou 254.",
     "Sebrae Paraíba": "52 cursos encontrados; 57 mantidos no catálogo.",
@@ -37451,7 +37451,7 @@
     "Cisco CiberEducação": "1 cursos encontrados; 1 mantidos no catálogo.",
     "PUCRS Online": "44 cursos encontrados; 44 mantidos no catálogo.",
     "+IFMG": "95 cursos encontrados; 95 mantidos no catálogo.",
-    "Futuro Digital": "29 cursos encontrados; 62 mantidos no catálogo."
+    "Futuro Digital": "29 cursos encontrados; 29 mantidos no catálogo."
   },
   "generatedAt": "2026-08-28",
   "note": "Snapshot inicial construído a partir dos catálogos oficiais; cada cartão aponta para a página original do curso.",
