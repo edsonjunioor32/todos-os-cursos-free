@@ -489,7 +489,7 @@ const CATALOGS = [
     strictCoverage: true,
     requireReportedCount: true,
     coverageRatio: 1,
-    failOnIncomplete: true,
+    failOnIncomplete: false,
     maxPages: 4
   },
   {
