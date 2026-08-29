@@ -5825,7 +5825,7 @@
       "description": "Curso online gratuito do Sebrae sobre organização e gestão financeira.",
       "duration": "10h",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Gestão financeira",
       "url": "https://pb.loja.sebrae.com.br/gest-o-financeira-1-372000026927"
     },
@@ -5835,7 +5835,7 @@
       "description": "Curso online gratuito do Sebrae sobre marketing digital e redes sociais.",
       "duration": "7h",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Marketing digital e redes sociais",
       "url": "https://pb.loja.sebrae.com.br/marketing-digital-e-redes-sociais-1-372000114127"
     },
@@ -5845,7 +5845,7 @@
       "description": "Curso online gratuito do Sebrae sobre gestão de pessoas.",
       "duration": "8h",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Gestão de pessoas",
       "url": "https://pb.loja.sebrae.com.br/gest-o-de-pessoas-1-371440100237"
     },
@@ -5855,7 +5855,7 @@
       "description": "Curso online gratuito do Sebrae para iniciar a presença digital.",
       "duration": "9h",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Marketing digital para sua empresa: primeiros passos",
       "url": "https://pb.loja.sebrae.com.br/marketing-digital-para-sua-empresa-primeiros-passos-1-372000031607"
     },
@@ -5865,7 +5865,7 @@
       "description": "Curso online gratuito do Sebrae sobre atendimento ao cliente.",
       "duration": "8h",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Atendimento ao cliente",
       "url": "https://pb.loja.sebrae.com.br/atendimento-ao-cliente-1-372000017766"
     },
@@ -5875,7 +5875,7 @@
       "description": "Curso online gratuito do Sebrae sobre formação de preço.",
       "duration": "6h",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Como definir o preço de venda",
       "url": "https://pb.loja.sebrae.com.br/como-definir-o-preco-de-venda-1-371440103446"
     },
@@ -5930,7 +5930,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Aprender a empreender",
       "url": "https://pb.loja.sebrae.com.br/aprender-a-empreender-1-372000001028"
     },
@@ -5939,7 +5939,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Inteligência emocional",
       "url": "https://pb.loja.sebrae.com.br/inteligencia-emocional-1-372000069335"
     },
@@ -5948,7 +5948,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Marketing digital: estratégias e práticas para conquistar clientes",
       "url": "https://pb.loja.sebrae.com.br/marketing-digital-estrategias-e-praticas-para-conquistar-clientes-1-372000110038"
     },
@@ -5957,7 +5957,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Análise de resultados em marketing digital",
       "url": "https://pb.loja.sebrae.com.br/analise-de-resultados-em-marketing-digital-1-372000114120"
     },
@@ -5966,7 +5966,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Marketing digital para sua empresa: equipe comercial",
       "url": "https://pb.loja.sebrae.com.br/marketing-digital-para-sua-empresa-equipe-comercial-1-372000031611"
     },
@@ -5975,7 +5975,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "O que fazer para começar a vender online?",
       "url": "https://pb.loja.sebrae.com.br/o-que-fazer-para-comecar-a-vender-online-1-3713589375"
     },
@@ -5984,7 +5984,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Customer success - Como conquistar e manter clientes",
       "url": "https://pb.loja.sebrae.com.br/customer-success-como-conquistar-e-manter-clientes-1-372000017996"
     },
@@ -5993,7 +5993,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Passo a passo para alcançar o sucesso financeiro",
       "url": "https://pb.loja.sebrae.com.br/passo-a-passo-para-alcancar-o-sucesso-financeiro-1-372000019237"
     },
@@ -6002,7 +6002,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Faça suas redes bombarem com o Canva",
       "url": "https://pb.loja.sebrae.com.br/faca-suas-redes-bombarem-com-o-canva-1-372000090794"
     },
@@ -6011,7 +6011,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Neuromarketing",
       "url": "https://pb.loja.sebrae.com.br/neuromarketing-1-312000052125"
     },
@@ -6020,7 +6020,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Marketing nas mídias sociais",
       "url": "https://pb.loja.sebrae.com.br/marketing-nas-midias-sociais-1-312000052129"
     },
@@ -6029,7 +6029,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Marketing e Negociação Internacional",
       "url": "https://pb.loja.sebrae.com.br/marketing-e-negociac-o-internacional-1-312000051012"
     },
@@ -6038,7 +6038,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Arquétipos de Marca",
       "url": "https://pb.loja.sebrae.com.br/arquetipos-de-marca-1-372000067318"
     },
@@ -6047,7 +6047,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Avaliando as vendas do seu negócio",
       "url": "https://pb.loja.sebrae.com.br/avaliando-as-vendas-do-seu-negocio-1-302000002226"
     },
@@ -6056,7 +6056,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Comunicação no processo de vendas para pequenos negócios",
       "url": "https://pb.loja.sebrae.com.br/comunicac-o-no-processo-de-vendas-para-pequenos-negocios-1-372000053300"
     },
@@ -6065,7 +6065,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Gestão estratégica para comércio eletrônico",
       "url": "https://pb.loja.sebrae.com.br/gest-o-estrategica-para-comercio-eletronico-1-372000026926"
     },
@@ -6074,7 +6074,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Como se tornar um franqueado",
       "url": "https://pb.loja.sebrae.com.br/como-se-tornar-um-franqueado-1-372000031523"
     },
@@ -6083,7 +6083,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Reforma Tributária",
       "url": "https://pb.loja.sebrae.com.br/reforma-tributaria-1-372000123006"
     },
@@ -6092,7 +6092,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Planejamento financeiro para acesso ao crédito",
       "url": "https://pb.loja.sebrae.com.br/planejamento-financeiro-para-acesso-ao-credito-1-372000113579"
     },
@@ -6101,7 +6101,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Para onde vai meu dinheiro?",
       "url": "https://pb.loja.sebrae.com.br/para-onde-vai-meu-dinheiro-1-3712431840"
     },
@@ -6110,7 +6110,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Gestão Financeira - Parceria BNB",
       "url": "https://pb.loja.sebrae.com.br/gest-o-financeira-parceria-bnb-1-3712442929"
     },
@@ -6119,7 +6119,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Estratégia financeira para o crescimento",
       "url": "https://pb.loja.sebrae.com.br/estrategia-financeira-para-o-crescimento-1-372000018036"
     },
@@ -6128,7 +6128,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Modelagem financeira para startups",
       "url": "https://pb.loja.sebrae.com.br/modelagem-financeira-para-startups-1-372000019235"
     },
@@ -6137,7 +6137,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Captação de Recursos - DESCOMPLICA",
       "url": "https://pb.loja.sebrae.com.br/captac-o-de-recursos-descomplica-1-372000075989"
     },
@@ -6146,7 +6146,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Renegociação de dívidas",
       "url": "https://pb.loja.sebrae.com.br/renegociac-o-de-dividas-1-372000069343"
     },
@@ -6155,7 +6155,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Fluxo de caixa para beleza",
       "url": "https://pb.loja.sebrae.com.br/fluxo-de-caixa-para-beleza-1-372000069340"
     },
@@ -6164,7 +6164,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Fluxo de caixa para moda",
       "url": "https://pb.loja.sebrae.com.br/fluxo-de-caixa-para-moda-1-372000069339"
     },
@@ -6173,7 +6173,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Preço de vendas para beleza",
       "url": "https://pb.loja.sebrae.com.br/preco-de-vendas-para-beleza-1-372000069337"
     },
@@ -6182,7 +6182,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Preço de vendas para alimentação fora do lar",
       "url": "https://pb.loja.sebrae.com.br/preco-de-vendas-para-alimentac-o-fora-do-lar-1-372000069338"
     },
@@ -6191,7 +6191,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Preço de vendas para moda",
       "url": "https://pb.loja.sebrae.com.br/preco-de-vendas-para-moda-1-372000069336"
     },
@@ -6200,7 +6200,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Custos para produzir no campo",
       "url": "https://pb.loja.sebrae.com.br/custos-para-produzir-no-campo-1-372000026895"
     },
@@ -6209,7 +6209,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Microcrédito consciente",
       "url": "https://pb.loja.sebrae.com.br/microcredito-consciente-1-372000027024"
     },
@@ -6218,7 +6218,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Viabilidade de negócios",
       "url": "https://pb.loja.sebrae.com.br/viabilidade-de-negocios-1-372000028389"
     },
@@ -6227,7 +6227,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Faça da comunicação um recurso para melhorar suas vendas - chatbot",
       "url": "https://pb.loja.sebrae.com.br/faca-da-comunicac-o-um-recurso-para-melhorar-suas-vendas-chatbot-372000031521"
     },
@@ -6236,7 +6236,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Presença digital: como construir a sua e qual a importância - chatbot",
       "url": "https://pb.loja.sebrae.com.br/presenca-digital-como-construir-a-sua-e-qual-a-importancia-chatbot-372000031448"
     },
@@ -6245,7 +6245,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Curso de gestão - Indicadores para seu negócio",
       "url": "https://pb.loja.sebrae.com.br/curso-de-gest-o-indicadores-para-seu-negocio-372000005125"
     },
@@ -6254,7 +6254,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Formalização da propriedade rural: por onde começar? - Chatbot",
       "url": "https://pb.loja.sebrae.com.br/formalizac-o-da-propriedade-rural-por-onde-comecar-chatbot-372000021558"
     },
@@ -6263,7 +6263,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Aprenda a vender pela internet com marketing digital",
       "url": "https://pb.loja.sebrae.com.br/aprenda-a-vender-pela-internet-com-marketing-digital-372000005127"
     },
@@ -6272,7 +6272,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Alcance seu cliente melhorando a divulgação do seu negócio - chatbot",
       "url": "https://pb.loja.sebrae.com.br/alcance-seu-cliente-melhorando-a-divulgac-o-do-seu-negocio-chatbot-372000032280"
     },
@@ -6281,7 +6281,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Conhecendo e valorizando o seu cliente",
       "url": "https://pb.loja.sebrae.com.br/conhecendo-e-valorizando-o-seu-cliente-372000005119"
     },
@@ -6290,7 +6290,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "O caminho para a formalização: benefícios e responsabilidades - Chatbot",
       "url": "https://pb.loja.sebrae.com.br/o-caminho-para-a-formalizac-o-beneficios-e-responsabilidades-chatbot-372000005128"
     },
@@ -6299,7 +6299,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "A formação de preço para o meu tipo de negócio - Chatbot",
       "url": "https://pb.loja.sebrae.com.br/a-formac-o-de-preco-para-o-meu-tipo-de-negocio-chatbot-372000005116"
     },
@@ -6308,7 +6308,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Quando e como captar recursos para negócios criativos? - Chatbot",
       "url": "https://pb.loja.sebrae.com.br/quando-e-como-captar-recursos-para-negocios-criativos-chatbot-372000018677"
     },
@@ -6317,7 +6317,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Faça do Facebook uma ferramenta para aumentar as vendas - chatbot",
       "url": "https://pb.loja.sebrae.com.br/faca-do-facebook-uma-ferramenta-para-aumentar-as-vendas-chatbot-372000032283"
     },
@@ -6326,7 +6326,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Desenquadramento do MEI e novas possibilidades de tributação",
       "url": "https://pb.loja.sebrae.com.br/desenquadramento-do-mei-e-novas-possibilidades-de-tributac-o-372000005122"
     },
@@ -6335,7 +6335,7 @@
       "cert": "free",
       "description": "Curso gratuito localizado no catálogo do Sebrae Paraíba.",
       "portal": "Sebrae Paraíba",
-      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online",
+      "source": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1",
       "title": "Fluxo de caixa como ferramenta de gestão para o seu negócio",
       "url": "https://pb.loja.sebrae.com.br/fluxo-de-caixa-como-ferramenta-de-gest-o-para-o-seu-negocio-1-302000001660"
     },
@@ -17466,6 +17466,33 @@
       "url": "https://www.coursera.org/learn/launch-chroma-fast"
     },
     {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado na busca gratuita da Coursera; condições de certificado podem variar.",
+      "portal": "Coursera",
+      "source": "https://www.coursera.org/courses?query=free",
+      "title": "Go Fundamentals: Presented by Gopher Guides",
+      "url": "https://www.coursera.org/learn/pearson-go-fundamentals-livelessons-presented-by-gopher-guides-video-train-y5exg"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado na busca gratuita da Coursera; condições de certificado podem variar.",
+      "portal": "Coursera",
+      "source": "https://www.coursera.org/courses?query=free",
+      "title": "Code Yourself! An Introduction to Programming",
+      "url": "https://www.coursera.org/learn/intro-programming"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado na busca gratuita da Coursera; condições de certificado podem variar.",
+      "portal": "Coursera",
+      "source": "https://www.coursera.org/courses?query=free",
+      "title": "AlmaLinux Mastery – Free Path to Enterprise Linux",
+      "url": "https://www.coursera.org/learn/packt-start-with-almalinux-your-free-path-to-enterprise-level-linux-wxurz"
+    },
+    {
       "category": "Idiomas",
       "cert": "maybe",
       "description": "Curso gratuito de introdução ao português.",
@@ -19589,6 +19616,24 @@
       "source": "https://pll.harvard.edu/catalog?price%5B1%5D=1&max_price=&start_date=&keywords=&url=",
       "title": "Reducing Racial Disparities in Health Care",
       "url": "https://pll.harvard.edu/course/reducing-racial-disparities-health-care"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado no catálogo gratuito da Harvard.",
+      "portal": "Harvard",
+      "source": "https://pll.harvard.edu/catalog?price%5B1%5D=1&max_price=&start_date=&keywords=&url=",
+      "title": "Justice",
+      "url": "https://pll.harvard.edu/course/justice"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado no catálogo gratuito da Harvard.",
+      "portal": "Harvard",
+      "source": "https://pll.harvard.edu/catalog?price%5B1%5D=1&max_price=&start_date=&keywords=&url=",
+      "title": "Energy Within Environmental Constraints",
+      "url": "https://pll.harvard.edu/course/energy-within-environmental-constraints"
     },
     {
       "category": "Arte, cultura e educação",
@@ -32961,7 +33006,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Seu Futuro no Desenvolvimento Web: O Panorama de Emprego Sobre esta atividade de aprendizado Teamwork Leadership 1 a 3 horas Intermediário",
+      "title": "Seu Futuro no Desenvolvimento Web: O Panorama de Emprego Sobre esta atividade de aprendizado Leadership Teamwork 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058943?lang=pt-br"
     },
     {
@@ -33096,7 +33141,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Fundamentos do Desenvolvimento Web Sobre esta atividade de aprendizado Web Development Front End Software Engineering 1 a 3 horas Intermediário",
+      "title": "Fundamentos do Desenvolvimento Web Sobre esta atividade de aprendizado Front End Software Engineering Web Development 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058937?lang=pt-br"
     },
     {
@@ -33159,7 +33204,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Introdução ao HTML e CSS Sobre esta atividade de aprendizado Cascading Style Sheets CSS HTML 1 a 3 horas Intermediário",
+      "title": "Introdução ao HTML e CSS Sobre esta atividade de aprendizado HyperText Markup Language HTML HTML 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058939?lang=pt-br"
     },
     {
@@ -33186,7 +33231,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Explorando os aspectos básicos do gerenciamento de projeto Bem-vindo ao mundo do gerenciamento de projeto: o que é, como funciona e por que é importante! Application Frameworks...",
+      "title": "Explorando os aspectos básicos do gerenciamento de projeto Bem-vindo ao mundo do gerenciamento de projeto: o que é, como funciona e por que é importante! Project Management Stak...",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3826383?lang=pt-br"
     },
     {
@@ -33276,7 +33321,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings VectorCAST Text Annotation 3 a 10 horas Avançado",
+      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Google Colaboratory Data Optimization 3 a 10 horas Avançado",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3947353?lang=pt-br"
     },
     {
@@ -33375,7 +33420,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Teste e Implementação de Website Sobre esta atividade de aprendizado Deployment Software Workflow Management 1 a 3 horas Intermediário",
+      "title": "Teste e Implementação de Website Sobre esta atividade de aprendizado DevOps Software Testing 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058941?lang=pt-br"
     },
     {
@@ -33384,7 +33429,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Dando Sentido aos Dados Selecione Ir para atividade para abrir o conteúdo! Data Analysis Data Visualization 1 a 3 horas Fundamental",
+      "title": "Dando Sentido aos Dados Selecione Ir para atividade para abrir o conteúdo! Data Management Data Visualization 1 a 3 horas Fundamental",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4065068?lang=pt-br"
     },
     {
@@ -33654,7 +33699,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Dando Vida a Websites com JavaScript Sobre esta atividade de aprendizado Cascading Style Sheets CSS HTML 1 a 3 horas Intermediário",
+      "title": "Dando Vida a Websites com JavaScript Sobre esta atividade de aprendizado HyperText Markup Language HTML Data Manipulation 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058940?lang=pt-br"
     },
     {
@@ -34068,7 +34113,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma Página da Web de Lista de Tarefas Interativa Sobre esta atividade de aprendizado Cascading Style Sheets CSS HTML 1 a 3 horas Intermediário",
+      "title": "Desenvolva uma Página da Web de Lista de Tarefas Interativa Sobre esta atividade de aprendizado CSS Design HyperText Markup Language HTML 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058942?lang=pt-br"
     },
     {
@@ -34158,7 +34203,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolvendo Sites para a Web Sobre esta atividade de aprendizado Cascading Style Sheets CSS CSS 1 a 3 horas Intermediário",
+      "title": "Desenvolvendo Sites para a Web Sobre esta atividade de aprendizado Agile Methodology CSS 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058938?lang=pt-br"
     },
     {
@@ -34473,7 +34518,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings VectorCAST Text Annotation 3 a 10 horas Avançado",
+      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Google Colaboratory Data Optimization 3 a 10 horas Avançado",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3947353?ngo-id=0302&lang=pt-br"
     },
     {
@@ -34961,6 +35006,24 @@
       "source": "https://learn.microsoft.com/pt-br/training/browse/",
       "title": "Introdução aos conceitos de extração de informações alimentados por IA",
       "url": "https://learn.microsoft.com/pt-br/training/modules/introduction-information-extraction"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Explore agentes pré-criados do Microsoft 365 Copilot",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/explore-prebuilt-microsoft-365-copilot-agents"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Prepare-se para trabalhar com o Microsoft Copilot",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/get-ready-work-microsoft-365-copilot"
     },
     {
       "category": "Gestão de pessoas",
@@ -37200,114 +37263,6 @@
       "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
       "portal": "Futuro Digital",
       "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Técnicas de Montagem e Ajustagem de Motores",
-      "url": "https://www.futuro.digital/dn_tecnicas_de_montagem_e_ajustagem_de_motores-9079/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Características Técnicas de Motores à Combustão Interna",
-      "url": "https://www.futuro.digital/dn_caracteristicas_tecnicas_de_motores_a_combustao_interna-9073/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Técnicas de Retífica de Biela de Motores à Combustão Interna",
-      "url": "https://www.futuro.digital/dn_tecnicas_de_retifica_de_biela_de_motores_a_combustao_interna-9080/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Projeto de Hidráulica com as Bibliotecas BIM Amanco Wavin",
-      "url": "https://www.futuro.digital/dn-projeto-de-hidraulica-com-as-bibliotecas-bim-amanco-wavin-ape077-118-15h-20/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Desvendando o BIM Building Information Modeling",
-      "url": "https://www.futuro.digital/dn-desvendando-o-bim-building-information-modeling-ape078-118-40h-21/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Técnicas de Retífica de Volante de Motores à Combustão Interna",
-      "url": "https://www.futuro.digital/dn_tecnicas_de_retifica_de_volante_de_motores_a_combustao_interna-9078/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Metrologia Aplicada a Motores de Combustão Interna",
-      "url": "https://www.futuro.digital/dn_metrologia_aplicada_a_motores_de_combustao_interna-9077/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Técnicas de Retífica de Virabrequim de Motores à Combustão Interna",
-      "url": "https://www.futuro.digital/dn_tecnicas-de-retifica_de_virabrequim_de_motores_a_combustao_interna-9076/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Introdução à Indústria 4.0",
-      "url": "https://www.futuro.digital/dn-introducao-a-industria-m-12023/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Introdução a Inteligência Artificial na Tomada de Decisão",
-      "url": "https://www.futuro.digital/dn-introducao-a-inteligencia-artificial-na-tomada-de-decisao-ini-138-5h-20803/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Análise de Ciclo de Vida de Veículos",
-      "url": "https://www.futuro.digital/dn-analise-de-ciclo-de-vida-de-veiculos-ini118-283-4h-15869/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Etapas e Principais Desafios do Descomissionamento",
-      "url": "https://www.futuro.digital/dn-etapas-e-principais-desafios-do-descomissionamento-ini120-285-4h-15870/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
       "title": "Arte e Ciência da Panificação Domine a arte e a ciência da panificação, da fermentação natural às técnicas sem glúten. Aprenda química dos alimento e garanta seu certificado. EA...",
       "url": "https://www.futuro.digital/dn-arte-e-ciencia-da-panificacao-mic1540-120-10h-20083/p"
     },
@@ -37328,6 +37283,15 @@
       "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
       "title": "Logística - Otimização de Processos para Eficiência Operacional Curso de Logística: otimize processos de recebimento, armazenamento e expedição, melhore controle de estoque e au...",
       "url": "https://www.futuro.digital/dn-logistica---otimizacao-de-processos-para-eficiencia-operacional-mic1350-120-29h-17074/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Vírus e a Gestão da Cibersegurança Proteja seus dispositivos contra vírus, malware e hackers com o curso de Gestão da Cibersegurança. Aprenda ferramentas de proteção e resposta...",
+      "url": "https://www.futuro.digital/dn-virus-e-a-gestao-da-ciberseguranca-mic1284-120-30h-15373/p"
     },
     {
       "category": "Cursos gratuitos",
@@ -37389,6 +37353,24 @@
       "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
       "portal": "Futuro Digital",
       "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Trilha UI - Ferramentas e construção de imagens Domine Photoshop, Illustrator e InDesign em 60h. Aprenda tratamento de imagens, vetorização e diagramação para projetos profissio...",
+      "url": "https://www.futuro.digital/dn-trilha-ui---ferramentas-e-construcao-de-imagens-mic1242-120-60h-15126/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Trilha UI - Design Aprenda UI em 60h: domine Figma, prototipação, componentes, Design System e acessibilidade. Crie interfaces modernas. Curso com certificado SENAI Play. EAD Gr...",
+      "url": "https://www.futuro.digital/dn-trilha-ui---design-mic1308-120-60h-15705/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
       "title": "Trilha UX - Design Domine UX em 60h: avaliação heurística, mapas de tarefa, UX Writing, psicologia e frameworks de pesquisa. Aprenda métodos avançados. Certificado SENAI Play. E...",
       "url": "https://www.futuro.digital/dn-trilha-ux---design-mic1310-120-60h-15707/p"
     },
@@ -37398,8 +37380,62 @@
       "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
       "portal": "Futuro Digital",
       "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Desenvolvimento de Jogos no Construct 3 Aprenda Construct 3 em 60h e crie jogos 2D para PC, mobile e web sem precisar programar. Formação online com lógica por blocos e certific...",
+      "url": "https://www.futuro.digital/dn-desenvolvimento-de-jogos-no-construct-3-mic655-120-61h-6509/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Modelagem 3D de personagem Low Poly Aprenda modelagem 3D Low Poly no Blender em 60h: Hard Surface, Model Sheet, UV e texturização. Formação completa com certificado SENAI Play....",
+      "url": "https://www.futuro.digital/dn-modelagem-3d-de-personagem-low-poly-mic923-120-61h-9153/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Vamos falar de Fluência Digital Domine ferramentas digitais em 60h: Google, YouTube, Teams, Zoom e mais. Aprenda fluência digital para o trabalho e o dia a dia. Certificado SENA...",
+      "url": "https://www.futuro.digital/dn-vamos-falar-de-fluencia-digital-mic635-120-64h-3403/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
       "title": "Atraia clientes através do Inbound Marketing Aprenda os principais conceitos de Inbound Marketing e atraia clientes de forma estratégica, aplicando as técnicas em seus próprios...",
       "url": "https://www.futuro.digital/dn-atraia-clientes-atraves-do-inbound-marketing-mic1265-120-60h-15262/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Animação 2D para jogos digitais Aprenda animação 2D para games em 40h: Cut Out no Spriter, quadro a quadro no Krita e preparação de artes no Photoshop. Formação completa SENAI P...",
+      "url": "https://www.futuro.digital/dn-animacao-2d-para-jogos-digitais-mic136-120-41h-2523/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Designer de personagem para jogos Aprenda design de personagens para games em 60h: pintura digital, model sheet, luz, sombra e perspectiva no Photoshop. Curso com certificado SE...",
+      "url": "https://www.futuro.digital/dn-designer-de-personagem-para-jogos-mic619-120-60h-3238/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Entendendo o 5G Entendendo o 5G EAD Grátis -100%",
+      "url": "https://www.futuro.digital/dn-entendendo-o-5g-mic361-120-60h-1014/p"
     },
     {
       "category": "Cursos gratuitos",
@@ -37425,8 +37461,26 @@
       "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
       "portal": "Futuro Digital",
       "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Oratória de sucesso Domine a oratória: fale com confiança, clareza e carisma. Aprenda técnicas para apresentações eficazes e alcance seus objetivos. Curso com certificado SENAI...",
+      "url": "https://www.futuro.digital/dn-oratoria-de-sucesso-mic1222-120-60h-15078/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
       "title": "Desvendando o Mundo do Marketing Aprenda marketing: fundamentos, estratégia, digital, endomarketing, neuromarketing e dados. Domine o universo do marketing em 60h. Curso com cer...",
       "url": "https://www.futuro.digital/dn-desvendando-o-mundo-do-marketing-mic1126-120-60h-15293/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Entendendo a Química Geral Aprenda os fundamentos da Química Geral e conheça concepções e abordagens essenciais aplicadas no ensino da química em diferentes contextos educativos...",
+      "url": "https://www.futuro.digital/dn-entendendo-a-quimica-geral-mic1194-120-50h-15152/p"
     },
     {
       "category": "Cursos gratuitos",
@@ -37470,80 +37524,8 @@
       "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
       "portal": "Futuro Digital",
       "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Inteligência Artificial e Machine Learning",
-      "url": "https://www.futuro.digital/dn-inteligencia-artificial-e-machine-learning-ini114-279-4h-15866/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Inovação em Materiais Sustentáveis",
-      "url": "https://www.futuro.digital/dn-inovacao-em-materiais-sustentaveis-ini116-281-4h-15867/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Inteligência Competitiva na Indústria Automotiva",
-      "url": "https://www.futuro.digital/dn-inteligencia-competitiva-na-industria-automotiva-ini117-282-4h-15868/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Técnicas de Retífica de Bloco de Motores à Combustão Interna",
-      "url": "https://www.futuro.digital/dn_tecnicas_de_retifica_de_bloco_de_motores_a_combustao_interna-9074/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Técnicas de Retífica de Cabeçote de Motores à Combustão",
-      "url": "https://www.futuro.digital/dn_tecnicas_de_retifica_de_cabecote_de_motores_a_combustao-9075/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Instalações Hidráulicas Industriais AMANCO WAVIN",
-      "url": "https://www.futuro.digital/dn-instalacoes-hidraulicas-industriais-amanco-wavin-ape305-118-15h-8228/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Alimentos Funcionais",
-      "url": "https://www.futuro.digital/sp-curso-alimentos-funcionais-21669/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Consumo Consciente de Energia",
-      "url": "https://www.futuro.digital/dn-consumo-consciente-de-energia-ini016-118-14h-84/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Noções Básicas de Mecânica Automobilística",
-      "url": "https://www.futuro.digital/dn-nocoes-basicas-de-mecanica-automobilistica-ini044-118-14h-103/p"
+      "title": "Governança Sustentável: Um olhar para 2030 Curso Governança Sustentável (30h). Alinhe estratégias corporativas à Agenda 2030 e aos ODS e lidere a transformação ESG. Adquira seu...",
+      "url": "https://www.futuro.digital/dn-governanca-sustentavel-um-olhar-para-2030-mic1470-120-30h-19467/p"
     },
     {
       "category": "Cursos gratuitos",
@@ -37552,7 +37534,7 @@
       "portal": "Futuro Digital",
       "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
       "title": "Desenho Arquitetônico",
-      "url": "https://www.futuro.digital/dn-desenho-arquitetonico-ini029-118-14h-96/p"
+      "url": "https://www.futuro.digital/ac-desenho-arquitetonico-21955/p"
     },
     {
       "category": "Cursos gratuitos",
@@ -37561,16 +37543,7 @@
       "portal": "Futuro Digital",
       "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
       "title": "Educação Ambiental",
-      "url": "https://www.futuro.digital/dn-educacao-ambiental-ini024-118-14h-92/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Empreendedorismo",
-      "url": "https://www.futuro.digital/dn-empreendedorismo-ini023-118-14h-91/p"
+      "url": "https://www.futuro.digital/ac-educacao-ambiental-21956/p"
     },
     {
       "category": "Cursos gratuitos",
@@ -37579,7 +37552,7 @@
       "portal": "Futuro Digital",
       "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
       "title": "Finanças Pessoais",
-      "url": "https://www.futuro.digital/dn-financas-pessoais-ini042-118-14h-101/p"
+      "url": "https://www.futuro.digital/ac-financas-pessoais-21958/p"
     },
     {
       "category": "Cursos gratuitos",
@@ -37587,26 +37560,8 @@
       "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
       "portal": "Futuro Digital",
       "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Propriedade Intelectual",
-      "url": "https://www.futuro.digital/dn-propriedade-intelectual-ini018-118-14h-86/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Segurança do Trabalho",
-      "url": "https://www.futuro.digital/dn-seguranca-do-trabalho-ini033-118-14h-100/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Metrologia",
-      "url": "https://www.futuro.digital/dn-metrologia-ini025-118-14h-9092/p"
+      "title": "Empreendedorismo",
+      "url": "https://www.futuro.digital/ac-empreendedorismo-21957/p"
     },
     {
       "category": "Cursos gratuitos",
@@ -37616,6 +37571,978 @@
       "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
       "title": "Consumo Consciente de Energia",
       "url": "https://www.futuro.digital/ac-consumo-consciente-de-energia-21947/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito da NVIDIA Training.",
+      "portal": "NVIDIA Training",
+      "source": "https://www.nvidia.com/pt-br/training/find-training/?Free+Courses=Free",
+      "title": "Skip to main content",
+      "url": "https://www.nvidia.com/pt-br/training/find-training?Free+Courses=Free"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito da NVIDIA Training.",
+      "portal": "NVIDIA Training",
+      "source": "https://www.nvidia.com/pt-br/training/find-training/?Free+Courses=Free",
+      "title": "Programas para Professores",
+      "url": "https://www.nvidia.com/pt-br/training/educator-programs"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito da NVIDIA Training.",
+      "portal": "NVIDIA Training",
+      "source": "https://www.nvidia.com/pt-br/training/find-training/?Free+Courses=Free",
+      "title": "Workshops Ministrados por Instrutores",
+      "url": "https://www.nvidia.com/pt-br/training/instructor-led-workshops"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito da NVIDIA Training.",
+      "portal": "NVIDIA Training",
+      "source": "https://www.nvidia.com/pt-br/training/find-training/?Free+Courses=Free",
+      "title": "Computação Acelerada",
+      "url": "https://www.nvidia.com/pt-br/training/find-training?topics=accelerated+computing"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito da NVIDIA Training.",
+      "portal": "NVIDIA Training",
+      "source": "https://www.nvidia.com/pt-br/training/find-training/?Free+Courses=Free",
+      "title": "Ciência de Dados",
+      "url": "https://www.nvidia.com/pt-br/training/find-training?topics=Data+Science"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito da NVIDIA Training.",
+      "portal": "NVIDIA Training",
+      "source": "https://www.nvidia.com/pt-br/training/find-training/?Free+Courses=Free",
+      "title": "Deep Learning",
+      "url": "https://www.nvidia.com/pt-br/training/find-training?topics=deep+learning"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito da NVIDIA Training.",
+      "portal": "NVIDIA Training",
+      "source": "https://www.nvidia.com/pt-br/training/find-training/?Free+Courses=Free",
+      "title": "IA generativa / LLMs",
+      "url": "https://www.nvidia.com/pt-br/training/find-training?topics=Generative+AI%2FLLM"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito da NVIDIA Training.",
+      "portal": "NVIDIA Training",
+      "source": "https://www.nvidia.com/pt-br/training/find-training/?Free+Courses=Free",
+      "title": "Gráficos e Simulação",
+      "url": "https://www.nvidia.com/pt-br/training/find-training?topics=Graphics+and+Simulation"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito da NVIDIA Training.",
+      "portal": "NVIDIA Training",
+      "source": "https://www.nvidia.com/pt-br/training/find-training/?Free+Courses=Free",
+      "title": "Torne-se um Embaixador",
+      "url": "https://www.nvidia.com/pt-br/training/educator-programs/university-ambassador-program"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito da NVIDIA Training.",
+      "portal": "NVIDIA Training",
+      "source": "https://www.nvidia.com/pt-br/training/find-training/?Free+Courses=Free",
+      "title": "Boletim Informativo de Treinamento",
+      "url": "https://www.nvidia.com/pt-br/training/newsletter"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito da NVIDIA Training.",
+      "portal": "NVIDIA Training",
+      "source": "https://www.nvidia.com/pt-br/training/find-training/?Free+Courses=Free",
+      "title": "Brasil (Brazil)",
+      "url": "https://www.nvidia.com/pt-br/training/find-training"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Livres",
+      "url": "https://www.sp.senai.br/cursos/cursos-livres/administracao-e-gestao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Pós-graduação",
+      "url": "https://www.sp.senai.br/cursos/pos-graduacao/administracao-e-gestao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Graduação",
+      "url": "https://www.sp.senai.br/cursos/graduacao/administracao-e-gestao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Aprendiz SENAI",
+      "url": "https://www.sp.senai.br/cursos/aprendiz-senai/administracao-e-gestao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Técnicos",
+      "url": "https://www.sp.senai.br/cursos/cursos-tecnicos/administracao-e-gestao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Livres",
+      "url": "https://www.sp.senai.br/cursos/cursos-livres/alimentos-e-bebidas"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Pós-graduação",
+      "url": "https://www.sp.senai.br/cursos/pos-graduacao/alimentos-e-bebidas"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Graduação",
+      "url": "https://www.sp.senai.br/cursos/graduacao/alimentos-e-bebidas"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Aprendiz SENAI",
+      "url": "https://www.sp.senai.br/cursos/aprendiz-senai/alimentos-e-bebidas"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Técnicos",
+      "url": "https://www.sp.senai.br/cursos/cursos-tecnicos/alimentos-e-bebidas"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Livres",
+      "url": "https://www.sp.senai.br/cursos/cursos-livres/automotiva"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Pós-graduação",
+      "url": "https://www.sp.senai.br/cursos/pos-graduacao/automotiva"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Graduação",
+      "url": "https://www.sp.senai.br/cursos/graduacao/automotiva"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Aprendiz SENAI",
+      "url": "https://www.sp.senai.br/cursos/aprendiz-senai/automotiva"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Técnicos",
+      "url": "https://www.sp.senai.br/cursos/cursos-tecnicos/automotiva"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Livres",
+      "url": "https://www.sp.senai.br/cursos/cursos-livres/construcao-civil-e-design-de-mobiliario"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Pós-graduação",
+      "url": "https://www.sp.senai.br/cursos/pos-graduacao/construcao-civil-e-design-de-mobiliario"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Aprendiz SENAI",
+      "url": "https://www.sp.senai.br/cursos/aprendiz-senai/construcao-civil-e-design-de-mobiliario"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Técnicos",
+      "url": "https://www.sp.senai.br/cursos/cursos-tecnicos/construcao-civil-e-design-de-mobiliario"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Livres",
+      "url": "https://www.sp.senai.br/cursos/cursos-livres/design-de-moda-textil-vestuario-calcados-e-joalheria"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Graduação",
+      "url": "https://www.sp.senai.br/cursos/graduacao/design-de-moda-textil-vestuario-calcados-e-joalheria"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Pós-graduação",
+      "url": "https://www.sp.senai.br/cursos/pos-graduacao/design-de-moda-textil-vestuario-calcados-e-joalheria"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Aprendiz SENAI",
+      "url": "https://www.sp.senai.br/cursos/aprendiz-senai/design-de-moda-textil-vestuario-calcados-e-joalheria"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Técnicos",
+      "url": "https://www.sp.senai.br/cursos/cursos-tecnicos/design-de-moda-textil-vestuario-calcados-e-joalheria"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Livres",
+      "url": "https://www.sp.senai.br/cursos/cursos-livres/design-grafico-papel-celulose-grafica-e-editorial"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Pós-graduação",
+      "url": "https://www.sp.senai.br/cursos/pos-graduacao/design-grafico-papel-celulose-grafica-e-editorial"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Graduação",
+      "url": "https://www.sp.senai.br/cursos/graduacao/design-grafico-papel-celulose-grafica-e-editorial"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Aprendiz SENAI",
+      "url": "https://www.sp.senai.br/cursos/aprendiz-senai/design-grafico-papel-celulose-grafica-e-editorial"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Técnicos",
+      "url": "https://www.sp.senai.br/cursos/cursos-tecnicos/design-grafico-papel-celulose-grafica-e-editorial"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Livres",
+      "url": "https://www.sp.senai.br/cursos/cursos-livres/fabricacao-mecanica-e-mecanica-industrial"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Pós-graduação",
+      "url": "https://www.sp.senai.br/cursos/pos-graduacao/fabricacao-mecanica-e-mecanica-industrial"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Graduação",
+      "url": "https://www.sp.senai.br/cursos/graduacao/fabricacao-mecanica-e-mecanica-industrial"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Aprendiz SENAI",
+      "url": "https://www.sp.senai.br/cursos/aprendiz-senai/fabricacao-mecanica-e-mecanica-industrial"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Técnicos",
+      "url": "https://www.sp.senai.br/cursos/cursos-tecnicos/fabricacao-mecanica-e-mecanica-industrial"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Livres",
+      "url": "https://www.sp.senai.br/cursos/cursos-livres/logistica-e-transporte"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Pós-graduação",
+      "url": "https://www.sp.senai.br/cursos/pos-graduacao/logistica-e-transporte"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Aprendiz SENAI",
+      "url": "https://www.sp.senai.br/cursos/aprendiz-senai/logistica-e-transporte"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Técnicos",
+      "url": "https://www.sp.senai.br/cursos/cursos-tecnicos/logistica-e-transporte"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Livres",
+      "url": "https://www.sp.senai.br/cursos/cursos-livres/mecatronica-sistemas-de-automacao-energia-e-eletronica"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Pós-graduação",
+      "url": "https://www.sp.senai.br/cursos/pos-graduacao/mecatronica-sistemas-de-automacao-energia-e-eletronica"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Graduação",
+      "url": "https://www.sp.senai.br/cursos/graduacao/mecatronica-sistemas-de-automacao-energia-e-eletronica"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Aprendiz SENAI",
+      "url": "https://www.sp.senai.br/cursos/aprendiz-senai/mecatronica-sistemas-de-automacao-energia-e-eletronica"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Técnicos",
+      "url": "https://www.sp.senai.br/cursos/cursos-tecnicos/mecatronica-sistemas-de-automacao-energia-e-eletronica"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Livres",
+      "url": "https://www.sp.senai.br/cursos/cursos-livres/meio-ambiente-saude-e-seguranca-do-trabalho"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Pós-graduação",
+      "url": "https://www.sp.senai.br/cursos/pos-graduacao/meio-ambiente-saude-e-seguranca-do-trabalho"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Graduação",
+      "url": "https://www.sp.senai.br/cursos/graduacao/meio-ambiente-saude-e-seguranca-do-trabalho"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Técnicos",
+      "url": "https://www.sp.senai.br/cursos/cursos-tecnicos/meio-ambiente-saude-e-seguranca-do-trabalho"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Livres",
+      "url": "https://www.sp.senai.br/cursos/cursos-livres/metalurgia-e-soldagem"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Aprendiz SENAI",
+      "url": "https://www.sp.senai.br/cursos/aprendiz-senai/metalurgia-e-soldagem"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Livres",
+      "url": "https://www.sp.senai.br/cursos/cursos-livres/quimica-ceramica-e-plasticos"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Pós-graduação",
+      "url": "https://www.sp.senai.br/cursos/pos-graduacao/quimica-ceramica-e-plasticos"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Graduação",
+      "url": "https://www.sp.senai.br/cursos/graduacao/quimica-ceramica-e-plasticos"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Aprendiz SENAI",
+      "url": "https://www.sp.senai.br/cursos/aprendiz-senai/quimica-ceramica-e-plasticos"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Técnicos",
+      "url": "https://www.sp.senai.br/cursos/cursos-tecnicos/quimica-ceramica-e-plasticos"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Livres",
+      "url": "https://www.sp.senai.br/cursos/cursos-livres/refrigeracao-e-climatizacao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Pós-graduação",
+      "url": "https://www.sp.senai.br/cursos/pos-graduacao/refrigeracao-e-climatizacao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Aprendiz SENAI",
+      "url": "https://www.sp.senai.br/cursos/aprendiz-senai/refrigeracao-e-climatizacao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Técnicos",
+      "url": "https://www.sp.senai.br/cursos/cursos-tecnicos/refrigeracao-e-climatizacao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Livres",
+      "url": "https://www.sp.senai.br/cursos/cursos-livres/tecnologia-da-informacao-e-informatica"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Pós-graduação",
+      "url": "https://www.sp.senai.br/cursos/pos-graduacao/tecnologia-da-informacao-e-informatica"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Graduação",
+      "url": "https://www.sp.senai.br/cursos/graduacao/tecnologia-da-informacao-e-informatica"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Aprendiz SENAI",
+      "url": "https://www.sp.senai.br/cursos/aprendiz-senai/tecnologia-da-informacao-e-informatica"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "Cursos Técnicos",
+      "url": "https://www.sp.senai.br/cursos/cursos-tecnicos/tecnologia-da-informacao-e-informatica"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito do SENAI-SP.",
+      "portal": "SENAI-SP",
+      "source": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1",
+      "title": "CURSOS LIVRES",
+      "url": "https://www.sp.senai.br/cursos/cursos-livres"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "Sobre os cursos",
+      "url": "https://www.unasus.gov.br/cursos/sobre"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "Matrículas ativas",
+      "url": "https://www.unasus.gov.br/cursos/matriculas"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "Certificados e histórico",
+      "url": "https://www.unasus.gov.br/cursos/historico_educacional"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "Plataforma AROUCA",
+      "url": "https://www.unasus.gov.br/cursos/plataforma_arouca"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Abordagem do Sobrepeso e Obesidade na Atenção Primária em Saúde Qualificação Profissional 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/45782"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Acesso e acolhimento na atenção à saúde do homem na Atenção Primária à Saúde Qualificação Profissional 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/47031"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC A consulta da criança e da mulher/pessoa no puerpério na primeira semana de vida na Atenção Primária à Saúde Qualificação Profissional 60h",
+      "url": "https://www.unasus.gov.br/cursos/curso/47079"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC A dinâmica da violência no contexto familiar Qualificação Profissional 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/47001"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Atenção à Desnutrição em Crianças e Gestantes no SUS Atualização 45h",
+      "url": "https://www.unasus.gov.br/cursos/curso/47100"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Atenção a homens e mulheres em situação de violência por parceiro íntimo (2024) Qualificação Profissional 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/47002"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Atenção à Saúde Mental do Homem Atualização 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/45601"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Atenção à Saúde Sexual e Reprodutiva do Homem Atualização 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/45508"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Caderneta da Criança: Instrumento intersetorial para promoção da atenção integral à saúde da criança Qualificação Profissional 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/47032"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Conhecendo o Guia Alimentar para a População Brasileira Qualificação Profissional 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/47023"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Cuidado da Criança e Adolescente com Sobrepeso e Obesidade na Atenção Primária à Saúde Qualificação Profissional 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/46641"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Desenvolvimento neuropsicomotor, sinais de alerta e intervenção precoce: um guia para profissionais de saúde. Atualização 60h",
+      "url": "https://www.unasus.gov.br/cursos/curso/47076"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Homens e atenção à saúde do trabalhador Qualificação Profissional 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/47030"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Instrutivo sobre cuidado às crianças com desnutrição na Atenção Primária à Saúde Qualificação Profissional 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/47045"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Intercorrências na Saúde Sexual e Reprodutiva do Homem Atualização 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/45489"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Linha de Cuidado para a Atenção Integral a Crianças e Adolescentes em Situação de Violência Sexual Qualificação Profissional 60h",
+      "url": "https://www.unasus.gov.br/cursos/curso/47060"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Morbimortalidade por causas externas na saúde do homem (2024) Qualificação Profissional 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/47026"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Paternidade e Cuidado (2024) Qualificação Profissional 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/47033"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Política Nacional de Atenção Integral à Saúde do Homem Atualização 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/45381"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Políticas públicas no enfrentamento da violência por parceiro íntimo (2024) Qualificação Profissional 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/47004"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Prevenção ao suicídio Qualificação Profissional 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/46264"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Prevenção de carências de micronutrientes na Atenção Primária à Saúde Atualização 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/47089"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Prevenção e cuidados às doenças prevalentes em homens (2024) Qualificação Profissional 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/47029"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Promoção da amamentação e da alimentação complementar saudável na Atenção Primária à Saúde (APS): recomendações do Guia Alimentar para Crianças Brasileiras Menores de 2 Ano...",
+      "url": "https://www.unasus.gov.br/cursos/curso/47093"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Reconhecendo a Norma Brasileira de Comercialização de Alimentos para Lactentes e Crianças de Primeira Infância, Bicos, Chupetas e Mamadeiras (NBCAL): formação para Profissi...",
+      "url": "https://www.unasus.gov.br/cursos/curso/46786"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Reconhecendo o sobrepeso e a obesidade no contexto da Atenção Primária à Saúde Qualificação Profissional 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/45811"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Rede de atenção às pessoas em situação de violência por parceiro íntimo Qualificação Profissional 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/47000"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Violência por parceiro íntimo: definições e tipologias (2024) Qualificação Profissional 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/47021"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso com oferta aberta da UNA-SUS.",
+      "portal": "UNA-SUS",
+      "source": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca",
+      "title": "UFSC Violência por parceiro íntimo e perspectiva relacional de gênero (2024) Qualificação Profissional 30h",
+      "url": "https://www.unasus.gov.br/cursos/curso/47011"
     }
   ],
   "coverage": {
@@ -37623,17 +38550,17 @@
     "Cruzeiro do Sul Virtual": "14 cursos encontrados; 14 mantidos no catálogo. Fonte reportou 14.",
     "Escola Virtual": "61 cursos encontrados; 61 mantidos no catálogo.",
     "FGV": "227 cursos encontrados; 227 mantidos no catálogo.",
-    "Harvard": "128 cursos encontrados; 130 mantidos no catálogo.",
+    "Harvard": "132 cursos encontrados; 132 mantidos no catálogo.",
     "Santander Open Academy": "146 cursos encontrados; 146 mantidos no catálogo.",
     "Nação Fluente": "1 cursos mantidos no catálogo.",
-    "Senar EAD": "80 cursos encontrados; 254 mantidos no catálogo. Fonte reportou 254.",
+    "Senar EAD": "254 cursos encontrados; 254 mantidos no catálogo. Fonte reportou 254.",
     "Sebrae Paraíba": "52 cursos encontrados; 57 mantidos no catálogo.",
     "UEMP": "15 cursos encontrados; 19 mantidos no catálogo.",
     "MEC Idiomas": "1 cursos mantidos no catálogo.",
     "HCX FMUSP": "12 cursos encontrados; 17 mantidos no catálogo.",
     "Prime Cursos": "524 cursos encontrados; 524 mantidos no catálogo.",
-    "Senac EAD": "79 cursos encontrados; 80 mantidos no catálogo.",
-    "Coursera": "66 cursos encontrados; 100 mantidos no catálogo.",
+    "Senac EAD": "78 cursos encontrados; 80 mantidos no catálogo.",
+    "Coursera": "76 cursos encontrados; 103 mantidos no catálogo.",
     "Udemy": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
     "Fundação Itaú Autoformativos": "165 cursos encontrados; 165 mantidos no catálogo.",
     "Fundação Itaú Mediados": "20 cursos encontrados; 20 mantidos no catálogo.",
@@ -37644,14 +38571,20 @@
     "Khan Academy": "26 cursos encontrados; 26 mantidos no catálogo.",
     "Escola Virtual Gov": "1041 cursos encontrados; 1041 mantidos no catálogo. Fonte reportou 1041.",
     "IBM SkillsBuild": "218 cursos encontrados; 218 mantidos no catálogo.",
-    "Microsoft Learn": "29 cursos encontrados; 29 mantidos no catálogo.",
+    "Microsoft Learn": "29 cursos encontrados; 31 mantidos no catálogo.",
     "Escola de Pessoas": "108 cursos encontrados; 108 mantidos no catálogo.",
     "Cisco CiberEducação": "1 cursos encontrados; 1 mantidos no catálogo.",
     "PUCRS Online": "44 cursos encontrados; 44 mantidos no catálogo.",
     "+IFMG": "95 cursos encontrados; 95 mantidos no catálogo.",
-    "Futuro Digital": "47 cursos encontrados; 47 mantidos no catálogo."
+    "Futuro Digital": "35 cursos encontrados; 35 mantidos no catálogo.",
+    "NVIDIA Training": "11 cursos encontrados; 11 mantidos no catálogo.",
+    "SENAI-SP": "64 cursos encontrados; 64 mantidos no catálogo.",
+    "Databricks Academy": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
+    "RD Station University": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
+    "Eu Capacito": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
+    "UNA-SUS": "33 cursos encontrados; 33 mantidos no catálogo."
   },
-  "generatedAt": "2026-08-28",
+  "generatedAt": "2026-08-29",
   "note": "Snapshot inicial construído a partir dos catálogos oficiais; cada cartão aponta para a página original do curso.",
   "sources": [
     {
@@ -37713,6 +38646,34 @@
     {
       "portal": "+IFMG",
       "url": "https://mais.ifmg.edu.br/maisifmg/course/index.php"
+    },
+    {
+      "portal": "NVIDIA Training",
+      "url": "https://www.nvidia.com/pt-br/training/find-training/?Free+Courses=Free"
+    },
+    {
+      "portal": "SENAI-SP",
+      "url": "https://www.sp.senai.br/cursos/cursos-livres/0?modalidade=3&gratuito=1"
+    },
+    {
+      "portal": "Sebrae Paraíba",
+      "url": "https://pb.loja.sebrae.com.br/cursos/cursos-online?price=0--1"
+    },
+    {
+      "portal": "Databricks Academy",
+      "url": "https://customer-academy.databricks.com/learn/external-ecommerce;view=none;redirectURL=?ctldoc-catalog-0=p-0~l-_%22pt-br%22"
+    },
+    {
+      "portal": "RD Station University",
+      "url": "https://university.rdstation.com/cursos"
+    },
+    {
+      "portal": "Eu Capacito",
+      "url": "https://www.eucapacito.com.br/todos-os-cursos/"
+    },
+    {
+      "portal": "UNA-SUS",
+      "url": "https://www.unasus.gov.br/cursos/busca?status=com%20oferta%20aberta&busca=no_orgao::Universidade%20Federal%20de%20Santa%20Catarina&ordenacao=Relev%C3%A2ncia%20na%20busca"
     },
     {
       "portal": "Futuro Digital",
