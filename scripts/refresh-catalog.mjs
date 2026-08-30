@@ -12,6 +12,45 @@ const today = new Intl.DateTimeFormat("en-CA", {
 const PAGINATION_PATTERN =
   /(?:[?&](?:page|pagina|p|offset|start)=\d+|\/(?:page|pagina)\/\d+)/i;
 
+
+const euCapacitoCsvPath = new URL("../data/eu-capacito.csv", import.meta.url);
+
+function parseCsvLine(line) {
+  const fields = [];
+  let value = "";
+  let quoted = false;
+
+  for (let index = 0; index < line.length; index += 1) {
+    const character = line[index];
+    if (character === '"') {
+      if (quoted && line[index + 1] === '"') {
+        value += '"';
+        index += 1;
+      } else {
+        quoted = !quoted;
+      }
+    } else if (character === "," && !quoted) {
+      fields.push(value);
+      value = "";
+    } else {
+      value += character;
+    }
+  }
+
+  fields.push(value);
+  return fields;
+}
+
+const euCapacitoStaticCourses = (await fs.readFile(euCapacitoCsvPath, "utf8"))
+  .split(/\r?\n/)
+  .filter((line) => line.trim())
+  .slice(1)
+  .map((line) => {
+    const [, title, category, , url] = parseCsvLine(line);
+    return { title, category, url };
+  })
+  .filter((course) => course.title && course.url);
+
 // Catálogos com acesso HTTP estruturado usam a fonte oficial antes do fallback visual.
 const CATALOGS = [
   {
@@ -399,15 +438,14 @@ const CATALOGS = [
   {
     portal: "Eu Capacito",
     source: "https://www.eucapacito.com.br/todos-os-cursos/",
-    urls: ["https://www.eucapacito.com.br/todos-os-cursos/"],
+    urls: [],
     hosts: ["www.eucapacito.com.br"],
-    match: /www\.eucapacito\.com\.br\/(?!todos-os-cursos)[^?#]+/i,
+    staticCourses: euCapacitoStaticCourses,
     category: "Cursos gratuitos",
     cert: "check",
-    description: "Curso gratuito localizado no Eu Capacito.",
+    description: "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
     minimumRecords: 1,
-    failOnIncomplete: false,
-    maxPages: 30
+    failOnIncomplete: false
   },
   {
     portal: "UNA-SUS",
@@ -1807,9 +1845,9 @@ function buildRecord(config, item, previous) {
 
   return {
     ...(previous || {}),
-    category: previous?.category || config.category,
-    cert: previous?.cert || config.cert,
-    description: previous?.description || config.description,
+    category: item.category || previous?.category || config.category,
+    cert: item.cert || previous?.cert || config.cert,
+    description: item.description || previous?.description || config.description,
     portal: config.portal,
     source: config.source,
     title,
