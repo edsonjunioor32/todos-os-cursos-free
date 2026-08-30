@@ -1315,6 +1315,42 @@
       "url": "https://app.santanderopenacademy.com/pt-BR/program/erro-404-pensamento-critico-nao-encontrado"
     },
     {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Digital Marketing & AI",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/digital-marketing-and-ai"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "SW50 - 2026",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/sw50-2026"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "British Council IELTS online 2026",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/british-council-ielts-online-2026"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Jóvenes Líderes Iberoamericanos 2026 - Fundación Carolina",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/jovenes-lideres-iberoamericanos-2026-fundacion-carolina"
+    },
+    {
       "category": "Tecnologia e Ciência de Dados",
       "cert": "declaration",
       "description": "Curso gratuito online da FGV · 15 horas/aula. A instituição informa que os cursos gratuitos não geram certificado; após aprovação no pós-teste, é possível emitir uma declaração de participação.",
@@ -33141,7 +33177,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Fundamentos do Desenvolvimento Web Sobre esta atividade de aprendizado Front End Software Engineering Web Development 1 a 3 horas Intermediário",
+      "title": "Fundamentos do Desenvolvimento Web Sobre esta atividade de aprendizado Front End Software Engineering Machine Operation 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058937?lang=pt-br"
     },
     {
@@ -33204,7 +33240,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Introdução ao HTML e CSS Sobre esta atividade de aprendizado HyperText Markup Language HTML HTML 1 a 3 horas Intermediário",
+      "title": "Introdução ao HTML e CSS Sobre esta atividade de aprendizado Information Management Workflow Management 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058939?lang=pt-br"
     },
     {
@@ -33231,7 +33267,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Explorando os aspectos básicos do gerenciamento de projeto Bem-vindo ao mundo do gerenciamento de projeto: o que é, como funciona e por que é importante! Project Management Stak...",
+      "title": "Explorando os aspectos básicos do gerenciamento de projeto Bem-vindo ao mundo do gerenciamento de projeto: o que é, como funciona e por que é importante! Product Management Stak...",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3826383?lang=pt-br"
     },
     {
@@ -33321,7 +33357,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Google Colaboratory Data Optimization 3 a 10 horas Avançado",
+      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings VectorCAST Search Engine Algorithms 3 a 10 horas Avançado",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3947353?lang=pt-br"
     },
     {
@@ -33420,7 +33456,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Teste e Implementação de Website Sobre esta atividade de aprendizado DevOps Software Testing 1 a 3 horas Intermediário",
+      "title": "Teste e Implementação de Website Sobre esta atividade de aprendizado Deployment Software Version Control 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058941?lang=pt-br"
     },
     {
@@ -33429,7 +33465,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Dando Sentido aos Dados Selecione Ir para atividade para abrir o conteúdo! Data Management Data Visualization 1 a 3 horas Fundamental",
+      "title": "Dando Sentido aos Dados Selecione Ir para atividade para abrir o conteúdo! Decision Making Critical Thinking 1 a 3 horas Fundamental",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4065068?lang=pt-br"
     },
     {
@@ -33699,7 +33735,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Dando Vida a Websites com JavaScript Sobre esta atividade de aprendizado HyperText Markup Language HTML Data Manipulation 1 a 3 horas Intermediário",
+      "title": "Dando Vida a Websites com JavaScript Sobre esta atividade de aprendizado Data Manipulation Python 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058940?lang=pt-br"
     },
     {
@@ -34113,7 +34149,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma Página da Web de Lista de Tarefas Interativa Sobre esta atividade de aprendizado CSS Design HyperText Markup Language HTML 1 a 3 horas Intermediário",
+      "title": "Desenvolva uma Página da Web de Lista de Tarefas Interativa Sobre esta atividade de aprendizado JavaScript Programming Language HyperText Markup Language HTML 1 a 3 horas Interm...",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058942?lang=pt-br"
     },
     {
@@ -34203,7 +34239,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolvendo Sites para a Web Sobre esta atividade de aprendizado Agile Methodology CSS 1 a 3 horas Intermediário",
+      "title": "Desenvolvendo Sites para a Web Sobre esta atividade de aprendizado Agile Methodology HTML5 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058938?lang=pt-br"
     },
     {
@@ -34518,7 +34554,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Google Colaboratory Data Optimization 3 a 10 horas Avançado",
+      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings VectorCAST Search Engine Algorithms 3 a 10 horas Avançado",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3947353?ngo-id=0302&lang=pt-br"
     },
     {
@@ -35024,6 +35060,15 @@
       "source": "https://learn.microsoft.com/pt-br/training/browse/",
       "title": "Prepare-se para trabalhar com o Microsoft Copilot",
       "url": "https://learn.microsoft.com/pt-br/training/modules/get-ready-work-microsoft-365-copilot"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Descrever as ferramentas de monitoramento no Azure",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/describe-monitoring-tools-azure"
     },
     {
       "category": "Gestão de pessoas",
@@ -38948,6 +38993,2463 @@
       "source": "https://university.rdstation.com/cursos",
       "title": "Introdução ao Inside Sales",
       "url": "https://university.rdstation.com/course/introducao-ao-inside-sales"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Cybersecurity",
+      "url": "https://www.eucapacito.com.br/cursos/cybersecurity/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Design Gráfico",
+      "url": "https://www.eucapacito.com.br/cursos/design-grafico/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Python Development",
+      "url": "https://www.eucapacito.com.br/cursos/python-development/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Inteligência artificial e Computacional",
+      "url": "https://www.eucapacito.com.br/cursos/inteligencia-artificial-e-computacional/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Big Data & Analytics",
+      "url": "https://www.eucapacito.com.br/cursos/big-data-analytics/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Gestão de Infraestrutura de TI",
+      "url": "https://www.eucapacito.com.br/cursos/gestao-de-infraestrutura-de-ti/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Java Development",
+      "url": "https://www.eucapacito.com.br/cursos/java-development/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Business Intelligence (BI)",
+      "url": "https://www.eucapacito.com.br/cursos/business-intelligence-bi/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Linux Fundamentos",
+      "url": "https://www.eucapacito.com.br/cursos/linux-fundamentos/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Introdução à Inteligência Artificial",
+      "url": "https://www.eucapacito.com.br/cursos/introducao-a-inteligencia-artificial/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Marketing em Plataformas de Social Media",
+      "url": "https://www.eucapacito.com.br/cursos/marketing-em-plataformas-de-social-media/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Engenharia de Software",
+      "url": "https://www.eucapacito.com.br/cursos/engenharia-de-software/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Introdução ao código",
+      "url": "https://www.eucapacito.com.br/cursos/introducao-ao-codigo/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Customer Experience Management",
+      "url": "https://www.eucapacito.com.br/cursos/customer-experience-management/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Cloud Fundamentals, Administration and Solution Architect",
+      "url": "https://www.eucapacito.com.br/cursos/cloud-fundamentals/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Resolução de Problemas Técnicos",
+      "url": "https://www.eucapacito.com.br/cursos/resolucao-de-problemas-tecnicos/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "User Experience",
+      "url": "https://www.eucapacito.com.br/cursos/user-experience/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Design Thinking – Process",
+      "url": "https://www.eucapacito.com.br/cursos/design-thinking/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Desenvolvimento Web em Python",
+      "url": "https://www.eucapacito.com.br/cursos/desenvolvimento-web-em-python/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Noções básicas da Internet",
+      "url": "https://www.eucapacito.com.br/cursos/nocoes-basicas-da-internet/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Ciência de Dados",
+      "url": "https://www.eucapacito.com.br/cursos/ciencia-de-dados/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Inteligência Artificial (IA) – Primeiros passos",
+      "url": "https://www.eucapacito.com.br/cursos/inteligencia-artificial-ia-primeiros-passos-ibm/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "DevOps & Agile Culture",
+      "url": "https://www.eucapacito.com.br/cursos/devops-agile-culture/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Gestão Financeira de Empresas",
+      "url": "https://www.eucapacito.com.br/cursos/gestao-financeira-de-empresas/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Python para iniciantes",
+      "url": "https://www.eucapacito.com.br/cursos/primeiros-passos-com-o-python/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Leadership Communication",
+      "url": "https://www.eucapacito.com.br/cursos/leadership-communication/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Segurança Digital – Cybersecurity Essentials",
+      "url": "https://www.eucapacito.com.br/cursos/cybersecurity-essentials/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Crie um site simples usando HTML, CSS e JavaScript",
+      "url": "https://www.eucapacito.com.br/cursos/crie-um-site-simples-usando-html-css-e-javascript/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Habilidades interpessoais",
+      "url": "https://www.eucapacito.com.br/cursos/habilidades-interpessoais/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Resolvendo problemas com pensamento crítico e criativo",
+      "url": "https://www.eucapacito.com.br/cursos/resolvendo-problemas-com-pensamento-critico-e-criativo/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "CURSOS DE AI: INTELIGÊNCIA ARTIFICIAL – Escola do Trabalhador 4.0",
+      "url": "https://www.eucapacito.com.br/cursos/cursos-de-ai-inteligencia-artificial-escola-do-trabalhador-4-0/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Venha programar em Java",
+      "url": "https://www.eucapacito.com.br/cursos/venha-programar-em-java/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Introdução à Cibersegurança",
+      "url": "https://www.eucapacito.com.br/cursos/introducao-a-ciberseguranca/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Dominando a arte de criar prompts: instruções eficazes para modelos de linguagem de IA",
+      "url": "https://www.eucapacito.com.br/cursos/dominando-a-arte-de-criar-prompts/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Torne-se um Gestor de Projetos",
+      "url": "https://www.eucapacito.com.br/cursos/torne-se-um-gestor-de-projetos/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Soluções Tecnológicas Emergentes",
+      "url": "https://www.eucapacito.com.br/cursos/solucoes-tecnologicas-emergentes/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Salesforce CRM",
+      "url": "https://www.eucapacito.com.br/cursos/crm-para-o-salesforce-classic/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Python Web",
+      "url": "https://www.eucapacito.com.br/cursos/python-web/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Fundamentos da Inteligência Artificial",
+      "url": "https://www.eucapacito.com.br/cursos/fundamentos-da-inteligencia-artificial/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Java",
+      "url": "https://www.eucapacito.com.br/cursos/java/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Comunicação empresarial",
+      "url": "https://www.eucapacito.com.br/cursos/comunicacao-empresarial/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Noções básicas de programação",
+      "url": "https://www.eucapacito.com.br/cursos/nocoes-basicas-de-programacao/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Avançados em TI – Escola do Trabalhador 4.0",
+      "url": "https://www.eucapacito.com.br/cursos/avancados-em-ti-escola-do-trabalhador-4-0/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "C#",
+      "url": "https://www.eucapacito.com.br/cursos/c/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "CHATBOTS",
+      "url": "https://www.eucapacito.com.br/cursos/chatbots/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Blockchain",
+      "url": "https://www.eucapacito.com.br/cursos/blockchain/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Introdução à análise de dados da Microsoft",
+      "url": "https://www.eucapacito.com.br/cursos/cintroducao-a-analise-de-dados-da-microsoft/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Inteligência Artificial Responsável",
+      "url": "https://www.eucapacito.com.br/cursos/inteligencia-artificial-responsavel/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "HTML e CSS",
+      "url": "https://www.eucapacito.com.br/cursos/html-e-css/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Análise de dados no Power BI",
+      "url": "https://www.eucapacito.com.br/cursos/analise-de-dados-no-power-bi/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Princípios do marketing digital",
+      "url": "https://www.eucapacito.com.br/cursos/principios-do-marketing-digital/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Game Design",
+      "url": "https://www.eucapacito.com.br/cursos/game-design/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Introdução à Programação – Escola do Trabalhador 4.0",
+      "url": "https://www.eucapacito.com.br/cursos/introducao-a-programacao-escola-do-trabalhador-4-0/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Noções básicas de Python",
+      "url": "https://www.eucapacito.com.br/cursos/nocoes-basicas-de-python/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Minicurso de Python",
+      "url": "https://www.eucapacito.com.br/cursos/minicurso-de-python/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Domine a IA com prompting responsável",
+      "url": "https://www.eucapacito.com.br/cursos/domine-a-ia-com-prompting-responsavel/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Conceitos básicos de IA do Microsoft Azure: Visão geral da IA",
+      "url": "https://www.eucapacito.com.br/cursos/conceitos-basicos-de-ia-do-microsoft-azure-visao-geral-da-ia/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "GitHub",
+      "url": "https://www.eucapacito.com.br/cursos/github/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Jovens Líderes",
+      "url": "https://www.eucapacito.com.br/cursos/jovens-lideres/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Minicurso de Java",
+      "url": "https://www.eucapacito.com.br/cursos/minicurso-de-java/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Introdução ao Python",
+      "url": "https://www.eucapacito.com.br/cursos/o-que-e-python/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Programação em Python – Algoritmos",
+      "url": "https://www.eucapacito.com.br/cursos/programacao-em-python-algoritmos/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Learn to Program",
+      "url": "https://www.eucapacito.com.br/cursos/learn-to-program/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Comece o seu currículo",
+      "url": "https://www.eucapacito.com.br/cursos/comece-o-seu-curriculo/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Fundamentos de inglês: faça networking com confiança e se destaque nas entrevistas",
+      "url": "https://www.eucapacito.com.br/cursos/fundamentos-de-ingles-faca-networking-com-confianca-e-se-destaque-nas-entrevistas/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Fundamentos da Tecnologia da Informação",
+      "url": "https://www.eucapacito.com.br/cursos/tecnologia-da-informacao/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Como falar em público",
+      "url": "https://www.eucapacito.com.br/cursos/como-falar-em-publico-2/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Business Administration Specialist",
+      "url": "https://www.eucapacito.com.br/cursos/business-administration-specialist/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Introdução ao Agile",
+      "url": "https://www.eucapacito.com.br/cursos/introducao-ao-agile/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Eu Capacito – Administrador Salesforce",
+      "url": "https://www.eucapacito.com.br/cursos/administrador-salesforce/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Qualidade e agilidade na apresentação do trabalho",
+      "url": "https://www.eucapacito.com.br/cursos/qualidade-e-agilidade-na-apresentacao-do-trabalho/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Design Thinking – Primeiros passos",
+      "url": "https://www.eucapacito.com.br/cursos/design-thinking-primeiros-passos-ibm/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Conceitos básicos da segurança de rede",
+      "url": "https://www.eucapacito.com.br/cursos/conceitos-basicos-da-seguranca-de-rede/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Teste com Python",
+      "url": "https://www.eucapacito.com.br/cursos/teste-com-python/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Mobile Marketing",
+      "url": "https://www.eucapacito.com.br/cursos/mobile-marketing/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Eu Capacito – Desenvolvedor Salesforce",
+      "url": "https://www.eucapacito.com.br/cursos/desenvolvedor-salesforce/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Exploring SAP Datasphere",
+      "url": "https://www.eucapacito.com.br/cursos/exploring-sap-datasphere/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Introdução à programação orientada a objeto com o Python",
+      "url": "https://www.eucapacito.com.br/cursos/programacao-orientada-a-objeto-em-python/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Curso fluêncIA",
+      "url": "https://www.eucapacito.com.br/cursos/curso-fluencia/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Processamento de linguagem natural e visão por computador",
+      "url": "https://www.eucapacito.com.br/cursos/processamento-de-linguagem-natural-e-visao-por-computador/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Crie elementos visuais e relatórios do Power BI",
+      "url": "https://www.eucapacito.com.br/cursos/powerbusiness-intelligence/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Carreira em Cibersegurança",
+      "url": "https://www.eucapacito.com.br/cursos/carreira-em-ciberseguranca/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Fundamentos de Design de Experiência do Usuário (Credencial em Inglês)",
+      "url": "https://www.eucapacito.com.br/cursos/fundamentos-de-design-de-experiencia-do-usuario-credencial-em-ingles/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "O que é segurança cibernética?",
+      "url": "https://www.eucapacito.com.br/cursos/o-que-e-seguranca-cibernetica/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Torne-se um Especialista em Atendimento ao Cliente",
+      "url": "https://www.eucapacito.com.br/cursos/especialista-em-atendimento-ao-cliente/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Aprenda espanhol para contar experiências",
+      "url": "https://www.eucapacito.com.br/cursos/aprenda-espanhol-para-contar-experiencias/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "PHP",
+      "url": "https://www.eucapacito.com.br/cursos/php/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Fundamentos de Desenvolvimento Web",
+      "url": "https://www.eucapacito.com.br/cursos/fundamentos-de-desenvolvimento-web/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Escreva seu primeiro código usando C# (Introdução ao C#, Parte 1)",
+      "url": "https://www.eucapacito.com.br/cursos/de-seus-primeiros-passos-com-o-c/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Inteligência artificial na prática",
+      "url": "https://www.eucapacito.com.br/cursos/inteligencia-artificial-na-pratica/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Lógica com Javascript",
+      "url": "https://www.eucapacito.com.br/cursos/logica-com-javascript/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Networking eficaz",
+      "url": "https://www.eucapacito.com.br/cursos/networking-eficaz/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "O que é ciência de dados?",
+      "url": "https://www.eucapacito.com.br/cursos/o-que-e-a-ciencia-de-dados/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Excel – do básico ao intermediário",
+      "url": "https://www.eucapacito.com.br/cursos/excel-do-basico-ao-intermediario/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Aprenda sobre DevOps em Oracle Cloud",
+      "url": "https://www.eucapacito.com.br/cursos/aprenda-sobre-devops-em-oracle-cloud/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Modelar dados com o Power BI",
+      "url": "https://www.eucapacito.com.br/cursos/modele-dados-no-power-bi/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Profissionalizante – Escola do Trabalhador 4.0",
+      "url": "https://www.eucapacito.com.br/cursos/profissionalizante-escola-do-trabalhador-4-0/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Responsabilidades do especialista em conscientização sobre segurança",
+      "url": "https://www.eucapacito.com.br/cursos/security-specialist/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Ciência de Dados: Primeiros Passos",
+      "url": "https://www.eucapacito.com.br/cursos/introducao-ciencia-de-dados/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Fundamentos da segurança cibernética",
+      "url": "https://www.eucapacito.com.br/cursos/fundamentos-seguranca-cibernetica-ibm/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Aumente a produtividade no trabalho",
+      "url": "https://www.eucapacito.com.br/cursos/aumente-a-produtividade-no-trabalho/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Seu futuro na IA: o panorama de trabalho",
+      "url": "https://www.eucapacito.com.br/cursos/seu-futuro-na-ia-o-panorama-de-trabalho/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "XP: Educação Financeira – Escola do Trabalhador 4.0",
+      "url": "https://www.eucapacito.com.br/cursos/xp-educacao-financeira-escola-do-trabalhador-4-0/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Conceitos básicos da rede de computadores",
+      "url": "https://www.eucapacito.com.br/cursos/rede-de-computadores/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Dynamics 365 – Escola do Trabalhador 4.0",
+      "url": "https://www.eucapacito.com.br/cursos/dynamics-365-escola-do-trabalhador-4-0/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "JavaScript e DOM",
+      "url": "https://www.eucapacito.com.br/cursos/javascript-e-dom/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Programação Orientada a Objetos em Python",
+      "url": "https://www.eucapacito.com.br/cursos/programacao-orientada-a-objetos-em-python/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "SEO e Marketing de Conteúdo",
+      "url": "https://www.eucapacito.com.br/cursos/seo-e-marketing-de-conteudo/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Agentes Autônomos (Agentic AI)",
+      "url": "https://www.eucapacito.com.br/cursos/agentes-autonomos-agentic-ai/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Aprendizado de máquina e Deep learning",
+      "url": "https://www.eucapacito.com.br/cursos/aprendizado-de-maquina-e-deep-learning/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Transmita as suas ideias através de histórias e design",
+      "url": "https://www.eucapacito.com.br/cursos/transmita-as-suas-ideias-atraves-de-historias-e-design/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Encontre um novo emprego com a Google",
+      "url": "https://www.eucapacito.com.br/cursos/encontre-um-novo-emprego-com-a-google/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Construa seus próprios chatbots",
+      "url": "https://www.eucapacito.com.br/cursos/construa-seus-proprios-chatbots-ibm/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "IBM e a segurança cibernética",
+      "url": "https://www.eucapacito.com.br/cursos/ibm-e-a-seguranca-cibernetica/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Aprenda a gerir o seu tempo",
+      "url": "https://www.eucapacito.com.br/cursos/aprenda-a-gerir-o-seu-tempo/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Android",
+      "url": "https://www.eucapacito.com.br/cursos/android/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "O que é Computação em Nuvem?",
+      "url": "https://www.eucapacito.com.br/cursos/o-que-e-computacao-em-nuvem/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Suporte de Clientes Digitais",
+      "url": "https://www.eucapacito.com.br/cursos/suporte-de-clientes-digitais/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Fundamentos do Desenvolvimento Web (Credencial em Inglês)",
+      "url": "https://www.eucapacito.com.br/cursos/fundamentos-do-desenvolvimento-web-credencial-em-ingles/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Letramento Digital – Escola do Trabalhador 4.0",
+      "url": "https://www.eucapacito.com.br/cursos/letramento-digital-escola-do-trabalhador-4-0/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Fundamentos de Dados",
+      "url": "https://www.eucapacito.com.br/cursos/fundamentos-de-dados-ibm/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Desenvolva aplicaçoes em Oracle Cloud – Oracle Cloud Developer",
+      "url": "https://www.eucapacito.com.br/cursos/oracle-cloud-developer/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Princípios básicos de design: uma colaboração da Adobe e da IBM",
+      "url": "https://www.eucapacito.com.br/cursos/principios-basicos-de-design/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Habilidades Profissionais",
+      "url": "https://www.eucapacito.com.br/cursos/habilidades-profissionais-ibm/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Fundamentos do Power BI",
+      "url": "https://www.eucapacito.com.br/cursos/fundamentos-do-power-bi/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Princípios básicos do Microsoft Azure: descrever os conceitos de nuvem",
+      "url": "https://www.eucapacito.com.br/cursos/conceitos-da-computacao-em-nuvem/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Planejamento financeiro para o seu sonho em tech",
+      "url": "https://www.eucapacito.com.br/cursos/planejamento-financeiro-para-o-seu-sonho-em-tech/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Curso de Ciência de Dados",
+      "url": "https://www.eucapacito.com.br/cursos/curso-de-ciencia-de-dados/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Generative AI for Design",
+      "url": "https://www.eucapacito.com.br/cursos/generative-ai-for-design/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Computação em Nuvem – Primeiros passos",
+      "url": "https://www.eucapacito.com.br/cursos/computacao-em-nuvem/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Construa a sua carreira de Marketing com Salesforce",
+      "url": "https://www.eucapacito.com.br/cursos/marketing-com-salesforce/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Comunicação estratégica e trabalho em equipe",
+      "url": "https://www.eucapacito.com.br/cursos/comunicacao-estrategica-e-trabalho-em-equipe/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Preparar dados para análise com o Power BI",
+      "url": "https://www.eucapacito.com.br/cursos/prepare-dados-para-analise/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Segurança cibernética – Primeiros passos",
+      "url": "https://www.eucapacito.com.br/cursos/introducao-a-seguranca-cibernetica-ibm/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Apresente com propósito",
+      "url": "https://www.eucapacito.com.br/cursos/apresente-com-proposito/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Crie um ótimo currículo profissional",
+      "url": "https://www.eucapacito.com.br/cursos/crie-um-otimo-curriculo-profissional/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Segurança digital para o seu dia a dia",
+      "url": "https://www.eucapacito.com.br/cursos/seguranca-digital-para-o-seu-dia-a-dia/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Lightning Experience Reports & Dashboards Specialist",
+      "url": "https://www.eucapacito.com.br/cursos/lightning-experience-reports-dashboards/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Trabalho Remoto: Colaboração, foco e produtividade",
+      "url": "https://www.eucapacito.com.br/cursos/trabalho-remoto/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Criar visuais e relatórios do Power BI",
+      "url": "https://www.eucapacito.com.br/cursos/visualize-dados-no-power-bi/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Executing Basic ERP Processes with SAP S/4HANA",
+      "url": "https://www.eucapacito.com.br/cursos/executing-basic-erp-processes-with-sap-s-4hana/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Cause impacto com a análise de dados",
+      "url": "https://www.eucapacito.com.br/cursos/cause-impacto-com-a-analise-de-dados/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Ética da IA",
+      "url": "https://www.eucapacito.com.br/cursos/etica-da-ia/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Curso de Marketing Digital",
+      "url": "https://www.eucapacito.com.br/cursos/curso-de-marketing-digital/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Discover",
+      "url": "https://www.eucapacito.com.br/cursos/discover/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Internet das Coisas – Introdução",
+      "url": "https://www.eucapacito.com.br/cursos/internet-das-coisas-introducao/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Profissional de Design Thinking Empresarial",
+      "url": "https://www.eucapacito.com.br/cursos/design-thinking-empresarial-ibm/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Promova um negócio através do conteúdo",
+      "url": "https://www.eucapacito.com.br/cursos/promova-um-negocio-atraves-do-conteudo/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Publicidade nas Redes Sociais",
+      "url": "https://www.eucapacito.com.br/cursos/publicidade-nas-redes-sociais/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Fundamentos de tecnologia da informação (credencial em Inglês)",
+      "url": "https://www.eucapacito.com.br/cursos/information-technology-fundamentals/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Produtividade – Escola do Trabalhador 4.0",
+      "url": "https://www.eucapacito.com.br/cursos/produtividade-escola-do-trabalhador-4-0/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Conceitos básicos das respostas às perguntas com o Serviço de Linguagem",
+      "url": "https://www.eucapacito.com.br/cursos/explore-a-ia-conversacional/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Gestão de Projetos e Fundamentos de métodos Agile",
+      "url": "https://www.eucapacito.com.br/cursos/gestao-de-projetos-e-fundamentos-de-metodos-agile/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Melhores práticas para trabalhar em casa",
+      "url": "https://www.eucapacito.com.br/cursos/melhores-praticas-para-trabalhar-em-casa/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Desenvolva sua marca usando rede social",
+      "url": "https://www.eucapacito.com.br/cursos/desenvolva-sua-marca-usando-rede-social/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Microsoft Conecta+ | Dicas para conseguir um emprego",
+      "url": "https://www.eucapacito.com.br/cursos/microsoft-conecta-dicas-para-conseguir-um-emprego/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Fundamentos do programa Agile",
+      "url": "https://www.eucapacito.com.br/cursos/fundamentos-do-programa-agile/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Introdução à nuvem",
+      "url": "https://www.eucapacito.com.br/cursos/introducao-a-nuvem-ibm/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Copilot: Fundamentos de IA da Microsoft",
+      "url": "https://www.eucapacito.com.br/cursos/copilot-fundamentos-de-ia-da-microsoft/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Orientação financeira e empreendedorismo",
+      "url": "https://www.eucapacito.com.br/cursos/orientacao-financeira-e-empreendedorismo/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Business English: Escuta e Comunicação – Parte 1",
+      "url": "https://www.eucapacito.com.br/cursos/business-english-escuta-e-comunicacao-parte-1/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Seja um administrador do Azure",
+      "url": "https://www.eucapacito.com.br/cursos/seja-um-administrador-do-azure/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Fundamentos de inglês: Impulsione sua busca de emprego e seu currículo",
+      "url": "https://www.eucapacito.com.br/cursos/fundamentos-de-ingles-impulsione-sua-busca-de-emprego-e-seu-curriculo/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Ciência de dados no mundo real",
+      "url": "https://www.eucapacito.com.br/cursos/ciencia-de-dados-no-mundo-real/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Torne-se um Profissional de Vendas",
+      "url": "https://www.eucapacito.com.br/cursos/torne-se-um-profissional-de-vendas/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Domine as Competências Pessoais mais requisitadas no Mercado de Trabalho",
+      "url": "https://www.eucapacito.com.br/cursos/competencias-pessoais/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Internet das Coisas (IoT)",
+      "url": "https://www.eucapacito.com.br/cursos/internet-das-coisas-iot-ibm/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Negócios – Empreendedorismo",
+      "url": "https://www.eucapacito.com.br/cursos/negocios-empreendedorismo/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Como Desenvolver a Colaboração entre a Equipe",
+      "url": "https://www.eucapacito.com.br/cursos/colaboracao-entre-a-equipe/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Agilidade: Gestão Efetiva de Demandas",
+      "url": "https://www.eucapacito.com.br/cursos/agilidade-gestao-efetiva-de-demandas/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Conheça o ERP em nuvem Oracle!",
+      "url": "https://www.eucapacito.com.br/cursos/conheca-o-erp-em-nuvem-oracle/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Blockchain – Primeiros passos",
+      "url": "https://www.eucapacito.com.br/cursos/blockchain-primeiros-passos-ibm/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Cause impacto com a IA",
+      "url": "https://www.eucapacito.com.br/cursos/cause-impacto-com-a-ia/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "O que é a Inteligência Artificial?",
+      "url": "https://www.eucapacito.com.br/cursos/o-que-e-a-inteligencia-artificial/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Posicionamento nas Redes Sociais para Devs",
+      "url": "https://www.eucapacito.com.br/cursos/posicionamento-nas-redes-sociais-para-devs/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Introdução ao Bem-estar digital",
+      "url": "https://www.eucapacito.com.br/cursos/introducao-ao-bem-estar-digital/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Colaboração efetiva",
+      "url": "https://www.eucapacito.com.br/cursos/colaboracao-efetiva/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Fundamentos do ChatGPT",
+      "url": "https://www.eucapacito.com.br/cursos/fundamentos-do-chatgpt/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Ethical Hacking",
+      "url": "https://www.eucapacito.com.br/cursos/ethical-hacking/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Conheça a plataforma de Marketing Digital da Oracle!",
+      "url": "https://www.eucapacito.com.br/cursos/conheca-a-plataforma-de-marketing-digital-da-oracle/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Fundamentos da Sustentabilidade e Tecnologia",
+      "url": "https://www.eucapacito.com.br/cursos/fundamentos-da-sustentabilidade-e-tecnologia/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Como a segurança cibernética é utilizada?",
+      "url": "https://www.eucapacito.com.br/cursos/como-a-seguranca-cibernetica-e-utilizada/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Conheça a Tríade de Cibersegurança",
+      "url": "https://www.eucapacito.com.br/cursos/conheca-a-triade-de-ciberseguranca/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Trabalhando em um mundo digital – Habilidades Profissionais",
+      "url": "https://www.eucapacito.com.br/cursos/trabalhando-em-um-mundo-digital/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Learning to Use the LeanIX Tool for Successful Enterprise Architecture",
+      "url": "https://www.eucapacito.com.br/cursos/learning-to-use-the-leanix-tool-for-successful-enterprise-architecture/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "O que é blockchain?",
+      "url": "https://www.eucapacito.com.br/cursos/o-que-e-blockchain/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Segmentação de público",
+      "url": "https://www.eucapacito.com.br/cursos/empreendedorismo-e-a-segmentacao-em-campanhas/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Fundamentos de operações Agile",
+      "url": "https://www.eucapacito.com.br/cursos/fundamentos-de-operacoes-agile/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Estratégias de Arquitetura de Big Data",
+      "url": "https://www.eucapacito.com.br/cursos/arquitetura-de-big-data/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Criar aplicativos sem servidor",
+      "url": "https://www.eucapacito.com.br/cursos/crie-aplicativos-sem-servidor/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Essenciais da IBM Cloud",
+      "url": "https://www.eucapacito.com.br/cursos/essenciais-da-ibm-cloud-ibm/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Promova a sua empresa com publicidade online",
+      "url": "https://www.eucapacito.com.br/cursos/promova-a-sua-empresa-com-publicidade-online/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Como se utiliza a computação em nuvem?",
+      "url": "https://www.eucapacito.com.br/cursos/como-se-utiliza-a-computacao-em-nuvem/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "E-commerce com Gestão comercial",
+      "url": "https://www.eucapacito.com.br/cursos/e-commerce-com-gestao-comercial/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Compreenda as necessidades e os comportamentos online dos clientes",
+      "url": "https://www.eucapacito.com.br/cursos/compreenda-as-necessidades-e-os-comportamentos-online-dos-clientes/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "OCI Explorer – Conheça o Oracle Cloud Infrastructure, a nuvem Oracle",
+      "url": "https://www.eucapacito.com.br/cursos/oci-explorer-conheca-o-oracle-cloud/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Designing Stories in SAP Analytics Cloud",
+      "url": "https://www.eucapacito.com.br/cursos/designing-stories-in-sap-analytics-cloud/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Cibersegurança – Continuidade de Negócios",
+      "url": "https://www.eucapacito.com.br/cursos/ciberseguranca-continuidade-de-negocios/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Como causar uma boa impressão em uma entrevista de emprego",
+      "url": "https://www.eucapacito.com.br/cursos/como-causar-uma-boa-impressao-em-uma-entrevista-de-emprego/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Aprenda a desenvolver aplicações nativas em nuvem",
+      "url": "https://www.eucapacito.com.br/cursos/aplicacoes-nativas-em-nuvem/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Crie uma presença online para uma empresa",
+      "url": "https://www.eucapacito.com.br/cursos/crie-uma-presenca-online-para-uma-empresa/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Agile Explorer – desenvolvido com Agile na IBM (Credencial Digital)",
+      "url": "https://www.eucapacito.com.br/cursos/agile-explorer-desenvolvido-com-agile-na-ibm/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Planejamento de desenvolvimento de carreira",
+      "url": "https://www.eucapacito.com.br/cursos/desenvolvimento-de-carreira/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Ciências de Dados – Gestão de Projetos",
+      "url": "https://www.eucapacito.com.br/cursos/ciencias-de-dados-gestao-de-projetos/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Encontre o seu próximo emprego",
+      "url": "https://www.eucapacito.com.br/cursos/encontre-o-seu-proximo-emprego/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Explorando a atenção plena",
+      "url": "https://www.eucapacito.com.br/cursos/explorando-a-atencao-plena/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Gerencie identidades e acesso no Microsoft Entra ID",
+      "url": "https://www.eucapacito.com.br/cursos/azure-active-directory/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "iOS nativo",
+      "url": "https://www.eucapacito.com.br/cursos/ios-nativo/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Diversidade, Inclusão e Pertencimento para Líderes e Gerentes",
+      "url": "https://www.eucapacito.com.br/cursos/diversidade-e-inclusao-para-lideres/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Transformação Digital",
+      "url": "https://www.eucapacito.com.br/cursos/empreendendo-na-transformacao-digital/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Explorando tecnologias emergentes",
+      "url": "https://www.eucapacito.com.br/cursos/explorando-tecnologias-emergentes/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Fundamentos de Automação de Marketing",
+      "url": "https://www.eucapacito.com.br/cursos/fundamentos-de-automacao-de-marketing/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Como o blockchain é usado?",
+      "url": "https://www.eucapacito.com.br/cursos/como-o-blockchain-e-usado/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Negociação",
+      "url": "https://www.eucapacito.com.br/cursos/negociacao/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Introducing SAP Business Data Cloud",
+      "url": "https://www.eucapacito.com.br/cursos/introducing-sap-business-data-cloud/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Exploring SAP Analytics Cloud",
+      "url": "https://www.eucapacito.com.br/cursos/exploring-sap-analytics-cloud/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Transformando inspiração em ação: Impacte na sustentabilidade",
+      "url": "https://www.eucapacito.com.br/cursos/transformando-inspiracao-em-acao-impacte-na-sustentabilidade/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Fundamentos da candidatura a emprego",
+      "url": "https://www.eucapacito.com.br/cursos/fundamentos-da-candidatura-a-emprego/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Preparando-se para o seu primeiro emprego",
+      "url": "https://www.eucapacito.com.br/cursos/seu-primeiro-emprego/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Conceitos sobre Engenharia Social",
+      "url": "https://www.eucapacito.com.br/cursos/conceitos-sobre-engenharia-social/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Discovering End-to-End Business Processes for the Intelligent Enterprise",
+      "url": "https://www.eucapacito.com.br/cursos/discovering-end-to-end-business-processes-for-the-intelligent-enterprise/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Proteger seus dados de nuvem",
+      "url": "https://www.eucapacito.com.br/cursos/aplicativos-de-nuvem-no-azure/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Business English: Escuta e Comunicação – Parte 3",
+      "url": "https://www.eucapacito.com.br/cursos/business-english-escuta-e-comunicacao-parte-3/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Fortaleça a confiança através da autopromoção",
+      "url": "https://www.eucapacito.com.br/cursos/fortaleca-a-confianca-atraves-da-autopromocao/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "O que é a Internet das Coisas?",
+      "url": "https://www.eucapacito.com.br/cursos/o-que-e-a-internet-das-coisas/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Trabalhe com os dados NoSQL no Azure Cosmos DB",
+      "url": "https://www.eucapacito.com.br/cursos/dados-nosql-no-azure-cosmos-db/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Explorar e configurar o workspace do Azure Machine Learning",
+      "url": "https://www.eucapacito.com.br/cursos/azure-machine-learning/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Empreendedorismo para cuidar do dinheiro",
+      "url": "https://www.eucapacito.com.br/cursos/empreendedorismo-para-cuidar-do-dinheiro/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Como expandir uma empresa para outros países",
+      "url": "https://www.eucapacito.com.br/cursos/como-expandir-uma-empresa-para-outros-paises/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Certifique-se de que os clientes encontram a sua empresa online",
+      "url": "https://www.eucapacito.com.br/cursos/certifique-se-de-que-os-clientes-encontram-a-sua-empresa-online/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Interaja com clientes em dispositivos móveis",
+      "url": "https://www.eucapacito.com.br/cursos/interaja-com-clientes-em-dispositivos-moveis/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Tecnologias para robôs cognitivos",
+      "url": "https://www.eucapacito.com.br/cursos/tecnologias-para-robos-cognitivos-ibm/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Entenda o mundo dos dados em constante evolução",
+      "url": "https://www.eucapacito.com.br/cursos/entenda-o-mundo-dos-dados/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Conecte-se!",
+      "url": "https://www.eucapacito.com.br/cursos/conecte-se/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Gerencie operações de segurança no Azure",
+      "url": "https://www.eucapacito.com.br/cursos/gerencie-seguranca-no-azure/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Explorador de ágil",
+      "url": "https://www.eucapacito.com.br/cursos/explorador-de-agil/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Ciência de Dados – Aprofundando em Estatística",
+      "url": "https://www.eucapacito.com.br/cursos/ciencia-de-dados-aprofundando-em-estatistica/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "A Quarta revolução industrial e o empreendedorismo",
+      "url": "https://www.eucapacito.com.br/cursos/quarta-revolucao-industrial-e-o-empreendedorismo/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Discovering SAP Business AI",
+      "url": "https://www.eucapacito.com.br/cursos/discovering-sap-business-ai/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Adicionar lógica a aplicativos de console C# (Introdução ao C#, Parte 3)",
+      "url": "https://www.eucapacito.com.br/cursos/logica-aos-seus-aplicativos-com-c/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Entendendo o comportamento do consumidor",
+      "url": "https://www.eucapacito.com.br/cursos/entendendo-o-comportamento-do-consumidor/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Noções básicas de aplicativos conectados",
+      "url": "https://www.eucapacito.com.br/cursos/aplicativos-conectados/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Conceitos básicos de IA do Microsoft Azure: Processamento de Linguagem Natural",
+      "url": "https://www.eucapacito.com.br/cursos/processamento-de-idioma-natural/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Business English: Escuta e Comunicação – Parte 2",
+      "url": "https://www.eucapacito.com.br/cursos/business-english-escuta-e-comunicacao-parte-2/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Gerenciar recursos no Azure",
+      "url": "https://www.eucapacito.com.br/cursos/gerencie-recursos-no-azure/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Como superar os desafios e se reinventar em tempos difíceis",
+      "url": "https://www.eucapacito.com.br/cursos/como-superar-os-desafios/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Plataforma de E-commerce Oracle para Empreendedores",
+      "url": "https://www.eucapacito.com.br/cursos/e-commerce-oracle-para-empreendedores/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Introdução a Segurança da Informação + Privacidade e LGPD",
+      "url": "https://www.eucapacito.com.br/cursos/introducao-a-seguranca-da-informacao-privacidade-e-lgpd/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Designing Data Models and Transforming Data in SAP Analytics Cloud",
+      "url": "https://www.eucapacito.com.br/cursos/designing-data-models-and-transforming-data-in-sap-analytics-cloud/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Riscos e Ameaças em Cibersegurança",
+      "url": "https://www.eucapacito.com.br/cursos/riscos-e-ameacas-em-ciberseguranca/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Implementar a segurança de rede no Azure",
+      "url": "https://www.eucapacito.com.br/cursos/seguranca-de-rede-no-azure/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Comunicação Assertiva | Princípios da Fonoaudiologia",
+      "url": "https://www.eucapacito.com.br/cursos/comunicacao-assertiva-principios-da-fonoaudiologia/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Histórias de origem de código aberto",
+      "url": "https://www.eucapacito.com.br/cursos/origem-de-codigo-aberto-ibm/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Cause impacto com a tecnologia do futuro",
+      "url": "https://www.eucapacito.com.br/cursos/cause-impacto-com-a-tecnologia-do-futuro/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Implementar a segurança do host de máquina virtual no Azure",
+      "url": "https://www.eucapacito.com.br/cursos/maquina-virtual-no-azure/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Trabalhar com os dados relacionais no Azure",
+      "url": "https://www.eucapacito.com.br/cursos/dados-relacionais-no-azure/"
+    },
+    {
+      "category": "Carreira & Habilidades",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Foque em pesquisas sobre o local de trabalho",
+      "url": "https://www.eucapacito.com.br/cursos/foque-em-pesquisas-sobre-o-local-de-trabalho/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Programe com o ChatGPT",
+      "url": "https://www.eucapacito.com.br/cursos/programe-com-o-chatgpt/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Além da Conservação, rumo à Sustentabilidade",
+      "url": "https://www.eucapacito.com.br/cursos/alem-da-conservacao-rumo-a-sustentabilidade/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Ciência de Dados – Primeiros Passos em Estatística",
+      "url": "https://www.eucapacito.com.br/cursos/ciencia-de-dados-primeiros-passos-em-estatistica/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Armazenar dados no Azure",
+      "url": "https://www.eucapacito.com.br/cursos/armazene-dados-no-azure/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Cause impacto com a nuvem híbrida",
+      "url": "https://www.eucapacito.com.br/cursos/cause-impacto-com-a-nuvem-hibrida/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Conceitos básicos de dados do Microsoft Azure: explorar os principais conceitos de dados",
+      "url": "https://www.eucapacito.com.br/cursos/azure-para-o-engenheiro-de-dados/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Proteja seus dados em nuvem",
+      "url": "https://www.eucapacito.com.br/cursos/proteja-seus-dados-em-nuvem/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Métricas de Inovação",
+      "url": "https://www.eucapacito.com.br/cursos/metricas-de-inovacao/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Processamento de dados de grande escala com o Azure Data Lake Storage Gen2",
+      "url": "https://www.eucapacito.com.br/cursos/azure-data-lake-storage-gen2/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Implementar a segurança do gerenciamento de recursos no Azure",
+      "url": "https://www.eucapacito.com.br/cursos/gerenciamento-de-recursos-no-azure/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Conectar seus serviços",
+      "url": "https://www.eucapacito.com.br/cursos/conecte-seus-servicos/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Implante um site com as máquinas virtuais do Azure",
+      "url": "https://www.eucapacito.com.br/cursos/maquinas-virtuais-do-azure/"
+    },
+    {
+      "category": "Dados & Inteligência Artificial",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Conceitos básicos de IA do Microsoft Azure: Pesquisa Visual Computacional",
+      "url": "https://www.eucapacito.com.br/cursos/pesquisa-visual-computacional-no-microsoft-azure/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Empreendedorismo na rede de display",
+      "url": "https://www.eucapacito.com.br/cursos/empreendedorismo-na-rede-de-display/"
+    },
+    {
+      "category": "Tecnologia & Programação",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Implantar um site no Azure com o Serviço de Aplicativo do Azure",
+      "url": "https://www.eucapacito.com.br/cursos/servico-de-aplicativo-do-azure/"
+    },
+    {
+      "category": "Negócios & Gestão",
+      "cert": "check",
+      "description": "Curso gratuito do Eu Capacito; catálogo estático coletado em 29/08/2026.",
+      "portal": "Eu Capacito",
+      "source": "https://www.eucapacito.com.br/todos-os-cursos/",
+      "title": "Ecossistema de Inovação e Inovação Aberta",
+      "url": "https://www.eucapacito.com.br/cursos/ecossistema-de-inovacao-e-inovacao-aberta/"
     }
   ],
   "coverage": {
@@ -38956,7 +41458,7 @@
     "Escola Virtual": "12 cursos encontrados; 61 mantidos no catálogo.",
     "FGV": "227 cursos encontrados; 227 mantidos no catálogo.",
     "Harvard": "132 cursos encontrados; 132 mantidos no catálogo.",
-    "Santander Open Academy": "146 cursos encontrados; 146 mantidos no catálogo.",
+    "Santander Open Academy": "142 cursos encontrados; 150 mantidos no catálogo.",
     "Nação Fluente": "1 cursos mantidos no catálogo.",
     "Senar EAD": "254 cursos encontrados; 254 mantidos no catálogo. Fonte reportou 254.",
     "Sebrae Paraíba": "52 cursos encontrados; 57 mantidos no catálogo.",
@@ -38965,7 +41467,7 @@
     "HCX FMUSP": "12 cursos encontrados; 17 mantidos no catálogo.",
     "Prime Cursos": "524 cursos encontrados; 524 mantidos no catálogo.",
     "Senac EAD": "78 cursos encontrados; 80 mantidos no catálogo.",
-    "Coursera": "79 cursos encontrados; 103 mantidos no catálogo.",
+    "Coursera": "80 cursos encontrados; 103 mantidos no catálogo.",
     "Udemy": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
     "Fundação Itaú Autoformativos": "165 cursos encontrados; 165 mantidos no catálogo.",
     "Fundação Itaú Mediados": "20 cursos encontrados; 20 mantidos no catálogo.",
@@ -38973,20 +41475,20 @@
     "LÚMINA UFRGS": "120 cursos encontrados; 120 mantidos no catálogo.",
     "e-Aulas USP": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
     "Life Global": "12 cursos encontrados; 12 mantidos no catálogo.",
-    "Khan Academy": "26 cursos encontrados; 26 mantidos no catálogo.",
+    "Khan Academy": "4 cursos encontrados; 26 mantidos no catálogo.",
     "Escola Virtual Gov": "1041 cursos encontrados; 1041 mantidos no catálogo. Fonte reportou 1041.",
     "IBM SkillsBuild": "218 cursos encontrados; 218 mantidos no catálogo.",
-    "Microsoft Learn": "29 cursos encontrados; 31 mantidos no catálogo.",
+    "Microsoft Learn": "29 cursos encontrados; 32 mantidos no catálogo.",
     "Escola de Pessoas": "108 cursos encontrados; 108 mantidos no catálogo.",
     "Cisco CiberEducação": "1 cursos encontrados; 1 mantidos no catálogo.",
-    "PUCRS Online": "44 cursos encontrados; 44 mantidos no catálogo.",
+    "PUCRS Online": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
     "+IFMG": "95 cursos encontrados; 95 mantidos no catálogo.",
     "Futuro Digital": "35 cursos encontrados; 35 mantidos no catálogo.",
     "NVIDIA Training": "11 cursos encontrados; 11 mantidos no catálogo.",
     "SENAI-SP": "64 cursos encontrados; 64 mantidos no catálogo.",
     "Databricks Academy": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
     "RD Station University": "45 cursos encontrados; 45 mantidos no catálogo.",
-    "Eu Capacito": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
+    "Eu Capacito": "273 cursos encontrados; 273 mantidos no catálogo.",
     "UNA-SUS": "33 cursos encontrados; 33 mantidos no catálogo."
   },
   "generatedAt": "2026-08-29",
