@@ -1351,6 +1351,15 @@
       "url": "https://app.santanderopenacademy.com/pt-BR/program/jovenes-lideres-iberoamericanos-2026-fundacion-carolina"
     },
     {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Skills for Work 2nd Call",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/skills-for-work-2nd-Call"
+    },
+    {
       "category": "Tecnologia e Ciência de Dados",
       "cert": "declaration",
       "description": "Curso gratuito online da FGV · 15 horas/aula. A instituição informa que os cursos gratuitos não geram certificado; após aprovação no pós-teste, é possível emitir uma declaração de participação.",
@@ -11166,6 +11175,24 @@
       "url": "https://ensino.hcxfmusp.org.br/online/prevencao-de-quedas-em-idosos/p"
     },
     {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso gratuito da plataforma HCX FMUSP.",
+      "portal": "HCX FMUSP",
+      "source": "https://ensino.hcxfmusp.org.br/online/cursos/ead/gratuitos",
+      "title": "Cigarro Eletrônico Ensino EAD",
+      "url": "https://ensino.hcxfmusp.org.br/online/cigarro-eletronico/p"
+    },
+    {
+      "category": "Saúde",
+      "cert": "check",
+      "description": "Curso gratuito da plataforma HCX FMUSP.",
+      "portal": "HCX FMUSP",
+      "source": "https://ensino.hcxfmusp.org.br/online/cursos/ead/gratuitos",
+      "title": "Tabagismo Hoje: Cigarro Tradicional e Eletrônico Ensino EAD",
+      "url": "https://ensino.hcxfmusp.org.br/online/tabagismo-hoje-cigarro-tradicional-e-eletronico/p"
+    },
+    {
       "category": "Tecnologia",
       "cert": "maybe",
       "description": "Curso gratuito com opção de certificado mediante regras da plataforma.",
@@ -17529,6 +17556,24 @@
       "url": "https://www.coursera.org/learn/packt-start-with-almalinux-your-free-path-to-enterprise-level-linux-wxurz"
     },
     {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado na busca gratuita da Coursera; condições de certificado podem variar.",
+      "portal": "Coursera",
+      "source": "https://www.coursera.org/courses?query=free",
+      "title": "AI for Freelancers: Win More Clients with Free AI Tools",
+      "url": "https://www.coursera.org/learn/ai-for-freelancers-win-more-clients-with-free-ai-tools"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado na busca gratuita da Coursera; condições de certificado podem variar.",
+      "portal": "Coursera",
+      "source": "https://www.coursera.org/courses?query=free",
+      "title": "Complete GenAI Toolkit: ChatGPT, Gemini, and Midjourney",
+      "url": "https://www.coursera.org/learn/complete-genai-toolkit-chatgpt-gemini-and-midjourney"
+    },
+    {
       "category": "Idiomas",
       "cert": "maybe",
       "description": "Curso gratuito de introdução ao português.",
@@ -21168,6 +21213,15 @@
     {
       "category": "Arte, cultura e educação",
       "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Diálogos sobre os Planos Decenais de Educação",
+      "url": "https://fundacaoitau.org.br/escola/autoformativos/dialogos-sobre-os-planos-decenais-de-educacao"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
       "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
       "portal": "Fundação Itaú Mediados",
       "source": "https://fundacaoitau.org.br/escola/mediados",
@@ -21344,6 +21398,15 @@
       "source": "https://fundacaoitau.org.br/escola/mediados",
       "title": "Mestrado Profissional em Gestão e Políticas Públicas com ênfase em Educação Profissional e Tecnológica - 2026",
       "url": "https://fundacaoitau.org.br/escola/mediados/mestrado-profissional-em-gestao-e-politicas-publicas-com-enfase-em-educacao-profissional-e-tecnologica-2026"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+      "portal": "Fundação Itaú Mediados",
+      "source": "https://fundacaoitau.org.br/escola/mediados",
+      "title": "Mestrado Profissional em Artes e Práticas Culturais | Edital 2026",
+      "url": "https://fundacaoitau.org.br/escola/mediados/mestrado-profissional-em-artes-e-praticas-culturais-edital-2026"
     },
     {
       "portal": "Escola Virtual Gov",
@@ -31255,6 +31318,15 @@
       "url": "https://ensino.einstein.br/curso_gratuito_como_lidar_com_a_ideacao_sui_p14562/p"
     },
     {
+      "category": "Saúde",
+      "cert": "maybe",
+      "description": "Curso gratuito localizado no catálogo do Ensino Einstein.",
+      "portal": "Ensino Einstein",
+      "source": "https://ensino.einstein.br/curta-duracao/cursos-gratuitos?O=OrderByScoreDESC",
+      "title": "Mecanismos de Arritmia",
+      "url": "https://ensino.einstein.br/curso_gratuito_mecanismos_de_arritmia_p14594/p"
+    },
+    {
       "category": "Cursos gratuitos",
       "cert": "check",
       "description": "Curso gratuito da plataforma LÚMINA da UFRGS.",
@@ -33051,7 +33123,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Seu Futuro no Desenvolvimento Web: O Panorama de Emprego Sobre esta atividade de aprendizado Job Analysis Leadership 1 a 3 horas Intermediário",
+      "title": "Seu Futuro no Desenvolvimento Web: O Panorama de Emprego Sobre esta atividade de aprendizado Leadership Job Analysis 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058943?lang=pt-br"
     },
     {
@@ -33186,7 +33258,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Fundamentos do Desenvolvimento Web Sobre esta atividade de aprendizado Web Development Programming Language 1 a 3 horas Intermediário",
+      "title": "Fundamentos do Desenvolvimento Web Sobre esta atividade de aprendizado Programming Language Web Development 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058937?lang=pt-br"
     },
     {
@@ -33249,7 +33321,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Introdução ao HTML e CSS Sobre esta atividade de aprendizado Information Management HyperText Markup Language HTML 1 a 3 horas Intermediário",
+      "title": "Introdução ao HTML e CSS Sobre esta atividade de aprendizado Workflow Management HyperText Markup Language HTML 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058939?lang=pt-br"
     },
     {
@@ -33366,7 +33438,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings VectorCAST Text Annotation 3 a 10 horas Avançado",
+      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Text Annotation Data Optimization 3 a 10 horas Avançado",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3947353?lang=pt-br"
     },
     {
@@ -33465,7 +33537,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Teste e Implementação de Website Sobre esta atividade de aprendizado Cloud Computing Software Testing 1 a 3 horas Intermediário",
+      "title": "Teste e Implementação de Website Sobre esta atividade de aprendizado Workflow Management Deployment Software 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058941?lang=pt-br"
     },
     {
@@ -33474,7 +33546,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Dando Sentido aos Dados Selecione Ir para atividade para abrir o conteúdo! Critical Thinking Decision Making 1 a 3 horas Fundamental",
+      "title": "Dando Sentido aos Dados Selecione Ir para atividade para abrir o conteúdo! Data Management Data Analysis 1 a 3 horas Fundamental",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4065068?lang=pt-br"
     },
     {
@@ -33744,7 +33816,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Dando Vida a Websites com JavaScript Sobre esta atividade de aprendizado User Defined Functions JavaScript Programming Language 1 a 3 horas Intermediário",
+      "title": "Dando Vida a Websites com JavaScript Sobre esta atividade de aprendizado Python HyperText Markup Language HTML 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058940?lang=pt-br"
     },
     {
@@ -34158,7 +34230,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma Página da Web de Lista de Tarefas Interativa Sobre esta atividade de aprendizado CSS Design JavaScript Programming Language 1 a 3 horas Intermediário",
+      "title": "Desenvolva uma Página da Web de Lista de Tarefas Interativa Sobre esta atividade de aprendizado HyperText Markup Language HTML JavaScript Programming Language 1 a 3 horas Interm...",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058942?lang=pt-br"
     },
     {
@@ -34248,7 +34320,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolvendo Sites para a Web Sobre esta atividade de aprendizado JavaScript Programming Language Systems Development Life Cycle 1 a 3 horas Intermediário",
+      "title": "Desenvolvendo Sites para a Web Sobre esta atividade de aprendizado HTML5 HyperText Markup Language HTML 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058938?lang=pt-br"
     },
     {
@@ -34563,7 +34635,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings VectorCAST Text Annotation 3 a 10 horas Avançado",
+      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Text Annotation Data Optimization 3 a 10 horas Avançado",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3947353?ngo-id=0302&lang=pt-br"
     },
     {
@@ -37587,8 +37659,35 @@
       "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
       "portal": "Futuro Digital",
       "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Lógica de Programação",
+      "url": "https://www.futuro.digital/ac-logica-de-programacao-21961/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Segurança do Trabalho",
+      "url": "https://www.futuro.digital/ac-seguranca-do-trabalho-21966/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
       "title": "Desenho Arquitetônico",
       "url": "https://www.futuro.digital/ac-desenho-arquitetonico-21955/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Tecnologia da Informação e Comunicação",
+      "url": "https://www.futuro.digital/ac-tecnologia-da-informacao-e-comunicacao-21967/p"
     },
     {
       "category": "Cursos gratuitos",
@@ -37605,8 +37704,8 @@
       "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
       "portal": "Futuro Digital",
       "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Finanças Pessoais",
-      "url": "https://www.futuro.digital/ac-financas-pessoais-21958/p"
+      "title": "Empreendedorismo",
+      "url": "https://www.futuro.digital/ac-empreendedorismo-21957/p"
     },
     {
       "category": "Cursos gratuitos",
@@ -37614,8 +37713,17 @@
       "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
       "portal": "Futuro Digital",
       "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Empreendedorismo",
-      "url": "https://www.futuro.digital/ac-empreendedorismo-21957/p"
+      "title": "Logística (5's e Almoxarifado)",
+      "url": "https://www.futuro.digital/ac-logistica--5-s-e-almoxarifado--21960/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Finanças Pessoais",
+      "url": "https://www.futuro.digital/ac-financas-pessoais-21958/p"
     },
     {
       "category": "Cursos gratuitos",
@@ -41467,20 +41575,20 @@
     "Escola Virtual": "61 cursos encontrados; 61 mantidos no catálogo.",
     "FGV": "227 cursos encontrados; 227 mantidos no catálogo.",
     "Harvard": "132 cursos encontrados; 133 mantidos no catálogo.",
-    "Santander Open Academy": "146 cursos encontrados; 150 mantidos no catálogo.",
+    "Santander Open Academy": "147 cursos encontrados; 151 mantidos no catálogo.",
     "Nação Fluente": "1 cursos mantidos no catálogo.",
     "Senar EAD": "254 cursos encontrados; 254 mantidos no catálogo. Fonte reportou 254.",
     "Sebrae Paraíba": "52 cursos encontrados; 57 mantidos no catálogo.",
     "UEMP": "15 cursos encontrados; 19 mantidos no catálogo.",
     "MEC Idiomas": "1 cursos mantidos no catálogo.",
-    "HCX FMUSP": "12 cursos encontrados; 17 mantidos no catálogo.",
+    "HCX FMUSP": "12 cursos encontrados; 19 mantidos no catálogo.",
     "Prime Cursos": "524 cursos encontrados; 524 mantidos no catálogo.",
-    "Senac EAD": "78 cursos encontrados; 80 mantidos no catálogo.",
-    "Coursera": "74 cursos encontrados; 103 mantidos no catálogo.",
+    "Senac EAD": "74 cursos encontrados; 80 mantidos no catálogo.",
+    "Coursera": "78 cursos encontrados; 105 mantidos no catálogo.",
     "Udemy": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
-    "Fundação Itaú Autoformativos": "165 cursos encontrados; 165 mantidos no catálogo.",
-    "Fundação Itaú Mediados": "20 cursos encontrados; 20 mantidos no catálogo.",
-    "Ensino Einstein": "60 cursos encontrados; 60 mantidos no catálogo.",
+    "Fundação Itaú Autoformativos": "166 cursos encontrados; 166 mantidos no catálogo.",
+    "Fundação Itaú Mediados": "21 cursos encontrados; 21 mantidos no catálogo.",
+    "Ensino Einstein": "61 cursos encontrados; 61 mantidos no catálogo.",
     "LÚMINA UFRGS": "120 cursos encontrados; 120 mantidos no catálogo.",
     "e-Aulas USP": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
     "Life Global": "12 cursos encontrados; 12 mantidos no catálogo.",
@@ -41492,7 +41600,7 @@
     "Cisco CiberEducação": "1 cursos encontrados; 1 mantidos no catálogo.",
     "PUCRS Online": "44 cursos encontrados; 44 mantidos no catálogo.",
     "+IFMG": "95 cursos encontrados; 95 mantidos no catálogo.",
-    "Futuro Digital": "35 cursos encontrados; 35 mantidos no catálogo.",
+    "Futuro Digital": "39 cursos encontrados; 39 mantidos no catálogo.",
     "NVIDIA Training": "11 cursos encontrados; 11 mantidos no catálogo.",
     "SENAI-SP": "64 cursos encontrados; 64 mantidos no catálogo.",
     "Databricks Academy": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
@@ -41500,7 +41608,7 @@
     "Eu Capacito": "273 cursos encontrados; 273 mantidos no catálogo.",
     "UNA-SUS": "33 cursos encontrados; 33 mantidos no catálogo."
   },
-  "generatedAt": "2026-08-31",
+  "generatedAt": "2026-09-01",
   "note": "Snapshot inicial construído a partir dos catálogos oficiais; cada cartão aponta para a página original do curso.",
   "sources": [
     {
