@@ -168,7 +168,7 @@
       "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Comunicação estratégica e trabalho em equipe",
+      "title": "Curso Santander IE University Comunicação estratégica e trabalho em equipe Competências",
       "url": "https://app.santanderopenacademy.com/pt-BR/course/strategic-communication-teamwork"
     },
     {
@@ -285,7 +285,7 @@
       "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Copilot: Fundamentos de IA da Microsoft",
+      "title": "Curso Santander Santander Open Academy Copilot: Fundamentos de IA da Microsoft Ferramentas",
       "url": "https://app.santanderopenacademy.com/pt-BR/course/copilot-ai-fundamentals"
     },
     {
@@ -1358,6 +1358,24 @@
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
       "title": "Skills for Work 2nd Call",
       "url": "https://app.santanderopenacademy.com/pt-BR/program/skills-for-work-2nd-Call"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Innovation & AI experience in Madrid 2027",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/innovation-and-ai-experience-in-madrid-2027"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Liderança e resolução de conflitos",
+      "url": "https://app.santanderopenacademy.com/pt-BR/course/leadership-and-conflict-resolution"
     },
     {
       "category": "Tecnologia e Ciência de Dados",
@@ -3560,6 +3578,15 @@
       "source": "https://cursosgratuitos.fgv.br/",
       "title": "Direito dos Desastres Climáticos na Prática Judiciária",
       "url": "https://cursosgratuitos.fgv.br/curso/direito-dos-desastres-climaticos-na-pratica-judiciaria"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "declaration",
+      "description": "Curso gratuito da FGV; a instituição informa declaração após avaliação.",
+      "portal": "FGV",
+      "source": "https://cursosgratuitos.fgv.br/",
+      "title": "Alinhamento entre Vendas e Marketing",
+      "url": "https://cursosgratuitos.fgv.br/curso/alinhamento-entre-vendas-e-marketing"
     },
     {
       "category": "Idiomas",
@@ -16629,6 +16656,105 @@
       "url": "https://www.ead.senac.br/gratuito/tecnico-em-optica-ead-psg-exclusivo-goias"
     },
     {
+      "category": "Cursos gratuitos",
+      "cert": "free",
+      "description": "Curso gratuito do Senac EAD.",
+      "portal": "Senac EAD",
+      "source": "https://www.ead.senac.br/gratuito/",
+      "title": "Captação de Recursos Para Projeto Cultural - PSG",
+      "url": "https://www.ead.senac.br/gratuito/captacao-de-recursos-para-projeto-cultural-psg"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "free",
+      "description": "Curso gratuito do Senac EAD.",
+      "portal": "Senac EAD",
+      "source": "https://www.ead.senac.br/gratuito/",
+      "title": "Comunicação de Projetos Culturais - PSG",
+      "url": "https://www.ead.senac.br/gratuito/comunicacao-de-projetos-culturais-psg"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "free",
+      "description": "Curso gratuito do Senac EAD.",
+      "portal": "Senac EAD",
+      "source": "https://www.ead.senac.br/gratuito/",
+      "title": "Criação de Projetos Culturais - PSG",
+      "url": "https://www.ead.senac.br/gratuito/criacao-de-projetos-culturais-psg"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "free",
+      "description": "Curso gratuito do Senac EAD.",
+      "portal": "Senac EAD",
+      "source": "https://www.ead.senac.br/gratuito/",
+      "title": "Direitos Culturais - PSG",
+      "url": "https://www.ead.senac.br/gratuito/direitos-culturais-psg"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "free",
+      "description": "Curso gratuito do Senac EAD.",
+      "portal": "Senac EAD",
+      "source": "https://www.ead.senac.br/gratuito/",
+      "title": "Elaboração de Projetos para Editais de Cultura - PSG",
+      "url": "https://www.ead.senac.br/gratuito/elaboracao-de-projetos-para-editais-de-cultura-psg"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "free",
+      "description": "Curso gratuito do Senac EAD.",
+      "portal": "Senac EAD",
+      "source": "https://www.ead.senac.br/gratuito/",
+      "title": "Empreendedorismo na Economia Criativa - PSG",
+      "url": "https://www.ead.senac.br/gratuito/empreendedorismo-na-economia-criativa-psg"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "free",
+      "description": "Curso gratuito do Senac EAD.",
+      "portal": "Senac EAD",
+      "source": "https://www.ead.senac.br/gratuito/",
+      "title": "Fontes de Financiamento - PSG",
+      "url": "https://www.ead.senac.br/gratuito/fontes-de-financiamento-psg"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "free",
+      "description": "Curso gratuito do Senac EAD.",
+      "portal": "Senac EAD",
+      "source": "https://www.ead.senac.br/gratuito/",
+      "title": "Leis de Incentivo - PSG",
+      "url": "https://www.ead.senac.br/gratuito/leis-de-incentivo-psg"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "free",
+      "description": "Curso gratuito do Senac EAD.",
+      "portal": "Senac EAD",
+      "source": "https://www.ead.senac.br/gratuito/",
+      "title": "Marketing Digital na Cultura - PSG",
+      "url": "https://www.ead.senac.br/gratuito/marketing-digital-na-cultura-psg"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "free",
+      "description": "Curso gratuito do Senac EAD.",
+      "portal": "Senac EAD",
+      "source": "https://www.ead.senac.br/gratuito/",
+      "title": "Prestação de Contas - PSG",
+      "url": "https://www.ead.senac.br/gratuito/prestacao-de-contas-psg"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "free",
+      "description": "Curso gratuito do Senac EAD.",
+      "portal": "Senac EAD",
+      "source": "https://www.ead.senac.br/gratuito/",
+      "title": "Produção Cultural - PSG",
+      "url": "https://www.ead.senac.br/gratuito/producao-cultural-psg"
+    },
+    {
       "category": "Carreira",
       "cert": "maybe",
       "description": "Curso aberto para estudo; certificado pode exigir compra ou auxílio financeiro.",
@@ -17572,6 +17698,60 @@
       "source": "https://www.coursera.org/courses?query=free",
       "title": "Complete GenAI Toolkit: ChatGPT, Gemini, and Midjourney",
       "url": "https://www.coursera.org/learn/complete-genai-toolkit-chatgpt-gemini-and-midjourney"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado na busca gratuita da Coursera; condições de certificado podem variar.",
+      "portal": "Coursera",
+      "source": "https://www.coursera.org/courses?query=free",
+      "title": "Brand New Brand",
+      "url": "https://www.coursera.org/learn/brand-new-brand"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado na busca gratuita da Coursera; condições de certificado podem variar.",
+      "portal": "Coursera",
+      "source": "https://www.coursera.org/courses?query=free",
+      "title": "Build Fast Websites with Astro",
+      "url": "https://www.coursera.org/learn/build-fast-websites-with-astro"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado na busca gratuita da Coursera; condições de certificado podem variar.",
+      "portal": "Coursera",
+      "source": "https://www.coursera.org/courses?query=free",
+      "title": "Learn HTML and CSS",
+      "url": "https://www.coursera.org/learn/learn-html-and-css"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado na busca gratuita da Coursera; condições de certificado podem variar.",
+      "portal": "Coursera",
+      "source": "https://www.coursera.org/courses?query=free",
+      "title": "Capstone: Create your own professional journalistic portfolio",
+      "url": "https://www.coursera.org/learn/become-a-journalist-capstone"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado na busca gratuita da Coursera; condições de certificado podem variar.",
+      "portal": "Coursera",
+      "source": "https://www.coursera.org/courses?query=free",
+      "title": "Customize Templates Fast",
+      "url": "https://www.coursera.org/learn/customize-templates-fast"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado na busca gratuita da Coursera; condições de certificado podem variar.",
+      "portal": "Coursera",
+      "source": "https://www.coursera.org/courses?query=free",
+      "title": "RAG From Zero",
+      "url": "https://www.coursera.org/learn/rag"
     },
     {
       "category": "Idiomas",
@@ -21222,6 +21402,1500 @@
     {
       "category": "Arte, cultura e educação",
       "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Mulher, roupa e poder",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/mulher-roupa-e-poder"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Educação Integral para os anos finais: uma proposta de implementação",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/educacao-integral-para-os-anos-finais-uma-proposta-de-implementacao-403aa40b-d75f-44ae-90b8-ec15d225361b"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Acolhimento e clima escolar",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/acolhimento-e-clima-escolar-8888cf2d-9ff5-4d14-98d1-8ec028ab4232"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Educação Integral: Sustentabilidade da política pública nos municípios do Rio de Janeiro (RJ) e Vitória (ES)",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/educacao-integral-sustentabilidade-da-politica-publica-nos-municipios-do-rio-de-janeiro-rj-e-vitoria-es"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Educação Integral Antirracista",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/educacao-integral-antirracista"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Relação Escola, Família e Comunidade",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/relacao-escola-familia-e-comunidade"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Parcerias como base para a expansão de matrículas na Educação Integral",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/gestao-em-rede-na-educacao-integral-em-tempo-integral"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Projeto Político-Pedagógico (PPP) e a Educação Integral",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/projeto-politico-pedagogico-ppp-e-a-educacao-integral-em-tempo-integral"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Currículo integrado na Educação Integral",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/curriculo-integrado-na-educacao-integral-em-tempo-integral"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Arte na Educação Infantil",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/arte-na-educacao-infantil"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Arte e matemática: ensaios aproximativos",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/arte-e-matematica-ensaios-aproximativos"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Cultura Escrita na Educação Infantil",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/cultura-escrita-na-educacao-infantil"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Audiovisual no Brasil: Governança e Ecossistema",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/audiovisual-no-brasil-governanca-e-ecossistema"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Conceitos básicos, fundamentos e valores em Monitoramento e Avaliação de programas e projetos",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/conceitos-basicos-fundamentos-e-valores-em-monitoramento-e-avaliacao-de-programas-e-projetos"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Economia Criativa na Educação Profissional e Tecnológica (EPT)",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/economia-criativa-na-educacao-profissional-e-tecnologica-ept"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Base legal da Educação Integral",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/base-legal-da-educacao-integral-em-tempo-integral-2da8af0f-97ff-49a0-9e32-b4e93aa4a5d7"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "PIB da Economia da Cultura e das Indústrias Criativas: a contribuição da Cultura para a dinâmica econômica",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/pib-da-economia-da-cultura-e-das-industrias-criativas-a-contribuicao-da-cultura-para-a-dinamica-economica"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Uso de dados e indicadores para o planejamento e gestão estratégica de políticas públicas",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/uso-de-dados-e-indicadores-para-o-planejamento-e-gestao-estrategica-de-politicas-publicas"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Letramento matemático na Educação Infantil",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/letramento-matematico-na-educacao-infantil-eb383000-45a6-4cb9-aed3-72bb99415bed"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Projetos Culturais: por onde começar? - Parte 2",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/projetos-culturais-por-onde-comecar-parte-2"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Vozes, artes e territórios",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/voz-artes-e-territorios"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Design decolonial: territórios e olhares",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/design-decolonial-territorios-e-olhares"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Ame sua mente: bem-estar docente",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/ame-sua-mente-bem-estar-docente"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Trilha de Monitoramento e Avaliação da Política Estadual de Educação Profissional e Tecnológica (PEEPT)",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/trilha-de-monitoramento-e-avaliacao-da-politica-estadual-de-educacao-profissional-e-tecnologica-peept"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Estratégias Socioemocionais para as Infâncias: curso de aprofundamento",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/estrategias-socioemocionais-para-as-infancias-curso-de-aprofundamento"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Gestão e execução orçamentária na Educação Integral",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/gestao-e-execucao-orcamentaria-na-educacao-integral"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Educação Integral e Assistência Social: conexões e redes de direitos",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/educacao-integral-e-assistencia-social-conexoes-e-redes-de-direitos"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "STEAM nos anos finais do Ensino Fundamental",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/steam-nos-anos-finais-do-ensino-fundamental"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Música e matemática: uma harmonia perfeita",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/musica-e-matematica-uma-harmonia-perfeita"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Programa de Aprendizagem Profissional em Escolas Técnicas: concepção e implementação",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/programa-de-aprendizagem-profissional-em-escolas-tecnicas-concepcao-e-implementacao"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Projeto Querino na sala de aula",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/projeto-querino-na-sala-de-aula"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Matemática antirracista",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/matematica-antirracista"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Equidade étnico-racial nos anos finais do Ensino Fundamental",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/equidade-etnico-racial-nos-anos-finais-do-ensino-fundamental"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Equidade étnico-racial na Educação Infantil",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/equidade-etnico-racial-na-educacao-infantil"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Experiências em gestão cultural em São Paulo",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/experiencias-em-gestao-cultural-em-sao-paulo"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Percurso nas artes para professores: Inteligência Artificial",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/percurso-nas-artes-para-professores-inteligencia-artificial"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Acompanhamento Pedagógico - Professores(as) dos Anos Finais",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/acompanhamento-pedagogico-professores-as-dos-anos-finais"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Acompanhamento Pedagógico - Professores(as) da Educação Infantil",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/acompanhamento-pedagogico-professores-as-da-educacao-infantil"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Acompanhamento Pedagógico - Gestores(as): Secretaria e Lideranças escolares",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/acompanhamento-pedagogico-gestores-as-e-liderancas"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Cruzando campos do saber: poéticas afro-brasileiras e educação",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/cruzando-campos-do-saber-poeticas-afro-brasileiras-e-educacao"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Projetos culturais: por onde começar?",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/projetos-culturais-por-onde-comecar"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Estratégias socioemocionais para as infâncias: curso introdutório",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/estrategias-socioemocionais-para-as-infancias-curso-introdutorio"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Inteligência Artificial para Educadores",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/inteligencia-artificial-para-educadores"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Festejos Populares: Cosme e Damião",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/festejos-populares-cosme-e-damiao-ebf05bba-999b-4f9a-96b8-c6465e4b48b6"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Experiências educativas em museus comunitários",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/experiencias-educativas-em-museus-comunitarios"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Ame Sua Mente na escola",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/saude-mental-na-sala-de-aula"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Apoio à transição para os anos finais",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/apoio-a-transicao-para-os-anos-finais"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Tecnologia educacional - Gestão do acompanhamento das aprendizagens",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/tecnologia-educacional-gestao-do-acompanhamento-das-aprendizagens"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Tecnologia educacional - Colaboração Intermunicipal em Arranjos de Desenvolvimento da Educação (ADE)",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/tecnologia-educacional-colaboracao-intermunicipal-em-arranjos-de-desenvolvimento-da-educacao-ade"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Tecnologia educacional - Formação docente em Língua Portuguesa",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/tecnologia-educacional-formacao-docente-em-lingua-portuguesa"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Tecnologia educacional - Fortalecimento da relação escola família comunidade",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/tecnologia-educacional-fortalecimento-da-relacao-escola-familia-comunidade"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Tecnologia educacional - Formação continuada em colaboração intermunicipal",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/tecnologia-educacional-formacao-continuada-em-colaboracao-intermunicipal"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Tecnologia educacional - Colaboração intermunicipal em consórcios públicos",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/tecnologia-educacional-colaboracao-intermunicipal-em-consorcios-publicos"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Tecnologia educacional - Colaboração entre estado e municípios através de uma cadeia formativa",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/tecnologia-educacional-colaboracao-entre-estado-e-municipios-atraves-de-uma-cadeia-formativa"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Tecnologia educacional - Gestão de pessoas e de recursos",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/tecnologia-educacional-gestao-de-pessoas-e-de-recursos"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Tecnologia educacional - Gestão inclusiva: pessoa com deficiência",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/tecnologia-educacional-gestao-inclusiva-pessoa-com-deficiencia"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Tecnologia educacional - Gestão e formação das equipes de Educação Infantil",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/tecnologia-educacional-gestao-e-formacao-das-equipes-de-educacao-infantil"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Tecnologia educacional - Formação em Matemática nos anos iniciais",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/tecnologia-educacional-formacao-em-matematica-nos-anos-iniciais"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Tecnologia educacional - Experiências formativas em cultura escrita com crianças de 4 a 6 anos",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/tecnologia-educacional-experiencias-formativas-em-cultura-escrita-com-criancas-de-4-a-6-anos"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Tecnologia educacional - Gestão da educação para a equidade racial",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/tecnologia-educacional-gestao-da-educacao-para-a-equidade-racial"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Tecnologia educacional - Planejamento Estratégico",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/tecnologia-educacional-planejamento-estrategico"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Tecnologia educacional - Curso de férias Mentalidades Matemáticas",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/tecnologia-educacional-curso-de-ferias-mentalidades-matematicas"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Teatros para as infâncias",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/teatros-para-as-infancias"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Jenipapos - Redes de saberes",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/jenipapos-redes-de-saberes"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Reorganização das atividades pedagógicas",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/reorganizacao-das-atividades-pedagogicas"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Organização de ambientes na educação infantil",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/organizacao-de-ambientes-na-educacao-infantil"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Marco Regulatório das Organizações da Sociedade Civil",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/marco-regulatorio-das-organizacoes-da-sociedade-civil"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "As múltiplas formas de aprender das crianças",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/as-multiplas-formas-de-aprender-das-criancas"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Gestão escolar: práticas de tutoria na formação continuada",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/gestao-escolar-praticas-de-tutoria-na-formacao-continuada"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Ensino híbrido na prática para gestores",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/ensino-hibrido-na-pratica-para-gestores"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Ensino híbrido na prática para docentes",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/ensino-hibrido-na-pratica-para-docentes"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Flexibilização curricular",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/flexibilizacao-curricular"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Situação didática de leitura por meio do professor",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/situacao-didatica-de-leitura-por-meio-do-professor"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Situação didática de leitura pelo estudante",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/situacao-didatica-de-leitura-pelo-estudante"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Situação didática de escrita por meio do professor",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/situacao-didatica-de-escrita-por-meio-do-professor"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Situação didática de escrita pelo estudante",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/situacao-didatica-de-escrita-pelo-estudante"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Projeto político-pedagógico para OSCs",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/projeto-politico-pedagogico-para-oscs"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Monitoramento e Avaliação: a prática do BNDES em educação",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/monitoramento-e-avaliacao-a-pratica-do-bndes-em-educacao"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Monitoramento de processos e avaliação de recursos educacionais",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/monitoramento-de-processos-e-avaliacao-de-recursos-educacionais"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Mapa de Identidades: ação coletiva no território",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/mapa-de-identidades-acao-coletiva-no-territorio"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Monitoramento para OSCs",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/monitoramento-para-oscs"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Planos de leitura em ação nos territórios",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/planos-de-leitura-em-acao-nos-territorios"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Sistematização e compartilhamento de boas práticas",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/sistematizacao-e-compartilhamento-de-boas-praticas"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Introdução à Base Nacional Comum Curricular (BNCC)",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/introducao-a-base-nacional-comum-curricular-bncc"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Experiência e protagonismo: a BNCC na Educação Infantil",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/experiencia-e-protagonismo-a-bncc-na-educacao-infantil"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "O Coordenador pedagógico como formador",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/o-coordenador-pedagogico-como-formador-2"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Busca Ativa Escolar: garantia integral de direitos de crianças e adolescentes",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/busca-ativa-escolar-garantia-integral-de-direitos-de-criancas-e-adolescentes"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Avaliação Econômica de Projetos Sociais",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/avaliacao-economica-de-projetos-sociais"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Autonomia e sustentabilidade financeira",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/autonomia-e-sustentabilidade-financeira"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Avaliação diagnóstica",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/avaliacao-diagnostica"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Acompanhamento das aprendizagens",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/acompanhamento-das-aprendizagens"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Equidade Educacional: compreender para garantir",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/equidade-educacional-compreender-para-garantir"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Formação como curadoria: Literatura para crianças",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/formacao-como-curadoria-literatura-para-criancas"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Avaliação de programas e políticas para famílias e crianças na Primeira Infância",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/avaliacao-de-programas-e-politicas-para-familias-e-criancas-na-primeira-infancia"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Jenipapos - Literatura de autoria indígena",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/jenipapos-literatura-de-autoria-indigena"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Avaliação da qualidade na Educação Infantil",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/avaliacao-da-qualidade-na-educacao-infantil"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Mediação de leitura para juventudes",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/mediacao-de-leitura-para-juventudes"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Pensando matematicamente",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/pensando-matematicamente"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Panorama da avaliação nas OSCs",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/panorama-da-avaliacao-nas-oscs"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Avaliação formativa na prática",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/avaliacao-formativa-na-pratica"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Projeto Institucional na gestão escolar",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/projeto-institucional-na-gestao-escolar"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Planejamento estratégico para OSCs",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/planejamento-estrategico-para-oscs"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Prevenção da violência on-line na primeira infância",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/prevencao-da-violencia-on-line-na-primeira-infancia"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Observação de sala de aula",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/observacao-de-sala-de-aula"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Mediação de literatura infantil digital",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/mediacao-de-literatura-infantil-digital"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Círculos de Leitura: um espaço de troca e conexão",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/circulos-de-leitura-um-espaco-de-troca-e-conexao"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Mentalidades Matemáticas na sala de aula",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/mentalidades-matematicas-na-sala-de-aula"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "A BNCC nas práticas da gestão escolar",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/a-bncc-nas-praticas-da-gestao-escolar"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Recursos Educacionais Digitais (REDs)",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/recursos-educacionais-digitais-reds"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Milton Santos: cidadão do mundo e geógrafo das quebradas",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/milton-santos-cidadao-do-mundo-e-geografo-das-quebradas"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "O papel das bibliotecas comunitárias na formação leitora",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/o-papel-das-bibliotecas-comunitarias-na-formacao-leitora"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Novo Fundeb e o financiamento da educação",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/novo-fundeb-e-o-financiamento-da-educacao"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Monitoramento analítico",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/monitoramento-analitico"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Dimensões do trabalho do diretor e a BNCC",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/dimensoes-do-trabalho-do-diretor-e-a-bncc"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Avaliação sistêmica",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/avaliacao-sistemica"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Leitura para bebês",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/leitura-para-bebes"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Infâncias e leituras",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/infancias-e-leituras"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Convivência: planejamento de ações",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/convivencia-planejamento-de-acoes"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Captação externa de recursos",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/captacao-externa-de-recursos"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Geometria e o Letramento Matemático",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/geometria-e-o-letramento-matematico"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Convivência: impactos do isolamento nas redes de proteção",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/convivencia-impactos-do-isolamento-nas-redes-de-protecao"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Conhecendo as Mentalidades Matemáticas",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/conhecendo-as-mentalidades-matematicas"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Concepção de alfabetização",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/concepcao-de-alfabetizacao"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "A BNCC como oportunidade para rever o projeto político-pedagógico",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/a-bncc-como-oportunidade-para-rever-o-projeto-politico-pedagogico"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Avaliações externas e aprendizagem",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/avaliacoes-externas-e-aprendizagem"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Alfabetização como foco da gestão educacional",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/alfabetizacao-como-foco-da-gestao-educacional"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Streaming na prática: faça lives profissionais com o Streamlabs Talk Studio",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/streaming-na-pratica-faca-lives-profissionais-com-o-streamlabs-talk-studio"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Streaming na prática: faça lives profissionais com o OBS",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/streaming-na-pratica-faca-lives-profissionais-com-o-obs"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Planejamento de lives e eventos de streaming",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/planejamento-de-lives-e-eventos-de-streaming"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Streaming: conceitos e fundamentos",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/streaming-conceitos-e-fundamentos"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Trilha Formativa de Equidade Racial",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/trilhas-em-equidade-racial"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Constelação das Artes – experiências literárias brasileiras: formas de existir",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/constelacao-das-artes-experiencias-literarias-brasileiras-formas-de-existir"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Constelação das artes - modernismos: um panorama das artes brasileiras 2",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/constelacao-das-artes-modernismos-um-panorama-das-artes-brasileiras-2-3718d316-66df-4d15-a87a-845184674911"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Constelação das Artes - história da música e sonoridades brasileiras",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/constelacao-das-artes-historia-da-musica-e-sonoridades-brasileiras"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Constelação das artes - cinema brasileiro: fabulações sobre um território em disputa",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/constelacao-das-artes-cinema-brasileiro-fabulacoes-sobre-um-territorio-em-disputa"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Constelação das artes - modernismos: um panorama das artes brasileiras 1",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/modernismos-um-panorama-das-artes-brasileiras-1-projeto-de-um-passado-ancestralidades-tradicoes-e-identidades-em-disputa"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Constelação das artes – musicalidades indígenas no Brasil",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/musicalidades-indigenas-no-brasil"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Constelação das artes – histórias do teatro brasileiro: perspectivas e debates",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/historias-do-teatro-brasileiro-perspectivas-e-debates"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Infâncias plurais: produção audiovisual com e para crianças",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/infancias-plurais"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Constelação das artes – história do Brasil em 12 ingredientes e uma dose",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/constelacao-das-artes-historia-do-brasil-12-ingredientes-e-um-dos"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Percurso nas artes para professores: a fotografia na sala de aula",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/percurso-nas-artes-para-professores-fotografia-na-sala-de-aula"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Entre a caixa preta e o cubo branco: uma introdução à cenografia e à expografia",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/entre-a-caixa-preta-e-o-cubo-branco-uma-introducao-a-cenografia-e-a-expografia"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Percurso nas artes para professores: literatura na sala de aula",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/percurso-nas-artes-para-professores-literatura-na-sala-de-aula"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Dramaturgia pluriversal II – negras narrativas",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/dramaturgia-pluriversal-2-negras-narrativas"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Circo social – as artes circenses como pedagogia de formação experiência da Escola Pernambucana de Circo (EPC)",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/circo-social-as-artes-circenses-como-pedagogia-de-formacao-a-partir-da-experiencia-da-escola-pernambucana-de-circo"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Constelação das artes- representação e autorrepresentação na história da arte brasileira",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/representacao-e-autorrepresentacao-na-historia-das-artes-brasileiras"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Muito Além da Boca: um passeio transatlântico pela comida afrodiaspórica no Brasil",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/muito-alem-da-boca-um-passeio-transatlantico-pela-comida-afrodiasporica-no-brasil"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Histórias do Brasil e das artes: Coleção brasiliana Itaú - módulo II",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/historias-do-brasil-e-das-artes-modulo-ii"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Percurso nas artes para professores: arte-educação como prática emancipatória",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/percurso-nas-artes-para-professores-arte-educacao-como-parte-emancipatoria"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Percurso em produção cultural – políticas culturais na América Latina",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/percurso-de-producao-cultural-politicas-culturais-na-america-latina"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Percurso em produção cultural – políticas culturais no Brasil",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/percurso-de-producao-cultural-politicas-culturais-no-brasil"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Percurso de Produção Cultural: Economia da cultura - cadeia produtiva e indicadores",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/percurso-de-producao-cultural-economia-da-cultura-cadeia-produtiva-e-indicadores"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Percurso de Produção Cultural: Economia da cultura no Brasil",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/percurso-de-producao-cultural-economia-da-cultura-no-brasil"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Cultura alimentar: o alimento e suas relações",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/escritas-gastronomias"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Percurso nas artes para professores: arte e ciência",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/arte-e-ciencia"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Escritas gastronômicas",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/escritas-gastronomicas"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Percurso nas artes para professores: a música e seus desdobramentos",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/percurso-nas-artes-para-professores-a-musica-e-seus-desdobramentos"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Arquitetura inclusiva e espaços culturais: da arquitetura à formação de público - módulo 1",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/arquitetura-inclusiva-e-espacos-culturais-da-arquitetura-a-formacao-de-pub"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Histórias do Brasil e das artes: Coleção brasiliana Itaú - módulo I",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/historia-do-brasil-e-das-artes-colecao-brasiliana-itau-modulo-1"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Arquitetura inclusiva e espaços culturais: acessibilidade das exposições e curadoria diversa - módulo 2",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/arquitetura-inclusiva-e-espacos-culturais-acessibilidade-das-exposicoes-e"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Percurso nas artes para professores: as artes do corpo como metodologia",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/percurso-nas-artes-para-professores-as-artes-do-corpo-como-metodologia"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Dramaturgia pluriversal 1 – narrativas LGBT+",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/dramaturgia-pluriversal-1-narrativas-lgbt"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Constelação das artes - arte urbana",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/constelacao-das-artes-arte-urbana"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Constelação das artes - os corpos brasileiros na dança",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/constelacao-das-artes-os-corpos-brasileiros-na-danca"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Diálogos sobre os Planos Decenais de Educação",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/dialogos-sobre-os-planos-decenais-de-educacao"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Criativos em Ação: Guia de Carreiras da Economia Criativa",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/criativos-em-acao-guia-de-carreiras-da-economia-criativa"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
       "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
       "portal": "Fundação Itaú Mediados",
       "source": "https://fundacaoitau.org.br/escola/mediados",
@@ -21407,6 +23081,195 @@
       "source": "https://fundacaoitau.org.br/escola/mediados",
       "title": "Mestrado Profissional em Artes e Práticas Culturais | Edital 2026",
       "url": "https://fundacaoitau.org.br/escola/mediados/mestrado-profissional-em-artes-e-praticas-culturais-edital-2026"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+      "portal": "Fundação Itaú Mediados",
+      "source": "https://fundacaoitau.org.br/escola/mediados",
+      "title": "Escola Anual de Ciências da Aprendizagem",
+      "url": "https://www.fundacaoitau.org.br/escola/mediados/escola-anual-de-ciencias-da-aprendizagem"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+      "portal": "Fundação Itaú Mediados",
+      "source": "https://fundacaoitau.org.br/escola/mediados",
+      "title": "Curso de Avaliação Econômica de Políticas Públicas e Projetos Sociais – Avançado 2026",
+      "url": "https://www.fundacaoitau.org.br/escola/mediados/avancado-de-avaliacao-economica-de-politicas-publicas-e-projetos-sociais-avancado-2026"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+      "portal": "Fundação Itaú Mediados",
+      "source": "https://fundacaoitau.org.br/escola/mediados",
+      "title": "Mestrado profissional em artes da cena: turma especial | Laboratório em Artes e Mediação Cultural - 2026",
+      "url": "https://www.fundacaoitau.org.br/escola/mediados/mestrado-profissional-em-artes-da-cena-turma-especial-laboratorio-em-artes-e-mediacao-cultural-2026"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+      "portal": "Fundação Itaú Mediados",
+      "source": "https://fundacaoitau.org.br/escola/mediados",
+      "title": "Edital de Educação Integral em Tempo Integral nos Anos Finais do Ensino Fundamental",
+      "url": "https://www.fundacaoitau.org.br/escola/mediados/edital-de-educacao-integral-em-tempo-integral-nos-anos-finais-do-ensino-fundamental-c5b294ab-c07d-47a9-a4b1-c7ac54c5e25f"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+      "portal": "Fundação Itaú Mediados",
+      "source": "https://fundacaoitau.org.br/escola/mediados",
+      "title": "Mestrado Profissional em Artes: Turma Especial de Produção e Gestão Cultural em Artes",
+      "url": "https://www.fundacaoitau.org.br/escola/mediados/mestrado-profissional-em-artes-turma-especial-de-producao-e-gestao-cultural-em-artes-a8de53d9-aafa-4ce2-840d-7aa2317c3d52"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+      "portal": "Fundação Itaú Mediados",
+      "source": "https://fundacaoitau.org.br/escola/mediados",
+      "title": "Especialização em Inteligência Artificial para Políticas Públicas de Educação e Cultura",
+      "url": "https://www.fundacaoitau.org.br/escola/mediados/especializacao-em-inteligencia-artificial-para-politicas-publicas-de-educacao-e-cultura"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+      "portal": "Fundação Itaú Mediados",
+      "source": "https://fundacaoitau.org.br/escola/mediados",
+      "title": "Edital de pesquisas aplicadas com foco na Pré-Escola: FAPESP; Fundação Bracell e Fundação Itaú",
+      "url": "https://www.fundacaoitau.org.br/escola/mediados/edital-de-pesquisas-aplicadas-com-foco-na-pre-escola-fapesp-fundacao-bracell-e-fundacao-itau"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+      "portal": "Fundação Itaú Mediados",
+      "source": "https://fundacaoitau.org.br/escola/mediados",
+      "title": "Doutorado Profissional em Artes da Cena 2026",
+      "url": "https://www.fundacaoitau.org.br/escola/mediados/doutorado-profissional-em-artes-da-cena-2026"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+      "portal": "Fundação Itaú Mediados",
+      "source": "https://fundacaoitau.org.br/escola/mediados",
+      "title": "Mestrado Profissional em Economia, área de concentração Economia e Política da Cultura e Indústrias Criativas",
+      "url": "https://www.fundacaoitau.org.br/escola/mediados/mestrado-profissional-em-economia-area-de-concentracao-economia-e-politica-da-cultura-e-industrias-criativas"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+      "portal": "Fundação Itaú Mediados",
+      "source": "https://fundacaoitau.org.br/escola/mediados",
+      "title": "Mestrado Profissional em Economia Área de concentração: Cultura e Educação para o Desenvolvimento Econômico",
+      "url": "https://www.fundacaoitau.org.br/escola/mediados/mestrado-profissional-em-economia-area-de-concentracao-economia-e-politica-da-cultura-e-industrias-criativas-b2871986-89f2-4324-b6a5-6c800469bb94"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+      "portal": "Fundação Itaú Mediados",
+      "source": "https://fundacaoitau.org.br/escola/mediados",
+      "title": "Mestrado Profissional em Artes e Práticas Culturais",
+      "url": "https://www.fundacaoitau.org.br/escola/mediados/mestrado-profissional-em-artes-e-praticas-culturais"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+      "portal": "Fundação Itaú Mediados",
+      "source": "https://fundacaoitau.org.br/escola/mediados",
+      "title": "Doutorado Profissional em Artes da Cena",
+      "url": "https://www.fundacaoitau.org.br/escola/mediados/doutorado-profissional-em-artes-da-cena"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+      "portal": "Fundação Itaú Mediados",
+      "source": "https://fundacaoitau.org.br/escola/mediados",
+      "title": "Doutorado Profissional em Economia, área de concentração Cultura e Educação para o Desenvolvimento Econômico",
+      "url": "https://www.fundacaoitau.org.br/escola/mediados/doutorado-profissional-em-economia-area-de-concentracao-cultura-e-educacao-para-o-desenvolvimento-economico"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+      "portal": "Fundação Itaú Mediados",
+      "source": "https://fundacaoitau.org.br/escola/mediados",
+      "title": "Mestrado profissional em artes da cena: turma especial | Laboratório em Artes e Mediação Cultural - 2025",
+      "url": "https://www.fundacaoitau.org.br/escola/mediados/mestrado-profissional-em-artes-da-cena-turma-especial-laboratorio-em-artes-e-mediacao-cultural-2025"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+      "portal": "Fundação Itaú Mediados",
+      "source": "https://fundacaoitau.org.br/escola/mediados",
+      "title": "Turma em Gestão Cultural - Mestrado Profissional em Administração e Controladoria",
+      "url": "https://www.fundacaoitau.org.br/escola/mediados/turma-em-gestao-cultural-mestrado-profissional-em-administracao-e-controladoria"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+      "portal": "Fundação Itaú Mediados",
+      "source": "https://fundacaoitau.org.br/escola/mediados",
+      "title": "Mestrado profissional em artes da cena: turma especial | Laboratório em Artes e Mediação Cultural - 2024",
+      "url": "https://www.fundacaoitau.org.br/escola/mediados/mestrado-profissional-em-artes-da-cena-turma-especial-laboratorio-em-artes-e-mediacao-cultural-2024"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+      "portal": "Fundação Itaú Mediados",
+      "source": "https://fundacaoitau.org.br/escola/mediados",
+      "title": "Mestrado profissional em artes da cena: turma especial | Laboratório em Artes e Mediação Cultural - 2023",
+      "url": "https://www.fundacaoitau.org.br/escola/mediados/mestrado-profissional-em-artes-da-cena-turma-especial-laboratorio-em-artes-e-mediacao-cultural"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+      "portal": "Fundação Itaú Mediados",
+      "source": "https://fundacaoitau.org.br/escola/mediados",
+      "title": "Mestrado profissional em Comunicação Digital e Cultura de Dados",
+      "url": "https://www.fundacaoitau.org.br/escola/mediados/mestrado-profissional-em-comunicacao-digital-e-cultura-de-dados-ef1d94cc-1d49-410e-ab69-97c41166232d"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+      "portal": "Fundação Itaú Mediados",
+      "source": "https://fundacaoitau.org.br/escola/mediados",
+      "title": "Mestrado profissional em Gestão e Políticas Públicas com ênfase na Primeira Infância",
+      "url": "https://www.fundacaoitau.org.br/escola/mediados/mestrado-profissional-em-gestao-e-politicas-publicas-com-enfase-na-primeira-infancia"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+      "portal": "Fundação Itaú Mediados",
+      "source": "https://fundacaoitau.org.br/escola/mediados",
+      "title": "Mestrado Profissional em Gestão e Políticas Públicas com ênfase em Educação Profissional e Tecnológica - 2026",
+      "url": "https://www.fundacaoitau.org.br/escola/mediados/mestrado-profissional-em-gestao-e-politicas-publicas-com-enfase-em-educacao-profissional-e-tecnologica-2026"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
+      "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
+      "portal": "Fundação Itaú Mediados",
+      "source": "https://fundacaoitau.org.br/escola/mediados",
+      "title": "Mestrado Profissional em Artes e Práticas Culturais | Edital 2026",
+      "url": "https://www.fundacaoitau.org.br/escola/mediados/mestrado-profissional-em-artes-e-praticas-culturais-edital-2026"
     },
     {
       "portal": "Escola Virtual Gov",
@@ -33123,7 +34986,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Seu Futuro no Desenvolvimento Web: O Panorama de Emprego Sobre esta atividade de aprendizado Leadership Job Analysis 1 a 3 horas Intermediário",
+      "title": "Seu Futuro no Desenvolvimento Web: O Panorama de Emprego Sobre esta atividade de aprendizado Teamwork Leadership 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058943?lang=pt-br"
     },
     {
@@ -33258,7 +35121,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Fundamentos do Desenvolvimento Web Sobre esta atividade de aprendizado Programming Language Web Development 1 a 3 horas Intermediário",
+      "title": "Fundamentos do Desenvolvimento Web Sobre esta atividade de aprendizado Programming Language Machine Operation 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058937?lang=pt-br"
     },
     {
@@ -33321,7 +35184,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Introdução ao HTML e CSS Sobre esta atividade de aprendizado Workflow Management HyperText Markup Language HTML 1 a 3 horas Intermediário",
+      "title": "Introdução ao HTML e CSS Sobre esta atividade de aprendizado HTML Workflow Management 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058939?lang=pt-br"
     },
     {
@@ -33348,7 +35211,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Explorando os aspectos básicos do gerenciamento de projeto Bem-vindo ao mundo do gerenciamento de projeto: o que é, como funciona e por que é importante! Stakeholder Analysis Pr...",
+      "title": "Explorando os aspectos básicos do gerenciamento de projeto Bem-vindo ao mundo do gerenciamento de projeto: o que é, como funciona e por que é importante! Project Management Stak...",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3826383?lang=pt-br"
     },
     {
@@ -33537,7 +35400,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Teste e Implementação de Website Sobre esta atividade de aprendizado Workflow Management Deployment Software 1 a 3 horas Intermediário",
+      "title": "Teste e Implementação de Website Sobre esta atividade de aprendizado Software Testing Web Development 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058941?lang=pt-br"
     },
     {
@@ -33546,7 +35409,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Dando Sentido aos Dados Selecione Ir para atividade para abrir o conteúdo! Data Management Data Analysis 1 a 3 horas Fundamental",
+      "title": "Dando Sentido aos Dados Selecione Ir para atividade para abrir o conteúdo! Data Interpretation Data Analysis 1 a 3 horas Fundamental",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4065068?lang=pt-br"
     },
     {
@@ -33816,7 +35679,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Dando Vida a Websites com JavaScript Sobre esta atividade de aprendizado Python HyperText Markup Language HTML 1 a 3 horas Intermediário",
+      "title": "Dando Vida a Websites com JavaScript Sobre esta atividade de aprendizado Web Development HTML 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058940?lang=pt-br"
     },
     {
@@ -34230,7 +36093,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma Página da Web de Lista de Tarefas Interativa Sobre esta atividade de aprendizado HyperText Markup Language HTML JavaScript Programming Language 1 a 3 horas Interm...",
+      "title": "Desenvolva uma Página da Web de Lista de Tarefas Interativa Sobre esta atividade de aprendizado HTML JavaScript Programming Language 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058942?lang=pt-br"
     },
     {
@@ -34320,7 +36183,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolvendo Sites para a Web Sobre esta atividade de aprendizado HTML5 HyperText Markup Language HTML 1 a 3 horas Intermediário",
+      "title": "Desenvolvendo Sites para a Web Sobre esta atividade de aprendizado HTML5 Web Development 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058938?lang=pt-br"
     },
     {
@@ -35150,6 +37013,15 @@
       "source": "https://learn.microsoft.com/pt-br/training/browse/",
       "title": "Descrever as ferramentas de monitoramento no Azure",
       "url": "https://learn.microsoft.com/pt-br/training/modules/describe-monitoring-tools-azure"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Desbloqueie a produtividade e libere a criatividade com o bate-papo baseado em IA",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/unlock-productivity-unleash-creativity-ai-powered-chat"
     },
     {
       "category": "Gestão de pessoas",
@@ -37659,44 +39531,8 @@
       "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
       "portal": "Futuro Digital",
       "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Lógica de Programação",
-      "url": "https://www.futuro.digital/ac-logica-de-programacao-21961/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Segurança do Trabalho",
-      "url": "https://www.futuro.digital/ac-seguranca-do-trabalho-21966/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Desenho Arquitetônico",
-      "url": "https://www.futuro.digital/ac-desenho-arquitetonico-21955/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Tecnologia da Informação e Comunicação",
-      "url": "https://www.futuro.digital/ac-tecnologia-da-informacao-e-comunicacao-21967/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Educação Ambiental",
-      "url": "https://www.futuro.digital/ac-educacao-ambiental-21956/p"
+      "title": "Finanças Pessoais",
+      "url": "https://www.futuro.digital/ac-financas-pessoais-21958/p"
     },
     {
       "category": "Cursos gratuitos",
@@ -37722,8 +39558,53 @@
       "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
       "portal": "Futuro Digital",
       "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Finanças Pessoais",
-      "url": "https://www.futuro.digital/ac-financas-pessoais-21958/p"
+      "title": "Desenho Arquitetônico",
+      "url": "https://www.futuro.digital/ac-desenho-arquitetonico-21955/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Lógica de Programação",
+      "url": "https://www.futuro.digital/ac-logica-de-programacao-21961/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Educação Ambiental",
+      "url": "https://www.futuro.digital/ac-educacao-ambiental-21956/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Segurança do Trabalho",
+      "url": "https://www.futuro.digital/ac-seguranca-do-trabalho-21966/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Noções Básicas de Mecânica Automotiva",
+      "url": "https://www.futuro.digital/ac-nocoes-basicas-de-mecanica-automotiva-21964/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Metrologia",
+      "url": "https://www.futuro.digital/ac-metrologia-21963/p"
     },
     {
       "category": "Cursos gratuitos",
@@ -37733,6 +39614,24 @@
       "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
       "title": "Consumo Consciente de Energia",
       "url": "https://www.futuro.digital/ac-consumo-consciente-de-energia-21947/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Tecnologia da Informação e Comunicação",
+      "url": "https://www.futuro.digital/ac-tecnologia-da-informacao-e-comunicacao-21967/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Propriedade Intelectual",
+      "url": "https://www.futuro.digital/ac-propriedade-intelectual-1-21974/p"
     },
     {
       "category": "Cursos gratuitos",
@@ -41573,9 +43472,9 @@
     "Aprenda Mais MEC": "152 cursos encontrados; 400 mantidos no catálogo.",
     "Cruzeiro do Sul Virtual": "14 cursos encontrados; 14 mantidos no catálogo. Fonte reportou 14.",
     "Escola Virtual": "61 cursos encontrados; 61 mantidos no catálogo.",
-    "FGV": "227 cursos encontrados; 227 mantidos no catálogo.",
+    "FGV": "228 cursos encontrados; 228 mantidos no catálogo.",
     "Harvard": "132 cursos encontrados; 133 mantidos no catálogo.",
-    "Santander Open Academy": "147 cursos encontrados; 151 mantidos no catálogo.",
+    "Santander Open Academy": "75 cursos encontrados; 153 mantidos no catálogo.",
     "Nação Fluente": "1 cursos mantidos no catálogo.",
     "Senar EAD": "254 cursos encontrados; 254 mantidos no catálogo. Fonte reportou 254.",
     "Sebrae Paraíba": "52 cursos encontrados; 57 mantidos no catálogo.",
@@ -41583,24 +43482,24 @@
     "MEC Idiomas": "1 cursos mantidos no catálogo.",
     "HCX FMUSP": "12 cursos encontrados; 19 mantidos no catálogo.",
     "Prime Cursos": "524 cursos encontrados; 524 mantidos no catálogo.",
-    "Senac EAD": "74 cursos encontrados; 80 mantidos no catálogo.",
-    "Coursera": "78 cursos encontrados; 105 mantidos no catálogo.",
+    "Senac EAD": "85 cursos encontrados; 91 mantidos no catálogo.",
+    "Coursera": "83 cursos encontrados; 111 mantidos no catálogo.",
     "Udemy": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
-    "Fundação Itaú Autoformativos": "166 cursos encontrados; 166 mantidos no catálogo.",
-    "Fundação Itaú Mediados": "21 cursos encontrados; 21 mantidos no catálogo.",
-    "Ensino Einstein": "61 cursos encontrados; 61 mantidos no catálogo.",
+    "Fundação Itaú Autoformativos": "166 cursos encontrados; 332 mantidos no catálogo.",
+    "Fundação Itaú Mediados": "21 cursos encontrados; 42 mantidos no catálogo.",
+    "Ensino Einstein": "60 cursos encontrados; 61 mantidos no catálogo.",
     "LÚMINA UFRGS": "120 cursos encontrados; 120 mantidos no catálogo.",
     "e-Aulas USP": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
     "Life Global": "12 cursos encontrados; 12 mantidos no catálogo.",
     "Khan Academy": "26 cursos encontrados; 26 mantidos no catálogo.",
     "Escola Virtual Gov": "1041 cursos encontrados; 1041 mantidos no catálogo. Fonte reportou 1041.",
     "IBM SkillsBuild": "218 cursos encontrados; 218 mantidos no catálogo.",
-    "Microsoft Learn": "29 cursos encontrados; 32 mantidos no catálogo.",
+    "Microsoft Learn": "29 cursos encontrados; 33 mantidos no catálogo.",
     "Escola de Pessoas": "108 cursos encontrados; 108 mantidos no catálogo.",
     "Cisco CiberEducação": "1 cursos encontrados; 1 mantidos no catálogo.",
     "PUCRS Online": "44 cursos encontrados; 44 mantidos no catálogo.",
     "+IFMG": "95 cursos encontrados; 95 mantidos no catálogo.",
-    "Futuro Digital": "39 cursos encontrados; 39 mantidos no catálogo.",
+    "Futuro Digital": "42 cursos encontrados; 42 mantidos no catálogo.",
     "NVIDIA Training": "11 cursos encontrados; 11 mantidos no catálogo.",
     "SENAI-SP": "64 cursos encontrados; 64 mantidos no catálogo.",
     "Databricks Academy": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
@@ -41608,7 +43507,7 @@
     "Eu Capacito": "273 cursos encontrados; 273 mantidos no catálogo.",
     "UNA-SUS": "33 cursos encontrados; 33 mantidos no catálogo."
   },
-  "generatedAt": "2026-09-01",
+  "generatedAt": "2026-09-02",
   "note": "Snapshot inicial construído a partir dos catálogos oficiais; cada cartão aponta para a página original do curso.",
   "sources": [
     {
