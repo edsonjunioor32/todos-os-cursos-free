@@ -436,6 +436,21 @@ const CATALOGS = [
     ]
   },
   {
+    portal: "ENAP",
+    source: "https://www.enap.gov.br/busca/?q=&tipo=cursos&ordenacao=recentes&modalidade=a_distancia&modalidade=remoto&inscricoes=Aberta&page=1",
+    urls: [
+      "https://www.enap.gov.br/busca/?q=&tipo=cursos&ordenacao=recentes&modalidade=a_distancia&modalidade=remoto&inscricoes=Aberta&page=1"
+    ],
+    hosts: ["www.enap.gov.br", "suap.enap.gov.br"],
+    match: /suap\.enap\.gov\.br\/vitrine\/curso\/\d+(?:[/?#]|$)/i,
+    category: "Administração Pública",
+    cert: "check",
+    description: "Curso com inscrição aberta localizado no catálogo da ENAP.",
+    minimumRecords: 1,
+    failOnIncomplete: false,
+    maxPages: 24
+  },
+  {
     portal: "Eu Capacito",
     source: "https://www.eucapacito.com.br/todos-os-cursos/",
     urls: [],
