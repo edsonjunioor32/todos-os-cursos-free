@@ -249,7 +249,7 @@
       "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Fundamentos de inglês: faça networking com confiança e se destaque nas entrevistas",
+      "title": "Curso Santander University of Pennsylvania Fundamentos de inglês: faça networking com confiança e se destaque nas entrevistas Idiomas",
       "url": "https://app.santanderopenacademy.com/pt-BR/course/english-fundamentals-successful-networking-interviews"
     },
     {
@@ -43799,17 +43799,53 @@
       "source": "https://www.enap.gov.br/busca/?q=&tipo=cursos&ordenacao=recentes&modalidade=a_distancia&modalidade=remoto&inscricoes=Aberta&page=1",
       "title": "Aberta Jornada Estratégias de Inteligência Artificial para a Transformação Governamental - Sessão 7: Inteligência Artificial e o Futuro da Educação Pública Como a inteligência a...",
       "url": "https://suap.enap.gov.br/vitrine/curso/3029"
+    },
+    {
+      "category": "Administração Pública",
+      "cert": "check",
+      "description": "Curso com inscrição aberta localizado no catálogo da ENAP.",
+      "portal": "ENAP",
+      "source": "https://www.enap.gov.br/busca/?q=&tipo=cursos&ordenacao=recentes&modalidade=a_distancia&modalidade=remoto&inscricoes=Aberta&page=1",
+      "title": "Aberta Mobilidade por Bicicleta Promova a bicicleta como modal de transporte urbano sustentável e inclusivo! O curso aborda os princípios do planejamento cicloinclusivo — como i...",
+      "url": "https://www.escolavirtual.gov.br/curso/1129"
+    },
+    {
+      "category": "Administração Pública",
+      "cert": "check",
+      "description": "Curso com inscrição aberta localizado no catálogo da ENAP.",
+      "portal": "ENAP",
+      "source": "https://www.enap.gov.br/busca/?q=&tipo=cursos&ordenacao=recentes&modalidade=a_distancia&modalidade=remoto&inscricoes=Aberta&page=1",
+      "title": "Aberta Transporte Público Amplie seu conhecimento sobre sistemas de transporte público urbano! O curso aborda transporte público integrado, redes de BRT e ônibus, eletromobilida...",
+      "url": "https://www.escolavirtual.gov.br/curso/1128"
+    },
+    {
+      "category": "Administração Pública",
+      "cert": "check",
+      "description": "Curso com inscrição aberta localizado no catálogo da ENAP.",
+      "portal": "ENAP",
+      "source": "https://www.enap.gov.br/busca/?q=&tipo=cursos&ordenacao=recentes&modalidade=a_distancia&modalidade=remoto&inscricoes=Aberta&page=1",
+      "title": "Aberta Desenvolvimento Orientado ao Transporte Sustentável (DOTS) Integre mobilidade urbana e desenvolvimento territorial com o DOTS! O curso apresenta os princípios do Desenvol...",
+      "url": "https://www.escolavirtual.gov.br/curso/1126"
+    },
+    {
+      "category": "Administração Pública",
+      "cert": "check",
+      "description": "Curso com inscrição aberta localizado no catálogo da ENAP.",
+      "portal": "ENAP",
+      "source": "https://www.enap.gov.br/busca/?q=&tipo=cursos&ordenacao=recentes&modalidade=a_distancia&modalidade=remoto&inscricoes=Aberta&page=1",
+      "title": "Aberta Gestão da Mobilidade Compreenda os fundamentos da gestão da mobilidade urbana e aplique estratégias eficazes! O curso aborda a gestão da mobilidade e as estratégias de ge...",
+      "url": "https://www.escolavirtual.gov.br/curso/1067"
     }
   ],
   "coverage": {
     "Aprenda Mais MEC": "152 cursos encontrados; 400 mantidos no catálogo.",
     "Cruzeiro do Sul Virtual": "14 cursos encontrados; 14 mantidos no catálogo. Fonte reportou 14.",
-    "Escola Virtual": "12 cursos encontrados; 61 mantidos no catálogo.",
-    "FGV": "229 cursos encontrados; 229 mantidos no catálogo.",
+    "Escola Virtual": "61 cursos encontrados; 61 mantidos no catálogo.",
+    "FGV": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
     "Harvard": "132 cursos encontrados; 133 mantidos no catálogo.",
-    "Santander Open Academy": "78 cursos encontrados; 154 mantidos no catálogo.",
+    "Santander Open Academy": "76 cursos encontrados; 154 mantidos no catálogo.",
     "Nação Fluente": "1 cursos mantidos no catálogo.",
-    "Senar EAD": "96 cursos encontrados; 254 mantidos no catálogo. Fonte reportou 254.",
+    "Senar EAD": "16 cursos encontrados; 254 mantidos no catálogo. Fonte reportou 254.",
     "Sebrae Paraíba": "50 cursos encontrados; 59 mantidos no catálogo.",
     "UEMP": "15 cursos encontrados; 19 mantidos no catálogo.",
     "MEC Idiomas": "1 cursos mantidos no catálogo.",
@@ -43839,7 +43875,7 @@
     "RD Station University": "45 cursos encontrados; 45 mantidos no catálogo.",
     "Eu Capacito": "273 cursos encontrados; 273 mantidos no catálogo.",
     "UNA-SUS": "33 cursos encontrados; 33 mantidos no catálogo.",
-    "ENAP": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado."
+    "ENAP": "935 cursos encontrados; 935 mantidos no catálogo. Fonte reportou 938."
   },
   "generatedAt": "2026-09-03",
   "note": "Snapshot inicial construído a partir dos catálogos oficiais; cada cartão aponta para a página original do curso.",
