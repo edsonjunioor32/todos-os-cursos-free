@@ -519,8 +519,8 @@ const CATALOGS = [
       "https://www.enap.gov.br/busca/?q=&tipo=cursos&ordenacao=recentes&modalidade=a_distancia&modalidade=remoto&inscricoes=Aberta&page=78",
       "https://www.enap.gov.br/busca/?q=&tipo=cursos&ordenacao=recentes&modalidade=a_distancia&modalidade=remoto&inscricoes=Aberta&page=79"
     ],
-    hosts: ["www.enap.gov.br", "suap.enap.gov.br"],
-    match: /suap\.enap\.gov\.br\/vitrine\/curso\/\d+(?:[/?#]|$)/i,
+    hosts: ["www.enap.gov.br", "suap.enap.gov.br", "www.escolavirtual.gov.br"],
+    match: /(?:suap\.enap\.gov\.br\/vitrine\/curso\/\d+|www\.escolavirtual\.gov\.br\/curso\/\d+)(?:[/?#]|$)/i,
     sourceCountPattern: /de\s+(\d+)\s+resultados encontrados/i,
     requireReportedCount: true,
     strictCoverage: true,
