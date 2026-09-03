@@ -159,7 +159,7 @@
       "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Domine a IA com Gemini",
+      "title": "Curso Santander Google Domine a IA com Gemini Tecnologia",
       "url": "https://app.santanderopenacademy.com/pt-BR/course/master-ai-with-gemini"
     },
     {
@@ -168,7 +168,7 @@
       "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Curso Santander IE University Comunicação estratégica e trabalho em equipe Competências",
+      "title": "Comunicação estratégica e trabalho em equipe",
       "url": "https://app.santanderopenacademy.com/pt-BR/course/strategic-communication-teamwork"
     },
     {
@@ -249,7 +249,7 @@
       "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Curso Santander University of Pennsylvania Fundamentos de inglês: faça networking com confiança e se destaque nas entrevistas Idiomas",
+      "title": "Fundamentos de inglês: faça networking com confiança e se destaque nas entrevistas",
       "url": "https://app.santanderopenacademy.com/pt-BR/course/english-fundamentals-successful-networking-interviews"
     },
     {
@@ -43804,19 +43804,19 @@
   "coverage": {
     "Aprenda Mais MEC": "152 cursos encontrados; 400 mantidos no catálogo.",
     "Cruzeiro do Sul Virtual": "14 cursos encontrados; 14 mantidos no catálogo. Fonte reportou 14.",
-    "Escola Virtual": "61 cursos encontrados; 61 mantidos no catálogo.",
+    "Escola Virtual": "12 cursos encontrados; 61 mantidos no catálogo.",
     "FGV": "229 cursos encontrados; 229 mantidos no catálogo.",
     "Harvard": "132 cursos encontrados; 133 mantidos no catálogo.",
-    "Santander Open Academy": "75 cursos encontrados; 154 mantidos no catálogo.",
+    "Santander Open Academy": "78 cursos encontrados; 154 mantidos no catálogo.",
     "Nação Fluente": "1 cursos mantidos no catálogo.",
-    "Senar EAD": "56 cursos encontrados; 254 mantidos no catálogo. Fonte reportou 254.",
+    "Senar EAD": "96 cursos encontrados; 254 mantidos no catálogo. Fonte reportou 254.",
     "Sebrae Paraíba": "50 cursos encontrados; 59 mantidos no catálogo.",
     "UEMP": "15 cursos encontrados; 19 mantidos no catálogo.",
     "MEC Idiomas": "1 cursos mantidos no catálogo.",
     "HCX FMUSP": "12 cursos encontrados; 19 mantidos no catálogo.",
     "Prime Cursos": "525 cursos encontrados; 525 mantidos no catálogo.",
     "Senac EAD": "88 cursos encontrados; 91 mantidos no catálogo.",
-    "Coursera": "78 cursos encontrados; 112 mantidos no catálogo.",
+    "Coursera": "76 cursos encontrados; 112 mantidos no catálogo.",
     "Udemy": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
     "Fundação Itaú Autoformativos": "167 cursos encontrados; 333 mantidos no catálogo.",
     "Fundação Itaú Mediados": "21 cursos encontrados; 42 mantidos no catálogo.",
@@ -43839,7 +43839,7 @@
     "RD Station University": "45 cursos encontrados; 45 mantidos no catálogo.",
     "Eu Capacito": "273 cursos encontrados; 273 mantidos no catálogo.",
     "UNA-SUS": "33 cursos encontrados; 33 mantidos no catálogo.",
-    "ENAP": "28 cursos encontrados; 28 mantidos no catálogo."
+    "ENAP": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado."
   },
   "generatedAt": "2026-09-03",
   "note": "Snapshot inicial construído a partir dos catálogos oficiais; cada cartão aponta para a página original do curso.",
