@@ -448,7 +448,10 @@ const CATALOGS = [
     description: "Curso com inscrição aberta localizado no catálogo da ENAP.",
     minimumRecords: 1,
     failOnIncomplete: false,
-    maxPages: 24
+    nextPageSelector: "#paginacaoWrapper .paginacao button:nth-last-child(2):not(.disabled)",
+    clientPages: 79,
+    pageWaitMs: 1200,
+    maxPages: 79
   },
   {
     portal: "Eu Capacito",
