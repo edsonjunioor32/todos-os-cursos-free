@@ -150,7 +150,7 @@
       "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "IA e Responsabilidade: Criando uma IA Positiva",
+      "title": "Curso Santander IBM IA e Responsabilidade: Criando uma IA Positiva Tecnologia",
       "url": "https://app.santanderopenacademy.com/pt-BR/course/ai-and-responsibility-creating-a-positive-ai"
     },
     {
@@ -168,7 +168,7 @@
       "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Comunicação estratégica e trabalho em equipe",
+      "title": "Curso Santander IE University Comunicação estratégica e trabalho em equipe Competências",
       "url": "https://app.santanderopenacademy.com/pt-BR/course/strategic-communication-teamwork"
     },
     {
@@ -645,7 +645,7 @@
       "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
       "portal": "Santander Open Academy",
       "source": "https://www.santanderopenacademy.com/pt_br/index.html",
-      "title": "Power BI Intermediário: Análise e Modelagem de Dados",
+      "title": "Curso Santander Santander Open Academy Power BI Intermediário: Análise e Modelagem de Dados Ferramentas",
       "url": "https://app.santanderopenacademy.com/pt-BR/course/power-bi-intermediate-data-analysis-and-modeling"
     },
     {
@@ -15990,6 +15990,15 @@
       "url": "https://www.primecursos.com.br/estoquista"
     },
     {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso gratuito localizado no catálogo da Prime Cursos.",
+      "portal": "Prime Cursos",
+      "source": "https://www.primecursos.com.br/",
+      "title": "Curso de Capelania Evangélica",
+      "url": "https://www.primecursos.com.br/capelania-evangelica"
+    },
+    {
       "category": "Administração",
       "cert": "free",
       "description": "Curso técnico do Programa Senac de Gratuidade.",
@@ -17824,6 +17833,15 @@
       "source": "https://www.coursera.org/courses?query=free",
       "title": "Learn to Program: The Fundamentals",
       "url": "https://www.coursera.org/learn/learn-to-program"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado na busca gratuita da Coursera; condições de certificado podem variar.",
+      "portal": "Coursera",
+      "source": "https://www.coursera.org/courses?query=free",
+      "title": "Human Rights for Open Societies",
+      "url": "https://www.coursera.org/learn/humanrights"
     },
     {
       "category": "Idiomas",
@@ -19976,6 +19994,15 @@
       "source": "https://pll.harvard.edu/catalog?price%5B1%5D=1&max_price=&start_date=&keywords=&url=",
       "title": "Emerging Leaders",
       "url": "https://pll.harvard.edu/course/emerging-leaders"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado no catálogo gratuito da Harvard.",
+      "portal": "Harvard",
+      "source": "https://pll.harvard.edu/catalog?price%5B1%5D=1&max_price=&start_date=&keywords=&url=",
+      "title": "Leadership and Ethics: Moral Leadership in Personal Practice",
+      "url": "https://pll.harvard.edu/course/leadership-and-ethics-moral-leadership-personal-practice"
     },
     {
       "category": "Arte, cultura e educação",
@@ -35076,7 +35103,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Seu Futuro no Desenvolvimento Web: O Panorama de Emprego Sobre esta atividade de aprendizado Job Analysis Leadership 1 a 3 horas Intermediário",
+      "title": "Seu Futuro no Desenvolvimento Web: O Panorama de Emprego Sobre esta atividade de aprendizado Teamwork Career Decision Making 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058943?lang=pt-br"
     },
     {
@@ -35211,7 +35238,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Fundamentos do Desenvolvimento Web Sobre esta atividade de aprendizado Front End Software Engineering Programming Language 1 a 3 horas Intermediário",
+      "title": "Fundamentos do Desenvolvimento Web Sobre esta atividade de aprendizado Web Development Front End Software Engineering 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058937?lang=pt-br"
     },
     {
@@ -35274,7 +35301,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Introdução ao HTML e CSS Sobre esta atividade de aprendizado Workflow Management Cascading Style Sheets CSS 1 a 3 horas Intermediário",
+      "title": "Introdução ao HTML e CSS Sobre esta atividade de aprendizado HyperText Markup Language HTML Information Management 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058939?lang=pt-br"
     },
     {
@@ -35301,7 +35328,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Explorando os aspectos básicos do gerenciamento de projeto Bem-vindo ao mundo do gerenciamento de projeto: o que é, como funciona e por que é importante! Application Frameworks...",
+      "title": "Explorando os aspectos básicos do gerenciamento de projeto Bem-vindo ao mundo do gerenciamento de projeto: o que é, como funciona e por que é importante! Product Management Proj...",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3826383?lang=pt-br"
     },
     {
@@ -35391,7 +35418,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings VectorCAST Search Engine Algorithms 3 a 10 horas Avançado",
+      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Google Colaboratory Text Annotation 3 a 10 horas Avançado",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3947353?lang=pt-br"
     },
     {
@@ -35490,7 +35517,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Teste e Implementação de Website Sobre esta atividade de aprendizado Deployment Software Workflow Management 1 a 3 horas Intermediário",
+      "title": "Teste e Implementação de Website Sobre esta atividade de aprendizado Web Development DevOps 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058941?lang=pt-br"
     },
     {
@@ -35499,7 +35526,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Dando Sentido aos Dados Selecione Ir para atividade para abrir o conteúdo! Willingness To Learn Work Ethic 1 a 3 horas Fundamental",
+      "title": "Dando Sentido aos Dados Selecione Ir para atividade para abrir o conteúdo! Data Analysis Data Visualization 1 a 3 horas Fundamental",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4065068?lang=pt-br"
     },
     {
@@ -35769,7 +35796,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Dando Vida a Websites com JavaScript Sobre esta atividade de aprendizado Python JavaScript Programming Language 1 a 3 horas Intermediário",
+      "title": "Dando Vida a Websites com JavaScript Sobre esta atividade de aprendizado Written Communication Event Planning 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058940?lang=pt-br"
     },
     {
@@ -36183,7 +36210,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma Página da Web de Lista de Tarefas Interativa Sobre esta atividade de aprendizado JavaScript Programming Language Cascading Style Sheets CSS 1 a 3 horas Intermediário",
+      "title": "Desenvolva uma Página da Web de Lista de Tarefas Interativa Sobre esta atividade de aprendizado CSS Design Wireframing 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058942?lang=pt-br"
     },
     {
@@ -36273,7 +36300,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolvendo Sites para a Web Sobre esta atividade de aprendizado Systems Development Life Cycle HTML 1 a 3 horas Intermediário",
+      "title": "Desenvolvendo Sites para a Web Sobre esta atividade de aprendizado Software Development Life Cycle HTML5 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058938?lang=pt-br"
     },
     {
@@ -36588,7 +36615,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings VectorCAST Search Engine Algorithms 3 a 10 horas Avançado",
+      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Google Colaboratory Text Annotation 3 a 10 horas Avançado",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3947353?ngo-id=0302&lang=pt-br"
     },
     {
@@ -37346,6 +37373,24 @@
       "source": "https://learn.microsoft.com/pt-br/training/browse/",
       "title": "Implantar e monitorar um modelo no Azure Machine Learning",
       "url": "https://learn.microsoft.com/pt-br/training/modules/deploy-model-github-actions"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Da caixa de entrada ao impacto: melhore seus fluxos de trabalho de email com IA",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/from-inbox-impact-improve-your-email-workflows-ai"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Introdução ao Transact-SQL",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/introduction-to-transact-sql"
     },
     {
       "category": "Gestão de pessoas",
@@ -38327,6 +38372,15 @@
       "source": "https://escoladepessoas.com.br/trilha/consultoria/",
       "title": "Liderança",
       "url": "https://escoladepessoas.com.br/curso/gestao-de-riscos-trabalhistas"
+    },
+    {
+      "category": "Gestão de pessoas",
+      "cert": "maybe",
+      "description": "Curso gratuito da Escola de Pessoas.",
+      "portal": "Escola de Pessoas",
+      "source": "https://escoladepessoas.com.br/trilha/consultoria/",
+      "title": "Gestão Comportamental",
+      "url": "https://escoladepessoas.com.br/curso/fundamentos-analista-comportamental-profiler"
     },
     {
       "category": "Tecnologia",
@@ -44132,6 +44186,24 @@
       "source": "https://www.enap.gov.br/busca/?q=&tipo=cursos&ordenacao=recentes&modalidade=a_distancia&modalidade=remoto&inscricoes=Aberta&page=1",
       "title": "Aberta Praticando a Lei de Improbidade Administrativa Analise as condutas que configuram improbidade administrativa, à luz da legislação e das normas de regência, para a efetiva...",
       "url": "https://suap.enap.gov.br/vitrine/curso/2229"
+    },
+    {
+      "category": "Administração Pública",
+      "cert": "check",
+      "description": "Curso com inscrição aberta localizado no catálogo da ENAP.",
+      "portal": "ENAP",
+      "source": "https://www.enap.gov.br/busca/?q=&tipo=cursos&ordenacao=recentes&modalidade=a_distancia&modalidade=remoto&inscricoes=Aberta&page=1",
+      "title": "Aberta Dominando a Gestão de Projetos Desenvolva sua capacidade gerencial para construção de projetos de sucesso na sua organização. 09/09/2026",
+      "url": "https://suap.enap.gov.br/vitrine/curso/2026"
+    },
+    {
+      "category": "Administração Pública",
+      "cert": "check",
+      "description": "Curso com inscrição aberta localizado no catálogo da ENAP.",
+      "portal": "ENAP",
+      "source": "https://www.enap.gov.br/busca/?q=&tipo=cursos&ordenacao=recentes&modalidade=a_distancia&modalidade=remoto&inscricoes=Aberta&page=1",
+      "title": "Aberta Mentoria Coletiva — O digital também é território de liderança: como usá-lo para fortalecer a diversidade e a democracia? Mentoria coletiva para o fortalecimento da comun...",
+      "url": "https://suap.enap.gov.br/vitrine/curso/3181"
     }
   ],
   "coverage": {
@@ -44139,17 +44211,17 @@
     "Cruzeiro do Sul Virtual": "14 cursos encontrados; 14 mantidos no catálogo. Fonte reportou 14.",
     "Escola Virtual": "61 cursos encontrados; 61 mantidos no catálogo.",
     "FGV": "229 cursos encontrados; 229 mantidos no catálogo.",
-    "Harvard": "132 cursos encontrados; 133 mantidos no catálogo.",
-    "Santander Open Academy": "78 cursos encontrados; 154 mantidos no catálogo.",
+    "Harvard": "132 cursos encontrados; 134 mantidos no catálogo.",
+    "Santander Open Academy": "75 cursos encontrados; 154 mantidos no catálogo.",
     "Nação Fluente": "1 cursos mantidos no catálogo.",
-    "Senar EAD": "16 cursos encontrados; 254 mantidos no catálogo. Fonte reportou 254.",
+    "Senar EAD": "254 cursos encontrados; 254 mantidos no catálogo. Fonte reportou 254.",
     "Sebrae Paraíba": "50 cursos encontrados; 59 mantidos no catálogo.",
     "UEMP": "15 cursos encontrados; 19 mantidos no catálogo.",
     "MEC Idiomas": "1 cursos mantidos no catálogo.",
     "HCX FMUSP": "12 cursos encontrados; 19 mantidos no catálogo.",
-    "Prime Cursos": "526 cursos encontrados; 526 mantidos no catálogo.",
+    "Prime Cursos": "527 cursos encontrados; 527 mantidos no catálogo.",
     "Senac EAD": "86 cursos encontrados; 92 mantidos no catálogo.",
-    "Coursera": "83 cursos encontrados; 112 mantidos no catálogo.",
+    "Coursera": "79 cursos encontrados; 113 mantidos no catálogo.",
     "Udemy": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
     "Fundação Itaú Autoformativos": "167 cursos encontrados; 333 mantidos no catálogo.",
     "Fundação Itaú Mediados": "21 cursos encontrados; 42 mantidos no catálogo.",
@@ -44157,13 +44229,13 @@
     "LÚMINA UFRGS": "120 cursos encontrados; 120 mantidos no catálogo.",
     "e-Aulas USP": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
     "Life Global": "12 cursos encontrados; 12 mantidos no catálogo.",
-    "Khan Academy": "4 cursos encontrados; 26 mantidos no catálogo.",
+    "Khan Academy": "26 cursos encontrados; 26 mantidos no catálogo.",
     "Escola Virtual Gov": "1041 cursos encontrados; 1042 mantidos no catálogo. Fonte reportou 1041.",
     "IBM SkillsBuild": "218 cursos encontrados; 218 mantidos no catálogo.",
-    "Microsoft Learn": "53 cursos encontrados; 59 mantidos no catálogo.",
-    "Escola de Pessoas": "109 cursos encontrados; 109 mantidos no catálogo.",
+    "Microsoft Learn": "53 cursos encontrados; 61 mantidos no catálogo.",
+    "Escola de Pessoas": "109 cursos encontrados; 110 mantidos no catálogo.",
     "Cisco CiberEducação": "1 cursos encontrados; 1 mantidos no catálogo.",
-    "PUCRS Online": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
+    "PUCRS Online": "44 cursos encontrados; 44 mantidos no catálogo.",
     "+IFMG": "95 cursos encontrados; 95 mantidos no catálogo.",
     "Futuro Digital": "42 cursos encontrados; 42 mantidos no catálogo.",
     "NVIDIA Training": "11 cursos encontrados; 11 mantidos no catálogo.",
@@ -44172,9 +44244,9 @@
     "RD Station University": "45 cursos encontrados; 45 mantidos no catálogo.",
     "Eu Capacito": "273 cursos encontrados; 273 mantidos no catálogo.",
     "UNA-SUS": "33 cursos encontrados; 33 mantidos no catálogo.",
-    "ENAP": "933 cursos encontrados; 940 mantidos no catálogo. Fonte reportou 935."
+    "ENAP": "935 cursos encontrados; 942 mantidos no catálogo. Fonte reportou 937."
   },
-  "generatedAt": "2026-09-08",
+  "generatedAt": "2026-09-09",
   "note": "Snapshot inicial construído a partir dos catálogos oficiais; cada cartão aponta para a página original do curso.",
   "sources": [
     {
