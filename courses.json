@@ -1396,6 +1396,24 @@
       "url": "https://app.santanderopenacademy.com/pt-BR/program/venture-campus-winter-term-2026-2027"
     },
     {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Santander Excel Com Ia E Claude 2 Semestre",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/santander-excel-com-ia-e-claude-2-semestre"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso localizado no catálogo de cursos da Santander Open Academy.",
+      "portal": "Santander Open Academy",
+      "source": "https://www.santanderopenacademy.com/pt_br/index.html",
+      "title": "Santander Profissional Digital",
+      "url": "https://app.santanderopenacademy.com/pt-BR/program/santander-profissional-digital"
+    },
+    {
       "category": "Tecnologia e Ciência de Dados",
       "cert": "declaration",
       "description": "Curso gratuito online da FGV · 15 horas/aula. A instituição informa que os cursos gratuitos não geram certificado; após aprovação no pós-teste, é possível emitir uma declaração de participação.",
@@ -11092,6 +11110,15 @@
       "source": "https://aprendamais.mec.gov.br/course/index.php",
       "title": "Summary",
       "url": "https://aprendamais.mec.gov.br/course/info.php?id=3519"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "free",
+      "description": "Curso gratuito da plataforma Aprenda Mais MEC.",
+      "portal": "Aprenda Mais MEC",
+      "source": "https://aprendamais.mec.gov.br/course/index.php",
+      "title": "Summary",
+      "url": "https://aprendamais.mec.gov.br/course/info.php?id=3088"
     },
     {
       "category": "Saúde",
@@ -33406,6 +33433,69 @@
       "url": "https://ensino.einstein.br/curso_gratuito_mecanismos_de_arritmia_p14594/p"
     },
     {
+      "category": "Saúde",
+      "cert": "maybe",
+      "description": "Curso gratuito localizado no catálogo do Ensino Einstein.",
+      "portal": "Ensino Einstein",
+      "source": "https://ensino.einstein.br/curta-duracao/cursos-gratuitos?O=OrderByScoreDESC",
+      "title": "Colonoscopia Virtual: Aspecto Técnicos",
+      "url": "https://ensino.einstein.br/curso_gratuito_colonoscopia_virtual_aspect_p5506/p"
+    },
+    {
+      "category": "Saúde",
+      "cert": "maybe",
+      "description": "Curso gratuito localizado no catálogo do Ensino Einstein.",
+      "portal": "Ensino Einstein",
+      "source": "https://ensino.einstein.br/curta-duracao/cursos-gratuitos?O=OrderByScoreDESC",
+      "title": "Como Apoiar Família de Prematuro",
+      "url": "https://ensino.einstein.br/curso_gratuito_como_apoiar_familia_de_prema_p5507/p"
+    },
+    {
+      "category": "Saúde",
+      "cert": "maybe",
+      "description": "Curso gratuito localizado no catálogo do Ensino Einstein.",
+      "portal": "Ensino Einstein",
+      "source": "https://ensino.einstein.br/curta-duracao/cursos-gratuitos?O=OrderByScoreDESC",
+      "title": "Como Desenvolver as Habilidades na Emergência",
+      "url": "https://ensino.einstein.br/curso_gratuito_como_desenvolver_as_habilida_p5508/p"
+    },
+    {
+      "category": "Saúde",
+      "cert": "maybe",
+      "description": "Curso gratuito localizado no catálogo do Ensino Einstein.",
+      "portal": "Ensino Einstein",
+      "source": "https://ensino.einstein.br/curta-duracao/cursos-gratuitos?O=OrderByScoreDESC",
+      "title": "BI-RADS: Lesões Que Merecem Atenção",
+      "url": "https://ensino.einstein.br/curso_gratuito_bi-rads_lesoes_que_merecem__p5493/p"
+    },
+    {
+      "category": "Saúde",
+      "cert": "maybe",
+      "description": "Curso gratuito localizado no catálogo do Ensino Einstein.",
+      "portal": "Ensino Einstein",
+      "source": "https://ensino.einstein.br/curta-duracao/cursos-gratuitos?O=OrderByScoreDESC",
+      "title": "As 5 Emergências Oncológicas Imperdíveis",
+      "url": "https://ensino.einstein.br/curso_gratuito_as_5_emergencias_oncologicas_p5484/p"
+    },
+    {
+      "category": "Saúde",
+      "cert": "maybe",
+      "description": "Curso gratuito localizado no catálogo do Ensino Einstein.",
+      "portal": "Ensino Einstein",
+      "source": "https://ensino.einstein.br/curta-duracao/cursos-gratuitos?O=OrderByScoreDESC",
+      "title": "Apoiando Pais com Deficiências na Amamentação",
+      "url": "https://ensino.einstein.br/curso_gratuito_apoiando_pais_com_deficienci_p5483/p"
+    },
+    {
+      "category": "Saúde",
+      "cert": "maybe",
+      "description": "Curso gratuito localizado no catálogo do Ensino Einstein.",
+      "portal": "Ensino Einstein",
+      "source": "https://ensino.einstein.br/curta-duracao/cursos-gratuitos?O=OrderByScoreDESC",
+      "title": "Candidíase Mamária",
+      "url": "https://ensino.einstein.br/curso_gratuito_candidiase_mamaria_p5501/p"
+    },
+    {
       "category": "Cursos gratuitos",
       "cert": "check",
       "description": "Curso gratuito da plataforma LÚMINA da UFRGS.",
@@ -35202,7 +35292,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Seu Futuro no Desenvolvimento Web: O Panorama de Emprego Sobre esta atividade de aprendizado Career Decision Making Leadership 1 a 3 horas Intermediário",
+      "title": "Seu Futuro no Desenvolvimento Web: O Panorama de Emprego Sobre esta atividade de aprendizado Career Decision Making Teamwork 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058943?lang=pt-br"
     },
     {
@@ -35337,7 +35427,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Fundamentos do Desenvolvimento Web Sobre esta atividade de aprendizado Front End Software Engineering Programming Language 1 a 3 horas Intermediário",
+      "title": "Fundamentos do Desenvolvimento Web Sobre esta atividade de aprendizado Web Development Programming Language 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058937?lang=pt-br"
     },
     {
@@ -35400,7 +35490,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Introdução ao HTML e CSS Sobre esta atividade de aprendizado Cascading Style Sheets CSS HyperText Markup Language HTML 1 a 3 horas Intermediário",
+      "title": "Introdução ao HTML e CSS Sobre esta atividade de aprendizado HyperText Markup Language HTML Information Management 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058939?lang=pt-br"
     },
     {
@@ -35427,7 +35517,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Explorando os aspectos básicos do gerenciamento de projeto Bem-vindo ao mundo do gerenciamento de projeto: o que é, como funciona e por que é importante! Project Management Appl...",
+      "title": "Explorando os aspectos básicos do gerenciamento de projeto Bem-vindo ao mundo do gerenciamento de projeto: o que é, como funciona e por que é importante! Stakeholder Analysis Ap...",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3826383?lang=pt-br"
     },
     {
@@ -35517,7 +35607,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Google Colaboratory Data Optimization 3 a 10 horas Avançado",
+      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Search Engine Algorithms Google Colaboratory 3 a 10 horas Avançado",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3947353?lang=pt-br"
     },
     {
@@ -35616,7 +35706,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Teste e Implementação de Website Sobre esta atividade de aprendizado Version Control DevOps 1 a 3 horas Intermediário",
+      "title": "Teste e Implementação de Website Sobre esta atividade de aprendizado Version Control Feature Films 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058941?lang=pt-br"
     },
     {
@@ -35625,7 +35715,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Dando Sentido aos Dados Selecione Ir para atividade para abrir o conteúdo! Data Interpretation Data Visualization 1 a 3 horas Fundamental",
+      "title": "Dando Sentido aos Dados Selecione Ir para atividade para abrir o conteúdo! Willingness To Learn Data Storytelling 1 a 3 horas Fundamental",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4065068?lang=pt-br"
     },
     {
@@ -35895,7 +35985,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Dando Vida a Websites com JavaScript Sobre esta atividade de aprendizado Cascading Style Sheets CSS Web Development 1 a 3 horas Intermediário",
+      "title": "Dando Vida a Websites com JavaScript Sobre esta atividade de aprendizado Web Development HyperText Markup Language HTML 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058940?lang=pt-br"
     },
     {
@@ -36309,7 +36399,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma Página da Web de Lista de Tarefas Interativa Sobre esta atividade de aprendizado Cascading Style Sheets CSS Web Application Security Testing 1 a 3 horas Intermedi...",
+      "title": "Desenvolva uma Página da Web de Lista de Tarefas Interativa Sobre esta atividade de aprendizado HyperText Markup Language HTML CSS Design 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058942?lang=pt-br"
     },
     {
@@ -36399,7 +36489,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolvendo Sites para a Web Sobre esta atividade de aprendizado Cascading Style Sheets CSS Web Development 1 a 3 horas Intermediário",
+      "title": "Desenvolvendo Sites para a Web Sobre esta atividade de aprendizado Web Development Agile Methodology 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058938?lang=pt-br"
     },
     {
@@ -36714,7 +36804,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Google Colaboratory Data Optimization 3 a 10 horas Avançado",
+      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Search Engine Algorithms Google Colaboratory 3 a 10 horas Avançado",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3947353?ngo-id=0302&lang=pt-br"
     },
     {
@@ -36948,7 +37038,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Solução de problemas e pensamento crítico Grandes profissionais não apenas reagem aos problemas; eles os resolvem com clareza e criatividade. Critical Thinking Problem Solving 1...",
+      "title": "Solução de problemas e pensamento crítico Grandes profissionais não apenas reagem aos problemas; eles os resolvem com clareza e criatividade. Problem Solving Critical Thinking 1...",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3953916?lang=pt-br"
     },
     {
@@ -36966,7 +37056,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Comunicação interpessoal e no ambiente de trabalho Comunicação clara e respeitosa é essencial para construir relacionamentos e lidar com ambientes de trabalho complexos. Interpe...",
+      "title": "Comunicação interpessoal e no ambiente de trabalho Comunicação clara e respeitosa é essencial para construir relacionamentos e lidar com ambientes de trabalho complexos. Communi...",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3953914?lang=pt-br"
     },
     {
@@ -39837,15 +39927,6 @@
       "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
       "portal": "Futuro Digital",
       "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
-      "title": "Programação Avançada em Python",
-      "url": "https://www.futuro.digital/dn-programacao-avancada-em-python-mic1317-120-60h-16277/p"
-    },
-    {
-      "category": "Cursos gratuitos",
-      "cert": "check",
-      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
-      "portal": "Futuro Digital",
-      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
       "title": "Logística para a Indústria 4.0",
       "url": "https://www.futuro.digital/dn-logistica-para-a-industria-40-mic587-120-60h-3151/p"
     },
@@ -39857,6 +39938,15 @@
       "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
       "title": "Vírus e a Gestão da Cibersegurança",
       "url": "https://www.futuro.digital/dn-virus-e-a-gestao-da-ciberseguranca-mic1284-120-30h-15373/p"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "check",
+      "description": "Curso gratuito localizado no catálogo do Futuro Digital; consulte as condições do certificado na página original.",
+      "portal": "Futuro Digital",
+      "source": "https://www.futuro.digital/cursos-gratuitos?estado=dn&estado=nacional&estado=PB&category-1=cursos-gratuitos&fuzzy=0&operator=and&facets=estado%2Ccategory-1%2Cfuzzy%2Coperator&sort=price_desc&page=0",
+      "title": "Programação Avançada em Python",
+      "url": "https://www.futuro.digital/dn-programacao-avancada-em-python-mic1317-120-60h-16277/p"
     },
     {
       "category": "Cursos gratuitos",
@@ -44504,25 +44594,25 @@
     }
   ],
   "coverage": {
-    "Aprenda Mais MEC": "152 cursos encontrados; 400 mantidos no catálogo.",
+    "Aprenda Mais MEC": "153 cursos encontrados; 401 mantidos no catálogo.",
     "Cruzeiro do Sul Virtual": "14 cursos encontrados; 14 mantidos no catálogo. Fonte reportou 14.",
     "Escola Virtual": "61 cursos encontrados; 61 mantidos no catálogo.",
-    "FGV": "229 cursos encontrados; 229 mantidos no catálogo.",
+    "FGV": "228 cursos encontrados; 229 mantidos no catálogo.",
     "Harvard": "132 cursos encontrados; 134 mantidos no catálogo.",
-    "Santander Open Academy": "147 cursos encontrados; 155 mantidos no catálogo.",
+    "Santander Open Academy": "147 cursos encontrados; 157 mantidos no catálogo.",
     "Nação Fluente": "1 cursos mantidos no catálogo.",
-    "Senar EAD": "8 cursos encontrados; 254 mantidos no catálogo. Fonte reportou 254.",
+    "Senar EAD": "24 cursos encontrados; 254 mantidos no catálogo. Fonte reportou 254.",
     "Sebrae Paraíba": "50 cursos encontrados; 59 mantidos no catálogo.",
     "UEMP": "15 cursos encontrados; 19 mantidos no catálogo.",
     "MEC Idiomas": "1 cursos mantidos no catálogo.",
     "HCX FMUSP": "12 cursos encontrados; 19 mantidos no catálogo.",
     "Prime Cursos": "532 cursos encontrados; 532 mantidos no catálogo.",
-    "Senac EAD": "85 cursos encontrados; 93 mantidos no catálogo.",
-    "Coursera": "71 cursos encontrados; 114 mantidos no catálogo.",
+    "Senac EAD": "84 cursos encontrados; 93 mantidos no catálogo.",
+    "Coursera": "81 cursos encontrados; 114 mantidos no catálogo.",
     "Udemy": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
-    "Fundação Itaú Autoformativos": "167 cursos encontrados; 333 mantidos no catálogo.",
+    "Fundação Itaú Autoformativos": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
     "Fundação Itaú Mediados": "21 cursos encontrados; 42 mantidos no catálogo.",
-    "Ensino Einstein": "60 cursos encontrados; 61 mantidos no catálogo.",
+    "Ensino Einstein": "67 cursos encontrados; 68 mantidos no catálogo.",
     "LÚMINA UFRGS": "120 cursos encontrados; 120 mantidos no catálogo.",
     "e-Aulas USP": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
     "Life Global": "12 cursos encontrados; 12 mantidos no catálogo.",
@@ -44541,9 +44631,9 @@
     "RD Station University": "45 cursos encontrados; 45 mantidos no catálogo.",
     "Eu Capacito": "273 cursos encontrados; 273 mantidos no catálogo.",
     "UNA-SUS": "33 cursos encontrados; 33 mantidos no catálogo.",
-    "ENAP": "933 cursos encontrados; 945 mantidos no catálogo. Fonte reportou 934."
+    "ENAP": "932 cursos encontrados; 945 mantidos no catálogo. Fonte reportou 933."
   },
-  "generatedAt": "2026-09-14",
+  "generatedAt": "2026-09-15",
   "note": "Snapshot inicial construído a partir dos catálogos oficiais; cada cartão aponta para a página original do curso.",
   "sources": [
     {
