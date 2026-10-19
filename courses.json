@@ -19689,6 +19689,15 @@
       "url": "https://www.coursera.org/learn/10k-women-2"
     },
     {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado na busca gratuita da Coursera; condições de certificado podem variar.",
+      "portal": "Coursera",
+      "source": "https://www.coursera.org/courses?query=free",
+      "title": "Networking in Google Cloud: Network Security - Français",
+      "url": "https://www.coursera.org/learn/networking-in-google-cloud-network-security---franais"
+    },
+    {
       "category": "Idiomas",
       "cert": "maybe",
       "description": "Curso gratuito de introdução ao português.",
@@ -37434,7 +37443,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Seu Futuro no Desenvolvimento Web: O Panorama de Emprego Sobre esta atividade de aprendizado Leadership Job Analysis 1 a 3 horas Intermediário",
+      "title": "Seu Futuro no Desenvolvimento Web: O Panorama de Emprego Sobre esta atividade de aprendizado Career Decision Making Job Analysis 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058943?lang=pt-br"
     },
     {
@@ -37569,7 +37578,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Fundamentos do Desenvolvimento Web Sobre esta atividade de aprendizado Front End Software Engineering Programming Language 1 a 3 horas Intermediário",
+      "title": "Fundamentos do Desenvolvimento Web Sobre esta atividade de aprendizado Front End Software Engineering Machine Operation 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058937?lang=pt-br"
     },
     {
@@ -37632,7 +37641,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Introdução ao HTML e CSS Sobre esta atividade de aprendizado Workflow Management Cascading Style Sheets CSS 1 a 3 horas Intermediário",
+      "title": "Introdução ao HTML e CSS Sobre esta atividade de aprendizado Cascading Style Sheets CSS HTML 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058939?lang=pt-br"
     },
     {
@@ -37659,7 +37668,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Explorando os aspectos básicos do gerenciamento de projeto Bem-vindo ao mundo do gerenciamento de projeto: o que é, como funciona e por que é importante! Stakeholder Analysis Ap...",
+      "title": "Explorando os aspectos básicos do gerenciamento de projeto Bem-vindo ao mundo do gerenciamento de projeto: o que é, como funciona e por que é importante! Project Management Appl...",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3826383?lang=pt-br"
     },
     {
@@ -37749,7 +37758,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Text Annotation Data Optimization 3 a 10 horas Avançado",
+      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings VectorCAST Search Engine Algorithms 3 a 10 horas Avançado",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3947353?lang=pt-br"
     },
     {
@@ -37848,7 +37857,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Teste e Implementação de Website Sobre esta atividade de aprendizado Feature Films Workflow Management 1 a 3 horas Intermediário",
+      "title": "Teste e Implementação de Website Sobre esta atividade de aprendizado Cloud Computing Version Control 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058941?lang=pt-br"
     },
     {
@@ -37857,7 +37866,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Dando Sentido aos Dados Selecione Ir para atividade para abrir o conteúdo! Decision Making Data Visualization 1 a 3 horas Fundamental",
+      "title": "Dando Sentido aos Dados Selecione Ir para atividade para abrir o conteúdo! Data Interpretation Data Analysis 1 a 3 horas Fundamental",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4065068?lang=pt-br"
     },
     {
@@ -38127,7 +38136,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Dando Vida a Websites com JavaScript Sobre esta atividade de aprendizado Written Communication Python 1 a 3 horas Intermediário",
+      "title": "Dando Vida a Websites com JavaScript Sobre esta atividade de aprendizado Cascading Style Sheets CSS Written Communication 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058940?lang=pt-br"
     },
     {
@@ -38541,7 +38550,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma Página da Web de Lista de Tarefas Interativa Sobre esta atividade de aprendizado CSS Design HyperText Markup Language HTML 1 a 3 horas Intermediário",
+      "title": "Desenvolva uma Página da Web de Lista de Tarefas Interativa Sobre esta atividade de aprendizado Cascading Style Sheets CSS HTML 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058942?lang=pt-br"
     },
     {
@@ -38631,7 +38640,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolvendo Sites para a Web Sobre esta atividade de aprendizado Agile Methodology Scrum Software Development 1 a 3 horas Intermediário",
+      "title": "Desenvolvendo Sites para a Web Sobre esta atividade de aprendizado Systems Development Life Cycle Cascading Style Sheets CSS 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058938?lang=pt-br"
     },
     {
@@ -38946,7 +38955,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Text Annotation Data Optimization 3 a 10 horas Avançado",
+      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings VectorCAST Search Engine Algorithms 3 a 10 horas Avançado",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3947353?ngo-id=0302&lang=pt-br"
     },
     {
@@ -39198,7 +39207,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Comunicação interpessoal e no ambiente de trabalho Comunicação clara e respeitosa é essencial para construir relacionamentos e lidar com ambientes de trabalho complexos. Communi...",
+      "title": "Comunicação interpessoal e no ambiente de trabalho Comunicação clara e respeitosa é essencial para construir relacionamentos e lidar com ambientes de trabalho complexos. Emotion...",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3953914?lang=pt-br"
     },
     {
@@ -46945,19 +46954,19 @@
   "coverage": {
     "Aprenda Mais MEC": "154 cursos encontrados; 402 mantidos no catálogo.",
     "Cruzeiro do Sul Virtual": "14 cursos encontrados; 14 mantidos no catálogo. Fonte reportou 14.",
-    "Escola Virtual": "48 cursos encontrados; 61 mantidos no catálogo.",
+    "Escola Virtual": "61 cursos encontrados; 61 mantidos no catálogo.",
     "FGV": "227 cursos encontrados; 229 mantidos no catálogo.",
     "Harvard": "129 cursos encontrados; 136 mantidos no catálogo.",
     "Santander Open Academy": "141 cursos encontrados; 287 mantidos no catálogo.",
     "Nação Fluente": "1 cursos mantidos no catálogo.",
-    "Senar EAD": "255 cursos encontrados; 255 mantidos no catálogo. Fonte reportou 255.",
+    "Senar EAD": "16 cursos encontrados; 255 mantidos no catálogo. Fonte reportou 254.",
     "Sebrae Paraíba": "49 cursos encontrados; 61 mantidos no catálogo.",
     "UEMP": "15 cursos encontrados; 19 mantidos no catálogo.",
     "MEC Idiomas": "1 cursos mantidos no catálogo.",
     "HCX FMUSP": "12 cursos encontrados; 21 mantidos no catálogo.",
     "Prime Cursos": "533 cursos encontrados; 533 mantidos no catálogo.",
-    "Senac EAD": "70 cursos encontrados; 103 mantidos no catálogo.",
-    "Coursera": "69 cursos encontrados; 161 mantidos no catálogo.",
+    "Senac EAD": "58 cursos encontrados; 103 mantidos no catálogo.",
+    "Coursera": "67 cursos encontrados; 162 mantidos no catálogo.",
     "Udemy": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
     "Fundação Itaú Autoformativos": "167 cursos encontrados; 335 mantidos no catálogo.",
     "Fundação Itaú Mediados": "21 cursos encontrados; 42 mantidos no catálogo.",
@@ -46968,7 +46977,7 @@
     "Khan Academy": "26 cursos encontrados; 26 mantidos no catálogo.",
     "Escola Virtual Gov": "1056 cursos encontrados; 1059 mantidos no catálogo. Fonte reportou 1056.",
     "IBM SkillsBuild": "222 cursos encontrados; 223 mantidos no catálogo.",
-    "Microsoft Learn": "54 cursos encontrados; 71 mantidos no catálogo.",
+    "Microsoft Learn": "55 cursos encontrados; 71 mantidos no catálogo.",
     "Escola de Pessoas": "89 cursos encontrados; 114 mantidos no catálogo.",
     "Cisco CiberEducação": "1 cursos encontrados; 1 mantidos no catálogo.",
     "PUCRS Online": "44 cursos encontrados; 44 mantidos no catálogo.",
@@ -46982,7 +46991,7 @@
     "UNA-SUS": "34 cursos encontrados; 34 mantidos no catálogo.",
     "ENAP": "920 cursos encontrados; 954 mantidos no catálogo. Fonte reportou 920."
   },
-  "generatedAt": "2026-10-18",
+  "generatedAt": "2026-10-19",
   "note": "Snapshot inicial construído a partir dos catálogos oficiais; cada cartão aponta para a página original do curso.",
   "sources": [
     {
