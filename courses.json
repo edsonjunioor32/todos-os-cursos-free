@@ -24903,6 +24903,15 @@
     {
       "category": "Arte, cultura e educação",
       "cert": "check",
+      "description": "Curso gratuito da Escola Fundação Itaú.",
+      "portal": "Fundação Itaú Autoformativos",
+      "source": "https://fundacaoitau.org.br/escola/autoformativos",
+      "title": "Experiências em economia criativa em territórios descentralizados",
+      "url": "https://www.fundacaoitau.org.br/escola/autoformativos/experiencias-em-economia-criativa-em-territorios-descentralizados"
+    },
+    {
+      "category": "Arte, cultura e educação",
+      "cert": "check",
       "description": "Curso mediado da Escola Fundação Itaú; condições de inscrição podem variar.",
       "portal": "Fundação Itaú Mediados",
       "source": "https://fundacaoitau.org.br/escola/mediados",
@@ -37452,7 +37461,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Seu Futuro no Desenvolvimento Web: O Panorama de Emprego Sobre esta atividade de aprendizado Leadership Career Decision Making 1 a 3 horas Intermediário",
+      "title": "Seu Futuro no Desenvolvimento Web: O Panorama de Emprego Sobre esta atividade de aprendizado Career Decision Making Job Analysis 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058943?lang=pt-br"
     },
     {
@@ -37587,7 +37596,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Fundamentos do Desenvolvimento Web Sobre esta atividade de aprendizado Front End Software Engineering Web Development 1 a 3 horas Intermediário",
+      "title": "Fundamentos do Desenvolvimento Web Sobre esta atividade de aprendizado Front End Software Engineering Programming Language 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058937?lang=pt-br"
     },
     {
@@ -37650,7 +37659,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Introdução ao HTML e CSS Sobre esta atividade de aprendizado HyperText Markup Language HTML Information Management 1 a 3 horas Intermediário",
+      "title": "Introdução ao HTML e CSS Sobre esta atividade de aprendizado HTML Cascading Style Sheets CSS 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058939?lang=pt-br"
     },
     {
@@ -37767,7 +37776,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Data Optimization Google Colaboratory 3 a 10 horas Avançado",
+      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Search Engine Algorithms Image Annotation 3 a 10 horas Avançado",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3947353?lang=pt-br"
     },
     {
@@ -37866,7 +37875,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Teste e Implementação de Website Sobre esta atividade de aprendizado Feature Films Deployment Software 1 a 3 horas Intermediário",
+      "title": "Teste e Implementação de Website Sobre esta atividade de aprendizado Deployment Software Version Control 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058941?lang=pt-br"
     },
     {
@@ -37875,7 +37884,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Dando Sentido aos Dados Selecione Ir para atividade para abrir o conteúdo! Data Storytelling Work Ethic 1 a 3 horas Fundamental",
+      "title": "Dando Sentido aos Dados Selecione Ir para atividade para abrir o conteúdo! Decision Making Critical Thinking 1 a 3 horas Fundamental",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4065068?lang=pt-br"
     },
     {
@@ -38145,7 +38154,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Dando Vida a Websites com JavaScript Sobre esta atividade de aprendizado HyperText Markup Language HTML JavaScript 1 a 3 horas Intermediário",
+      "title": "Dando Vida a Websites com JavaScript Sobre esta atividade de aprendizado HTML Python 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058940?lang=pt-br"
     },
     {
@@ -38559,7 +38568,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma Página da Web de Lista de Tarefas Interativa Sobre esta atividade de aprendizado Web Application Security Testing HyperText Markup Language HTML 1 a 3 horas Inter...",
+      "title": "Desenvolva uma Página da Web de Lista de Tarefas Interativa Sobre esta atividade de aprendizado HTML Cascading Style Sheets CSS 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058942?lang=pt-br"
     },
     {
@@ -38649,7 +38658,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolvendo Sites para a Web Sobre esta atividade de aprendizado Software Development Life Cycle HyperText Markup Language HTML 1 a 3 horas Intermediário",
+      "title": "Desenvolvendo Sites para a Web Sobre esta atividade de aprendizado Software Development Life Cycle Scrum Software Development 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058938?lang=pt-br"
     },
     {
@@ -38964,7 +38973,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Data Optimization Google Colaboratory 3 a 10 horas Avançado",
+      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Search Engine Algorithms Image Annotation 3 a 10 horas Avançado",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3947353?ngo-id=0302&lang=pt-br"
     },
     {
@@ -39198,7 +39207,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Solução de problemas e pensamento crítico Grandes profissionais não apenas reagem aos problemas; eles os resolvem com clareza e criatividade. Decision Making Problem Solving 1 a...",
+      "title": "Solução de problemas e pensamento crítico Grandes profissionais não apenas reagem aos problemas; eles os resolvem com clareza e criatividade. Critical Thinking Decision Making 1...",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3953916?lang=pt-br"
     },
     {
@@ -39216,7 +39225,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Comunicação interpessoal e no ambiente de trabalho Comunicação clara e respeitosa é essencial para construir relacionamentos e lidar com ambientes de trabalho complexos. Conflic...",
+      "title": "Comunicação interpessoal e no ambiente de trabalho Comunicação clara e respeitosa é essencial para construir relacionamentos e lidar com ambientes de trabalho complexos. Interpe...",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3953914?lang=pt-br"
     },
     {
@@ -39884,6 +39893,303 @@
       "source": "https://learn.microsoft.com/pt-br/training/browse/",
       "title": "Gerenciar prompts para agentes no Microsoft Foundry utilizando o GitHub",
       "url": "https://learn.microsoft.com/pt-br/training/modules/prompt-versioning-genaiops"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Introdução à infraestrutura de nuvem: descrever a arquitetura e os serviços do Azure",
+      "url": "https://learn.microsoft.com/pt-br/training/paths/azure-fundamentals-describe-azure-architecture-services"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Criar relatórios interativos usando o Copilot para Power BI",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/power-bi-copilot"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Rascunho, análise e apresentação com o Microsoft Copilot",
+      "url": "https://learn.microsoft.com/pt-br/training/paths/draft-analyze-present-microsoft-365-copilot"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Conceitos básicos do GitHub Copilot parte 1 de 2",
+      "url": "https://learn.microsoft.com/pt-br/training/paths/copilot"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Desenvolver habilidades fundamentais de IA generativa",
+      "url": "https://learn.microsoft.com/pt-br/training/paths/explore-microsoft-365-copilot-business-chat"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Conceitos básicos do GitHub Copilot parte 2 de 2",
+      "url": "https://learn.microsoft.com/pt-br/training/paths/gh-copilot-2"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Obter dados no Power BI",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/get-data"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Otimize os processos de negócios com o Microsoft Copilot",
+      "url": "https://learn.microsoft.com/pt-br/training/paths/optimize-business-processes-with-ai"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Realizar análise no Power BI",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/perform-analytics-power-bi"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Aprimore os fluxos de trabalho de negócios com IA",
+      "url": "https://learn.microsoft.com/pt-br/training/paths/transform-business-workflows-with-ai"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Escrever fórmulas DAX para modelos semânticos",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/dax-power-bi-write-formulas"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Criar avaliações autenticadas com o Microsoft Forms",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/create-authentic-assessments-microsoft-forms"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Configurar um modelo semântico",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/configure-semantic-model-power-bi"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Introdução às soluções de segurança da Microsoft",
+      "url": "https://learn.microsoft.com/pt-br/training/paths/describe-capabilities-of-microsoft-security-solutions"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Capacite sua equipe com o Microsoft Copilot",
+      "url": "https://learn.microsoft.com/pt-br/training/paths/empower-workforce-copilot-use-cases"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Modelar dados com o Power BI",
+      "url": "https://learn.microsoft.com/pt-br/training/paths/model-data-power-bi"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Aumente o valor comercial com soluções de IA",
+      "url": "https://learn.microsoft.com/pt-br/training/paths/drive-value-generative-ai-solutions"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Comece a usar o Microsoft Fabric",
+      "url": "https://learn.microsoft.com/pt-br/training/paths/get-started-fabric"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Consultar e modificar dados com Transact-SQL",
+      "url": "https://learn.microsoft.com/pt-br/training/paths/get-started-querying-with-transact-sql"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Implementar uma solução de ciência de dados e aprendizado de máquina para IA no Microsoft Fabric",
+      "url": "https://learn.microsoft.com/pt-br/training/paths/implement-data-science-machine-learning-fabric"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Trabalhar de forma mais inteligente com o Copilot no Microsoft Fabric",
+      "url": "https://learn.microsoft.com/pt-br/training/paths/work-smarter-with-copilot-in-microsoft-fabric"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Introdução aos modelos de IA Microsoft",
+      "url": "https://learn.microsoft.com/pt-br/training/paths/microsoft-ai"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Introdução às MLOps (Operações de Machine Learning)",
+      "url": "https://learn.microsoft.com/pt-br/training/paths/introduction-machine-learn-operations"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Monitorar cargas de trabalho de IA no Azure",
+      "url": "https://learn.microsoft.com/pt-br/training/paths/monitor-ai-workloads-on-azure"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Implementar a engenharia de IA Generativa com o Azure Databricks",
+      "url": "https://learn.microsoft.com/pt-br/training/paths/implement-generative-ai-engineering-azure-databricks"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Gravar consultas avançadas do Transact-SQL",
+      "url": "https://learn.microsoft.com/pt-br/training/paths/write-advanced-transact-sql-queries"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Conceitos básicos do TensorFlow",
+      "url": "https://learn.microsoft.com/pt-br/training/paths/tensorflow-fundamentals"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Introdução ao Copilot no Microsoft Fabric",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/introduction-to-copilot-fabric"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Executar o pré-processamento de dados com Data Wrangler no Microsoft Fabric",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/preprocess-data-with-data-wrangler-microsoft-fabric"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Entender a arquitetura do Transformador e explorar modelos de linguagem grandes no Azure Machine Learning",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/explore-foundation-models-in-model-catalog"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Executar scripts de treinamento e acompanhar modelos com o MLflow no Azure Machine Learning",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/run-training-scripts-track-models-mlflow"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Execução de pipelines no Azure Machine Learning",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/run-pipelines-azure-machine-learning"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Controle do código-fonte para projetos de machine learning",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/source-control-for-machine-learning-projects"
     },
     {
       "category": "Gestão de pessoas",
@@ -46972,21 +47278,21 @@
   "coverage": {
     "Aprenda Mais MEC": "154 cursos encontrados; 402 mantidos no catálogo.",
     "Cruzeiro do Sul Virtual": "14 cursos encontrados; 14 mantidos no catálogo. Fonte reportou 14.",
-    "Escola Virtual": "61 cursos encontrados; 61 mantidos no catálogo.",
+    "Escola Virtual": "12 cursos encontrados; 61 mantidos no catálogo.",
     "FGV": "227 cursos encontrados; 229 mantidos no catálogo.",
     "Harvard": "129 cursos encontrados; 136 mantidos no catálogo.",
     "Santander Open Academy": "141 cursos encontrados; 287 mantidos no catálogo.",
     "Nação Fluente": "1 cursos mantidos no catálogo.",
-    "Senar EAD": "119 cursos encontrados; 255 mantidos no catálogo. Fonte reportou 254.",
+    "Senar EAD": "63 cursos encontrados; 255 mantidos no catálogo. Fonte reportou 254.",
     "Sebrae Paraíba": "49 cursos encontrados; 61 mantidos no catálogo.",
     "UEMP": "15 cursos encontrados; 19 mantidos no catálogo.",
     "MEC Idiomas": "1 cursos mantidos no catálogo.",
     "HCX FMUSP": "12 cursos encontrados; 21 mantidos no catálogo.",
     "Prime Cursos": "533 cursos encontrados; 533 mantidos no catálogo.",
     "Senac EAD": "54 cursos encontrados; 103 mantidos no catálogo.",
-    "Coursera": "85 cursos encontrados; 162 mantidos no catálogo.",
+    "Coursera": "75 cursos encontrados; 162 mantidos no catálogo.",
     "Udemy": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
-    "Fundação Itaú Autoformativos": "168 cursos encontrados; 336 mantidos no catálogo.",
+    "Fundação Itaú Autoformativos": "169 cursos encontrados; 337 mantidos no catálogo.",
     "Fundação Itaú Mediados": "21 cursos encontrados; 42 mantidos no catálogo.",
     "Ensino Einstein": "64 cursos encontrados; 94 mantidos no catálogo.",
     "LÚMINA UFRGS": "120 cursos encontrados; 120 mantidos no catálogo.",
@@ -46995,7 +47301,7 @@
     "Khan Academy": "26 cursos encontrados; 26 mantidos no catálogo.",
     "Escola Virtual Gov": "1056 cursos encontrados; 1059 mantidos no catálogo. Fonte reportou 1056.",
     "IBM SkillsBuild": "222 cursos encontrados; 223 mantidos no catálogo.",
-    "Microsoft Learn": "55 cursos encontrados; 72 mantidos no catálogo.",
+    "Microsoft Learn": "47 cursos encontrados; 105 mantidos no catálogo.",
     "Escola de Pessoas": "89 cursos encontrados; 114 mantidos no catálogo.",
     "Cisco CiberEducação": "1 cursos encontrados; 1 mantidos no catálogo.",
     "PUCRS Online": "44 cursos encontrados; 44 mantidos no catálogo.",
@@ -47009,7 +47315,7 @@
     "UNA-SUS": "34 cursos encontrados; 34 mantidos no catálogo.",
     "ENAP": "920 cursos encontrados; 954 mantidos no catálogo. Fonte reportou 920."
   },
-  "generatedAt": "2026-10-20",
+  "generatedAt": "2026-10-21",
   "note": "Snapshot inicial construído a partir dos catálogos oficiais; cada cartão aponta para a página original do curso.",
   "sources": [
     {
