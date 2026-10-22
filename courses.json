@@ -17313,6 +17313,24 @@
       "url": "https://www.primecursos.com.br/portal-imobiliario-do-zero-com-vibe-coding-e-ia"
     },
     {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso gratuito localizado no catálogo da Prime Cursos.",
+      "portal": "Prime Cursos",
+      "source": "https://www.primecursos.com.br/",
+      "title": "Curso de NR 18 Básico - Segurança no Trabalho a Quente Teórico",
+      "url": "https://www.primecursos.com.br/nr-18-basico-seguranca-no-trabalho-a-quente-teorico"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso gratuito localizado no catálogo da Prime Cursos.",
+      "portal": "Prime Cursos",
+      "source": "https://www.primecursos.com.br/",
+      "title": "Curso de NR 38 Básico- Limpeza Urbana e Manejo de Resíduos Sólidos",
+      "url": "https://www.primecursos.com.br/nr-38-basico-limpeza-urbana-e-manejo-de-residuos-solidos"
+    },
+    {
       "category": "Administração",
       "cert": "free",
       "description": "Curso técnico do Programa Senac de Gratuidade.",
@@ -37461,7 +37479,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Seu Futuro no Desenvolvimento Web: O Panorama de Emprego Sobre esta atividade de aprendizado Career Decision Making Job Analysis 1 a 3 horas Intermediário",
+      "title": "Seu Futuro no Desenvolvimento Web: O Panorama de Emprego Sobre esta atividade de aprendizado Leadership Career Decision Making 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058943?lang=pt-br"
     },
     {
@@ -37596,7 +37614,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Fundamentos do Desenvolvimento Web Sobre esta atividade de aprendizado Front End Software Engineering Programming Language 1 a 3 horas Intermediário",
+      "title": "Fundamentos do Desenvolvimento Web Sobre esta atividade de aprendizado Web Development Programming Language 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058937?lang=pt-br"
     },
     {
@@ -37659,7 +37677,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Introdução ao HTML e CSS Sobre esta atividade de aprendizado HTML Cascading Style Sheets CSS 1 a 3 horas Intermediário",
+      "title": "Introdução ao HTML e CSS Sobre esta atividade de aprendizado Workflow Management HTML 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058939?lang=pt-br"
     },
     {
@@ -37686,7 +37704,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Explorando os aspectos básicos do gerenciamento de projeto Bem-vindo ao mundo do gerenciamento de projeto: o que é, como funciona e por que é importante! Application Frameworks...",
+      "title": "Explorando os aspectos básicos do gerenciamento de projeto Bem-vindo ao mundo do gerenciamento de projeto: o que é, como funciona e por que é importante! Stakeholder Analysis Ap...",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3826383?lang=pt-br"
     },
     {
@@ -37776,7 +37794,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Search Engine Algorithms Image Annotation 3 a 10 horas Avançado",
+      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Text Annotation Data Optimization 3 a 10 horas Avançado",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3947353?lang=pt-br"
     },
     {
@@ -37875,7 +37893,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Teste e Implementação de Website Sobre esta atividade de aprendizado Deployment Software Version Control 1 a 3 horas Intermediário",
+      "title": "Teste e Implementação de Website Sobre esta atividade de aprendizado Deployment Software Feature Films 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058941?lang=pt-br"
     },
     {
@@ -37884,7 +37902,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Dando Sentido aos Dados Selecione Ir para atividade para abrir o conteúdo! Decision Making Critical Thinking 1 a 3 horas Fundamental",
+      "title": "Dando Sentido aos Dados Selecione Ir para atividade para abrir o conteúdo! Data Interpretation Data Management 1 a 3 horas Fundamental",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4065068?lang=pt-br"
     },
     {
@@ -38154,7 +38172,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Dando Vida a Websites com JavaScript Sobre esta atividade de aprendizado HTML Python 1 a 3 horas Intermediário",
+      "title": "Dando Vida a Websites com JavaScript Sobre esta atividade de aprendizado Written Communication Python 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058940?lang=pt-br"
     },
     {
@@ -38568,7 +38586,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma Página da Web de Lista de Tarefas Interativa Sobre esta atividade de aprendizado HTML Cascading Style Sheets CSS 1 a 3 horas Intermediário",
+      "title": "Desenvolva uma Página da Web de Lista de Tarefas Interativa Sobre esta atividade de aprendizado JavaScript Programming Language CSS Design 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058942?lang=pt-br"
     },
     {
@@ -38658,7 +38676,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolvendo Sites para a Web Sobre esta atividade de aprendizado Software Development Life Cycle Scrum Software Development 1 a 3 horas Intermediário",
+      "title": "Desenvolvendo Sites para a Web Sobre esta atividade de aprendizado Agile Methodology CSS 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058938?lang=pt-br"
     },
     {
@@ -38973,7 +38991,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Search Engine Algorithms Image Annotation 3 a 10 horas Avançado",
+      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Text Annotation Data Optimization 3 a 10 horas Avançado",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3947353?ngo-id=0302&lang=pt-br"
     },
     {
@@ -39225,7 +39243,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Comunicação interpessoal e no ambiente de trabalho Comunicação clara e respeitosa é essencial para construir relacionamentos e lidar com ambientes de trabalho complexos. Interpe...",
+      "title": "Comunicação interpessoal e no ambiente de trabalho Comunicação clara e respeitosa é essencial para construir relacionamentos e lidar com ambientes de trabalho complexos. Active...",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3953914?lang=pt-br"
     },
     {
@@ -40190,6 +40208,159 @@
       "source": "https://learn.microsoft.com/pt-br/training/browse/",
       "title": "Controle do código-fonte para projetos de machine learning",
       "url": "https://learn.microsoft.com/pt-br/training/modules/source-control-for-machine-learning-projects"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Introdução à engenharia de prompts com o GitHub Copilot",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/introduction-prompt-engineering-with-github-copilot"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Introdução aos conceitos de geração aumentada por recuperação",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/rag-fundamentals"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Descrever os recursos e as ferramentas de governança e conformidade no Azure",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/describe-features-tools-azure-for-governance-compliance"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Descrever recursos e ferramentas para gerenciar e implantar recursos do Azure",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/describe-features-tools-manage-deploy-azure-resources"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Explorar a IA Responsável",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/responsible-ai"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Introdução à fala no Azure",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/get-started-speech-azure"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Introdução aos Espaços do Copilot",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/introduction-copilot-spaces"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Usar o GitHub Copilot com o Python",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/introduction-copilot-python"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Aumentar a produtividade com o Microsoft Copilot",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/boost-productivity-with-copilot"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Introdução aos conceitos de segurança, conformidade e identidade",
+      "url": "https://learn.microsoft.com/pt-br/training/paths/describe-concepts-of-security-compliance-identity"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Introdução ao desenvolvimento do agente de IA no Azure",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/ai-agent-fundamentals"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Classificar e filtrar resultados no T-SQL.",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/sort-filter-queries"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Combinar várias tabelas com JOINs no T-SQL",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/query-multiple-tables-with-joins"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Experimente com o Azure Machine Learning",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/experiment-azure-machine-learning"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Executar o ajuste dos hiperparâmetros com o Azure Machine Learning",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/perform-hyperparameter-tuning-azure-machine-learning-pipelines"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Usar o MLflow no Azure Databricks",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/mlflow-azure-databricks"
+    },
+    {
+      "category": "Tecnologia",
+      "cert": "maybe",
+      "description": "Módulo ou roteiro gratuito do Microsoft Learn em português.",
+      "portal": "Microsoft Learn",
+      "source": "https://learn.microsoft.com/pt-br/training/browse/",
+      "title": "Ajustar hiperparâmetros no Azure Databricks",
+      "url": "https://learn.microsoft.com/pt-br/training/modules/hyperparameters-azure-databricks"
     },
     {
       "category": "Gestão de pessoas",
@@ -47280,28 +47451,28 @@
     "Cruzeiro do Sul Virtual": "14 cursos encontrados; 14 mantidos no catálogo. Fonte reportou 14.",
     "Escola Virtual": "12 cursos encontrados; 61 mantidos no catálogo.",
     "FGV": "227 cursos encontrados; 229 mantidos no catálogo.",
-    "Harvard": "129 cursos encontrados; 136 mantidos no catálogo.",
+    "Harvard": "128 cursos encontrados; 136 mantidos no catálogo.",
     "Santander Open Academy": "141 cursos encontrados; 287 mantidos no catálogo.",
     "Nação Fluente": "1 cursos mantidos no catálogo.",
-    "Senar EAD": "63 cursos encontrados; 255 mantidos no catálogo. Fonte reportou 254.",
+    "Senar EAD": "16 cursos encontrados; 255 mantidos no catálogo. Fonte reportou 254.",
     "Sebrae Paraíba": "49 cursos encontrados; 61 mantidos no catálogo.",
     "UEMP": "15 cursos encontrados; 19 mantidos no catálogo.",
     "MEC Idiomas": "1 cursos mantidos no catálogo.",
     "HCX FMUSP": "12 cursos encontrados; 21 mantidos no catálogo.",
-    "Prime Cursos": "533 cursos encontrados; 533 mantidos no catálogo.",
+    "Prime Cursos": "535 cursos encontrados; 535 mantidos no catálogo.",
     "Senac EAD": "54 cursos encontrados; 103 mantidos no catálogo.",
-    "Coursera": "75 cursos encontrados; 162 mantidos no catálogo.",
+    "Coursera": "74 cursos encontrados; 162 mantidos no catálogo.",
     "Udemy": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
     "Fundação Itaú Autoformativos": "169 cursos encontrados; 337 mantidos no catálogo.",
     "Fundação Itaú Mediados": "21 cursos encontrados; 42 mantidos no catálogo.",
-    "Ensino Einstein": "64 cursos encontrados; 94 mantidos no catálogo.",
+    "Ensino Einstein": "65 cursos encontrados; 94 mantidos no catálogo.",
     "LÚMINA UFRGS": "120 cursos encontrados; 120 mantidos no catálogo.",
     "e-Aulas USP": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
     "Life Global": "12 cursos encontrados; 12 mantidos no catálogo.",
     "Khan Academy": "26 cursos encontrados; 26 mantidos no catálogo.",
-    "Escola Virtual Gov": "1056 cursos encontrados; 1059 mantidos no catálogo. Fonte reportou 1056.",
+    "Escola Virtual Gov": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
     "IBM SkillsBuild": "222 cursos encontrados; 223 mantidos no catálogo.",
-    "Microsoft Learn": "47 cursos encontrados; 105 mantidos no catálogo.",
+    "Microsoft Learn": "52 cursos encontrados; 122 mantidos no catálogo.",
     "Escola de Pessoas": "89 cursos encontrados; 114 mantidos no catálogo.",
     "Cisco CiberEducação": "1 cursos encontrados; 1 mantidos no catálogo.",
     "PUCRS Online": "44 cursos encontrados; 44 mantidos no catálogo.",
@@ -47313,9 +47484,9 @@
     "RD Station University": "45 cursos encontrados; 45 mantidos no catálogo.",
     "Eu Capacito": "273 cursos encontrados; 273 mantidos no catálogo.",
     "UNA-SUS": "34 cursos encontrados; 34 mantidos no catálogo.",
-    "ENAP": "920 cursos encontrados; 954 mantidos no catálogo. Fonte reportou 920."
+    "ENAP": "919 cursos encontrados; 954 mantidos no catálogo. Fonte reportou 919."
   },
-  "generatedAt": "2026-10-21",
+  "generatedAt": "2026-10-22",
   "note": "Snapshot inicial construído a partir dos catálogos oficiais; cada cartão aponta para a página original do curso.",
   "sources": [
     {
