@@ -12327,6 +12327,15 @@
       "url": "https://aprendamais.mec.gov.br/course/info.php?id=3732"
     },
     {
+      "category": "Cursos gratuitos",
+      "cert": "free",
+      "description": "Curso gratuito da plataforma Aprenda Mais MEC.",
+      "portal": "Aprenda Mais MEC",
+      "source": "https://aprendamais.mec.gov.br/course/index.php",
+      "title": "Summary",
+      "url": "https://aprendamais.mec.gov.br/course/info.php?id=1661"
+    },
+    {
       "category": "Saúde",
       "cert": "check",
       "description": "Formação sobre práticas corretas de transporte de pacientes.",
@@ -17331,6 +17340,24 @@
       "url": "https://www.primecursos.com.br/nr-38-basico-limpeza-urbana-e-manejo-de-residuos-solidos"
     },
     {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso gratuito localizado no catálogo da Prime Cursos.",
+      "portal": "Prime Cursos",
+      "source": "https://www.primecursos.com.br/",
+      "title": "Curso de NR 11 Básico - Segurança nas Operações com Rebocador Elétrico",
+      "url": "https://www.primecursos.com.br/nr-11-basico-seguranca-nas-operacoes-com-rebocador-eletrico"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso gratuito localizado no catálogo da Prime Cursos.",
+      "portal": "Prime Cursos",
+      "source": "https://www.primecursos.com.br/",
+      "title": "Curso de NR 34.5 – Segurança Para Trabalhos a Quente (Módulo Geral E Específico) - Teórico",
+      "url": "https://www.primecursos.com.br/nr-34-5-seguranca-para-trabalhos-a-quente-modulo-geral-e-especifico-teorico"
+    },
+    {
       "category": "Administração",
       "cert": "free",
       "description": "Curso técnico do Programa Senac de Gratuidade.",
@@ -18256,6 +18283,51 @@
       "source": "https://www.ead.senac.br/gratuito/",
       "title": "Segurança do Paciente e Gerenciamento de Riscos - PSG",
       "url": "https://www.ead.senac.br/gratuito/seguranca-do-paciente-e-gerenciamento-de-riscos-psg"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "free",
+      "description": "Curso gratuito do Senac EAD.",
+      "portal": "Senac EAD",
+      "source": "https://www.ead.senac.br/gratuito/",
+      "title": "Técnico em Guia de Turismo EAD PSG - EXCLUSIVO MARANHÃO",
+      "url": "https://www.ead.senac.br/gratuito/tecnico-em-guia-de-turismo-ead-psg-exclusivo-maranhao"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "free",
+      "description": "Curso gratuito do Senac EAD.",
+      "portal": "Senac EAD",
+      "source": "https://www.ead.senac.br/gratuito/",
+      "title": "Técnico em Logística EAD PSG",
+      "url": "https://www.ead.senac.br/gratuito/tecnico-em-logistica-ead-psg"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "free",
+      "description": "Curso gratuito do Senac EAD.",
+      "portal": "Senac EAD",
+      "source": "https://www.ead.senac.br/gratuito/",
+      "title": "Técnico em Marketing PSG",
+      "url": "https://www.ead.senac.br/gratuito/tecnico-em-marketing-psg"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "free",
+      "description": "Curso gratuito do Senac EAD.",
+      "portal": "Senac EAD",
+      "source": "https://www.ead.senac.br/gratuito/",
+      "title": "Técnico em Meio Ambiente EAD PSG",
+      "url": "https://www.ead.senac.br/gratuito/tecnico-em-meio-ambiente-ead-psg"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "free",
+      "description": "Curso gratuito do Senac EAD.",
+      "portal": "Senac EAD",
+      "source": "https://www.ead.senac.br/gratuito/",
+      "title": "Técnico em Óptica EAD PSG - EXCLUSIVO MARANHÃO",
+      "url": "https://www.ead.senac.br/gratuito/tecnico-em-optica-ead-psg-exclusivo-maranhao"
     },
     {
       "category": "Carreira",
@@ -21893,6 +21965,15 @@
       "source": "https://pll.harvard.edu/catalog?price%5B1%5D=1&max_price=&start_date=&keywords=&url=",
       "title": "Webinar with Award-winning Actress and PLC Alumna, Uzo Aduba",
       "url": "https://pll.harvard.edu/course/webinar-award-winning-actress-and-plc-alumna-uzo-aduba"
+    },
+    {
+      "category": "Cursos gratuitos",
+      "cert": "maybe",
+      "description": "Curso listado no catálogo gratuito da Harvard.",
+      "portal": "Harvard",
+      "source": "https://pll.harvard.edu/catalog?price%5B1%5D=1&max_price=&start_date=&keywords=&url=",
+      "title": "Reducing Racial Disparities in Health Care",
+      "url": "https://pll.harvard.edu/course/reducing-racial-disparities-health-care-0"
     },
     {
       "category": "Arte, cultura e educação",
@@ -37479,7 +37560,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Seu Futuro no Desenvolvimento Web: O Panorama de Emprego Sobre esta atividade de aprendizado Leadership Career Decision Making 1 a 3 horas Intermediário",
+      "title": "Seu Futuro no Desenvolvimento Web: O Panorama de Emprego Sobre esta atividade de aprendizado Teamwork Career Decision Making 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058943?lang=pt-br"
     },
     {
@@ -37614,7 +37695,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Fundamentos do Desenvolvimento Web Sobre esta atividade de aprendizado Web Development Programming Language 1 a 3 horas Intermediário",
+      "title": "Fundamentos do Desenvolvimento Web Sobre esta atividade de aprendizado Programming Language Machine Operation 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058937?lang=pt-br"
     },
     {
@@ -37677,7 +37758,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Introdução ao HTML e CSS Sobre esta atividade de aprendizado Workflow Management HTML 1 a 3 horas Intermediário",
+      "title": "Introdução ao HTML e CSS Sobre esta atividade de aprendizado Information Management Cascading Style Sheets CSS 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058939?lang=pt-br"
     },
     {
@@ -37704,7 +37785,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Explorando os aspectos básicos do gerenciamento de projeto Bem-vindo ao mundo do gerenciamento de projeto: o que é, como funciona e por que é importante! Stakeholder Analysis Ap...",
+      "title": "Explorando os aspectos básicos do gerenciamento de projeto Bem-vindo ao mundo do gerenciamento de projeto: o que é, como funciona e por que é importante! Project Management Stak...",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3826383?lang=pt-br"
     },
     {
@@ -37794,7 +37875,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Text Annotation Data Optimization 3 a 10 horas Avançado",
+      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Search Engine Algorithms Text Annotation 3 a 10 horas Avançado",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3947353?lang=pt-br"
     },
     {
@@ -37893,7 +37974,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Teste e Implementação de Website Sobre esta atividade de aprendizado Deployment Software Feature Films 1 a 3 horas Intermediário",
+      "title": "Teste e Implementação de Website Sobre esta atividade de aprendizado Deployment Software DevOps 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058941?lang=pt-br"
     },
     {
@@ -37902,7 +37983,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Dando Sentido aos Dados Selecione Ir para atividade para abrir o conteúdo! Data Interpretation Data Management 1 a 3 horas Fundamental",
+      "title": "Dando Sentido aos Dados Selecione Ir para atividade para abrir o conteúdo! Work Ethic Decision Making 1 a 3 horas Fundamental",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4065068?lang=pt-br"
     },
     {
@@ -38172,7 +38253,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Dando Vida a Websites com JavaScript Sobre esta atividade de aprendizado Written Communication Python 1 a 3 horas Intermediário",
+      "title": "Dando Vida a Websites com JavaScript Sobre esta atividade de aprendizado Python Cascading Style Sheets CSS 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058940?lang=pt-br"
     },
     {
@@ -38586,7 +38667,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma Página da Web de Lista de Tarefas Interativa Sobre esta atividade de aprendizado JavaScript Programming Language CSS Design 1 a 3 horas Intermediário",
+      "title": "Desenvolva uma Página da Web de Lista de Tarefas Interativa Sobre esta atividade de aprendizado Cascading Style Sheets CSS JavaScript 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058942?lang=pt-br"
     },
     {
@@ -38676,7 +38757,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolvendo Sites para a Web Sobre esta atividade de aprendizado Agile Methodology CSS 1 a 3 horas Intermediário",
+      "title": "Desenvolvendo Sites para a Web Sobre esta atividade de aprendizado Software Development Life Cycle HTML5 1 a 3 horas Intermediário",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_4058938?lang=pt-br"
     },
     {
@@ -38991,7 +39072,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Text Annotation Data Optimization 3 a 10 horas Avançado",
+      "title": "Desenvolva uma IA mais inteligente com embeddings Desenvolva uma IA mais inteligente com embeddings Search Engine Algorithms Text Annotation 3 a 10 horas Avançado",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3947353?ngo-id=0302&lang=pt-br"
     },
     {
@@ -39225,7 +39306,7 @@
       "description": "Curso ou atividade gratuita do catálogo IBM SkillsBuild em português.",
       "portal": "IBM SkillsBuild",
       "source": "https://skillsbuild.org/pt-br/learning-catalog?languages=pt-br",
-      "title": "Solução de problemas e pensamento crítico Grandes profissionais não apenas reagem aos problemas; eles os resolvem com clareza e criatividade. Critical Thinking Decision Making 1...",
+      "title": "Solução de problemas e pensamento crítico Grandes profissionais não apenas reagem aos problemas; eles os resolvem com clareza e criatividade. Problem Solving Creativity 1 a 3 ho...",
       "url": "https://skills.yourlearning.ibm.com/activity/ALM-COURSE_3953916?lang=pt-br"
     },
     {
@@ -47447,32 +47528,32 @@
     }
   ],
   "coverage": {
-    "Aprenda Mais MEC": "154 cursos encontrados; 402 mantidos no catálogo.",
+    "Aprenda Mais MEC": "155 cursos encontrados; 403 mantidos no catálogo.",
     "Cruzeiro do Sul Virtual": "14 cursos encontrados; 14 mantidos no catálogo. Fonte reportou 14.",
-    "Escola Virtual": "12 cursos encontrados; 61 mantidos no catálogo.",
+    "Escola Virtual": "61 cursos encontrados; 61 mantidos no catálogo.",
     "FGV": "227 cursos encontrados; 229 mantidos no catálogo.",
-    "Harvard": "128 cursos encontrados; 136 mantidos no catálogo.",
+    "Harvard": "128 cursos encontrados; 137 mantidos no catálogo.",
     "Santander Open Academy": "141 cursos encontrados; 287 mantidos no catálogo.",
     "Nação Fluente": "1 cursos mantidos no catálogo.",
-    "Senar EAD": "16 cursos encontrados; 255 mantidos no catálogo. Fonte reportou 254.",
+    "Senar EAD": "40 cursos encontrados; 255 mantidos no catálogo. Fonte reportou 254.",
     "Sebrae Paraíba": "49 cursos encontrados; 61 mantidos no catálogo.",
     "UEMP": "15 cursos encontrados; 19 mantidos no catálogo.",
     "MEC Idiomas": "1 cursos mantidos no catálogo.",
     "HCX FMUSP": "12 cursos encontrados; 21 mantidos no catálogo.",
-    "Prime Cursos": "535 cursos encontrados; 535 mantidos no catálogo.",
-    "Senac EAD": "54 cursos encontrados; 103 mantidos no catálogo.",
-    "Coursera": "74 cursos encontrados; 162 mantidos no catálogo.",
+    "Prime Cursos": "537 cursos encontrados; 537 mantidos no catálogo.",
+    "Senac EAD": "64 cursos encontrados; 108 mantidos no catálogo.",
+    "Coursera": "77 cursos encontrados; 162 mantidos no catálogo.",
     "Udemy": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
     "Fundação Itaú Autoformativos": "169 cursos encontrados; 337 mantidos no catálogo.",
     "Fundação Itaú Mediados": "21 cursos encontrados; 42 mantidos no catálogo.",
-    "Ensino Einstein": "65 cursos encontrados; 94 mantidos no catálogo.",
+    "Ensino Einstein": "64 cursos encontrados; 94 mantidos no catálogo.",
     "LÚMINA UFRGS": "120 cursos encontrados; 120 mantidos no catálogo.",
     "e-Aulas USP": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
     "Life Global": "12 cursos encontrados; 12 mantidos no catálogo.",
     "Khan Academy": "26 cursos encontrados; 26 mantidos no catálogo.",
     "Escola Virtual Gov": "Atualização bloqueada por cobertura incompleta; catálogo anterior preservado.",
     "IBM SkillsBuild": "222 cursos encontrados; 223 mantidos no catálogo.",
-    "Microsoft Learn": "52 cursos encontrados; 122 mantidos no catálogo.",
+    "Microsoft Learn": "56 cursos encontrados; 122 mantidos no catálogo.",
     "Escola de Pessoas": "89 cursos encontrados; 114 mantidos no catálogo.",
     "Cisco CiberEducação": "1 cursos encontrados; 1 mantidos no catálogo.",
     "PUCRS Online": "44 cursos encontrados; 44 mantidos no catálogo.",
@@ -47484,9 +47565,9 @@
     "RD Station University": "45 cursos encontrados; 45 mantidos no catálogo.",
     "Eu Capacito": "273 cursos encontrados; 273 mantidos no catálogo.",
     "UNA-SUS": "34 cursos encontrados; 34 mantidos no catálogo.",
-    "ENAP": "919 cursos encontrados; 954 mantidos no catálogo. Fonte reportou 919."
+    "ENAP": "918 cursos encontrados; 954 mantidos no catálogo. Fonte reportou 918."
   },
-  "generatedAt": "2026-10-22",
+  "generatedAt": "2026-10-23",
   "note": "Snapshot inicial construído a partir dos catálogos oficiais; cada cartão aponta para a página original do curso.",
   "sources": [
     {
